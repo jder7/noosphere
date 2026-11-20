@@ -1,23 +1,15 @@
 'use strict';
 /* The catalog is generated from library.json and repository-owned editions. */
 const LIBRARY=window.NOOSPHERE_CATALOG;
+const STARTING_BOOK='knowledge-of-reality';
+const startingIndex=Math.max(0,LIBRARY.findIndex(book=>book.id===STARTING_BOOK));
 const $=s=>document.querySelector(s), $$=s=>Array.from(document.querySelectorAll(s));
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const n2=i=>String(i+1).padStart(2,'0');
-const state={scene:'archive',focus:0,book:0,lastWheel:0,touchY:null};
-const motifs={
-cross:'<path d="M63 48L57 20Q70 28 83 20L77 48L104 41Q96 57 104 73L77 66L83 115Q70 107 57 115L63 66L36 73Q44 57 36 41Z"/>',
-'seed-of-life':'<circle cx="70" cy="70" r="26"/>'+Array.from({length:6},(_,i)=>`<circle cx="70" cy="44" r="26" transform="rotate(${i*60} 70 70)"/>`).join(''),
-borromean:'<g stroke-linecap="round"><path d="M79.897 78.431A32 32 0 0 1 38.697 54.644M38.006 48.613A32 32 0 1 1 85.466 76.014"/><path d="M67.475 108.401A32 32 0 1 1 67.475 53.599M72.353 57.214A32 32 0 0 1 72.353 104.786"/><path d="M57.750 74.356A32 32 0 0 1 98.950 50.569M104.519 52.986A32 32 0 1 1 57.059 80.387"/></g>',
-vesica:'<circle cx="70" cy="44" r="39"/><circle cx="70" cy="96" r="39"/><circle cx="44" cy="70" r="39"/><circle cx="96" cy="70" r="39"/><circle cx="52" cy="52" r="39"/><circle cx="88" cy="52" r="39"/><circle cx="52" cy="88" r="39"/><circle cx="88" cy="88" r="39"/>',
-lotus:Array.from({length:12},(_,i)=>`<ellipse cx="70" cy="41" rx="13" ry="32" transform="rotate(${i*30} 70 70)"/>`).join('')+'<circle cx="70" cy="70" r="20"/>',
-wheel:'<circle cx="70" cy="70" r="51"/><circle cx="70" cy="70" r="18"/>'+Array.from({length:8},(_,i)=>`<path d="M70 20V120" transform="rotate(${i*22.5} 70 70)"/>`).join(''),
-star:'<path d="M70 12L128 70L70 128L12 70Z M29 29H111V111H29Z"/><circle cx="70" cy="70" r="34"/><circle cx="70" cy="70" r="23"/>',
-rings:'<circle cx="70" cy="70" r="50"/><circle cx="70" cy="37" r="33"/><circle cx="70" cy="103" r="33"/><path d="M70 10V130M10 70H130"/>',
-orbits:'<ellipse cx="70" cy="70" rx="57" ry="27" transform="rotate(45 70 70)"/><ellipse cx="70" cy="70" rx="57" ry="27" transform="rotate(-45 70 70)"/><ellipse cx="70" cy="70" rx="57" ry="27"/><circle cx="70" cy="70" r="17"/>',
-triad:'<path d="M70 15L118 106H22Z M70 125L22 34H118Z"/><circle cx="70" cy="70" r="37"/><circle cx="70" cy="70" r="21"/>'};
+const state={scene:'archive',focus:startingIndex,book:startingIndex,lastWheel:0,touchY:null};
+const motifs=window.NOOSPHERE_GLYPHS;
 function emblem(name){return `<svg viewBox="0 0 140 140" preserveAspectRatio="xMidYMid meet" fill="none" stroke="currentColor" stroke-width=".85" aria-hidden="true"><circle cx="70" cy="70" r="60" stroke-opacity=".39"/>${motifs[name]||motifs.vesica}${['cross','seed-of-life','borromean'].includes(name)?'':'<circle cx="70" cy="70" r="2.5" fill="currentColor"/>'}</svg>`}
-function crystalBook(b){return `<div class="crystal-book" style="--aura:${b.glow}"><div class="crystal-book-shell"><div class="book-top"></div><div class="spine"></div><div class="pages-edge"></div><div class="face"><span class="face-prism"></span><span class="face-top">THE LIVING SCRIPTORIUM</span><div class="face-art">${emblem(b.glyph)}</div><span class="face-rule"></span><span class="face-title">${esc(b.title)}</span><span class="face-native" lang="${b.lang}" dir="${b.dir}">${esc(b.original)}</span><span class="face-bottom">${esc(b.tradition)}</span></div></div></div>`}
+function crystalBook(b,readable=false){const faceTag=readable?'a':'div';return `<div class="crystal-book" style="--aura:${b.glow}"><div class="crystal-book-shell"><div class="book-top"></div><div class="spine"></div><div class="pages-edge"></div><${faceTag} class="face"${readable?` href="${esc(b.url)}" aria-label="Read ${esc(b.title)}"`:''}><span class="face-prism"></span><span class="face-top">${esc(b.author?.trim()||'Book of Wisdom')}</span><div class="face-art">${emblem(b.glyph)}</div><span class="face-rule"></span><span class="face-title">${esc(b.title)}</span><span class="face-native" lang="${b.lang}" dir="${b.dir}">${esc(b.original)}</span><span class="face-bottom">${esc(b.tradition)}</span></${faceTag}></div></div>`}
 function canopy(){
  const svg=$('#neuralCanopy');let paths=[],dots=[];
  // Neural tree: topological family of connected circles with a bilateral structure.
@@ -46,7 +38,7 @@ function initialiseArchive(){
  $('#archive').addEventListener('wheel',e=>{if(state.scene!=='archive'||Math.abs(e.deltaY)<5)return;e.preventDefault();const now=Date.now();if(now-state.lastWheel<420)return;state.lastWheel=now;setFocus(state.focus+(e.deltaY>0?1:-1))},{passive:false});
  $('#archive').addEventListener('touchstart',e=>{state.touchY=e.touches[0].clientY},{passive:true});
  $('#archive').addEventListener('touchend',e=>{if(state.scene!=='archive'||state.touchY===null)return;const d=state.touchY-e.changedTouches[0].clientY;if(Math.abs(d)>40)setFocus(state.focus+(d>0?1:-1));state.touchY=null},{passive:true});
- setFocus(0);
+ setFocus(startingIndex);
 }
 function setFocus(i){
  state.focus=(i+LIBRARY.length)%LIBRARY.length;
@@ -70,7 +62,7 @@ function setFocus(i){
 }
 function showScene(id){state.scene=id;document.body.dataset.scene=id;$$('.scene').forEach(el=>{const isCurrent=el.id===id;el.hidden=!isCurrent;el.classList.toggle('current',isCurrent)});}
 function exportLinks(b){return `<div class="format-links"><span>ENGLISH EDITION</span>${Object.entries(b.downloads).map(([ext,url])=>`<a href="${esc(url)}" download>${ext.toUpperCase()}</a>`).join('')}</div>`}
-function showDetail(i){state.book=i;const b=LIBRARY[i];$('#details').style.setProperty('--aura',b.glow);$('#detailCrown').innerHTML=emblem(b.glyph);$('#detailVolume').innerHTML=crystalBook(b);
+function showDetail(i){state.book=i;const b=LIBRARY[i];$('#details').style.setProperty('--aura',b.glow);$('#detailCrown').innerHTML=emblem(b.glyph);$('#detailVolume').innerHTML=crystalBook(b,true);
  const languages=b.editions.filter(ed=>!ed.variant).map(ed=>`<a href="${esc(ed.url)}" lang="en">${esc(({en:'English',ro:'Romanian',zh:'Chinese'})[ed.language]||ed.language)}</a>`).join('');
  const special=b.editions.filter(ed=>ed.variant).map(ed=>`<a href="${esc(ed.url)}">${esc(ed.label)} · ${esc(ed.language.toUpperCase())}</a>`).join('');
  $('#detailText').innerHTML=`<div class="detail-eyebrow">PRESERVED FORM / VOLUME ${n2(i)}</div><h1>${esc(b.title)}</h1><div class="detail-native" lang="${b.lang}" dir="${b.dir}">${esc(b.original)}</div><p class="detail-description">${esc(b.summary)}</p><div class="detail-facts"><span>${esc(b.author)}</span><span>${esc(b.tradition)}</span></div><a href="${esc(b.url)}" class="detail-open">READ BOOK</a>${exportLinks(b)}<div class="edition-links"><h2>Translations</h2>${languages}</div>${special?`<div class="edition-links"><h2>Special editions</h2>${special}</div>`:''}<div class="detail-toc-label">CONTENTS</div><div class="detail-toc">${b.chapters.map(ch=>`<a class="chapter-cell" href="${esc(b.url)}#${esc(ch.id)}"><span class="chapter-title">${esc(ch.title)}</span></a>`).join('')}</div>`;
@@ -82,6 +74,23 @@ $('#detailsReturn').addEventListener('click',backArchive);
 window.addEventListener('hashchange',restoreRoute);
 let resizeTimeout;window.addEventListener('resize',()=>{clearTimeout(resizeTimeout);resizeTimeout=setTimeout(()=>{if(state.scene==='archive')setFocus(state.focus);resizeParticles()},130)},{passive:true});
 document.addEventListener('keydown',e=>{if(e.ctrlKey||e.metaKey||e.altKey||['INPUT','SELECT','TEXTAREA'].includes(document.activeElement.tagName))return;if(e.key==='Escape'&&state.scene==='details'){backArchive();return}if(state.scene==='archive'){if(['ArrowDown','ArrowRight'].includes(e.key)){e.preventDefault();setFocus(state.focus+1)}if(['ArrowUp','ArrowLeft'].includes(e.key)){e.preventDefault();setFocus(state.focus-1)}}});
+/* Search opens the same volume routes as browsing the archive. */
+const searchForm=$('#bookSearchForm'),searchInput=$('#bookSearch'),searchResults=$('#bookSearchResults');
+const searchable=value=>String(value||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
+function matchingBooks(){const query=searchable(searchInput.value.trim());return query?LIBRARY.filter(b=>searchable([b.title,b.original,b.author].join(' ')).includes(query)):[];}
+function updateSearch(){
+ const query=searchInput.value.trim(),matches=matchingBooks();
+ searchResults.hidden=!query;
+ searchResults.innerHTML=matches.length?matches.map(b=>`<li><a href="#book/${esc(b.id)}" style="--aura:${b.glow}"><strong>${esc(b.title)}</strong><span>${esc(b.author||'Book of Wisdom')}</span></a></li>`).join(''):'<li class="search-empty">No books found.</li>';
+ $('#searchStatus').textContent=query?`${matches.length} ${matches.length===1?'book':'books'} found`:'';
+}
+searchInput.addEventListener('input',updateSearch);
+searchInput.addEventListener('focus',()=>{if(searchInput.value.trim())updateSearch();});
+searchInput.addEventListener('keydown',e=>{if(e.key==='Escape'){e.preventDefault();searchInput.value='';updateSearch();}else if(e.key==='ArrowDown'){e.preventDefault();searchResults.querySelector('a')?.focus();}});
+searchForm.addEventListener('submit',e=>{e.preventDefault();const first=matchingBooks()[0];if(first){searchResults.hidden=true;showDetail(LIBRARY.indexOf(first));}});
+searchResults.addEventListener('click',e=>{if(e.target.closest('a'))searchResults.hidden=true;});
+searchResults.addEventListener('keydown',e=>{if(e.key==='Escape'){searchResults.hidden=true;searchInput.focus();}});
+document.addEventListener('click',e=>{if(!searchForm.contains(e.target))searchResults.hidden=true;});
 /* A restrained dimensional particle field with no library dependency. */
 const canvas=$('#particles'),ctx=canvas.getContext('2d');let W=0,H=0,DPR=1,stars=[];const reduced=matchMedia('(prefers-reduced-motion:reduce)').matches;
 function rnd(i){const v=Math.sin(i*127.1+19.31)*43758.5453;return v-Math.floor(v)}

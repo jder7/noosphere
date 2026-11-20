@@ -29,3 +29,25 @@
 .book-reader .toc-divider{background:color-mix(in srgb,var(--aura) 65%,transparent)}
 .book-reader .toc-jump.is-current{color:var(--aura)}
 .book-reader .toc-tab{border-color:color-mix(in srgb,var(--aura) 55%,transparent)}
+
+/* Quiet edition colors within the manuscript, with neutral paragraph text. */
+.book-reader .reader-layout{z-index:2}
+.book-reader .book-text{border-color:color-mix(in srgb,var(--aura) 30%,transparent);background:radial-gradient(ellipse at 50% 0%,color-mix(in srgb,var(--aura) 5%,#13262e),#0a1b24 80%);box-shadow:inset 0 0 0 9px #08161f4d,inset 0 0 0 10px color-mix(in srgb,var(--aura) 14%,transparent),0 18px 80px #000c}
+.book-reader .book-text:before{border-color:color-mix(in srgb,var(--aura) 12%,transparent)}
+.book-reader .book-text:after{border-color:color-mix(in srgb,var(--aura) 25%,transparent);box-shadow:0 0 0 22px color-mix(in srgb,var(--aura) 3%,transparent),0 0 0 76px color-mix(in srgb,var(--aura) 3%,transparent)}
+.book-reader .book-text h1,.book-reader .book-text h2{color:color-mix(in srgb,var(--aura) 14%,#e8f1e9)}
+.book-reader .book-text a{color:color-mix(in srgb,var(--aura) 32%,#d4e4dc)}
+.book-text blockquote,.book-text hr{border-color:color-mix(in srgb,var(--aura) 30%,transparent)}
+.book-reader .parchment .book-text h1,.book-reader .parchment .book-text h2{color:color-mix(in srgb,var(--aura) 8%,#362f28)}
+.book-reader .parchment .book-text a{color:color-mix(in srgb,var(--aura) 18%,#365247)}
+
+/* Glass-like chrome lets the repeating environment remain visible. */
+.book-reader .reading-header,.book-reader .reading-footer{background:#04111726;backdrop-filter:blur(2px)}
+.book-reader .toc{background:#06131a26;backdrop-filter:blur(2px);box-shadow:12px 0 30px #0003}
+.book-reader .reading-controls select{background:#0b232b55}
+.book-reader .reading-controls option{background:#0b232b;color:#e0f5eb}
+.book-reader .toc-tab{background:#0e262a66;backdrop-filter:blur(2px)}
+.book-reader .reader-back{gap:10px;letter-spacing:0;text-transform:none;flex-shrink:0}
+.book-reader .reader-back img{display:block;width:32px;height:32px;flex:none}
+.book-reader .reader-back .reader-brand{display:inline;font:500 23px/1 'Cormorant Garamond',serif;color:#e1fcf2;letter-spacing:.04em}
+@media(max-width:720px){.book-reader .reader-back img{width:28px;height:28px}.book-reader .reader-back .reader-brand{font-size:21px}.book-reader .reader-book-title{max-width:50vw}.book-reader .reader-layout:not(.toc-closed) .page-flow{visibility:hidden}}

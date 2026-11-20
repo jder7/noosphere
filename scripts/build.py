@@ -118,11 +118,18 @@ def build(import_from=None):
         raise SystemExit('Pandoc 3.x is required. See README.md for setup.')
     books = json.loads((ROOT / 'library.json').read_text())
     template = Template((ROOT / 'templates/book.html').read_text())
+    glyphs = json.loads((ROOT / 'glyphs.json').read_text())
+    (ROOT / 'glyphs.js').write_text('// Generated from glyphs.json by scripts/build.py.\nwindow.NOOSPHERE_GLYPHS = ' + json.dumps(glyphs, ensure_ascii=False, indent=2) + ';\n')
+    icons = ROOT / 'assets' / 'icons'
+    icons.mkdir(exist_ok=True)
     catalog, expected = [], set()
     for book in books:
         slug = book['id']
         if not re.fullmatch(r'[a-z0-9]+(?:-[a-z0-9]+)*', slug):
             raise ValueError(f'Invalid book ID: {slug}')
+        motif = glyphs[book['glyph']]
+        icon = f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" fill="none" stroke="{e(book["glow"])}" stroke-width="4" stroke-linejoin="round"><circle cx="70" cy="70" r="60" stroke-opacity=".45"/>{motif}</svg>\n'
+        (icons / f'{slug}.svg').write_text(icon)
         folder = ROOT / 'content' / slug
         if import_from:
             source = import_from / slug

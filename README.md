@@ -8,7 +8,7 @@ Noösphere separates book content from presentation. Markdown editions become st
 
 ## Features
 
-- An interactive crystalline archive with a details screen for each book.
+- An interactive crystalline archive with book and author search and a details screen for each book.
 - Continuous reading with a collapsible table of contents.
 - Separate HTML pages for each language and edition, with direct section links.
 - Language switching that follows the current section when an equivalent is available.
@@ -78,7 +78,9 @@ noosphere/
 ├── styles.css           # Shared visual theme
 ├── reader.js            # Reader navigation and preferences
 ├── reader.css           # Continuous reading layout
-├── assets/              # Atmospheric artwork
+├── assets/              # Artwork, shared site mark, and generated book favicons
+├── glyphs.json          # Editable SVG motifs shared by covers and favicons
+├── glyphs.js            # Generated browser glyph definitions
 ├── library.json         # Editable book metadata and edition labels
 ├── content/             # Source Markdown and supplied PDF/DOCX files
 │   └── <book-id>/
@@ -97,7 +99,7 @@ noosphere/
 └── AGENTS.md            # Instructions for coding and content agents
 ```
 
-Edit `library.json`, `content/`, and shared presentation files. Rebuild rather than editing `books/`, `catalog.json`, or `catalog.js` directly. Include regenerated output with changes to its source.
+Edit `library.json`, `content/`, `glyphs.json`, and shared presentation files. Rebuild rather than editing `books/`, `catalog.json`, `catalog.js`, `glyphs.js`, or `assets/icons/` directly. Include regenerated output with changes to its source.
 
 ## Adding books and translations
 

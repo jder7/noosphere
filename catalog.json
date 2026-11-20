@@ -1,0 +1,177 @@
+[
+  {
+    "id": "tao",
+    "title": "Tao Te Ching",
+    "original": "道德經",
+    "lang": "zh-Hant",
+    "dir": "ltr",
+    "tradition": "DAOIST THOUGHT",
+    "source": "Classical Chinese",
+    "era": "Ancient China",
+    "glow": "#8bede9",
+    "glyph": "vesica",
+    "chapters": [
+      "The Unnamed Source",
+      "The Way of Opposites",
+      "The Quiet Center",
+      "Returning"
+    ],
+    "ideas": [
+      "the elusive character of the unnameable source",
+      "mutual emergence and polarity",
+      "the disposition of attentive stillness",
+      "the movement of return"
+    ],
+    "summary": "A spare, enduring inquiry into the Way, naturalness, receptivity, and the relationship between opposites."
+  },
+  {
+    "id": "gita",
+    "title": "Bhagavad Gītā",
+    "original": "भगवद्गीता",
+    "lang": "sa",
+    "dir": "ltr",
+    "tradition": "VEDIC / HINDU",
+    "source": "Sanskrit",
+    "era": "Ancient India",
+    "glow": "#f1cca0",
+    "glyph": "lotus",
+    "chapters": [
+      "The Question of Action",
+      "Knowledge",
+      "Action without Attachment",
+      "The Inner Discipline"
+    ],
+    "ideas": [
+      "the tension between responsibility and uncertainty",
+      "the pursuit of understanding",
+      "action freed from attachment to reward",
+      "discipline in the life of thought"
+    ],
+    "summary": "A dialogue exploring duty, knowledge, devotion, and inner freedom on the eve of a momentous battle."
+  },
+  {
+    "id": "dhammapada",
+    "title": "Dhammapada",
+    "original": "धम्मपद",
+    "lang": "pi",
+    "dir": "ltr",
+    "tradition": "BUDDHIST",
+    "source": "Pāli (Devanagari title)",
+    "era": "Early Buddhist literature",
+    "glow": "#d9c1f3",
+    "glyph": "wheel",
+    "chapters": [
+      "Twin Verses",
+      "Wakefulness",
+      "The Mind",
+      "The Way"
+    ],
+    "ideas": [
+      "the shaping influence of thought",
+      "the practice of alertness",
+      "the training of attention",
+      "a life of discernment"
+    ],
+    "summary": "Compact teachings on mind, conduct, impermanence, and the disciplined path of awakening."
+  },
+  {
+    "id": "quran",
+    "title": "The Qurʾān",
+    "original": "القرآن الكريم",
+    "lang": "ar",
+    "dir": "rtl",
+    "tradition": "ISLAMIC",
+    "source": "Arabic",
+    "era": "7th century CE",
+    "glow": "#97e6ce",
+    "glyph": "star",
+    "chapters": [
+      "Al-Fātiḥah",
+      "Al-Baqarah",
+      "Āl ʿImrān",
+      "An-Nisāʾ"
+    ],
+    "ideas": [
+      "the opening request for guidance",
+      "covenant and human conduct",
+      "faith and endurance",
+      "justice and community"
+    ],
+    "summary": "The foundational scripture of Islam, transmitted through recitation and studied in its Arabic language and many translations."
+  },
+  {
+    "id": "sefer",
+    "title": "Sefer Yetzirah",
+    "original": "ספר יצירה",
+    "lang": "he",
+    "dir": "rtl",
+    "tradition": "JEWISH MYSTICAL",
+    "source": "Hebrew",
+    "era": "Late antiquity / early medieval",
+    "glow": "#d3b8ff",
+    "glyph": "rings",
+    "chapters": [
+      "Ten Sefirot",
+      "The Letters",
+      "The Three Mothers",
+      "The Seven Doubles"
+    ],
+    "ideas": [
+      "number and the imagination of order",
+      "letters as instruments of symbolic thought",
+      "the family of elemental forms",
+      "correspondence in a structured cosmos"
+    ],
+    "summary": "A brief yet influential work exploring the symbolic relationships between letters, numbers, and creation."
+  },
+  {
+    "id": "enneads",
+    "title": "The Enneads",
+    "original": "Ἐννεάδες",
+    "lang": "grc",
+    "dir": "ltr",
+    "tradition": "NEOPLATONIC",
+    "source": "Ancient Greek",
+    "era": "3rd century CE",
+    "glow": "#b7c5ff",
+    "glyph": "orbits",
+    "chapters": [
+      "On Beauty",
+      "On the Virtues",
+      "On Dialectic",
+      "On Intellect"
+    ],
+    "ideas": [
+      "the idea of intelligible beauty",
+      "qualities of character and the soul",
+      "the disciplined pursuit of truth",
+      "intellect and the question of unity"
+    ],
+    "summary": "Plotinus’s philosophical investigations of soul, intellect, beauty, and the highest source of being."
+  },
+  {
+    "id": "upanishads",
+    "title": "The Upanishads",
+    "original": "उपनिषद्",
+    "lang": "sa",
+    "dir": "ltr",
+    "tradition": "VEDIC",
+    "source": "Sanskrit",
+    "era": "Ancient India",
+    "glow": "#ffdab4",
+    "glyph": "triad",
+    "chapters": [
+      "Īśa",
+      "Kena",
+      "Kaṭha",
+      "Muṇḍaka"
+    ],
+    "ideas": [
+      "participation in the world and understanding",
+      "the ground of mind and perception",
+      "wisdom and mortality",
+      "different avenues of knowledge"
+    ],
+    "summary": "A collection of dialogues and reflections on consciousness, self, knowledge, and ultimate reality."
+  }
+]

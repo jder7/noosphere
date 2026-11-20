@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#040c11">
+<meta name="description" content="Noösphere — an immersive, multilingual library of sacred texts. Interactive design concept.">
+<title>Noösphere — The Living Scriptorium</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=DM+Sans:wght@300;400;500;600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Noto+Naskh+Arabic:wght@400;500&family=Noto+Serif+Devanagari:wght@400;500&family=Noto+Serif+SC:wght@400;500&family=Noto+Serif+Hebrew:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body data-scene="archive">
+<div class="grain" aria-hidden="true"></div>
+<div class="site-mark" id="brandRoot" role="button" tabindex="0" aria-label="Return to the archive">
+ <span class="sigil" aria-hidden="true"><svg viewBox="0 0 50 50" fill="none" stroke="currentColor" stroke-width=".8"><circle cx="25" cy="25" r="19"/><circle cx="25" cy="16" r="9"/><circle cx="25" cy="34" r="9"/><circle cx="16" cy="25" r="9"/><circle cx="34" cy="25" r="9"/><path d="M25 1V49M1 25H49"/></svg></span>
+ <span><small>THE LIVING SCRIPTORIUM</small><strong>NOÖSPHERE <span class="site-mark-dot">✦</span></strong></span>
+</div>
+<main id="main">
+<section class="scene current" id="archive" aria-label="Immersive archive">
+ <div class="archive-environment" aria-hidden="true"></div><div class="atmosphere-mask" aria-hidden="true"></div>
+ <canvas id="particles" aria-hidden="true"></canvas>
+ <svg id="neuralCanopy" class="neural-canopy" viewBox="0 0 1000 630" preserveAspectRatio="xMidYMid meet" aria-hidden="true"></svg>
+ <div class="archive-poem"><span class="micro-label">THE INTELLIGENCE OF THE ARCHIVE</span><h1>Every text<br>is a <em>world.</em></h1><p>Seven voices in a living field<br>of knowledge and form.</p></div>
+ <div id="floatingArchive" class="floating-archive" aria-label="Floating crystalline books. Scroll to explore; select to open."></div>
+ <div class="archive-active" id="activeBook" aria-live="polite"></div>
+ <div class="archive-sequence" id="archiveSequence" aria-label="Choose a volume"></div>
+ <div class="archive-instruction"><span class="instruct-diamond">◇</span><span>SCROLL TO TRACE THE FIELD</span><span class="instruct-diamond">◇</span></div>
+ <div class="archive-status"><span>THE COLLECTION</span><strong id="archiveIndex">01 <i>/ 07</i></strong></div>
+ <div class="ambient-note">INTERACTIVE DESIGN STUDY <span>·</span> SAMPLE EDITIONS</div>
+</section>
+
+<section class="scene" id="details" aria-label="Selected book details" hidden>
+ <div class="detail-atmosphere" aria-hidden="true"></div>
+ <div class="detail-waves" aria-hidden="true"></div>
+ <button id="detailsReturn" class="back-gesture"><span>←</span> RETURN TO THE FIELD</button>
+ <div class="detail-shell">
+  <div class="detail-exhibit"><div class="detail-crown" id="detailCrown"></div><div class="detail-volume" id="detailVolume"></div><div class="detail-base"><span class="base-orbit"></span>CRYSTALLIZED KNOWLEDGE <span class="base-orbit"></span></div></div>
+  <article class="detail-text" id="detailText"></article>
+ </div>
+ <div class="detail-footer"><span>ARCHIVE / THE CHOSEN VOLUME</span><span>02 — DECODE THE TEXT</span></div>
+</section>
+
+<section class="scene" id="reader" aria-label="Manuscript reader" hidden>
+ <div class="reading-environment" aria-hidden="true"></div>
+ <header class="reading-header">
+  <button id="readerBack" class="reader-back"><span>←</span><span>THE VOLUME</span></button>
+  <span class="reader-book-title" id="readingTitle"></span>
+  <div class="reading-controls"><button id="languageToggle" aria-label="Switch demonstration language between English and Romanian" title="Switch English / Romanian demonstration language">EN</button><button id="themeToggle" title="Switch dark / parchment page" aria-label="Switch reading surface">◐</button><button id="fontMinus" aria-label="Decrease reading font">A−</button><button id="fontPlus" aria-label="Increase reading font">A+</button></div>
+ </header>
+ <div id="readerLayout" class="reader-layout">
+  <aside id="toc" class="toc"><div id="tocInner" class="toc-inner"></div></aside>
+  <button id="tocToggle" class="toc-tab" aria-expanded="true" aria-label="Collapse table of contents">‹</button>
+  <div id="pageFlow" class="page-flow" tabindex="0" aria-label="Scroll vertically to turn manuscript pages"></div>
+ </div>
+ <footer class="reading-footer"><span id="pageCounter">01 / 04</span><span>ONE PAGE · ONE MOMENT <span class="small-arrow">↓</span> SCROLL TO CONTINUE</span><button id="readerToArchive">ARCHIVE ↗</button></footer>
+</section>
+</main>
+<script src="app.js" defer></script>
+</body>
+</html>

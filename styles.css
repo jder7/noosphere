@@ -85,3 +85,57 @@ body[data-scene="reader"] .site-mark{display:none}
 .archive-poem h2{position:relative;margin:0 0 14px;padding-top:11px;font:500 17px/1.25 'Cormorant Garamond',serif;letter-spacing:.045em;color:#ffd166;text-shadow:0 0 18px #ffd16658,0 1px 12px #000;max-width:245px;text-wrap:balance}
 .archive-poem h2:before{content:'';position:absolute;top:0;left:0;width:40px;height:1px;background:linear-gradient(90deg,#ffd166,transparent);box-shadow:0 0 8px #ffd16688}
 @media(max-width:720px){.archive-poem h2{font-size:16px;max-width:320px}}
+
+/* The collection continues below the immersive field as a quiet reading list. */
+#archive{overflow-y:auto;scroll-behavior:smooth}
+.archive-stage{position:relative;height:100svh;min-height:620px;overflow:hidden}
+.collection{position:relative;z-index:10;max-width:1000px;margin:auto;padding:70px 6vw 90px;background:#030a0e}
+.collection h2{font:400 42px 'Cormorant Garamond',serif;color:#ffd166;margin:0 0 20px}
+.collection-intro{max-width:650px;font:21px/1.6 'EB Garamond',serif;color:#bdcec8}
+.collection ul{list-style:none;padding:0;margin:40px 0}
+.collection li{padding:28px 0;border-top:1px solid color-mix(in srgb,var(--aura) 25%,transparent)}
+.collection h3{font:400 30px 'Cormorant Garamond',serif;margin:0;color:var(--aura)}
+.collection a{text-underline-offset:5px}
+.collection h3 a{text-decoration:none}
+.collection p{font:19px/1.5 'EB Garamond',serif;max-width:650px}
+.collection .collection-author{color:#a5bbb4;margin:8px 0}
+.collection nav,.collection-return{font-size:13px;line-height:2;color:#d8e8df}
+
+/* Dimensional threshold: the field folds into the inner archive. */
+.dimensional-threshold{position:relative;isolation:isolate;height:260px;overflow:hidden;display:flex;align-items:center;justify-content:center;background:radial-gradient(ellipse at 50% 50%,#143a423d,transparent 65%);color:#b8ecdf}
+.threshold-axis{position:absolute;inset:50% 0 auto;height:1px;background:linear-gradient(90deg,transparent,#8fe8d77a,transparent);box-shadow:0 0 30px #7fffe655}
+.threshold-orbit{position:absolute;width:72%;height:190px;border:1px solid #a5f4dd35;border-radius:50%;transform:rotate(-8deg);box-shadow:inset 0 0 35px #82eed510,0 0 35px #82eed510}
+.threshold-orbit:nth-child(2){width:53%;height:130px;transform:rotate(8deg);border-color:#ffd16655}
+.threshold-orbit:nth-child(3){width:32%;height:75px;transform:rotate(-8deg)}
+.dimensional-threshold span{position:absolute;top:35px;font-size:9px;letter-spacing:.32em;color:#9abdb5}
+.dimensional-threshold b{z-index:1;display:grid;place-items:center;width:52px;height:52px;background:#030c10;font:36px 'Cormorant Garamond',serif;color:#ffd166;text-shadow:0 0 20px #ffd16688;transform:rotate(0deg)}
+.collection{max-width:1160px;padding-top:24px;background:radial-gradient(ellipse at 50% 30%,#10303a30,transparent 65%)}
+.archive-continuation{position:relative;isolation:isolate}
+.archive-continuation>.background-mesh{z-index:0}
+.archive-continuation>.dimensional-threshold{z-index:1}
+.collection ul{display:grid;grid-template-columns:1fr 1fr;gap:28px;margin:44px 0}
+.collection .tunnel-card{position:relative;isolation:isolate;overflow:hidden;min-width:0;padding:42px 30px;border:1px solid color-mix(in srgb,var(--aura) 45%,transparent);background:radial-gradient(ellipse at 75% 10%,color-mix(in srgb,var(--aura) 10%,transparent),transparent 70%),#041015;box-shadow:inset 0 0 28px #0008,0 14px 35px #0005;transition:border-color .4s,box-shadow .4s}
+.tunnel-depth{position:absolute;inset:0;pointer-events:none;z-index:-1;perspective:450px;overflow:hidden}
+.tunnel-depth:before{content:'';position:absolute;inset:0;background:linear-gradient(135deg,transparent 49.8%,color-mix(in srgb,var(--aura) 12%,transparent) 50%,transparent 50.2%),linear-gradient(45deg,transparent 49.8%,color-mix(in srgb,var(--aura) 12%,transparent) 50%,transparent 50.2%)}
+.tunnel-depth i{position:absolute;inset:12px;border:1px solid color-mix(in srgb,var(--aura) 22%,transparent);transform:translateZ(-25px);transition:transform .7s var(--ease);border-radius:35% 3% 35% 3%}
+.tunnel-depth i:nth-child(2){inset:25px;transform:translateZ(-65px);opacity:.7}
+.tunnel-depth i:nth-child(3){inset:38px;transform:translateZ(-110px);opacity:.5}
+.tunnel-depth i:nth-child(4){inset:51px;transform:translateZ(-160px);opacity:.3}
+.tunnel-content{position:relative;background:radial-gradient(ellipse,#041015ee 30%,#04101577 80%,transparent);padding:12px 0}
+.tunnel-card:hover,.tunnel-card:focus-within{border-color:var(--aura);box-shadow:inset 0 0 35px color-mix(in srgb,var(--aura) 7%,transparent),0 14px 45px #0008}
+.tunnel-card:hover .tunnel-depth i,.tunnel-card:focus-within .tunnel-depth i{transform:translateZ(0)}
+.collection .tunnel-card h3{font-size:32px}
+.collection .tunnel-card nav{display:flex;flex-wrap:wrap;gap:8px 12px;color:#d8e8df}
+.portal-footer{margin-top:90px;padding-top:45px;border-top:1px solid #9cebd536}
+.portal-coordinate{font-size:9px;letter-spacing:.22em;color:#9db9b2}
+.portal-footer h2{margin-top:16px}
+.portal-footer nav{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
+.portal-footer nav a{display:flex;align-items:center;gap:14px;padding:20px 0;text-decoration:none;border-bottom:1px solid #8fe8d72b;transition:color .3s,border-color .3s}
+.portal-footer nav a:hover{color:#ffd166;border-color:#ffd166}
+.portal-symbol{font-size:28px;color:#ffd166}
+.portal-footer strong{display:block;font:23px/1.1 'Cormorant Garamond',serif;font-weight:400}
+.portal-footer small{display:block;font-size:8px;letter-spacing:.12em;margin-top:9px;color:#9db9b2;overflow-wrap:anywhere}
+.portal-footer nav a>span:last-child{margin-left:auto}
+.collection .portal-signature{margin:55px 0 0;font:9px 'DM Sans',sans-serif;letter-spacing:.2em;color:#819f97}
+.portal-signature span{padding:0 12px;color:#ffd166}
+@media(max-width:720px){.dimensional-threshold{height:190px}.threshold-orbit{width:110%;height:125px}.threshold-orbit:nth-child(2){width:80%;height:90px}.threshold-orbit:nth-child(3){width:50%;height:55px}.dimensional-threshold span{top:18px;font-size:8px;letter-spacing:.18em}.collection ul,.portal-footer nav{grid-template-columns:1fr}.collection .tunnel-card{padding:32px 25px}.portal-footer{margin-top:60px}.portal-footer nav{gap:0}}

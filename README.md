@@ -180,3 +180,9 @@ A software license has **not yet been added** to this repository. The intended o
 Book texts, translations, annotations, downloadable editions, and artwork have separate provenance and may carry their own terms. Their inclusion does not assign them a common project license. Preserve the notices supplied with each edition and consult its publication notes for attribution and source details.
 
 In particular, the supplied Laurency editions contain copyright and “all rights reserved” notices. A future software license must distinguish project code from third-party content; this README does not establish permission to redistribute those editions or relicense them.
+
+### Search discovery and sharing
+
+The build updates the marked SEO and collection blocks in `index.html`, reader metadata, and `robots.txt`. Edit the surrounding archive layout and introductory text directly, but generate the marked blocks through `scripts/build.py`. Every edition has its own canonical URL and description. Equivalent translations are linked with `hreflang`; special editions form separate translation groups. `assets/share.png` supplies the shared social preview artwork.
+
+After deployment, confirm the custom domain serves the latest commit and inspect the sitemap and representative English, Romanian, Chinese, and annotated readers in Search Console. Submit the sitemap there and measure mobile performance with PageSpeed Insights before choosing performance changes.

@@ -24,7 +24,7 @@ Noösphere — The Living Scriptorium is a static multilingual book library buil
 
 ## Adding content
 
-Use the agent workflow in README.md. Edit `library.json` and `content/`, then run `python3 scripts/build.py`. Do not hand-edit generated `books/`, `catalog.json`, `catalog.js`, `glyphs.js`, `sitemap.xml`, or `assets/icons/`. Keep design changes in the shared template, CSS, or JavaScript rather than individual books.
+Use the agent workflow in README.md. Edit `library.json` and `content/`, then run `python3 scripts/build.py`. Do not hand-edit generated `books/`, `catalog.json`, `catalog.js`, `glyphs.js`, `sitemap.xml`, or `assets/icons/`. The build also maintains `robots.txt` and the marked SEO and collection blocks in `index.html`; keep surrounding archive prose and layout editable. Keep design changes in the shared template, CSS, or JavaScript rather than individual books.
 
 - Every work needs a standard English Markdown edition. Book languages belong in the URL; app controls remain English.
 - Copy supplied sources into this repository. Never modify the external reference location.

@@ -156,9 +156,9 @@ Preserve IDs when revising or translating content. Footnote links remain navigab
 
 Publish the repository root as a static site. The generated readers and catalogs are included, so the hosting environment does not need Python or Pandoc.
 
-For GitHub Pages, use [branch publishing](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) with the repository root as the publishing source. The included `.nojekyll` file disables Jekyll processing. Relative links support both domain-root hosting and project paths such as `/noosphere/`.
+For GitHub Pages, configure the repository's Pages source as **GitHub Actions**. The workflow in `.github/workflows/deploy-pages.yml` deploys the repository root on every push to `master` and can also be started manually from the Actions tab. The included `.nojekyll` file disables Jekyll processing. Relative links support both domain-root hosting and project paths such as `/noosphere/`.
 
-Rebuild and verify content or template changes before publishing. No automated deployment workflow is currently included.
+Rebuild and verify content or template changes before publishing. The generated readers and catalogs are committed to the repository; the deployment workflow publishes these static files without running the Python/Pandoc build.
 
 The build also generates [sitemap.xml](sitemap.xml) with the archive and every HTML edition. Set `url` in `site.json` to the published site’s absolute base URL, including its project path if applicable, then rebuild. The published base URL is `https://noosfield.click/`, with the sitemap at `https://noosfield.click/sitemap.xml`. Update this setting if the domain changes. Section fragments and downloadable files are excluded.
 

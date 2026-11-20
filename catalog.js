@@ -12,6 +12,7 @@ window.NOOSPHERE_CATALOG = [
     "glow": "#ffd166",
     "glyph": "vesica",
     "summary": "An inquiry into the Way, naturalness, receptivity, and the relationship between opposites.",
+    "tagline": "The way of natural harmony",
     "dir": "ltr",
     "editions": [
       {
@@ -505,6 +506,7 @@ window.NOOSPHERE_CATALOG = [
     "glow": "#ff3b30",
     "glyph": "cross",
     "summary": "Annie Besant explores the hidden traditions, symbolism, and mysteries underlying Christianity.",
+    "tagline": "The mysteries within",
     "dir": "ltr",
     "editions": [
       {
@@ -676,6 +678,7 @@ window.NOOSPHERE_CATALOG = [
     "glow": "#65e4ff",
     "glyph": "seed-of-life",
     "summary": "An exploration of reality, consciousness, and the esoteric foundations of a world view.",
+    "tagline": "The septenary model",
     "dir": "ltr",
     "editions": [
       {
@@ -695,7 +698,9 @@ window.NOOSPHERE_CATALOG = [
         "label": "Standard edition",
         "url": "books/ro/knowledge-of-reality.html",
         "downloads": {
-          "md": "content/knowledge-of-reality/book-ro.md"
+          "md": "content/knowledge-of-reality/book-ro.md",
+          "pdf": "content/knowledge-of-reality/book-ro.pdf",
+          "docx": "content/knowledge-of-reality/book-ro.docx"
         }
       }
     ],
@@ -1660,6 +1665,7 @@ window.NOOSPHERE_CATALOG = [
     "glow": "#4775ff",
     "glyph": "borromean",
     "summary": "Reflections on world views, life views, knowledge, and the development of consciousness.",
+    "tagline": "The path of self-realization",
     "dir": "ltr",
     "editions": [
       {
@@ -1679,7 +1685,9 @@ window.NOOSPHERE_CATALOG = [
         "label": "Standard edition",
         "url": "books/ro/philosophers-stone.html",
         "downloads": {
-          "md": "content/philosophers-stone/book-ro.md"
+          "md": "content/philosophers-stone/book-ro.md",
+          "pdf": "content/philosophers-stone/book-ro.pdf",
+          "docx": "content/philosophers-stone/book-ro.docx"
         }
       }
     ],

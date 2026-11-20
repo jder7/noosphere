@@ -14,7 +14,8 @@
     "verse": true,
     "specialEditions": {
       "annotated": "Annotated edition"
-    }
+    },
+    "tagline": "The way of natural harmony"
   },
   {
     "id": "esoteric-christianity",
@@ -27,7 +28,8 @@
     "era": "1901",
     "glow": "#ff3b30",
     "glyph": "cross",
-    "summary": "Annie Besant explores the hidden traditions, symbolism, and mysteries underlying Christianity."
+    "summary": "Annie Besant explores the hidden traditions, symbolism, and mysteries underlying Christianity.",
+    "tagline": "The mysteries within"
   },
   {
     "id": "knowledge-of-reality",
@@ -40,7 +42,8 @@
     "era": "Philosophy",
     "glow": "#65e4ff",
     "glyph": "seed-of-life",
-    "summary": "An exploration of reality, consciousness, and the esoteric foundations of a world view."
+    "summary": "An exploration of reality, consciousness, and the esoteric foundations of a world view.",
+    "tagline": "The septenary model"
   },
   {
     "id": "philosophers-stone",
@@ -53,6 +56,7 @@
     "era": "Philosophy",
     "glow": "#4775ff",
     "glyph": "borromean",
-    "summary": "Reflections on world views, life views, knowledge, and the development of consciousness."
+    "summary": "Reflections on world views, life views, knowledge, and the development of consciousness.",
+    "tagline": "The path of self-realization"
   }
 ]

@@ -160,6 +160,8 @@ For GitHub Pages, use [branch publishing](https://docs.github.com/en/pages/getti
 
 Rebuild and verify content or template changes before publishing. No automated deployment workflow is currently included.
 
+The build also generates [sitemap.xml](sitemap.xml) with the archive and every HTML edition. Set `url` in `site.json` to the published site’s absolute base URL, including its project path if applicable, then rebuild. The published base URL is `https://noosfield.click/`, with the sitemap at `https://noosfield.click/sitemap.xml`. Update this setting if the domain changes. Section fragments and downloadable files are excluded.
+
 ## Contributing
 
 Bug reports, accessibility improvements, reader enhancements, documentation fixes, and well-attributed editions are welcome.

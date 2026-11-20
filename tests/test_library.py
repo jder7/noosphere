@@ -10,7 +10,8 @@ from urllib.parse import unquote, urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'scripts'))
-from build import convert
+from build import convert, sitemap_xml
+import xml.etree.ElementTree as ET
 
 
 class Page(HTMLParser):
@@ -82,6 +83,31 @@ class LibraryTests(unittest.TestCase):
             ids = {h['id'] for h in headings}
             self.assertTrue({'section1', 'section1-1', 'section2', 'publication-note1', 'section-foreword'} <= ids)
             self.assertIn('href="#section1-1"', body)
+
+    def test_sitemap_covers_archive_and_all_html_editions(self):
+        ns = {'s': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
+        root = ET.parse(ROOT / 'sitemap.xml').getroot()
+        base = json.loads((ROOT / 'site.json').read_text())['url'].rstrip('/') + '/'
+        locations = [node.text for node in root.findall('s:url/s:loc', ns)]
+        expected = [base] + [base + ed['url'] for book in self.catalog for ed in book['editions']]
+        self.assertEqual(locations, expected)
+        self.assertEqual(len(locations), len(set(locations)))
+        for location in locations:
+            self.assertFalse(urlsplit(location).fragment)
+            self.assertFalse(urlsplit(location).query)
+            relative = location.removeprefix(base)
+            self.assertTrue((ROOT / (relative or 'index.html')).is_file())
+
+    def test_sitemap_supports_root_and_project_urls(self):
+        catalog = [{'editions': [{'url': 'books/ro/example.html'}]}]
+        for base in ['https://example.org', 'https://example.org/library/']:
+            with self.subTest(base=base):
+                root = ET.fromstring(sitemap_xml(catalog, base))
+                locations = [node.text for node in root.iter() if node.tag.endswith('}loc')]
+                self.assertEqual(locations, [base.rstrip('/') + '/', base.rstrip('/') + '/books/ro/example.html'])
+        for base in ['/library/', 'https://example.org/?query=1', 'https://example.org/#archive']:
+            with self.subTest(base=base), self.assertRaises(ValueError):
+                sitemap_xml(catalog, base)
 
     def test_downloads_are_only_supplied_formats(self):
         for book in self.catalog:

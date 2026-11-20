@@ -6,6 +6,9 @@ const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'
 const n2=i=>String(i+1).padStart(2,'0');
 const state={scene:'archive',focus:0,book:0,lastWheel:0,touchY:null};
 const motifs={
+cross:'<path d="M63 48L57 20Q70 28 83 20L77 48L104 41Q96 57 104 73L77 66L83 115Q70 107 57 115L63 66L36 73Q44 57 36 41Z"/>',
+'seed-of-life':'<circle cx="70" cy="70" r="26"/>'+Array.from({length:6},(_,i)=>`<circle cx="70" cy="44" r="26" transform="rotate(${i*60} 70 70)"/>`).join(''),
+borromean:'<g stroke-linecap="round"><path d="M79.897 78.431A32 32 0 0 1 38.697 54.644M38.006 48.613A32 32 0 1 1 85.466 76.014"/><path d="M67.475 108.401A32 32 0 1 1 67.475 53.599M72.353 57.214A32 32 0 0 1 72.353 104.786"/><path d="M57.750 74.356A32 32 0 0 1 98.950 50.569M104.519 52.986A32 32 0 1 1 57.059 80.387"/></g>',
 vesica:'<circle cx="70" cy="44" r="39"/><circle cx="70" cy="96" r="39"/><circle cx="44" cy="70" r="39"/><circle cx="96" cy="70" r="39"/><circle cx="52" cy="52" r="39"/><circle cx="88" cy="52" r="39"/><circle cx="52" cy="88" r="39"/><circle cx="88" cy="88" r="39"/>',
 lotus:Array.from({length:12},(_,i)=>`<ellipse cx="70" cy="41" rx="13" ry="32" transform="rotate(${i*30} 70 70)"/>`).join('')+'<circle cx="70" cy="70" r="20"/>',
 wheel:'<circle cx="70" cy="70" r="51"/><circle cx="70" cy="70" r="18"/>'+Array.from({length:8},(_,i)=>`<path d="M70 20V120" transform="rotate(${i*22.5} 70 70)"/>`).join(''),
@@ -13,7 +16,7 @@ star:'<path d="M70 12L128 70L70 128L12 70Z M29 29H111V111H29Z"/><circle cx="70" 
 rings:'<circle cx="70" cy="70" r="50"/><circle cx="70" cy="37" r="33"/><circle cx="70" cy="103" r="33"/><path d="M70 10V130M10 70H130"/>',
 orbits:'<ellipse cx="70" cy="70" rx="57" ry="27" transform="rotate(45 70 70)"/><ellipse cx="70" cy="70" rx="57" ry="27" transform="rotate(-45 70 70)"/><ellipse cx="70" cy="70" rx="57" ry="27"/><circle cx="70" cy="70" r="17"/>',
 triad:'<path d="M70 15L118 106H22Z M70 125L22 34H118Z"/><circle cx="70" cy="70" r="37"/><circle cx="70" cy="70" r="21"/>'};
-function emblem(name){return `<svg viewBox="0 0 140 140" fill="none" stroke="currentColor" stroke-width=".85" aria-hidden="true"><circle cx="70" cy="70" r="60" stroke-opacity=".39"/>${motifs[name]||motifs.vesica}<circle cx="70" cy="70" r="2.5" fill="currentColor"/></svg>`}
+function emblem(name){return `<svg viewBox="0 0 140 140" preserveAspectRatio="xMidYMid meet" fill="none" stroke="currentColor" stroke-width=".85" aria-hidden="true"><circle cx="70" cy="70" r="60" stroke-opacity=".39"/>${motifs[name]||motifs.vesica}${['cross','seed-of-life','borromean'].includes(name)?'':'<circle cx="70" cy="70" r="2.5" fill="currentColor"/>'}</svg>`}
 function crystalBook(b){return `<div class="crystal-book" style="--aura:${b.glow}"><div class="crystal-book-shell"><div class="book-top"></div><div class="spine"></div><div class="pages-edge"></div><div class="face"><span class="face-prism"></span><span class="face-top">THE LIVING SCRIPTORIUM</span><div class="face-art">${emblem(b.glyph)}</div><span class="face-rule"></span><span class="face-title">${esc(b.title)}</span><span class="face-native" lang="${b.lang}" dir="${b.dir}">${esc(b.original)}</span><span class="face-bottom">${esc(b.tradition)}</span></div></div></div>`}
 function canopy(){
  const svg=$('#neuralCanopy');let paths=[],dots=[];
@@ -36,8 +39,8 @@ function canopy(){
  svg.innerHTML=`<defs><radialGradient id="ncore"><stop stop-color="#bcffe1" stop-opacity=".4"/><stop offset="1" stop-color="#90e3d2" stop-opacity="0"/></radialGradient></defs><circle cx="500" cy="205" r="160" fill="url(#ncore)"/>${paths.join('')}${dots.join('')}<circle cx="500" cy="205" r="6" fill="#f7fff1"/><circle cx="500" cy="205" r="20" fill="none" stroke="#a2f6e9" stroke-width=".8"/>`;
 }
 function initialiseArchive(){
- $('#floatingArchive').innerHTML=LIBRARY.map((b,i)=>`<div class="archive-volume" data-index="${i}" role="button" tabindex="0" aria-label="Select ${esc(b.title)}">${crystalBook(b)}</div>`).join('');
- $('#archiveSequence').innerHTML=LIBRARY.map((b,i)=>`<button data-index="${i}" title="${esc(b.title)}" aria-label="Focus ${esc(b.title)}">${emblem(b.glyph)}</button>`).join('');
+ $('#floatingArchive').innerHTML=LIBRARY.map((b,i)=>`<div class="archive-volume" style="--aura:${b.glow}" data-index="${i}" role="button" tabindex="0" aria-label="Select ${esc(b.title)}">${crystalBook(b)}</div>`).join('');
+ $('#archiveSequence').innerHTML=LIBRARY.map((b,i)=>`<button style="--aura:${b.glow}" data-index="${i}" title="${esc(b.title)}" aria-label="Focus ${esc(b.title)}">${emblem(b.glyph)}</button>`).join('');
  $$('.archive-volume').forEach(el=>{const activate=()=>{const i=Number(el.dataset.index);if(state.focus===i)showDetail(i);else setFocus(i)};el.addEventListener('click',activate);el.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();activate()}})});
  $$('#archiveSequence button').forEach(el=>el.addEventListener('click',()=>setFocus(Number(el.dataset.index))));
  $('#archive').addEventListener('wheel',e=>{if(state.scene!=='archive'||Math.abs(e.deltaY)<5)return;e.preventDefault();const now=Date.now();if(now-state.lastWheel<420)return;state.lastWheel=now;setFocus(state.focus+(e.deltaY>0?1:-1))},{passive:false});
@@ -67,7 +70,7 @@ function setFocus(i){
 }
 function showScene(id){state.scene=id;document.body.dataset.scene=id;$$('.scene').forEach(el=>{const isCurrent=el.id===id;el.hidden=!isCurrent;el.classList.toggle('current',isCurrent)});}
 function exportLinks(b){return `<div class="format-links"><span>ENGLISH EDITION</span>${Object.entries(b.downloads).map(([ext,url])=>`<a href="${esc(url)}" download>${ext.toUpperCase()}</a>`).join('')}</div>`}
-function showDetail(i){state.book=i;const b=LIBRARY[i];$('#detailCrown').innerHTML=emblem(b.glyph);$('#detailVolume').innerHTML=crystalBook(b);
+function showDetail(i){state.book=i;const b=LIBRARY[i];$('#details').style.setProperty('--aura',b.glow);$('#detailCrown').innerHTML=emblem(b.glyph);$('#detailVolume').innerHTML=crystalBook(b);
  const languages=b.editions.filter(ed=>!ed.variant).map(ed=>`<a href="${esc(ed.url)}" lang="en">${esc(({en:'English',ro:'Romanian',zh:'Chinese'})[ed.language]||ed.language)}</a>`).join('');
  const special=b.editions.filter(ed=>ed.variant).map(ed=>`<a href="${esc(ed.url)}">${esc(ed.label)} · ${esc(ed.language.toUpperCase())}</a>`).join('');
  $('#detailText').innerHTML=`<div class="detail-eyebrow">PRESERVED FORM / VOLUME ${n2(i)}</div><h1>${esc(b.title)}</h1><div class="detail-native" lang="${b.lang}" dir="${b.dir}">${esc(b.original)}</div><p class="detail-description">${esc(b.summary)}</p><div class="detail-facts"><span>${esc(b.author)}</span><span>${esc(b.tradition)}</span></div><a href="${esc(b.url)}" class="detail-open">READ BOOK</a>${exportLinks(b)}<div class="edition-links"><h2>Translations</h2>${languages}</div>${special?`<div class="edition-links"><h2>Special editions</h2>${special}</div>`:''}<div class="detail-toc-label">CONTENTS</div><div class="detail-toc">${b.chapters.map(ch=>`<a class="chapter-cell" href="${esc(b.url)}#${esc(ch.id)}"><span class="chapter-title">${esc(ch.title)}</span></a>`).join('')}</div>`;

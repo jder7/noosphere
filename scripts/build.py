@@ -158,7 +158,7 @@ def build(import_from=None):
             download_links = ''.join(f'<a href="../../{e(url)}" download>{ext.upper()}</a>' for ext, url in edition['downloads'].items())
             page = template.substitute(title=e(book['title']), label=e(edition['label']), author=e(book['author']),
                                        description=e(book['summary']), language=e(lang), direction='rtl' if lang in {'ar', 'he', 'fa', 'ur'} else 'ltr',
-                                       slug=e(slug), options=options, toc=toc, body=edition['body'],
+                                       slug=e(slug), accent=e(book['glow']), options=options, toc=toc, body=edition['body'],
                                        special=f'<div class="edition-links"><h3>Other editions</h3>{special}</div>' if special else '', downloads=download_links)
             target = ROOT / edition['url']
             target.parent.mkdir(parents=True, exist_ok=True)

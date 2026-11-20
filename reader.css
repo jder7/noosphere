@@ -23,3 +23,9 @@
 :focus-visible{outline:2px solid #b5f5df;outline-offset:4px}
 @media(max-width:720px){.book-reader .reading-header{flex-wrap:wrap;height:103px;gap:5px;padding:9px 12px}.book-reader .reader-back{font-size:11px}.book-reader .reader-book-title{max-width:62vw}.book-reader .reading-controls{width:100%;justify-content:flex-end}.book-reader .reader-layout{top:103px}.book-reader .page-flow{padding:15px 10px 35px}.book-reader .book-text{padding:35px 23px;font-size:calc(19px * var(--reader-scale))}.book-text h1{font-size:2.4rem}.book-reader .book-text h2{font-size:1.8rem}.book-reader .toc-tab{top:15px}.book-reader .reading-controls button{width:34px;height:34px}.book-reader .reading-controls select{padding:5px 8px}}
 @media(prefers-reduced-motion:reduce){.book-reader *{scroll-behavior:auto!important;transition:none!important}}
+
+/* Retain the book's accent in navigation while keeping body text neutral. */
+.book-reader .reading-header{border-bottom-color:color-mix(in srgb,var(--aura) 30%,transparent)}
+.book-reader .toc-divider{background:color-mix(in srgb,var(--aura) 65%,transparent)}
+.book-reader .toc-jump.is-current{color:var(--aura)}
+.book-reader .toc-tab{border-color:color-mix(in srgb,var(--aura) 55%,transparent)}

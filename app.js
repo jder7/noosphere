@@ -36,8 +36,14 @@ function initialiseArchive(){
  $('#archiveSequence').innerHTML=LIBRARY.map((b,i)=>`<button style="--aura:${b.glow}" data-index="${i}" title="${esc(b.title)}" aria-label="Focus ${esc(b.title)}">${emblem(b.glyph)}</button>`).join('');
  $$('.archive-volume').forEach(el=>{const activate=()=>{const i=Number(el.dataset.index);if(state.focus===i)showDetail(i);else setFocus(i)};el.addEventListener('click',activate);el.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();activate()}})});
  $$('#archiveSequence button').forEach(el=>el.addEventListener('click',()=>setFocus(Number(el.dataset.index))));
- $('#archive').addEventListener('wheel',e=>{if(!e.target.closest('.archive-stage')||state.scene!=='archive'||Math.abs(e.deltaY)<5)return;e.preventDefault();const now=Date.now();if(now-state.lastWheel<420)return;state.lastWheel=now;setFocus(state.focus+(e.deltaY>0?1:-1))},{passive:false});
- $('#archive').addEventListener('touchstart',e=>{state.touchY=e.target.closest('.archive-stage')?e.touches[0].clientY:null},{passive:true});
+ document.addEventListener('wheel',e=>{
+  if(state.scene!=='archive'||Math.abs(e.deltaY)<5)return;
+  const overBook=$$('.archive-volume').some(book=>{const r=book.getBoundingClientRect();return e.clientX>=r.left&&e.clientX<=r.right&&e.clientY>=r.top&&e.clientY<=r.bottom});
+  if(!overBook)return;
+  e.preventDefault();
+  const now=Date.now();if(now-state.lastWheel<420)return;state.lastWheel=now;setFocus(state.focus+(e.deltaY>0?1:-1));
+ },{passive:false,capture:true});
+ $('#archive').addEventListener('touchstart',e=>{state.touchY=e.target.closest('.archive-volume')?e.touches[0].clientY:null},{passive:true});
  $('#archive').addEventListener('touchend',e=>{if(state.scene!=='archive'||state.touchY===null)return;const d=state.touchY-e.changedTouches[0].clientY;if(Math.abs(d)>40)setFocus(state.focus+(d>0?1:-1));state.touchY=null},{passive:true});
  setFocus(startingIndex);
 }

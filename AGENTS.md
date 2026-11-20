@@ -36,3 +36,7 @@ Use the agent workflow in README.md. Edit `library.json` and `content/`, then ru
 ## Verification
 
 Run `python3 -m unittest discover -s tests`, `node --check app.js`, and `node --check reader.js` after building. Check direct section navigation, language switching, supplied downloads, archive return navigation, and the mobile reader when changing templates or navigation. Keep relative paths working under a GitHub Pages project prefix.
+
+## Temporary resources
+
+Track temporary files, local servers, browser tabs, and other app resources created during a task. Remove or stop them before finishing. Do not close or alter resources that were already open before the task; if a tool prevents cleanup, leave the resource untouched and report that limitation.

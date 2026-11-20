@@ -11,6 +11,7 @@ dist/
 build/
 __pycache__/
 to-be-imported/
+temp/
 
 # Logs and environment files
 npm-debug.log*

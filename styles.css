@@ -81,3 +81,7 @@ body[data-scene="reader"] .site-mark{display:none}
 .edition-download-row>span{font:17px/1.3 'EB Garamond',serif;color:#c5d9d0}
 .edition-download-row>div{display:flex;gap:14px;flex:none}
 .edition-download-row a{font-size:12px;color:#d7f9e8;text-underline-offset:4px}
+
+.archive-poem h2{position:relative;margin:0 0 14px;padding-top:11px;font:500 17px/1.25 'Cormorant Garamond',serif;letter-spacing:.045em;color:#ffd166;text-shadow:0 0 18px #ffd16658,0 1px 12px #000;max-width:245px;text-wrap:balance}
+.archive-poem h2:before{content:'';position:absolute;top:0;left:0;width:40px;height:1px;background:linear-gradient(90deg,#ffd166,transparent);box-shadow:0 0 8px #ffd16688}
+@media(max-width:720px){.archive-poem h2{font-size:16px;max-width:320px}}

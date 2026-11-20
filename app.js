@@ -2,6 +2,7 @@
 /* The catalog is generated from library.json and repository-owned editions. */
 const LIBRARY=window.NOOSPHERE_CATALOG;
 const STARTING_BOOK='knowledge-of-reality';
+const LANGUAGE_NAMES={en:'English',ro:'Romanian',zh:'Chinese'};
 const startingIndex=Math.max(0,LIBRARY.findIndex(book=>book.id===STARTING_BOOK));
 const $=s=>document.querySelector(s), $$=s=>Array.from(document.querySelectorAll(s));
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -61,9 +62,9 @@ function setFocus(i){
  $('#enterVolume').addEventListener('click',()=>showDetail(state.focus));
 }
 function showScene(id){state.scene=id;document.body.dataset.scene=id;$$('.scene').forEach(el=>{const isCurrent=el.id===id;el.hidden=!isCurrent;el.classList.toggle('current',isCurrent)});}
-function exportLinks(b){return `<div class="format-links"><span>ENGLISH EDITION</span>${Object.entries(b.downloads).map(([ext,url])=>`<a href="${esc(url)}" download>${ext.toUpperCase()}</a>`).join('')}</div>`}
+function exportLinks(b){return `<section class="edition-downloads" aria-label="Download editions"><h2>Downloads</h2>${b.editions.map(ed=>{const label=(LANGUAGE_NAMES[ed.language]||ed.language)+(ed.variant?` · ${ed.label}`:'');return `<div class="edition-download-row"><span>${esc(label)}</span><div>${Object.entries(ed.downloads).map(([ext,url])=>`<a href="${esc(url)}" download aria-label="Download ${esc(label)} ${ext.toUpperCase()}">${ext.toUpperCase()}</a>`).join('')}</div></div>`}).join('')}</section>`}
 function showDetail(i){state.book=i;const b=LIBRARY[i];$('#details').style.setProperty('--aura',b.glow);$('#detailCrown').innerHTML=emblem(b.glyph);$('#detailVolume').innerHTML=crystalBook(b,true);
- const languages=b.editions.filter(ed=>!ed.variant).map(ed=>`<a href="${esc(ed.url)}" lang="en">${esc(({en:'English',ro:'Romanian',zh:'Chinese'})[ed.language]||ed.language)}</a>`).join('');
+ const languages=b.editions.filter(ed=>!ed.variant).map(ed=>`<a href="${esc(ed.url)}" lang="en">${esc(LANGUAGE_NAMES[ed.language]||ed.language)}</a>`).join('');
  const special=b.editions.filter(ed=>ed.variant).map(ed=>`<a href="${esc(ed.url)}">${esc(ed.label)} · ${esc(ed.language.toUpperCase())}</a>`).join('');
  $('#detailText').innerHTML=`<div class="detail-eyebrow">PRESERVED FORM / VOLUME ${n2(i)}</div><h1>${esc(b.title)}</h1><div class="detail-native" lang="${b.lang}" dir="${b.dir}">${esc(b.original)}</div><p class="detail-description">${esc(b.summary)}</p><div class="detail-facts"><span>${esc(b.author)}</span><span>${esc(b.tradition)}</span></div><a href="${esc(b.url)}" class="detail-open">READ BOOK</a>${exportLinks(b)}<div class="edition-links"><h2>Translations</h2>${languages}</div>${special?`<div class="edition-links"><h2>Special editions</h2>${special}</div>`:''}<div class="detail-toc-label">CONTENTS</div><div class="detail-toc">${b.chapters.map(ch=>`<a class="chapter-cell" href="${esc(b.url)}#${esc(ch.id)}"><span class="chapter-title">${esc(ch.title)}</span></a>`).join('')}</div>`;
  showScene('details');const hash='#book/'+b.id;if(location.hash!==hash)location.hash=hash;}
@@ -81,7 +82,7 @@ function matchingBooks(){const query=searchable(searchInput.value.trim());return
 function updateSearch(){
  const query=searchInput.value.trim(),matches=matchingBooks();
  searchResults.hidden=!query;
- searchResults.innerHTML=matches.length?matches.map(b=>`<li><a href="#book/${esc(b.id)}" style="--aura:${b.glow}"><strong>${esc(b.title)}</strong><span>${esc(b.author||'Book of Wisdom')}</span></a></li>`).join(''):'<li class="search-empty">No books found.</li>';
+ searchResults.innerHTML=matches.length?matches.map(b=>`<li><a href="#book/${esc(b.id)}" style="--aura:${b.glow}"><strong><span class="search-glyph" aria-hidden="true">${emblem(b.glyph)}</span>${esc(b.title)}</strong><span class="search-author">${esc(b.author||'Book of Wisdom')}</span></a></li>`).join(''):'<li class="search-empty">No books found.</li>';
  $('#searchStatus').textContent=query?`${matches.length} ${matches.length===1?'book':'books'} found`:'';
 }
 searchInput.addEventListener('input',updateSearch);

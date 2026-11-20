@@ -70,3 +70,14 @@ body[data-scene="reader"] .site-mark{display:none}
 .search-results span{display:block;margin-top:5px;font-size:12px;color:#b4c9c4}
 .search-empty{padding:14px;font-size:14px;color:#b4c9c4}
 @media(max-width:720px){.archive-search{top:76px;left:23px;right:23px;width:auto}.archive-search input{height:36px}.search-results{max-height:45vh}.archive-poem{top:127px}}
+
+.search-results strong{display:flex;align-items:center;gap:10px}
+.search-results .search-glyph{display:block;flex:0 0 26px;width:26px;height:26px;margin:0;color:var(--aura)}
+.search-glyph svg{display:block;width:100%;height:100%;stroke-width:2.5}
+.search-results .search-author{margin-inline-start:36px}
+.edition-downloads{margin:22px 0 26px}
+.edition-downloads h2{font:12px 'DM Sans',sans-serif;letter-spacing:.12em;color:color-mix(in srgb,var(--aura) 65%,#bdcec8);margin:0 0 12px}
+.edition-download-row{display:flex;align-items:baseline;justify-content:space-between;gap:12px;padding:9px 0;border-bottom:1px solid color-mix(in srgb,var(--aura) 15%,transparent)}
+.edition-download-row>span{font:17px/1.3 'EB Garamond',serif;color:#c5d9d0}
+.edition-download-row>div{display:flex;gap:14px;flex:none}
+.edition-download-row a{font-size:12px;color:#d7f9e8;text-underline-offset:4px}

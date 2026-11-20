@@ -67,7 +67,7 @@ The tests check catalog consistency, local files and fragment links, section ide
 | The Knowledge of Reality | English, Romanian | — |
 | The Philosopher’s Stone | English, Romanian | — |
 
-Available download formats vary by edition. A missing PDF or DOCX is omitted from the interface.
+Available download formats vary by edition. A missing PDF or DOCX is omitted from the interface. On a volume’s details screen, use **Downloads** to choose a language and format directly. In a reader, select the book language, expand the contents panel if necessary, and use the download links above the contents list. Romanian PDF/DOCX files for The Knowledge of Reality and The Philosopher’s Stone are not currently supplied; add those files beside the matching Markdown and rebuild when available.
 
 ## Project structure
 
@@ -106,7 +106,7 @@ Edit `library.json`, `content/`, `glyphs.json`, and shared presentation files. R
 This workflow applies to human contributors and content agents.
 
 1. **Register the work** in `library.json`. Copy an existing record and provide a unique, stable kebab-case `id`, an English `title` and `summary`, `author`, `tradition`, `source`, `era`, the native `original` title and its `lang`, and the visual fields `glow` and `glyph`. Available glyphs are `vesica`, `lotus`, `wheel`, `star`, `rings`, `orbits`, `triad`, `cross`, `seed-of-life`, and `borromean`. Set `verse: true` to preserve source line breaks.
-2. **Add source editions** under `content/<book-id>/`. Every work requires `book-en.md`. Translations use filenames such as `book-ro.md` or `book-zh.md`, with lowercase two- or three-letter language codes. To support another language, add its English display name to `LANGUAGES` in `scripts/build.py` and the language-name map in `app.js`. Application controls remain English.
+2. **Add source editions** under `content/<book-id>/`. Every work requires `book-en.md`. Translations use filenames such as `book-ro.md` or `book-zh.md`, with lowercase two- or three-letter language codes. To support another language, add its English display name to `LANGUAGES` in `scripts/build.py` and `LANGUAGE_NAMES` in `app.js`. Application controls remain English.
 3. **Register special editions**, if present. For example, `book-en-annotated.md` requires `"specialEditions": {"annotated": "Annotated edition"}` in the work's metadata. Special editions remain grouped under the parent work and receive their own URLs.
 4. **Include supplied downloads** alongside the matching Markdown, using the same filename stem: `book-ro.pdf`, for example. Add only formats provided for that edition. The project generates HTML only.
 5. **Preserve the edition's text and attribution**, including footnotes, annotations, publication notes, and known source information. Do not invent missing credits or bibliographic facts. Raw HTML is preserved during conversion, so review imported content and exclude scripts and event handlers.

@@ -1,0 +1,4200 @@
+# Cunoașterea realității
+
+**Henry T. Laurency**
+
+## 1 PROBLEMELE REALITĂȚII, PARTEA ÎNTÂI
+
+### 1.1 *Ceea ce majoritatea oamenilor nu știu*
+
+<sup>1.</sup>Un eminent savant modern a răspuns la întrebarea dacă omenirea a reușit până acum să exploreze un procent din realitate: „Nu, nici măcar o zecime de miime de procent”.
+
+<sup>2.</sup>Adică nici măcar o milionime! Un asemenea savant stârnește, desigur, respect. Nimeni nu impresionează mai mult decât cel care își dă seama de imensa ignoranță a omului în privința vieții. Căci pentru oricine a asimilat ceea ce teologia, filozofia și știința ne spun despre realitate este limpede: concluziile la care pot ajunge sunt simple ipoteze (un eufemism pentru presupuneri și conjecturi!). Sau, cum a spus profesorul Whittaker: „Știm că există ceva pe care îl numim materie, dar nu știm ce este; știm că se mișcă, dar nu știm de ce o face, iar aceasta este suma întregii noastre cunoașteri.” Este adevărat. Știința nu poate răspunde întrebărilor Ce? și De ce?, lucru pe care îl înțelesese deja Newton. Pentru a se elibera de dovada acestei ignoranțe prea stânjenitoare, filozofii moderni încearcă să înlăture toate conceptele despre realitate, numind ficțiuni tocmai lucrurile respective!
+
+<sup>3.</sup>Există destule autorități în teologie, filozofie și știință care emit judecăți despre orice și fac afirmații dogmatice în chestiuni pe care nici măcar nu le-au cercetat. Ele știu a priori că „acest lucru” nu poate fi adevărat, fiindcă intră în conflict cu ceea ce au citit în papa lor de hârtie sau „contravine legilor naturii”; ca și cum papa lor de hârtie le-ar fi rezolvat problema existenței, ar fi alcătuit o concepție despre lume care explică realitatea și soluționează problemele fundamentale ale cunoașterii! Ca și cum știința ar putea hotărî ce „contravine legilor naturii” și ce nu, când nu a explorat nici măcar un procent dintre ele!
+
+<sup>4.</sup>Este important să nu ne limităm la ceea ce a fost explorat, să nu respingem nicio idee fiindcă ni se pare străină, improbabilă sau nefolositoare. Este important să investigăm orice posibilitate nouă de cunoaștere. Știm prea puțin ca să ne putem permite să neglijăm cea mai mică șansă de a ne lărgi cunoașterea. Toate ideile noi par, la prima vedere, improbabile majorității oamenilor. Cei care se socotesc capabili să judece acceptă numai ceea ce se potrivește propriului lor sistem de gândire. Dar ar trebui să-și dea seama că, dacă acel sistem este atât de corect, ar trebui să fie aproape omniscienți.
+
+<sup>5.</sup>Savanții par mereu să uite că ipotezele și teoriile lor sunt doar temporare. Se măgulesc că sunt lipsiți de dogmatism, că gândirea lor este liberă și dreaptă. Dar istoria științei a mărturisit întotdeauna contrariul. Încă prea des se vede cum autoritățile științifice resping, fără să cerceteze, ceea ce pare improbabil, straniu și necunoscut (cum a fost orice idee revoluționară). Savanții numesc iluzie ceea ce nu pot explica, iar religioșii îi spun dumnezeu.
+
+<sup>6.</sup>Există în refuzul de a cerceta o doză de idioție aparent incorigibilă și imposibil de înlăturat.
+
+<sup>7.</sup>Adevăratul căutător, care a recunoscut dezorientarea totală și neputința intelectuală a omenirii în problemele existenței, cercetează totul, fără să-i pese că autoritățile dominante au respins acel lucru categoric și că opinia publică, repetată ca de papagali, ridiculizează și disprețuiește tot ceea ce nu cunoaște sau nu poate înțelege.
+
+<sup>8.</sup>Să explici celor neinițiați ceva de care nu sunt deloc conștienți ar părea o sarcină fără speranță, mai ales când este vorba despre ceva ce li se înfățișează ca straniu, improbabil și ireal.
+
+<sup>9.</sup>Omenirea a fost hrănită atât de multă vreme cu atâtea încercări religioase, filozofice, științifice și, în ultimele decenii, și oculte de a explica existența, încât majoritatea oamenilor refuză să studieze adevărata cunoaștere atunci când le este oferită. Se mulțumesc să exploreze numai lumea care le este vizibilă. Îndoiala generală că ar exista vreo altă realitate câștigă tot mai mult teren.
+
+<sup>10.</sup>Dar să presupunem că există o cunoaștere a existenței care celor învățați li se va părea culmea nebuniei. Să presupunem că filozoful Kant s-a înșelat afirmând că nu vom ajunge niciodată să cunoaștem ceva despre realitatea lăuntrică a naturii. Să presupunem că rishișii indieni, hierofanții egipteni, teurgii gnostici, rozacrucienii originari, adevărați, nu au fost niște mistagogi, șarlatani și impostori, așa cum au încercat cei învățați să-i prezinte.
+
+<sup>11.</sup>Caracteristic lumii savante de astăzi este disprețul ei față de tot ce am moștenit de la părinții noștri, ca și cum toate experiențele de până acum ale omenirii ar fi lipsite de sens și inutile în viață.
+
+<sup>12.</sup>Cercetarea științifică a avansat mult în domeniile ei limitate, însă numai elita savanților începe să-și dea seama cât de puțin știe omenirea despre întreg.
+
+<sup>13.</sup>Ce știu paleontologii despre vechimea omului? Știu ei că pe planeta noastră au existat oameni pe deplin dezvoltați timp de 21 de milioane de ani?
+
+<sup>14.</sup>Ce știu geologii despre cele două continente emisferice, Lemuria și Atlantida, aflate acum pe fundul Oceanului Pacific și al Oceanului Atlantic; și ce știu anticarii despre civilizațiile acelor continente?
+
+<sup>15.</sup>Ce știu arheologii despre culturi mai apropiate de noi în timp decât cele amintite: cultura indiană de acum circa 50.000 de ani, cea egipteană de acum 40.000 de ani, cea peruviană de acum 15.000 de ani sau chiar cea a Greciei antice de acum 12.000 de ani?
+
+<sup>16.</sup>Ce știu cei învățați despre diferitele ordine secrete ale cunoașterii care au existat în multe țări? Ce știu despre ordinul instituit de Vyasa în India cu aproximativ 45.000 de ani în urmă sau despre cel instituit de Hermes Trismegistos în Egipt cu circa 40.000 de ani în urmă, despre cel instituit de primul Zoroastru în Persia cu aproximativ 30.000 de ani în urmă ori despre cel al lui Pitagora de acum tocmai 2.700 de ani?
+
+<sup>17.</sup>Ce știu cei învățați despre existență, despre structura universului, despre alte feluri de materie și alte lumi decât cea fizică, despre faptul existenței unui al cincilea regn al naturii?
+
+<sup>18.</sup>Ce știu acești oameni atât de învățați chiar și despre viața individului, care continuă după ce el și-a părăsit organismul uzat?
+
+<sup>19.</sup>Ceea ce poate au aflat din cunoașterea privitoare la acestea este atât de deformat, încât trebuie socotit puțin mai mult decât o superstiție grosolană.
+
+<sup>20.</sup>Pentru atitudinea occidentală, ideea că o cunoaștere trebuie păstrată secretă este aproape revoltătoare sau, în orice caz, respingătoare și provoacă presupunerea că avem de-a face cu „șarlatania intelectuală a impostorilor”.
+
+<sup>21.</sup>Indienii, dimpotrivă, acceptă pur și simplu secretul ca pe o necesitate. Câteva mii de ani de experiență i-au învățat că nu trebuie să „arunce mărgăritare”, și nu le aruncă.
+
+<sup>22.</sup>Iar aceasta din simplul motiv că înțelegerea exactă cere calificări considerabile și că orice cunoaștere care conferă putere este abuzată de cei care sunt în situația de a folosi puterea spre propriul lor folos.
+
+<sup>23.</sup>În India există multe feluri de yoghini. Tipul cel mai înalt este necunoscut, cu excepția inițiaților speciali. Yoginii despre care aud occidentalii sunt în cea mai mare parte membri ai Misiunii Ramakrishna. Ei predau filozofia Sankhya și Vedanta așa cum au fost expuse de Ramakrishna. Yoginii cei mai înalți sunt inițiați care își transmit cunoașterea numai câtorva discipoli aleși și sub cele mai stricte jurăminte de tăcere. Ei îi socotesc pe toți occidentalii barbari și consideră profanare a cunoașterii lor să dezvăluie ceva din ea acelor oameni ignoranți, sceptici incurabili, disprețuitori și arogant superiori, curioși, care abuzează de cunoaștere în clipa în care cred că au înțeles-o și care, mai mult, își pun întreaga cunoaștere în slujba barbariei și la dispoziția bandiților.
+
+<sup>24.</sup>Atitudinea indianului față de viață este exact opusul celei a occidentalului. În timp ce pentru occidental lumea fizică este singura care există, pentru indian realitatea suprafizică este cea esențială. Lumile materiale superioare alcătuiesc baza materială a materiei fizice, iar cauzele proceselor naturii există în acele lumi superioare.
+
+<sup>25.</sup>Adevăratul yoghin, care a reușit în experimentele sale, a dezvoltat organe care la alții sunt încă nedezvoltate, fiind destinate să fie organizate și vitalizate într-o epocă viitoare; organe care fac posibilă explorarea unor feluri moleculare superioare, a unei întregi serii de stări de agregare din ce în ce mai înalte, situate cu mult dincolo de posibilitățile fizicii nucleare de a le explora.
+
+<sup>26.</sup>Occidentalii nu au nicio concepție despre aceste rudimente, iar marile lor autorități resping cu batjocură și dispreț simpla idee că asemenea lucruri ar putea fi posibile. Ei au, desigur, minunata capacitate de a judeca lucruri despre care nu știu nimic.
+
+<sup>27.</sup>Explicația indiană a lumii este cu mult superioară celei occidentale. Ea este o doctrină a dezvoltării, a preexistenței sufletului, a renașterii și a karmei, adică legea semănatului și seceratului. Ea afirmă că există alte lumi decât cea fizică și se angajează să demonstreze acest lucru căutătorilor serioși și onești care sunt pregătiți să se supună metodelor sale de dezvoltare a rudimentelor unor feluri superioare de conștiință obiectivă existente în om. Prin aceasta, ea respinge negarea agnosticului și a scepticului privitoare la cunoașterea suprafizică, la faptul că existența este guvernată de legi, la dezvoltare etc. și, făcând astfel, pregătește calea pentru ezoterism.
+
+<sup>28.</sup>Cum ar putea, așadar, occidentalii să aibă vreo cunoaștere a lumilor suprafizice, când nu au capacitatea de a le constata existența? Ei constată realități în materia fizică aplicând simțul fizic (conștiința fizică obiectivă). Pentru a constata realități în lumile superioare este necesar un fel corespunzător de simț, iar acesta este ceea ce a primit numele nefericit de clarviziune.
+
+<sup>29.</sup>Savanții nu pot fi învinuiți pentru că le lipsește simțul emoțional sau simțul mental. Dar este îndreptățit să li se ceară să nu nege categoric existența unor lucruri despre care nu au niciun drept logic să-și exprime opinii.
+
+<sup>30.</sup>Filozofia nu îl învață pe om să gândească în acord cu realitatea. Îl învață însă că omul nu face decât greșeli atunci când încearcă să gândească fără faptele necesare. Filozofii încă nu au înțeles aceasta. De altfel, ei nu au reușit să rezolve nici cea mai evidentă dintre toate problemele cunoașterii.
+
+<sup>31.</sup>Judecata asupra psihologiei occidentale este lăsată de preferință cititorului înțelegător al tuturor celor ce urmează.
+
+<sup>32.</sup>Cei care sunt mulțumiți de sistemele lor de gândire (nu în ultimul rând scepticii) pot foarte bine să le păstreze. Cu toții vom avea de reînvățat în viețile viitoare. Dar există o categorie de căutători care își dau seama instinctiv că trebuie să existe ceva diferit, ceva mai mult, că lucrurile nu pot fi așa cum spun cei învățați că sunt. Pe acești căutători dorește să-i atingă ezotericianul, nu ca să-i convingă, ci ca să le ceară să examineze chestiunea logic. Dacă ezoterismul este fals, atunci trebuie să poată fi respins logic. Dar el nu este respins prin tirada obișnuită servită mereu de cei care nu au cercetat niciodată chestiunea.
+
+<sup>33.</sup>La stadiul actual de dezvoltare al omenirii, cunoașterea ezoterică nu poate fi, pentru majoritatea oamenilor, mai mult decât o ipoteză de lucru. Dar, cu cât omenirea se va dezvolta mai departe, cu atât va deveni mai evident că această ipoteză este incomparabil superioară.
+
+<sup>34.</sup>Sistemul este modul în care gândirea se orientează. Datele constatate sunt în mare măsură inutile până când rațiunea le poate așeza în contextele lor corecte (istorice, logice, psihologice sau cauzale). Orice gândire rațională se bazează pe principii și sisteme. Fiecare om care gândește și-a făcut propriul sistem, fie că știe sau nu. Sistemele oferă o concepție corectă despre temeiul și consecința gândirii, precum și despre cauza și efectul realităților obiective. Calitatea sistemului arată nivelul de dezvoltare al individului, capacitatea sa de judecată și cunoașterea datelor relevante. Sistemele celor mai mulți oameni sunt sisteme de credință ale gândirii emoționale, pe care nicio realitate constatată nu le poate zdruncina. Prin aceasta individul a atins punctul său de maturitate, limita receptivității sale, fiind captiv în închisoarea propriilor gânduri.
+
+<sup>35.</sup>Ignoranța privind existența este atât de mare încât sistemele dogmatice ale teologiei, sistemele speculative ale filozofiei și sistemele primitive de ipoteze ale științei au fost toate acceptate drept explicații satisfăcătoare.
+
+<sup>36.</sup>Căutătorii adevărului examinează faptele originare sau ipotezele de bază ale sistemelor existente, măsura în care vreun sistem nu se contrazice pe sine, consecințele lui și capacitatea sa de a explica rațional.
+
+<sup>37.</sup>Mulți oameni găsesc ezoterismul de la sine înțeles în clipa în care intră pentru prima dată în contact cu el. Aceasta se întâmplă deoarece cunoașterea, așa cum susținea Platon, este reamintire. Tot ceea ce putem cuprinde, pricepe, înțelege imediat am asimilat în încarnări anterioare. De asemenea, calitățile și capacitățile dobândite odată rămân latente până când li se oferă prilejul să se dezvolte într-o nouă încarnare. Înțelegerea a ceea ce este vechi rămâne, la fel ca aptitudinea pentru deprinderi. Unul dintre numeroasele exemple este geniul, fenomen altminteri de neînțeles.
+
+<sup>38.</sup>Ezotericianul își prezintă sistemul celor care au rămas căutători și nu au fost mulțumiți de sistemele dominante. El așteaptă liniștit ziua în care știința va fi constatat atât de multe date odinioară ezoterice, încât nu va mai putea refuza să accepte ezoterismul drept singura ipoteză de lucru cu adevărat sustenabilă.
+
+<sup>39.</sup>O valoare neprețuită, printre altele, a cunoașterii ezoterice este că ne eliberează de superstițiile și pseudo-cunoașterea ignoranței, de iluzii și ficțiuni (concepții fără corespondențe în realitate). O altă valoare este că atrage după sine, ca urmare necesară a cunoașterii sensului și scopului vieții, o reevaluare completă a tuturor valorilor vieții.
+
+### 1.2 *Ordinele ezoterice ale cunoașterii*
+
+<sup>1.</sup>Dacă omul nu trebuie să fie ca o trestie în vânt, ca o corabie pe marea nemărginită ori să aibă sentimentul că pășește pe o mlaștină fără fund, el are nevoie, la stadiul emoțional, de ceva stabil pentru simțirea sa, iar la stadiul mental, de ceva stabil pentru gândirea sa. Până acum, acest „ceva” nu a fost în acord cu realitatea.
+
+<sup>2.</sup>Deoarece omenirea nu poate dobândi neajutată cunoașterea existenței, a sensului și scopului ei ori cunoașterea realității și vieții cosmice, această cunoaștere i-a fost dată întotdeauna — de către cine se va arăta mai târziu.
+
+<sup>3.</sup>Aceasta a atras riscuri determinate. Cunoașterea care conferă putere, cunoașterea legilor și forțelor naturii și a folosirii lor, a fost întotdeauna abuzată în scopuri egoiste. Iar cei care n-au putut înțelege cunoașterea realității au deformat-o întotdeauna în superstiție și doctrine false.
+
+<sup>4.</sup>Dobândirea cunoașterii aduce răspunderea pentru folosirea ei corectă. Abuzul de cunoaștere duce la pierderea cunoașterii și, când sunt vizate popoare întregi, la nimicirea lor.
+
+<sup>5.</sup>De două ori continente întregi au trebuit să fie scufundate în adâncul mării: Lemuria și Atlantida.
+
+<sup>6.</sup>După aceste două eșecuri s-a hotărât ca această cunoaștere să fie transmisă numai în școli secrete ale cunoașterii și numai acelora care atinseseră un asemenea stadiu de dezvoltare încât să poată înțelege corect, să nu interpreteze greșit ceea ce li se preda și să aplice corect în slujba vieții. Ei erau învățați cum să gândească corect. În ultimii 45.000 de ani au fost instituite ordine ezoterice ale cunoașterii printre popoarele care atinseseră un nivel suficient de înalt. Deoarece cunoașterea este reamintire, cei care nu au fost niciodată inițiați nu pot vedea justețea ezoterismului.
+
+<sup>7.</sup>Ordinele cunoașterii cuprindeau mai multe grade. Celor din gradul cel mai de jos li se dădeau simboluri atent elaborate, care puteau fi interpretate într-un mod nou în fiecare grad superior, astfel încât numai aceia care ajungeau la gradul cel mai înalt erau pe deplin capabili să înțeleagă întregul. Procedeul avea dificultățile sale, fiindcă aceia care nu ajungeau la gradul cel mai înalt își alcătuiau uneori propriile sisteme de gândire, eronate.
+
+<sup>8.</sup>Pentru cei neadmiși în aceste ordine au fost instituite religii corespunzătoare capacității de înțelegere a diferitelor popoare și nevoii lor de norme pentru activitatea potrivită.
+
+<sup>9.</sup>Creșterea rapidă a iluminării generale și progresele științei au făcut necesare alte măsuri. Din secolul al XVIII-lea conflictul dintre „credință și cunoaștere” (între care nu pot deosebi cei care cred că știu, cuprind, înțeleg) a devenit tot mai accentuat. (Toți sunt credincioși cei cărora le lipsește cunoașterea exactă a realității, inclusiv cei care spun că nu cred în nimic.) Acest conflict a început cu filozofia iluministă antireligioasă și antimetafizică și a crescut în secolul al XIX-lea odată cu progresul cercetării științifice. Laplace cu *Système du monde*, Lamarck, Darwin, Spencer și Haeckel cu teoria evoluției, Lange cu *Istoria materialismului* și alții i-au convins pe naturaliști că „nu aveau nevoie de ipoteza unei lumi spirituale”. Atacurile lor împotriva vechilor concepții despre viață au dus la o dezorientare tot mai mare, necivilizatoare, astfel încât oamenii au ajuns în cele din urmă să „se simtă din ce în ce mai nesiguri cu privire la bine și rău. Sunt chiar nesiguri dacă binele și răul sunt altceva decât o veche superstiție”. Există primejdia ca omenirea, în nebunia ei, să se extermine.
+
+<sup>10.</sup>A devenit necesar să se ia măsuri împotriva acestei frenezii și s-a hotărât ca partea sigură a cunoașterii ezoterice, pe care omenirea este acum în stare să o cuprindă, dacă nu să-i înțeleagă însemnătatea, să fie făcută exoterică. Omenirea a primit astfel șansa de a-și forma o concepție rațională despre realitate și viață, precum și despre sensul și scopul existenței.
+
+<sup>11.</sup>Credința nu era îngăduită în ordinele ezoterice. În ele, chestiunea era întotdeauna de a cuprinde și de a înțelege, nu de a crede. În gradul cel mai de jos se preda deosebirea dintre credință și presupunere. Credința este convingere emoțională absolută și nerațională, care nu poate fi corectată nici de rațiune. Fiecare are micile sale credințe despre aproape orice absurditate, deoarece omul nu poate cunoaște cu adevărat decât faptele stabilite definitiv în lumea vizibilă. În schimb, presupunerea este provizorie, valabilă numai până se ajunge la cunoaștere, receptivă la argumente raționale și doritoare de corectare. Pot exista autorități în toate sferele vieții, dar presupunerile lor nu constituie niciun verdict final pentru bunul-simț care, deși diferit pentru fiecare dintre noi, este totuși simțul cel mai înalt și acela pe care fiecare ar trebui să se străduiască să-l dezvolte. El este instinctul sintetic de viață al individului, dobândit prin încarnările sale.
+
+<sup>12.</sup>În ultimele două mii de ani a existat un conflict neîntrerupt între diferite ideologii: un conflict între teologie și filozofie, între teologie și știință, între filozofie și știință.
+
+<sup>13.</sup>În istoria filozofiei europene, conflictul vizibil mai ales este cel dintre teologie și filozofie. În acest conflict, teologia a avut aproape întotdeauna sprijinul deținătorilor puterii politice. Filozofia a trebuit să-și croiască drum pas cu pas, cu o trudă nespusă și milioane de martiri, pentru a dobândi libertatea gândirii și a exprimării, toleranța și umanitatea. Aceste câștiguri sunt amenințate în schimb de ideologia marxistă, care interzice individului să gândească altfel decât decretează cei aflați la putere. Aceasta este noua tiranie a gândirii. Că dezvoltarea mentală este împiedicată de acest nou fel de idiotizare ar trebui să poată vedea și mintea cea mai simplă.
+
+<sup>14.</sup>Conflictul dintre teologie și știință a început cu Galilei și continuă încă.
+
+<sup>15.</sup>Conflictul dintre filozofie și știință a fost suspendat, cel puțin pentru moment, acum când filozofii au devenit în cele din urmă fie agnostici care neagă posibilitatea de a constata fapte suprafizice, fie antimetafizicieni care neagă existența realității suprafizice.
+
+<sup>16.</sup>De-a lungul istoriei filozofiei, care de fapt începe cu sofiștii, putem urmări încercările făcute de rațiunea umană de a rezolva singură, fără cunoaștere ezoterică, problemele existenței, având acces numai la simțul fizic.
+
+<sup>17.</sup>Că aceasta era sortită eșecului va deveni evident în cele ce urmează. Dar abia în vremea noastră oamenii în general încep să vadă că este imposibil. Științei îi lipsesc organele de percepție necesare pentru aceasta, iar savantul refuză să se ocupe de lucruri care nu pot fi cercetate cu instrumentele cercetării naturii. Logic, aceasta este perfect defensabil.
+
+<sup>18.</sup>Trebuie subliniat că filozofia yoga indiană nu este în acord cu faptele cunoașterii ezoterice, ci se bazează pe interpretarea greșită a unora dintre ele. Renașterea a fost prefăcută într-o metempsihoză lipsită de sens, astfel încât se consideră posibil ca omul să renască drept animal, deși revenirea într-un regn natural inferior este de fapt exclusă. Evoluția prin regnurile mineral, vegetal, animal și uman este considerată a se încheia cu intrarea omului în nirvana și stingerea sa acolo, deși nirvana nu este în realitate sfârșitul, ci începutul. Interpretarea indiană a termenilor *manas*, *buddhi*, *nirvana*, *atma*, *karma* este înșelătoare, la fel ca subiectivismul absolut al Advaitei, care face imposibilă cunoașterea aspectelor de materie și mișcare ale existenței.
+
+### 1.3 *Dovezile hylozoicii*
+
+<sup>1.</sup>Când oamenii preiau un cuvânt nou, acesta își pierde mai mult sau mai puțin repede semnificația originară. Oamenii cred întotdeauna că știu cărui concept îi aparține cuvântul. Se poate prevedea că termenul „ezoteric”, ca element al vocabularului maselor, va deveni sinonim cu aproape orice.
+
+<sup>2.</sup>Din nefericire, există și riscul ca ezoterismul să cadă în dizgrație din cauza popularității crescânde a cvasiocultismului. Tot mai mulți scriitori incompetenți, cu ochii la câștig, s-au grăbit să producă tot felul de prostii, căci acestea se vând repede, la fel ca orice altă literatură ieftină. Cu simțul realității ruinat de toate ficțiunile, oamenii preferă ficțiunea în locul realității.
+
+<sup>3.</sup>Există și clarvăzători à la Swedenborg, care vor povesti ce au văzut în „lumea lăuntrică”. Ar trebui să ia în considerare axioma ezoterică: „niciun văzător autodidact nu a văzut vreodată corect”, deoarece, deși lumea următoare poate părea asemenea lumii noastre, ea este de fapt cu totul diferită. Dacă nu ai anumite cunoștințe ezoterice despre chestiunile în cauză, vei interpreta greșit practic totul.
+
+<sup>4.</sup>Pentru cei care au nevoie de ele, există cinci dovezi ale justeții hylozoicii (ale acordului ei cu realitatea), fiecare în sine pe deplin suficientă, având o soliditate logică neegalată. Aceste cinci sunt:
+
+- dovada logică;
+- dovada prin explicație;
+- dovada prin predicție;
+- dovada prin clarviziune;
+- dovada experimentală.
+
+<sup>5.</sup>Dovada logică constă în a arăta că hylozoica alcătuiește un sistem de gândire necontradictoriu și irefutabil și că, fiind astfel, nu poate fi construită de intelectul uman și nici fără o cunoaștere a realității. Ea nu poate intra niciodată în conflict cu faptele stabilite definitiv de știință. Toate faptele noi își vor găsi locul în ea. Cu cât cercetarea avansează, cu atât va deveni mai evident că hylozoica este singura ipoteză de lucru sustenabilă. La stadiul actual de dezvoltare al omenirii, ea nu poate fi altceva pentru majoritatea oamenilor.
+
+<sup>6.</sup>Dovada prin explicație: hylozoica oferă cea mai simplă, mai unitară, mai generală, necontradictorie și irefutabilă explicație pentru mii de fenomene altminteri complet inexplicabile.
+
+<sup>7.</sup>Dovada prin predicție: au fost deja făcute o serie de predicții verificabile — suficiente pentru a umple un volum — privind descoperiri, invenții și evenimente în sine imprevizibile pentru om.
+
+<sup>8.</sup>Dovada prin clarviziune: așa cum susțin și yoghinii raja indieni, oricine este dispus să urmeze antrenamentul necesar poate dezvolta capacități, acum latente în om, care într-o zi vor fi puteri deținute de fiecare; adică posibilitatea de a dobândi conștiință obiectivă în feluri moleculare sau stări de agregare din ce în ce mai înalte, în prezent invizibile.
+
+<sup>9.</sup>Dovada experimentală (magia): această dovadă constă în cunoașterea legilor naturii relevante și a metodei de aplicare a lor și în folosirea energiilor materiale eterice fizice pentru a produce schimbări și în materia fizică grosieră. Magia a fost însă interzisă din mai multe motive. Folosirea ei ar pune o armă în mâinile potențialilor bandiți ai omenirii și i-ar ispiti spre tot felul de crime. Savanții i-au numit pe magicieni impostori și au declarat imposibile toate asemenea fenomene, fiindcă „contravin legilor naturii”. Magicienii au fost martiri și în alte feluri. Cei însetați de senzații cer de la ei tot mai mult. Cei care au nevoie de ajutor își asediază victimele cu cererile lor. Curioșii vor ca toate problemele să le fie rezolvate.
+
+### 1.4 FACTORII FUNDAMENTALI AI EXISTENȚEI
+
+<sup>1.</sup>Următoarele reprezintă o expunere populară, în veșmânt modern și pentru prima dată, a elementelor esențiale ale doctrinei secrete pitagoreice. Pitagora numea această concepție despre lume hylozoică (materialism spiritual). Toată materia are spirit, sau conștiință. Toate lumile sunt lumi spirituale, inferioare și superioare.
+
+<sup>2.</sup>„Problemele realității” oferă numai datele cele mai fundamentale necesare pentru a înțelege sensul și scopul vieții. Mii de date deja publicate sunt, în mod necesar, lăsate deoparte pentru a nu împovăra expunerea. O prezentare mai detaliată este dată în *Piatra filozofală* de Laurency.
+
+<sup>3.</sup>În privința teoriei cunoașterii, orice lucru este înainte de toate ceea ce pare a fi: realitate materială fizică, dar este totodată întotdeauna ceva complet diferit și infinit mai mult.
+
+<sup>4.</sup>Existența este o trinitate de trei aspecte echivalente: materie, mișcare și conștiință. Niciunul dintre acestea nu poate exista fără celelalte două. Toată materia este în mișcare și are conștiință.
+
+<sup>5.</sup>Materia este alcătuită din atomi primordiali, pe care Pitagora îi numea monade, cele mai mici părți posibile ale materiei primordiale și cele mai mici puncte fixe pentru conștiința individuală.
+
+<sup>6.</sup>Cauza originară a mișcării este energia dinamică a materiei primordiale.
+
+<sup>7.</sup>De la început, conștiința din atomii primordiali este potențială (inconștientă), este treptat trezită în procesul manifestării, devenind conștiință pasivă actualizată și, ulterior, devine tot mai activă în lumile tot mai înalte ale regnurilor naturale tot mai înalte.
+
+<sup>8.</sup>Pitagora a înțeles că grecii aveau premisele pentru a cuprinde realitatea obiectivă, pentru metoda științifică și pentru gândirea sistematică. Cultivarea aspectului conștiinței, cum fac orientalii, înainte de a fi pusă temelia înțelegerii realității materiale, duce la subiectivism și la o viață de imaginație nestăvilită. Lui Pitagora îi datorăm cele mai multe dintre conceptele noastre fundamentale despre realitate, pe care analiștii conceptuali de astăzi (ignorând realitatea) se străduiesc atât de mult să le înlăture, făcând astfel definitiv imposibilă înțelegerea realității. Pitagora, cu doctrina monadelor, și Democrit, cu teoria sa atomică exoterică, pot fi considerați primii doi savanți în sens occidental. Ei au înțeles că aspectul materiei este baza necesară a unei abordări științifice. Fără această bază nu va exista precizie în cercetarea naturii lucrurilor și a relațiilor dintre ele. Conștiința individuală nu are limite controlabile, dar tinde să se înece în oceanul conștiinței.
+
+<sup>9.</sup>În cele ce urmează vor fi prezentate mai departe cele trei aspecte ale realității, dezvoltarea conștiinței în diferitele regnuri naturale și marea Lege, totalitatea tuturor legilor naturii și vieții. Cunoașterea celor trei aspecte ale vieții este o condiție necesară pentru înțelegerea evoluției regnurilor naturale.
+
+#### Aspectul materiei
+
+### 1.5 *Materia primordială*
+
+<sup>1.</sup>Materia primordială, haosul grecilor, este totodată spațiul nelimitat.
+
+<sup>2.</sup>În această materie primordială nemanifestată, „dincolo de spațiu și timp”, există un număr nelimitat de cosmosuri, aflate în toate stadiile diferite ale construirii sau descompunerii.
+
+### 1.6 *Cosmosul*
+
+<sup>1.</sup>Un cosmos este un glob în materia primordială. Dimensiunile sale originare sunt mici, dar, fiind alimentat cu atomi primordiali din rezerva inepuizabilă a materiei primordiale, crește neîncetat până a atins mărimea necesară. Prin urmare, materia este spațiu.
+
+<sup>2.</sup>Un cosmos complet construit, precum al nostru, constă dintr-o serie continuă de lumi materiale cu diferite grade de densitate, cele superioare pătrunzându-le pe toate cele inferioare. Astfel, lumea cea mai înaltă pătrunde totul în cosmos.
+
+<sup>3.</sup>Lumile sunt construite pornind de la lumea cea mai înaltă, fiecare lume superioară furnizând materie pentru următoarea lume inferioară, care se formează în și din cele superioare.
+
+<sup>4.</sup>Există șapte serii a câte șapte lumi materiale cosmice, în total 49 (1–7, 8–14, 15–21, 22–28, 29–35, 36–42, 43–49), potrivit împărțirii constante în șapte departamente. Aceste lumi atomice ocupă același spațiu în cosmos. Toate lumile superioare le cuprind și le pătrund pe cele inferioare.
+
+<sup>5.</sup>Există o explicație foarte simplă pentru numerele trei și șapte, pe care așa-zișii experți le înlătură cu ridiculizarea lor obișnuită. Trei, datorită celor trei aspecte ale existenței (trinitatea!!), iar șapte, deoarece acesta este cel mai mare număr de moduri diferite în care trei poate fi combinat succesiv. Și batjocura la adresa „numerologiei pitagoreice” va deveni de domeniul trecutului când oamenii vor înțelege puțin mai mult.
+
+<sup>6.</sup>Numerotarea lumilor pornește de la lumea cea mai înaltă, ca fiind prima, și coboară, arătând că ele sunt formate de sus în jos. Astfel este ușor de văzut câte lumi superioare mai sunt de atins, indiferent în ce lume inferioară se află individul.
+
+<sup>7.</sup>Toate cele 49 de lumi diferă între ele prin dimensiune, durată, compoziție materială, mișcare și conștiință, din cauza diferențelor de densitate a atomilor primordiali.
+
+<sup>8.</sup>Cele șapte lumi cosmice inferioare (43–49) conțin miliarde de sisteme solare. Lumea cea mai de jos (49) este lumea fizică.
+
+<sup>9.</sup>Cosmosul nostru este o organizație perfectă.
+
+### 1.7 *Materia atomică*
+
+<sup>1.</sup>Cosmosul constă din atomi primordiali (numiți monade de Pitagora), care se compun pentru a forma 48 de feluri de atomi, fiecare succesiv mai grosier decât precedentul, în șapte serii continue, fiecare cu câte șapte feluri atomice. Aceste feluri atomice alcătuiesc cele 49 de lumi cosmice.
+
+<sup>2.</sup>Fiecare fel atomic inferior se formează din următorul fel superior (2 din 1, 3 din 2, 4 din 3 etc.). Felul atomic cel mai de jos (49) conține astfel toate cele 48 de feluri superioare. Când un fel atomic este dizolvat, se obține felul imediat superior; din atomul fizic se obțin 49 de atomi de fel atomic 48.
+
+<sup>3.</sup>Toată materia (feluri atomice, feluri moleculare, agregate, lumi etc.) se formează și se dizolvă. Numai atomii primordiali sunt eterni și indestructibili. Procesul compunerii pentru a forma feluri inferioare de materie se numește involvare, iar procesul corespunzător de dizolvare, evoluție inversă. Cu cât felul de materie este mai inferior, cu atât atomii primordiali sunt mai involvați.
+
+<sup>4.</sup>Materia atomică este dinamică prin natura ei.
+
+### 1.8 *Spațiul și timpul*
+
+<sup>1.</sup>Spațiul, care nu este spațiu în sens absolut, este materia primordială nelimitată.
+
+<sup>2.</sup>Spațiul în sens cosmic este întotdeauna un glob. Cosmosul este un glob. Sistemele solare sunt globuri. Planetele sunt globuri. Lumile din planete sunt globuri. Lumile atomice cosmice ocupă același „spațiu” ca lumea fizică, existând pretutindeni în globul cosmic. Lumile moleculare planetare au raze diferite, pornind din centrul planetei. Lumile superioare le pătrund pe cele inferioare. „Superior” și „inferior” nu trebuie luate în sens spațial când este vorba despre lumi atomice; când este vorba despre lumi moleculare, „exterior” și „interior” sunt mai exacte.
+
+<sup>3.</sup>Forma globulară a lumilor moleculare se datorează faptului că diferitele feluri de materie se grupează concentric, potrivit densităților lor, în jurul unui centru originar de forță.
+
+<sup>4.</sup>Fiecare fel atomic are propria dimensiune. Astfel, în cosmos există în total 49 de dimensiuni. Dimensiunea în sens cosmic înseamnă fel de spațiu. Materia fizică are o dimensiune (linia și suprafața nu sunt numărate), iar felul cel mai înalt de materie are 49. Odată cu dimensiunea a 49-a, cosmosul devine un punct pentru conștiința atomică primordială.
+
+<sup>5.</sup>Timpul înseamnă pur și simplu continuare, existență continuată. Timpul este reprezentat de diferite moduri de măsurare a mișcării, de diferite feluri de procese de manifestare. Timpul fizic este determinat de rotația Pământului și de revoluția sa în jurul Soarelui.
+
+### 1.9 *Sistemele solare*
+
+<sup>1.</sup>Globurile sistemelor solare sunt replici ale cosmosului, reduse enorm ca dimensiuni, cu toate limitările pe care aceasta le implică, nu în ultimul rând în privința conștiinței.
+
+<sup>2.</sup>Milioane de sisteme solare nu au atins încă felul molecular fizic gazos. Milioane și-au eliminat în cele din urmă lumea fizică. Alte milioane se află în „pralaya”, cu sori dizolvați, în așteptarea unei noi „zile a lui Brahma”, când vor fi aprinși sori noi. Sorii sunt transformatoare care convertesc materia atomică în materie moleculară. Ceea ce vedem este doar un înveliș fizic gazos exterior.
+
+<sup>3.</sup>Sistemele solare au șapte lumi compuse din cele șapte materii atomice cosmice inferioare (43–49). Lumea cea mai înaltă a sistemelor solare este formată din felul atomic 43; lumea lor cea mai de jos (fizică), din felul 49. Aceste șapte lumi au primit denumiri diferite în diferitele ordine ale cunoașterii. Cele mai multe nume sunt vechi și, din cauza abuzului ignoranței, vagi, ambigue, lipsite de sens și deci inutilizabile. A sosit timpul să adoptăm o nomenclatură convenită internațional, iar atunci cea matematică este, firește, singura potrivită și cea mai exactă. Ea va fi aplicată consecvent în cele ce urmează. Pentru a ușura comparația celor interesați, vor fi date totuși denumirile sanscrite folosite în India și cele folosite de Henry T. Laurency în *Piatra filozofală*.
+
+<sup>4.</sup>Cele șapte lumi ale sistemului solar se numesc în sanscrită:
+
+| | | |
+|---:|---|---|
+| 43 | satya | 43 adi sau mahaparanirvana |
+| 44 | tapas | 44 anupadaka sau paranirvana |
+| 45 | jana | 45 nirvana sau atma |
+| 46 | mahar prajapatya | 46 buddhi |
+| 47 | mahendra | 47 manas |
+| 48 | antariksha | 48 kama |
+| 49 | bhu | 49 sthula |
+
+<sup>5.</sup>La Laurency, ele au primit următoarele denumiri occidentale:
+
+| Număr | Denumire |
+|---:|---|
+| 43 | lumea manifestală |
+| 44 | lumea submanifestală |
+| 45 | lumea supraesențială |
+| 46 | lumea esențială |
+| 47 | lumea cauzal-mentală |
+| 48 | lumea emoțională |
+| 49 | lumea fizică |
+
+### 1.10 *Materia moleculară*
+
+<sup>1.</sup>Moleculele sunt alcătuite din atomi. Cu cât felul molecular este mai inferior, cu atât mai mulți atomi intră în moleculă.
+
+<sup>2.</sup>Atomii sunt alcătuiți din atomi primordiali. Cu cât felul atomic este mai inferior, cu atât mai mulți atomi primordiali intră în atom.
+
+<sup>3.</sup>Aceste definiții sunt singurele susținute ezoteric.
+
+<sup>4.</sup>Materia sistemelor solare se numește materie moleculară pentru a o deosebi de materia atomică, care este cosmică. În sistemele solare, cele șapte feluri atomice inferioare sunt transformate în feluri moleculare.
+
+<sup>5.</sup>Fiecare fel atomic furnizează materie pentru șase feluri moleculare, succesiv mai compuse, fiecare inferior formându-se din următorul superior. Cele șapte feluri atomice alcătuiesc astfel 42 de feluri moleculare, iar acestea constituie sistemul solar. Cele 49 de feluri atomice există în toate lumile, ocupând același spațiu.
+
+<sup>6.</sup>Cele șase feluri moleculare din fiecare lume a sistemului solar au primit denumiri și desemnări matematice analoge:
+
+| Număr | Denumire |
+|---:|---|
+| 1 | atomic |
+| 2 | subatomic |
+| 3 | supereteric |
+| 4 | eteric |
+| 5 | gazos |
+| 6 | lichid |
+| 7 | solid |
+
+<sup>7.</sup>Cifra fiecărui fel molecular se pune după aceea care desemnează felul atomic. Astfel, felul molecular fizic gazos se scrie 49:5.
+
+<sup>8.</sup>Așa-numitul atom chimic al științei este o moleculă fizică eterică (49:4). Acest fel molecular, ca toate celelalte, conține 49 de straturi diferite de materie. Pentru a ajunge la atomul fizic real (49:1), fizicienii nucleari trebuie să străbată 147 de feluri de materie, fiecare succesiv mai înalt decât celălalt. Nicio știință fizică nu va realiza aceasta.
+
+<sup>9.</sup>Trebuie amintit aici că „elementele” anticilor, de care chimiștii râd — pământul, apa, aerul, focul și *quinta essentia* — erau termenii lor pentru cele cinci feluri moleculare inferioare, sau stări de agregare.
+
+### 1.11 *Planetele*
+
+<sup>1.</sup>Cele trei lumi superioare ale sistemului solar (43–45) sunt comune tuturor celor care, în sistemul solar, au dobândit conștiință obiectivă în felurile de materie respective. Aceștia sunt indivizi care au părăsit regnul uman, sau al patrulea regn natural, și au trecut în regnuri superioare.
+
+<sup>2.</sup>Cele patru lumi inferioare ale sistemului solar (46–49) sunt numite și lumi planetare. Ne apropiem acum de lumile omului, pe care omul trebuie să învețe să le cuprindă dacă nu vrea să rămână ignorant cu privire la propria sa existență, ca să nu mai vorbim de existența în general. Dacă nu știe nimic despre lumile sale, rămâne victima neajutorată a tuturor ideologiilor, iluziilor și ficțiunilor ignoranței din domeniile religiei, filozofiei și științei. Fără această cunoaștere, el nu poate gândi în acord cu realitatea.
+
+<sup>3.</sup>Pentru a înlesni dezvoltarea conștiinței monadelor în aceste lumi, cele mai de jos, cele trei lumi atomice inferioare (47–49) au fost împărțite în cinci lumi moleculare. Lumea 47 este împărțită în lumea mentală superioară (sau cauzală, 47:2,3) și cea inferioară (47:4–7). Lumea 49 este împărțită în lumea fizică eterică (49:2–4) și lumea vizibilă omului (49:5–7), cu cele trei stări de agregare ale sale (solidă, lichidă și gazoasă).
+
+<sup>4.</sup>Dezvoltarea conștiinței în cele patru regnuri naturale inferioare are loc în aceste cinci lumi moleculare.
+
+<sup>5.</sup>Lumea vizibilă (49:5–7) poate fi numită lumea specială a mineralelor, lumea fizică eterică (49:2–4), cea a plantelor, lumea emoțională (48), cea a animalelor, iar lumea mentală (47:4–7), lumea specială a omului în privința conștiinței. Lumea mentală superioară, sau lumea cauzală (47:1–3), lumea ideilor platonice, este țelul omului în regnul uman. Unii autori împart lumea mentală în trei: cea cauzală (47:1–3), cea mentală superioară (47:4,5) și cea mentală inferioară (47:6,7). Acest lucru va fi discutat mai departe în subsecțiunea despre aspectul conștiinței.
+
+### 1.12 *Monadele*
+
+<sup>1.</sup>Monadele alcătuiesc singurul conținut al cosmosului. Monada este cea mai mică parte posibilă a materiei primordiale și cel mai mic punct fix posibil pentru conștiința individuală. Dacă s-ar încerca totuși să fie imaginată o monadă, poate că ne-am apropia cel mai mult închipuind-o ca pe un punct de forță.
+
+<sup>2.</sup>Toate formele materiale existente în cosmos constau din monade aflate în diferite stadii de dezvoltare. Toate aceste compoziții de monade se formează, se schimbă, se dizolvă și se reformează în nenumărate variații, dar aspectul material al monadelor rămâne veșnic același.
+
+### 1.13 *Învelișurile monadelor*
+
+<sup>1.</sup>Dezvoltarea conștiinței monadelor are loc în și prin învelișuri. Dobândind conștiință în învelișurile sale și în felurile moleculare tot mai înalte ale acestor învelișuri, monada atinge regnuri naturale tot mai înalte.
+
+<sup>2.</sup>Toate formele naturii sunt învelișuri. În fiecare atom, moleculă, organism, lume, planetă, sistem solar etc. se află o monadă într-un stadiu de dezvoltare mai înalt decât celelalte monade din acea formă naturală. Toate formele, în afară de organisme, sunt învelișuri agregate, molecule din felurile de materie ale lumilor respective, ținute împreună electromagnetic.
+
+<sup>3.</sup>În sistemul nostru solar există organisme numai pe planeta noastră. Pe celelalte planete, și învelișul cel mai de jos (49:5–7) este un înveliș agregat.
+
+### 1.14 *Cele cinci învelișuri ale omului*
+
+<sup>1.</sup>Când este încarnat în lumea fizică, omul are cinci învelișuri:
+
+- un organism în lumea vizibilă (49:5–7);
+- un înveliș de materie fizică eterică (49:2–4);
+- un înveliș de materie emoțională (48:2–7);
+- un înveliș de materie mentală (47:4–7);
+- un înveliș de materie cauzală (47:1–3).
+
+<sup>2.</sup>Cele patru inferioare dintre acestea se reînnoiesc la fiecare nouă încarnare și se dizolvă, în această ordine, la sfârșitul încarnării. Învelișul cauzal este singurul înveliș permanent al omului. El a fost dobândit când monada a trecut din regnul animal în regnul uman. Acest înveliș cauzal este omul „adevărat” și se încarnează împreună cu monada umană, pe care o cuprinde întotdeauna.
+
+<sup>3.</sup>Cifrele din paranteze indică felurile moleculare existente în diferitele învelișuri; învelișurile superioare le cuprind și le pătrund pe toate cele inferioare.
+
+<sup>4.</sup>Cele patru învelișuri agregate au formă ovală și se întind între 30 și 45 cm dincolo de organism, formând așa-numita aură. Aproximativ 99 la sută din materia acestor învelișuri este atrasă spre organism, astfel încât învelișurile agregate formează replici complete ale organismului.
+
+<sup>5.</sup>Fiecare dintre aceste învelișuri are un scop special. Fără un înveliș fizic eteric, individului i-ar lipsi percepțiile senzoriale; fără un înveliș emoțional, i-ar lipsi sentimentele; iar fără un înveliș mental, i-ar lipsi capacitatea de a gândi. Prezența acestor învelișuri în organismul uman face posibil ca diferitele organe aferente să-și îndeplinească sarcinile atât timp cât pot funcționa. Trebuie subliniat aici că fiecare celulă a organismului, fiecare moleculă din celulă, conține atomi fizici care conțin ei înșiși atomi de toate cele 48 de feluri superioare.
+
+<sup>6.</sup>La fel ca organismul, toate învelișurile superioare au organe speciale (alcătuite din atomi), care sunt sediile diferitelor feluri de funcții ale conștiinței și mișcării. Aceste organe atomice din învelișurile eteric, emoțional, mental și cauzal sunt în contact unele cu altele.
+
+<sup>7.</sup>Deoarece omul tinde mereu să-și identifice sinele (monada sa, sinele ultim) cu acel înveliș în care se află pentru moment, el se socotește în lumea fizică un sine fizic, în lumea emoțională un sine emoțional, în lumea mentală un sine mental și în lumea cauzală un sine cauzal — neștiind că este o monadă, un sine ultim.
+
+<sup>8.</sup>La stadiul ignoranței este inevitabil ca, subiectiv, atunci când este activ emoțional, să-și considere sentimentele drept ființa sa sau, ca om intelectual, să-și considere gândurile drept ființa sa adevărată. El crede că este ceea cu care se identifică în acel moment.
+
+<sup>9.</sup>Sinele cunoaște numai ceea ce a trăit, a prelucrat și a realizat el însuși, ceea ce există în învelișurile sale, ceea ce a putut învăța în lumile sale.
+
+#### Aspectul conștiinței
+
+### 1.15 *Conștiința monadei*
+
+<sup>1.</sup>Conștiința monadei poate fi potențială, actualizată, pasivă, activată, autoactivă, latentă, subiectivă sau obiectivă.
+
+<sup>2.</sup>Conștiința potențială a monadei este trezită la viață (actualizată) în cosmos. Odată actualizată, ea este mai întâi pasivă, este activată în procesul evoluției, devine tot mai activă în regnurile vegetal și animal, iar în regnul uman devine autoactivă, dobândind astfel conștiința de sine ca sine propriu.
+
+<sup>3.</sup>Prin „monadă” se înțelege individul ca atom primordial, iar prin „sine”, aspectul de conștiință al individului.
+
+<sup>4.</sup>Termenul „sine” se aplică și învelișurilor în care monada a dobândit conștiință de sine, cu care sinele se identifică, socotindu-le atunci sinele său adevărat. Sinele este centrul tuturor percepțiilor de sine. Atenția indică prezența sinelui.
+
+### 1.16 *Diferite feluri de conștiință*
+
+<sup>1.</sup>Trebuie deosebite conștiința de sine (conștiința individuală, conștiința de sine în învelișuri), conștiința colectivă și conștiința sinelui ultim. (Din punct de vedere tehnic se pot deosebi conștiința cosmică, a sistemului solar și cea planetară.)
+
+<sup>2.</sup>Pentru că componentele ultime ale universului sunt atomii primordiali, conștiința totală cosmică este o contopire a conștiinței tuturor atomilor primordiali, așa cum oceanul este unirea tuturor picăturilor de apă (cea mai apropiată analogie posibilă).
+
+<sup>3.</sup>Cea mai importantă perspectivă este că orice conștiință este totodată conștiință colectivă. Aceasta deoarece nu există izolare personală, deși numai cei care au dobândit conștiința esențială (46) pot trăi în conștiința colectivă.
+
+<sup>4.</sup>Există nenumărate feluri de conștiință colectivă: atomică, moleculară, agregată, de lume, planetară, a sistemului solar și, după acestea, diferite feluri de conștiință cosmică. Cu cât regnul atins de monadă este mai înalt, cu atât mai mult cuprinde conștiința colectivă în care sinele, păstrându-și conștiința de sine, trăiește celelalte sine ca pe propriul său sine mai mare.
+
+<sup>5.</sup>Cu alte cuvinte, toată conștiința din întregul cosmos constituie o unitate comună, inevitabilă și indivizibilă, la care fiecare individ are o parte mai mică sau mai mare, după nivelul de dezvoltare atins.
+
+<sup>6.</sup>După cum un fel superior de materie pătrunde felurile inferioare, un fel superior de conștiință cuprinde conștiința inferioară. Dimpotrivă, un fel inferior nu poate cuprinde unul superior, care pare întotdeauna inexistent.
+
+<sup>7.</sup>Capacitatea conștiinței crește cu fiecare fel atomic superior într-o serie progresivă ale cărei produse se pătrățesc (astfel 2 × 2 = 4, 4 × 4 = 16, 16 × 16 = 256, 256 × 256 etc.).
+
+<sup>8.</sup>Când monada a atins regnul divin cel mai înalt și a dobândit astfel conștiința colectivă cosmică deplină, nu mai are nevoie de învelișuri în care să-și dezvolte conștiința. Atunci, pentru prima dată, se va cunoaște drept acel sine ultim care a fost întotdeauna. Până atunci s-a identificat cu unul sau altul dintre învelișurile sale. Nu este deci de mirare că ignoranții își caută în zadar sinele, iar mulți chiar neagă că ar exista așa ceva.
+
+<sup>9.</sup>Toate formele din întregul cosmos, inclusiv cele din regnurile divine cele mai înalte, sunt numai învelișuri pentru atomii primordiali — sinele. Formele pe care le numim „suflet”, „spirit”, „dumnezeu” etc. sunt învelișurile folosite de sine în diferitele sale stadii de dezvoltare.
+
+<sup>10.</sup>Diferitele feluri de conștiință cuprind și conștiința subiectivă și obiectivă, conștiința de sine în diferitele învelișuri ale individului, supra- și subconștiința, memoria și experiențele individului privind expresiile voinței.
+
+### 1.17 *Conștiința subiectivă și obiectivă*
+
+<sup>1.</sup>Conștiința este subiectivă. Percepțiile senzoriale, sentimentele și gândurile sunt subiective. Tot ce cuprinde conștiința în afara ei este material și deci obiectiv.
+
+<sup>2.</sup>Simțul este conștiință obiectivă, cuprinderea de către conștiință a realității materiale obiective din toate lumile. Conștiința obiectivă este cuprinderea (subiectivă) a unui obiect material. Se deosebesc simțul fizic, emoțional, mental, cauzal etc.
+
+<sup>3.</sup>Rațiunea este facultatea imaginației, abstracției, conceperii, reflecției, deducției, judecății etc. Ea este instrumentul de prelucrare a conținutului simțului. Rațiunea poate percepe subiectiv vibrații („presimțire” etc.) cu mult înainte ca simțul să le poată raporta la realitatea materială. Dar numai când simțul a început să funcționeze se poate vorbi despre cunoaștere.
+
+<sup>4.</sup>La stadiul actual de dezvoltare al omenirii, cei mai mulți oameni pot fi obiectiv conștienți, în organismele lor, numai în cele trei stări de agregare inferioare (49:5–7). Conștiința obiectivă a formelor materiale din feluri moleculare superioare a primit denumirea vagă de „clarviziune”.
+
+<sup>5.</sup>Tot ce este subiectiv are o corespondență obiectivă. Fiecărui sentiment îi corespunde conștiința într-o moleculă emoțională, fiecărui gând o moleculă mentală, fiecărei intuiții o moleculă cauzală etc. Felul materiei indică felul conștiinței.
+
+### 1.18 *Conștiința fizică*
+
+<sup>1.</sup>Conștiința fizică este felul cel mai de jos al conștiinței, după cum materia fizică este felul cel mai de jos al materiei, iar energia fizică este felul cel mai de jos al forței.
+
+<sup>2.</sup>Există șase feluri principale de conștiință fizică (excluzând conștiința atomică fizică), corespunzătoare experiențelor subiective și obiective din cele șase feluri moleculare fizice.
+
+<sup>3.</sup>Același lucru este valabil pentru toate lumile superioare.
+
+<sup>4.</sup>Conștiința fizică a omului este constituită, în parte, din diferitele percepții senzoriale ale organismului și, în parte, din cuprinderea vibrațiilor din cele trei feluri moleculare fizice superioare (49:2–4) de către învelișul eteric, cuprindere care, pentru cei mai mulți oameni, este numai subiectivă.
+
+### 1.19 *Conștiința emoțională*
+
+<sup>1.</sup>Conștiința emoțională a omului este conștiința monadei sale în învelișul emoțional.
+
+<sup>2.</sup>La stadiul actual de dezvoltare al omenirii, conștiința emoțională a celor mai mulți oameni, în timpul încarnării fizice, se limitează la experiențe pur subiective ale vibrațiilor din învelișul emoțional.
+
+<sup>3.</sup>Prin natura sa, conștiința emoțională este exclusiv dorință sau ceea ce individul aflat la stadiul emoțional percepe ca voință dinamică. La stadiul barbariei, înainte de activarea conștiinței individului din învelișul său mental, dorința se manifestă ca impulsuri mai mult sau mai puțin necontrolate. Când învelișul mental, influențat de vibrațiile învelișului emoțional, este atras spre acesta și țesut împreună cu el, conștiința mentală este trezită la viață, iar dorința și gândul se contopesc. Dacă predomină dorința, rezultă sentimentul, care este dorință colorată de gând. Dacă predomină gândul, rezultă imaginația, care este gând colorat de dorință.
+
+<sup>4.</sup>Viața emoțională a omului este în principal viața iluziilor emoționale. El este victima gândirii doritoare a dorinței, a iluziilor gândirii emoționale. Individul se eliberează complet de iluzii numai după ce a dobândit conștiința cauzală.
+
+<sup>5.</sup>Vibrațiile celor trei feluri moleculare emoționale inferioare (48:5–7) sunt în principal respingătoare; cele ale celor trei superioare sunt atrăgătoare. Sentimentele nobile sunt expresii ale atracției.
+
+### 1.20 *Conștiința mental-cauzală*
+
+<sup>1.</sup>Conștiința mental-cauzală a omului este capacitatea de conștiință dobândită de monada sa prin efort propriu, în parte în învelișul mental (47:4–7), în parte în învelișul cauzal (47:1–3).
+
+<sup>2.</sup>Există patru feluri de conștiință ale învelișului mental, corespunzătoare capacității de a cuprinde vibrațiile din cele patru feluri moleculare mentale inferioare (47:4–7).
+
+<sup>3.</sup>Majoritatea omenirii a dezvoltat (activat) numai felul cel mai de jos (47:7): gândirea inferențială discursivă, de la temei la consecință.
+
+<sup>4.</sup>Al doilea fel de jos în sus (47:6), gândirea filozofică și științifică prin principii, este încă felul cel mai înalt de gândire pentru toți, cu excepția elitei extrem de rare.
+
+<sup>5.</sup>Al treilea fel de jos în sus (47:5), gândirea elitei, este — spre deosebire de gândirea prin principii, care absolutizează în cea mai mare parte — în parte gândire relativizatoare și procentualizatoare consecventă, în parte gândire perspectivică și sistemică.
+
+<sup>6.</sup>Felul cel mai înalt de conștiință din învelișul mental (47:4) este încă inaccesibil omenirii. Manifestările sale constau, între altele, în concretizarea ideilor cauzale, implicând gândire simultană prin sisteme în locul gândirii prin concepte.
+
+<sup>7.</sup>Chiar și conținutul gândirii de elită este alcătuit în cea mai mare parte din ficțiuni (concepții fără corespondențe reale), din lipsă de date despre existență. Numai datele ezoterismului fac posibilă gândirea în acord cu realitatea.
+
+<sup>8.</sup>Conștiința cauzală (47:1–3) este posibilă numai pentru cei care s-au dezvoltat atât de mult înaintea restului omenirii încât se pot pregăti intenționat pentru trecerea lor în următorul regn superior. Ei au dobândit capacitatea de a se asocia cu oricine în lumea cauzală, locul de întâlnire al indivizilor aparținând celui de-al patrulea și celui de-al cincilea regn natural.
+
+<sup>9.</sup>Conștiința cauzală este, subiectiv, intuiție, trăirea ideilor cauzale, și face posibil studiul obiectiv al lumilor fizică, emoțională și mentală, făcând posibilă omnisciența în aceste lumi.
+
+<sup>10.</sup>Pentru conștiința cauzală, din perspectivă planetară (lumile omului, 47–49), nu există nici distanță, nici timp trecut. Sinele cauzal își poate studia toate viețile anterioare ca om, poate dobândi independent și rapid datele necesare pentru a înțelege toate realitățile din lumile omului, realizând într-o oră (în 47:1) mai mult decât ar putea realiza într-o sută de ani cel mai eficient gânditor mental. Ficțiunile sunt excluse.
+
+### 1.21 *Feluri superioare de conștiință*
+
+<sup>1.</sup>Următoarea trecere în revistă a diferitelor feluri de conștiință din sistemul solar va face poate mai ușor de înțeles faptul că unor feluri de materie, învelișuri materiale și lumi materiale tot mai înalte le corespund feluri de conștiință tot mai înalte:
+
+| Număr | Conștiință |
+|---:|---|
+| 49 | conștiință fizică (inclusiv eterică) |
+| 48 | conștiință emoțională |
+| 47 | conștiință mental-cauzală |
+| 46 | conștiință esențială |
+| 45 | conștiință supraesențială |
+| 44 | conștiință submanifestală |
+| 43 | conștiință manifestală |
+
+<sup>2.</sup>Din termenii folosiți pentru felurile de conștiință tot mai înalte ar trebui să fie evident că toate, în afară de cele trei inferioare (47–49), sunt de neînțeles pentru omenirea aflată la stadiul ei actual de dezvoltare.
+
+<sup>3.</sup>Termenul „sine”, aplicat unui individ, indică lumea cea mai înaltă în care acesta a dobândit deplină conștiință de sine subiectivă și obiectivă și capacitate de activitate; de pildă, sinele care a dobândit conștiința cauzală se numește sine cauzal, cel care a dobândit conștiința esențială, sine esențial sau sine-46; cel care a dobândit conștiința 45, sine-45; sinele submanifestal, sine-44; sinele manifestal, sine-43.
+
+<sup>4.</sup>În uz internațional, termenul „sine” ar putea, pentru mai mare comoditate, să fie înlocuit cu „monadă”: monadă-43, monadă-44, monadă-45 etc.
+
+### 1.22 *Inconștientul sinelui*
+
+<sup>1.</sup>Conștiința omului se împarte în conștiință de veghe, subconștiință și supraconștiință.
+
+<sup>2.</sup>Conținutul conștiinței de veghe a omului, când se află în organismul său, este alcătuit din percepții senzoriale, sentimente, gânduri și expresii ale voinței.
+
+<sup>3.</sup>Subconștiința monadei conține în stare latentă toate percepțiile și experiențele prelucrate ale monadei, de când conștiința acesteia a fost trezită la viață. Fiecare încarnare depune, ca să spunem astfel, propriul strat de conștiință. Toate acestea se păstrează ca rudimente de calități și capacități, manifestându-se de obicei ca posibilitate de înțelegere. Pentru ca aceste rudimente să fie actualizate, este necesar să fie dezvoltate în fiecare nouă încarnare; procesul devine totuși din ce în ce mai ușor.
+
+<sup>4.</sup>Supraconștiința cuprinde toate domeniile de conștiință încă neautoactivate din felurile moleculare ale diferitelor învelișuri ale individului. Dezvoltarea constă în autoactivarea conștiinței și astfel în dobândirea conștiinței de sine în aceste feluri moleculare.
+
+<sup>5.</sup>Omul primește permanent impulsuri din subconștiința sa, iar mai rar inspirații prin supraconștiința sa.
+
+<sup>6.</sup>Conștiința de veghe este astfel o fracțiune extrem de mică din posibilitatea de conștiință a monadei.
+
+<sup>7.</sup>Toate învelișurile individului sunt străbătute în fiecare secundă de nenumărate vibrații din afară (învelișul emoțional, de sentimentele mediului; cel mental, de vibrațiile mentale globale). Foarte, foarte puține dintre acestea sunt cuprinse de conștiința de veghe.
+
+### 1.23 *Amintirile individului*
+
+<sup>1.</sup>Fiecare înveliș al individului are propria sa conștiință, propria sa memorie: conștiința colectivă subconștientă a diferitelor sale molecule. Aceste memorii se dizolvă odată cu învelișurile. Învelișul permanent din regnul uman, învelișul cauzal, păstrează memoria a tot ceea ce a trăit de la formarea sa.
+
+<sup>2.</sup>Reamintirea este capacitatea de a reînvia vibrațiile primite sau emise de învelișuri.
+
+<sup>3.</sup>Expresiile conștiinței activează materia învelișurilor. Vibrațiile constante (obiceiuri, tendințe etc.) rețin „atomi permanenți” (sanscrită: *skandhas*). La dizolvarea învelișurilor, aceștia intră în învelișul cauzal și îl însoțesc la reîncarnare, constituind fondul latent de experiențe (predispoziții, talente etc.).
+
+<sup>4.</sup>Memoria atomului primordial este indestructibilă, deși latentă. Pentru a-și aminti din nou, este necesară reînnoirea contactului cu realitatea trăită anterior. Sinele cauzale și sinele superioare pot face aceasta în memoriile planetare și cosmice ale globurilor.
+
+#### Aspectul mișcării
+
+### 1.24 *Definirea mișcării*
+
+<sup>1.</sup>Aspectului mișcării îi aparțin toate întâmplările, toate procesele naturii și vieții, toate schimbările. Totul este în mișcare și tot ce se mișcă este materie.
+
+<sup>2.</sup>Mișcării i s-au dat din vechime numeroși termeni: forță, energie, activitate, vibrație etc. Tot ca mișcare trebuie socotite sunetul, lumina și culoarea.
+
+<sup>3.</sup>În hylozoică se disting trei cauze principale ale mișcării, fiecare specific diferită: dynamis, energia materială, voința.
+
+### 1.25 *Dynamis*
+
+<sup>1.</sup>Cauza originară a mișcării, sursa oricărei forțe, unica forță primordială, energia totală a universului, este energia dinamică a materiei primordiale, pe care Pitagora o numea *dynamis*. Ea este veșnic activă, inepuizabilă, inconștientă, omnipotență absolută.
+
+<sup>2.</sup>Dynamis acționează în fiecare atom primordial și numai în atomii primordiali, care pătrund întreaga materie.
+
+<sup>3.</sup>Dynamis este cauza fundamentală a *perpetuum mobile*-ului universului.
+
+### 1.26 *Energia materială*
+
+<sup>1.</sup>Energia, în sens științific, este materia în mișcare. Toate felurile superioare de materie (feluri atomice, feluri moleculare) sunt energie în raport cu toate felurile inferioare.
+
+<sup>2.</sup>Materia nu se dizolvă în energie, ci în materie superioară.
+
+<sup>3.</sup>Când materia încetează să se miște, încetează și calitatea sa de energie.
+
+<sup>4.</sup>Toate forțele naturii sunt materie. În sistemul solar există mai mult de 2.400 de feluri diferite de forțe ale naturii. Fiecare fel molecular conține 49 de straturi diferite de materie, care pot acționa toate ca energie.
+
+### 1.27 *Mișcarea cosmică*
+
+<sup>1.</sup>Mișcarea cosmică (în cele 49 de feluri atomice) este rezultatul unui curent constant de atomi primordiali (materie primară), care curge în jos din lumea atomică cea mai înaltă prin atomii tuturor lumilor până la lumea cea mai de jos, apoi revine la lumea cea mai înaltă pentru a-și începe din nou circulația, aceasta continuând cât timp este necesară existența lumilor inferioare. Există două feluri de atomi: negativi și pozitivi. În atomii negativi (receptivi), energia materială curge de la un fel atomic superior spre unul inferior; în atomii pozitivi (propulsivi), de la unul inferior spre unul superior. Acest curent este forța care menține atomii, moleculele și agregatele materiale în formele lor date. Ca urmare, toți atomii din toate lumile și, în consecință, toate moleculele și agregatele radiază energie materială, comunicând prin aceasta întotdeauna, într-o anumită privință, ceva din caracterul lor individual. Prin urmare, fiecare agregat emite energie specializată.
+
+<sup>2.</sup>Vibrațiile sunt rezultatul pătrunderii felurilor superioare de materie în felurile inferioare. Acest fapt a dat naștere zicalei că totul constă din vibrații.
+
+### 1.28 *Voința*
+
+<sup>1.</sup>Voința este dynamis acționând prin conștiință activă. Conștiința activă este deci capacitatea conștiinței de a lăsa dynamis să acționeze prin ea. „Voința” este modul individualizat de acțiune al energiei prin conștiință; pentru lumile tot mai înalte, lucrurile esențiale sunt conformitatea conținutului conștiinței cu legea, conformitatea cu planul, finalitatea și concentrarea scopului.
+
+<sup>2.</sup>Axioma ezoterică „energia urmează gândul” indică faptul că expresiile conștiinței active determină materia să acționeze ca energie.
+
+<sup>3.</sup>Magia este cunoașterea metodei de a folosi energia materială mentală pentru a influența energiile materiale fizice eterice și a produce schimbări în felurile moleculare vizibile. Această metodă va rămâne ezoterică, deoarece ignoranța iremediabilă și egoismul omenirii sunt prea mari pentru a i se încredința această putere teribilă. Deoarece orice putere este abuzată (în cel mai bun caz, numai din ignoranță), omenirea trebuie să se mulțumească să ignore toate forțele naturii, în afară de cele pe care a reușit să le descopere singură. Acea cunoaștere este încredințată numai celor care nu pot, în niciun chip, să abuzeze de putere.
+
+<sup>4.</sup>Activarea conștiinței în cele trei regnuri naturale inferioare este un proces inconștient și automat, care devine treptat conștient în regnul uman. În regnurile superioare, ea este rezultatul activității de conștiință autoinițiate.
+
+<sup>5.</sup>Voința omului este, la stadiul emoțional, dorința, iar la stadiul mental, motivul rațional. Definiția filozofică originară a voinței era „raportul conștiinței față de un scop”.
+
+### 1.29 *Diferite feluri de energie și voință*
+
+<sup>1.</sup>Prin analogie cu aspectele materiei și conștiinței, există și șapte feluri de mișcare:
+
+| Număr | Energie |
+|---:|---|
+| 49 | energii fizice |
+| 48 | energii emoționale |
+| 47 | energii mental-cauzale |
+| 46 | energii esențiale |
+| 45 | energii supraesențiale |
+| 44 | energii submanifestale |
+| 43 | energii manifestale |
+
+<sup>2.</sup>Dacă se dorește, cuvântul „energie” poate fi înlocuit cu „voință”. Diferitele feluri de voință sunt dobândite simultan cu conștiința de sine deplină, subiectivă și obiectivă, în lumile respective sau cu capacitatea sinelui de a se centra în învelișurile aferente.
+
+<sup>3.</sup>Energiile care se manifestă sunt efectele felurilor moleculare imediat superioare asupra celor imediat inferioare din fiecare lume. Energiile atomice acționează din lume în lume prin felurile atomice.
+
+### 1.30 SENSUL ȘI SCOPUL EXISTENȚEI
+
+<sup>1.</sup>Sensul existenței (o problemă insolubilă pentru teologi, filozofi și savanți) este dezvoltarea conștiinței atomilor primordiali: trezirea la conștiință a atomilor primordiali inconștienți în materia primordială și, apoi, instruirea lor în regnuri tot mai înalte pentru a dobândi conștiința vieții și înțelegerea vieții în toate relațiile ei.
+
+<sup>2.</sup>Scopul existenței este omnisciența și omnipotența tuturor în întregul cosmos.
+
+<sup>3.</sup>Procesul implică dezvoltare: în privința cunoașterii, de la ignoranță la omnisciență; în privința voinței, de la neputință la omnipotență; în privința libertății, de la robie la acea putere pe care o oferă aplicarea legilor; în privința vieții, de la izolare la unitate cu întreaga viață.
+
+<sup>4.</sup>Sinele se dezvoltă în și prin învelișuri, de la cel mai de jos înveliș fizic eteric până în cea mai înaltă lume cosmică. El dobândește neîncetat învelișuri noi, într-o lume după alta. Pas cu pas, dobândește conștiință de sine în felurile moleculare tot mai înalte ale învelișului său, învățând să activeze conștiința din ele. Prin aceasta devine în cele din urmă stăpânul învelișului său. Până atunci este dezorientat în haosul de conștiință al acestui înveliș și este victima vibrațiilor din afară.
+
+<sup>5.</sup>Vechii termeni — întotdeauna interpretați greșit de ignoranță — „suflet”, „spirit”, „dumnezeu” etc. se refereau la învelișurile sinelui în lumile superioare. Prin „suflet” se înțelegea învelișul cauzal permanent al omului (învelișul 47); prin „spirit”, viitorul său înveliș 45; prin „dumnezeu”, învelișul 43.
+
+<sup>6.</sup>Conștiința atomică este conștiință de lume. Individul, coproprietar al unui colectiv de conștiință, este ca o celulă într-un organism. Organismul este un înveliș al unui individ dintr-un regn superior. Când individul s-a dezvoltat atât de mult în conștiința colectivă a lumii sale încât poate prelua această lume materială ca înveliș propriu, atunci va fi „dumnezeul” acestei lumi.
+
+<sup>7.</sup>Conștiința atomică, conștiința de lume, omnisciența (în acea lume) nu înseamnă că individul știe totul despre tot ceea ce există sau se întâmplă. Dar îi este posibil să afle, mai mult sau mai puțin repede, tot ce dorește să știe, independent de spațiu și de timpul trecut într-o lume dată, și să constate toate relațiile dintre cele trei aspecte — materie, mișcare și conștiință — ale acelei lumi.
+
+### 1.31 *„Renașterea” tuturor lucrurilor*
+
+<sup>1.</sup>Toate formele materiale (atomi, molecule, agregate, lumi, planete, sisteme solare, agregate de sisteme solare etc.) sunt supuse legii transformării. Ele se formează, se schimbă, se dizolvă și se reformează. Acest lucru este inevitabil, deoarece pe termen lung nicio formă materială nu suportă uzura energiilor materiale cosmice.
+
+<sup>2.</sup>Atomii primordiali care alcătuiesc toate aceste compoziții de materie au astfel prilejul de a avea experiențe mereu noi în forme noi. Toți învață din toate.
+
+<sup>3.</sup>Când forma lor se reînnoiește, toate organismele (plante, animale, oameni) primesc o formă de viață asemănătoare formei anterioare, până când dezvoltarea conștiinței lor reclamă o formă specific diferită, superioară, o posibilitate mai potrivită de a dobândi experiență sporită.
+
+<sup>4.</sup>Omul renaște ca om (niciodată ca animal), până când a învățat tot ce poate învăța în regnul uman și a dobândit toate calitățile și capacitățile necesare pentru a-și continua extinderea conștiinței în al cincilea regn natural. Renașterea explică atât aparentele nedreptăți ale vieții (căci în vieți noi individul trebuie să secere ce a semănat în vieți anterioare), cât și înțelegerea înnăscută, latentă, și capacitățile odată dobândite, existente ca predispoziții. Ea face mai mult: infirmă 99 la sută din tot ceea ce omenirea a acceptat drept adevăr.
+
+### 1.32 REGNURILE NATURALE
+
+<sup>1.</sup>Dezvoltarea conștiinței monadelor are loc într-o serie de regnuri naturale tot mai înalte: șase în sistemul solar și șase în lumile cosmice. Cele șase regnuri ale sistemului solar sunt:
+
+| Regn | Interval |
+|---|---|
+| regnul mineral | 49:7–49:5 |
+| regnul vegetal | 49:7–48:7 |
+| regnul animal | 49:7–47:7 |
+| regnul uman | 49:7–47:4 |
+| regnul esențial | 49:7–45:4 |
+| regnul manifestal, primul sau cel mai de jos regn divin | 49:7–43 |
+
+<sup>2.</sup>Conștiința monadei este activată în învelișuri. Ea învață să cuprindă vibrațiile din felurile moleculare tot mai înalte ale acestor învelișuri, dobândește experiența și cunoașterea aspectelor de materie și mișcare posibile în ele, precum și capacitatea de a folosi înțelegerea dobândită. De regulă, monada petrece șapte eoni în fiecare dintre cele patru regnuri naturale inferioare.
+
+<sup>3.</sup>Din cele spuse rezultă că fiecare fel de materie are propriul fel de conștiință și propria energie, că fiecare formă a naturii este o ființă vie cu conștiință colectivă și este un înveliș pentru o monadă aflată într-un regn mai înalt decât celelalte monade din acel înveliș.
+
+### 1.33 *Cele trei regnuri naturale inferioare*
+
+<sup>1.</sup>Trecerea monadelor din regnul mineral în cel vegetal și apoi în regnurile animal și uman se numește transmigrare. Ea nu poate funcționa invers. Revenirea dintr-un regn natural superior într-unul inferior este absolut exclusă. „Degenerarea” organismelor — ca și a oricărei alte materii — nu afectează evoluția monadelor, ci este procesul de dizolvare a materiei compuse, cum este și „radioactivitatea”. Metalurgiștii observă un fenomen pe care îl numesc „oboseala” metalelor.
+
+<sup>2.</sup>În regnul mineral, conștiința monadei începe să fie activată. În felul molecular fizic cel mai de jos (49:7), monadele învață să distingă diferențele de temperatură și presiune. În acest regn, vibrațiile devin destul de violente pentru o primă cuprindere a interiorului și exteriorului. Astfel începe procesul de obiectivizare a conștiinței, care ajunge la perfecțiune în regnul animal. Monadele învață în cele din urmă să cuprindă realitățile exterioare. Extrem de încet, prin cele trei regnuri inferioare, ele ajung să se vadă ca ceva separat de orice altceva. Pentru noi, cărora contrastul dintre conștiință și lumea materială exterioară ni se pare de la sine înțeles, este greu să cuprindem ce trudă incredibilă a costat acest proces. Ceea ce încearcă filozofii să facă este să lipsească omenirea de rezultatul acestui proces de obiectivizare.
+
+<sup>3.</sup>Procesul contrastant continuă în regnul uman, dar acum ca opoziție între sinele conștient de sine și lumea exterioară (inclusiv celelalte sine). Acest proces este necesar pentru dobândirea de către individ a independenței și autodeterminării, fără de care nu poate dobândi niciodată puterea libertății. Există totuși riscul ca afirmarea de sine, și astfel izolarea, să devină absolută. Aceasta poate duce la ruperea legăturii care îl unește cu existența. Devenind un sine din ce în ce mai mare împreună cu toate celelalte sine, individul dobândește omnisciența cosmică. El trebuie să învețe să depășească afirmarea de sine în detrimentul celeilalte vieți și să înțeleagă necesitatea de a sluji viața. Atunci va descoperi și că numai în aceasta se află posibilitatea fericirii, bucuriei și beatitudinii.
+
+<sup>4.</sup>Pentru a trece dintr-un regn natural inferior într-unul superior, monada trebuie să învețe să primească și să se adapteze vibrațiilor provenite din feluri moleculare tot mai înalte. La început, aceste vibrații îndeplinesc funcțiile necesare de vitalizare în învelișurile monadelor.
+
+<sup>5.</sup>Conștiința în regnul mineral se manifestă treptat ca tendință de repetare, devenind, după nenumărate experiențe, obicei organizat sau natură. Sporirea conștiinței are drept rezultat străduința instinctivă de adaptare.
+
+<sup>6.</sup>Pe măsură ce monadele minerale sunt absorbite de plante și trăiesc procesul vitalizării în acestea, conștiința minerală învață să primească și să se adapteze vibrațiilor eterice (treptat, de la 49:4:7:7 până la 49:4:1), condiție pentru intrarea în regnul vegetal. În acest regn, monada dobândește capacitatea de a deosebi vibrațiile atrăgătoare de cele respingătoare, realizând astfel contactul cu lumea emoțională (48:7). Monadele vegetale se dezvoltă cel mai repede când plantele sunt consumate de animale și oameni și sunt astfel expuse vibrațiilor puternice din învelișurile emoționale ale acestora. Învățând să perceapă asemenea vibrații, ele devin capabile să atingă treptat niveluri superioare în regnul lor. În regnurile inferioare, transmigrarea are loc aproape imperceptibil. Între încarnări, monadele animale sunt cuprinse în învelișuri comune de materie mentală. Cu cât un animal se află mai sus pe scara evoluției, cu atât mai puține monade merg în grupul său. Astfel, mai multe cvadrilioane de muște formează un singur suflet-grup, milioane de șobolani unul, sute de mii de vrăbii unul, mii de lupi unul, sute de oi unul. Numai maimuța, elefantul, câinele, calul și pisica, care aparțin unor suflete-grup de foarte puține monade, pot să se cauzalizeze. Când un animal superior devorează un animal inferior, monada animalului inferior se alătură sufletului-grup al animalului superior. Acesta nu este însă cazul când oamenii mănâncă animale. Învelișul cauzal al omului nu este un suflet-grup; pe de altă parte, transmigrarea către regnuri superioare nu se efectuează în acest fel, ci este rezultatul propriei activități de conștiință a individului. Monadele animale nu trec deci prin organismul uman, ci revin la propriul lor suflet-grup. În schimb, evoluția este împiedicată, deoarece carnea animală îngroașă organismul uman, a cărui sarcină este să tindă spre „eterizare”.
+
+<sup>7.</sup>Când cercetarea naturii va afla în cele din urmă faptele privitoare la aceste chestiuni, va descoperi cauzele și efectele activării conștiinței. Aceasta se aplică mai ales acelor savanți care au conștiință obiectivă eterică înnăscută, întâlnită tot mai frecvent.
+
+<sup>8.</sup>Nivelurile de dezvoltare din fiecare regn apar cel mai evident în regnul animal, cu numeroasele sale clase, de la cele mai joase până la cele mai înalte specii animale. Clasele sunt ordinea naturală a lucrurilor în toate regnurile. Clasele naturii indică diferite clase de vârstă datorate momentelor diferite ale transmigrării monadelor.
+
+<sup>9.</sup>Pe măsură ce este atins fiecare regn superior (precum și fiecare nivel superior din același regn), crește capacitatea monadei de a fi influențată de serii tot mai cuprinzătoare de vibrații ale unor feluri moleculare tot mai înalte. Există 49 de asemenea serii în fiecare fel molecular.
+
+<sup>10.</sup>Când monada a putut multă vreme să fie afectată de vibrații mentale (47:7) și a atins astfel cea mai înaltă specie animală, îi devine posibil să transmigreze în regnul uman.
+
+### 1.34 *Al patrulea regn natural*
+
+<sup>1.</sup>Dobândind un înveliș cauzal, monada trece din regnul animal în regnul uman. Este preferabil ca acest proces să fie numit „cauzalizare”, nu „individualizare”, deoarece monada este individ în toate regnurile.
+
+<sup>2.</sup>Învelișul cauzal este învelișul permanent al monadei umane până când aceasta se esențializează și trece în al cincilea regn natural. Acest înveliș se încarnează și, făcând aceasta, se involvează în patru învelișuri inferioare, care urmează curând să se dizolve.
+
+<sup>3.</sup>La stadiul actual de dezvoltare al omenirii, omul activează conștiință mai ales în învelișurile sale emoțional și mental.
+
+<sup>4.</sup>Dezvoltarea conștiinței în regnul uman poate fi împărțită în cinci stadii principale, cuprinzând în total 777 de niveluri de dezvoltare. Tabelul de mai jos arată ce conștiințe moleculare activează monada prin aceasta.
+
+| <sup>5.</sup>Stadiu | Emoțional | Mental |
+|---|---|---|
+| barbarie | 48:5–7 | 47:7 |
+| civilizație | 48:4–7 | 47:6,7 |
+| cultură | 48:3–7 | 47:6,7 |
+| umanitate | 48:2–7 | 47:4–7 |
+| idealitate | 48:2–7 | 47:2–7 |
+
+<sup>6.</sup>*Piatra filozofală* de Laurency oferă o relatare mai detaliată a diferitelor stadii de dezvoltare.
+
+<sup>7.</sup>Numărul indivizilor socotiți printre oamenii planetei noastre, cauzalizați aici sau transferați aici, se ridică la circa 60 de mii de milioane. Ei se află în lumile fizică, emoțională, mentală și cauzală ale planetei noastre; cei mai mulți dorm în învelișurile lor cauzale — deoarece nu au posibilitatea conștiinței cauzale — în așteptarea unei noi încarnări.
+
+<sup>8.</sup>Trecerea acestor monade din regnul animal în cel uman a avut loc în cinci epoci diferite, ultima acum circa 18 milioane de ani; indivizii celor patru epoci anterioare au fost transferați ulterior de pe o altă planetă. Învelișurile cauzale ale oamenilor au, prin urmare, vârste foarte diferite, ceea ce explică stadiile diferite de dezvoltare. Cei care au atins stadiul cel mai înalt au în urmă circa 150.000 de încarnări, iar cei de la cel mai de jos, circa 30.000. În acest context trebuie avută în vedere dublarea capacității conștiinței în fiecare fel molecular superior, astfel încât numărul încarnărilor nu poate fi comparat în această privință.
+
+<sup>9.</sup>Declarația occidentală că „dumnezeu i-a creat pe toți oamenii egali” este, astfel, o eroare la fel de mare ca ficțiunea filozofilor indieni că „toți sunt dumnezei”. Dumnezeu nu poate crea o singură monadă, ci numai le poate da monadelor prilejul de a fi introduse în manifestarea cosmică. Desigur, toate monadele vor atinge într-o zi stadiul divin cel mai înalt, dar înainte de aceasta trebuie să fie involvate până în lumea fizică și apoi să urce scara aparent nesfârșită a nivelurilor de dezvoltare, de la regnul mineral până la regnul divin cel mai înalt.
+
+<sup>10.</sup>Din cele de mai sus ar trebui să fie evident că judecățile morale ale oamenilor unii asupra altora sunt criticile ignoranței și verdictele nejustificate ale urii. Oamenii nu sunt nici buni, nici răi. Ei se află la un anumit nivel de dezvoltare și nu știu mai bine. La aceasta trebuie adăugate efectele legii destinului și ale legii seceratului. Pentru a înțelege aceasta, este important de asemenea să se știe că, în vremuri de răsturnări, clanurile aflate în stadiile cele mai înalte nu se încarnează în măsură prea mare. Dintre cei încarnați în prezent, mai mult de 85 la sută se află la cele mai de jos două stadii. Cei mai mulți din restul de 15 la sută sunt oameni discreți, liniștiți. Dacă nu au primit sarcini speciale, se încarnează mai ales în țările în care au cele mai bune perspective de a-i găsi pe alții de același nivel. Cei de la stadiul umanității care nu au avut ocazia să studieze ezoterismul se simt străini, fără a înțelege de ce, și se învinovățesc pentru aceasta. Din nefericire, aceasta este regula. Ei au fost cândva inițiați și au rămas apoi căutători ai „cuvântului pierdut al maestrului” (ezoterismul). Au cunoașterea ca instinct, fără să-i știe cauza, și de aceea sunt nesiguri.
+
+<sup>11.</sup>În lumea fizică, omul este un organism cu un înveliș eteric. El are două feluri de conștiință fizică. Percepțiile senzoriale ale organismului îi permit să cuprindă obiectiv formele materiale din cele trei feluri moleculare inferioare. Vibrațiile din felurile moleculare ale învelișului eteric sunt încă percepute numai subiectiv de cei mai mulți oameni. Realitățile vizibile sunt singurele despre care omul știe și, pentru el, singurele reale. El socotește sentimentele și gândurile sale drept simple cuprinderi subiective, neavând nicio idee despre faptul că ele corespund vibrațiilor din felurile moleculare ale lumilor superioare. Nu știe nimic despre învelișurile sale superioare, ignorând complet faptul că, atunci când trăiește sentimente, atenția sa (monada) se deplasează în învelișul său emoțional, iar când gândește, monada se deplasează în învelișul său mental. Nu știe că este o monadă într-un înveliș cauzal.
+
+<sup>12.</sup>Individul aflat la stadiul barbariei, ca sine exclusiv fizic, fără conștiință emoțională și mentală demnă de menționat, aparține nivelurilor celor mai de jos ale acelui stadiu. Imediat după cauzalizare este puțin mai mult decât un animal, adesea nici măcar atât de inteligent. Viața sa în lumea emoțională dintre încarnări este foarte scurtă. Cade curând într-un somn fără vise în învelișul său cauzal, nefiind capabil să folosească conștiința învelișului mental. La nivelurile superioare ale barbariei, conștiința sa mentală este activată într-atât încât poate trage concluzii simple.
+
+<sup>13.</sup>Ca sine emoțional (la stadiile civilizației și culturii), individul este determinat în gândire și acțiune de motive emoționale. Stadiul emoțional este cel mai dificil stadiu de dezvoltare. La acest stadiu, omul trebuie să dobândească singur conștiință în toate cele șase feluri moleculare ale învelișului său emoțional și în cele două feluri moleculare inferioare ale învelișului său mental. Stadiului emoțional îi aparține aproape tot ceea ce omul consideră astăzi civilizație și cultură.
+
+<sup>14.</sup>Stadiul emoțional se împarte în cele două stadii, al civilizației și al culturii, fiecare prezentând un număr mare de niveluri.
+
+<sup>15.</sup>Conștiința emoțională a individului civilizat rareori se întinde dincolo de cele trei sau patru feluri moleculare inferioare, iar conștiința sa mentală rareori dincolo de cele două inferioare. Cu această modestă capacitate intelectuală, el își intelectualizează dorințele în sentimente care există în mod normal în regiunile inferioare ale lumii emoționale. În general, ele sunt de fel respingător.
+
+<sup>16.</sup>La stadiul culturii sunt activate cele trei feluri moleculare superioare ale învelișului emoțional. Vibrațiile aferente din lumea emoțională sunt în principal atrăgătoare. Odată ajuns în aceste regiuni, individul se poate elibera treptat de tendința dobândită de mult timp spre o atitudine respingătoare față de lumea înconjurătoare și față de sine. Sentimentele sale devin tot mai înnobilate la fiecare nivel superior și înlocuiesc receptivitatea sa anterioară la nenumăratele expresii de ură ale vibrațiilor respingătoare. Căci tot ce nu este iubire este ură.
+
+<sup>17.</sup>La cele mai înalte niveluri culturale, individul devine mistic. În domeniile conștiinței emoționale la care a ajuns acum, nu mai folosește intelectul pe care l-a dobândit până atunci. Adesea, în stări de extaz, trăiește unitatea vieții, mai presus de orice înțelegere. Imaginația sa, care se dezvoltă puternic, îl face să se piardă într-o aparentă infinitate. Dezvoltarea sa emoțională se încheie și este încununată de o încarnare ca sfânt. În încarnările ulterioare se străduiește să devină un sine mental.
+
+<sup>18.</sup>Stadiul mental se împarte în stadiile umanității și idealității (sau stadiul cauzal). Umanistul activează conștiința în cele patru feluri moleculare mentale inferioare, idealistul în toate cele șase. Umanistul este un sine mental, idealistul un sine cauzal.
+
+<sup>19.</sup>Trăsătura cea mai distinctivă a umanistului este străduința sa spre bun-simț, condiție prealabilă a dobândirii intuiției cauzale. El nu se mai poate pierde, asemenea misticului, în inefabil, ci cere mai presus de toate claritate în toate și fapte pentru toate. Voința sa neînduplecată de a cuprinde realitatea și a înțelege viața, în pofida tuturor lucrurilor, îl constrânge să caute mereu mai departe. Perioadele tot mai lungi petrecute în lumea mentală între încarnări, când își poate prelucra ideile neîmpiedicat, reacționează asupra acestei străduințe. Devine tot mai receptiv la inspirațiile fraților săi mai vârstnici din al cincilea regn natural. Când ajunge la înțelegerea socratică potrivit căreia omul nu poate cunoaște nimic care merită cunoscut, este pregătit să primească cunoașterea ezoterică.
+
+<sup>20.</sup>În vechime, ar fi fost atunci ales pentru inițiere într-un ordin secret al cunoașterii. Astăzi i se dă cunoașterea într-un sistem mental al faptelor fundamentale ale existenței, pe care rațiunea îl constrânge să-l accepte drept singura ipoteză de lucru susținibilă. Folosind cunoașterea dobândită, este posibil să activeze feluri de conștiință tot mai înalte, până când, într-o zi, lumea intuiției i se deschide înainte și devine capabil să constate singur fapte despre realitate și viață, precum și să-și studieze încarnările anterioare ca om.
+
+<sup>21.</sup>Atunci vede și cât de fără speranță este pentru om, cu mijloacele sale insuficiente, să dobândească această cunoaștere, cât de aproape imposibil este chiar ca majoritatea oamenilor să o cuprindă. Pornind de la propriul lor mic sistem de credințe sau de gândire, ei își imaginează că pot judeca totul prin acesta. El vede că viața de conștiință a oamenilor, în afară de constatarea faptelor în lumea fizică vizibilă, constă din iluzii emoționale și ficțiuni mentale. Vede și cât de zadarnic este să faci ce a făcut Platon, să sugerezi existența unei lumi a idealurilor. Acum știe că ea există.
+
+<sup>22.</sup>Ca sine cauzal, el dobândește cunoașterea legilor vieții și capacitatea de a folosi rațional această cunoaștere cu scop concentrat. Vede că greșelile ignoranței față de aceste legi nu sunt crime împotriva divinității, că tot binele și răul pe care le întâlnește omul sunt propria sa operă.
+
+<sup>23.</sup>El intră în comunicare cu cei din regnurile superioare și primește de la ei faptele suplimentare de care are nevoie, dar pe care nu le poate constata singur. Dobândește treptat cele douăsprezece calități esențiale care îi permit să treacă în al cincilea regn natural. Acestea sunt enumerate în relatarea ezoterică a celor douăsprezece munci ale lui Heracles (Hercule), complet deformate în legenda exoterică.
+
+<sup>24.</sup>Cele cinci învelișuri ale omului au fiecare propriile conștiințe și propriile tendințe. Cele ale organismului sunt moștenite de la părinți. Calitățile și capacitățile pe care sinele le dobândește în învelișurile sale emoțional și mental au corespondențe într-un grup de atomi (sanscrită: *skandhas*), sunt păstrate de învelișul cauzal și folosite la reîncarnare. Sarcina sinelui este să învețe să-și stăpânească învelișurile, astfel încât ele să se supună voinței sale. Nu este ușor, deoarece tendințele învelișurilor sunt rezultatele obiceiurilor a mii de încarnări. La stadiul actual al omenirii, emoționalul controlează fizicul. Omul mai are de învățat să controleze emoționalul prin mental. Pentru aceasta este nevoie de mai mult decât hotărâri bune; poate dura multe vieți după ce a văzut necesitatea.
+
+<sup>25.</sup>Când individul își părăsește organismul uzat împreună cu învelișul eteric, continuă să trăiască în învelișul emoțional și, când acesta se dizolvă, în învelișul mental; iar când și acesta se dizolvă, așteaptă, adormit în învelișul cauzal, să renască în lumea fizică, care este incomparabil cea mai importantă, deoarece în această lume trebuie dobândite toate calitățile umane și numai aici are posibilitatea să se elibereze de iluziile emoționale și ficțiunile mentale. Viața dintre încarnări este o perioadă de odihnă în care omul nu învață nimic nou. Cu cât sinele se poate elibera mai repede de învelișurile sale de încarnare, cu atât se dezvoltă mai repede.
+
+<sup>26.</sup>În același timp în care învelișul eteric se eliberează de organism în așa-numitul proces al morții, învelișul emoțional se eliberează de învelișul eteric, care rămâne lângă organism și se dizolvă împreună cu el.
+
+<sup>27.</sup>Viața omului în lumea emoțională se poate dovedi cu totul diferită pentru diferiți indivizi, după nivelurile lor de dezvoltare.
+
+<sup>28.</sup>Ca și lumea fizică, lumea emoțională are șase regiuni succesiv mai înalte. Cei mai mulți oameni sunt astăzi conștienți obiectiv, de la început, în cele trei regiuni care corespund celor trei regiuni inferioare ale lumii fizice. (Conștiința mentală rămâne totuși subiectivă.) Obiectele din acele regiuni sunt contrapartide materiale ale formelor materiale din lumea fizică, fapt care îl face adesea pe nou-venit să creadă că trăiește încă în lumea fizică. În această primă perioadă, individul se poate asocia și cu prietenii săi din lumea fizică atunci când aceștia dorm. Fără cunoaștere ezoterică, el crede, ca toți ceilalți, că regiunea cea mai înaltă din această lume nouă a sa este „cerul și destinația sa finală în eternitate”.
+
+<sup>29.</sup>Învelișul emoțional se dizolvă treptat: mai întâi felul său molecular cel mai de jos, apoi următorul de jos etc. După ce cele trei inferioare s-au dizolvat, individul nu mai poate contacta lumea fizică vizibilă. Unii se pot elibera de cele trei feluri moleculare inferioare ale învelișului lor emoțional deja în procesul morții fizice.
+
+<sup>30.</sup>În cele trei regiuni superioare ale lumii emoționale, formele materiale existente sunt creații imaginative ale indivizilor din acele regiuni. Căci materia emoțională se formează după cea mai mică sugestie a conștiinței, fără ca ignorantul să înțeleagă cauza sau să poată pricepe cum s-a întâmplat. Individul rareori învață ceva cu adevărat nou în lumea emoțională, iar în lumea mentală niciodată.
+
+<sup>31.</sup>Viața învelișului emoțional poate varia la fel de mult ca aceea a organismului.
+
+<sup>32.</sup>După dizolvarea învelișului emoțional, individul duce în învelișul său mental o viață a gândirii absolut subiectivă, fără să suspecteze imposibilitatea de a cuprinde realitatea obiectivă în această lume. Cuprinderea realității, a beatitudinii, perfecțiunii, omniscienței și omnipotenței este însă absolută. Toate fanteziile sale devin pentru el realități absolute. Tot ce dorește este instantaneu acolo, iar toți prietenii săi, toți „marii oameni” ai omenirii, sunt împreună cu el, toți la fel de perfecți.
+
+<sup>33.</sup>Viața independentă a învelișului mental poate varia de la circa un minut (în cazul barbarului) până la mii de ani. Totul depinde de câte idei a adunat individul în timpul vieții fizice și cât de vitale sunt acestea. Se spune că Platon are material de prelucrat pentru zece mii de ani.
+
+<sup>34.</sup>La dizolvarea învelișului mental, individul cade, în învelișul său cauzal, într-un somn fără vise, care va dura până când vine timpul renașterii și pentru el s-a format un embrion într-un corp fizic matern. Se trezește cu dorința unei vieți noi și formează instinctiv, prin învelișul său cauzal, învelișuri mentale și emoționale noi, acestea fiind legăturile necesare de comunicare. Va fi sarcina copilului în creștere să folosească însușirile sale latente pentru a dezvolta în ele capacitatea de conștiință.
+
+<sup>35.</sup>Nu poate exista viață cauzală conștientă decât dacă intuiția ideilor cauzale a fost dobândită în existența fizică. (De altfel, în fizic trebuie dobândit totul.) Continuitatea conștiinței monadei, făcută posibilă prin memoria din învelișurile sale de încarnare acum dizolvate, s-a pierdut. Învelișul cauzal păstrează însă memoria tuturor încarnărilor umane și a experiențelor avute, a înțelegerii și priceperii dobândite, a calităților și capacităților câștigate. Totul există ca rudimente în încarnările noi. Cât, sau mai degrabă cât de puțin, se va actualiza din nou depinde de noile posibilități ale individului de a-și reaminti și a-și dezvolta calitățile latente.
+
+### 1.35 *Al cincilea regn natural*
+
+<sup>1.</sup>Numai indivizii care au atins lumea cosmică cea mai înaltă au cunoaștere absolută (sută la sută) a întregului cosmos și a celor trei aspecte ale sale: materie, mișcare și conștiință.
+
+<sup>2.</sup>După cum oamenii trebuie să primească cunoașterea lumilor superioare de la indivizi din al cincilea regn natural, aceștia trebuie la rândul lor să primească de la indivizi din al șaselea regn natural cunoașterea lumilor încă mai înalte și a existenței ca întreg, și așa mai departe prin seria regnurilor tot mai înalte. Dar toți primesc numai cunoașterea necesară pentru a înțelege realitatea și a se dezvolta mai departe, pe care nu o pot dobândi singuri. Toți indivizii din regnurile superioare sunt cercetători în lumile lor și trebuie să-și dobândească propria cunoaștere despre tot ce se află în acestea și să învețe să aplice fără fricțiune cunoașterea acelor legi ale naturii și vieții care sunt constante în lumile lor.
+
+<sup>3.</sup>Prin esențializare, sinele cauzal dobândește un înveliș de materie esențială (46) și trece astfel din al patrulea în al cincilea regn natural.
+
+<sup>4.</sup>Al cincilea regn natural constă în parte din sine-46 (sine esențiale), cu învelișuri și conștiință în lumea esențială planetară, și în parte din sine-45, cu învelișuri și conștiință în lumea supraesențială a sistemului solar.
+
+<sup>5.</sup>Conștiința învelișului esențial este conștiința unității. Individul știe că este propriul său sine, având o identitate de sine ce nu poate fi pierdută niciodată, dar și un sine mai mare împreună cu toate monadele din cele cinci regnuri naturale; iar când dorește, trăiește conștiința altora ca pe a sa. „Conștiința picăturii a devenit una cu conștiința oceanului.” „Unirea cu Dumnezeu” este dobândirea de către sine a conștiinței unității.
+
+<sup>6.</sup>În atomii tuturor lumilor inferioare (47–49) există atomi esențiali cu conștiință pasivă, care poate fi activată de vibrații din afară (Dumnezeu imanent). Numai la stadiul emoțional superior individul este suficient de dezvoltat pentru a putea percepe vreodată aceste vibrații.
+
+<sup>7.</sup>În ordinul secret al cunoașterii al gnosticilor, conștiința 46 era numită „fiul”, sau „Christos”, iar conștiința 43, „tatăl”, sau „marele tâmplar”.
+
+<sup>8.</sup>Sinele-46 este omniscient în lumile 46–49. Omnisciența nu înseamnă că individul știe totul despre tot, ci că poate, când este nevoie, să afle repede orice dorește să știe în lumile sale, independent de spațiu și timpul trecut.
+
+<sup>9.</sup>Numai conștiința esențială poate deveni conștientă în atomii fizici, emoționali și mentali. Înainte de dobândirea ei, conștiința moleculară subatomică este cel mai înalt fel de conștiință din diferitele lumi. După ce a dobândit aceste feluri de conștiință atomică, monada se poate identifica cu conștiința totală a acestor lumi și cu memoriile lor nealterate ale timpului trecut.
+
+<sup>10.</sup>Ca sine esențial, individul trebuie să dobândească singur, prin propria cercetare, cunoaștere completă despre tot ce este important în lumile omului (47–49).
+
+<sup>11.</sup>Monadele esențiale formează o ființă colectivă proprie, având o conștiință totală comună.
+
+<sup>12.</sup>Sinele esențial nu mai trebuie să se încarneze, deoarece nu mai are nimic de învățat în regnul omului. Totuși, el se încarnează adesea pentru a-i ajuta prin toate mijloacele și prin contact personal pe cei care se pregătesc să intre în regnul superior. Toată recunoștința la care se poate aștepta este să fie neînțeles, folosit abuziv și persecutat, mai ales de cei care, în obișnuita lor supraestimare arogantă de sine, se socotesc pregătiți, dar eșuează în încercările pe care le trec fără să știe.
+
+<sup>13.</sup>Când omenirea va fi ajuns să-și vadă ignoranța aproape totală despre viață și incapacitatea de a rezolva problemele și de a călăuzi dezvoltarea, chiar sine-45 și avatari încă mai înalți vor fi pregătiți să se încarneze, cu condiția ca ajutorul lor să fie cerut de un procent apreciabil al omenirii. A face aceasta înainte ar fi un sacrificiu lipsit de sens.
+
+<sup>14.</sup>Sarcina sinelui esențial, în ceea ce îl privește, nu este numai să reînvețe în toate privințele, ci și să dobândească treptat conștiință în cele șase feluri moleculare ale învelișului său, înlocuind prin aceasta inferiorul cu superiorul până când învelișul constă exclusiv din materie atomică esențială. Când aceasta s-a realizat, individul începe un proces corespunzător de activare și conștiință în lumea 45, pentru a deveni un sine-45.
+
+<sup>15.</sup>Sinele supraesențial trăiește permanent din nou faptul că lumina lumilor inferioare este întunericul lumilor superioare, nu numai literal, ci și simbolic. În privința conștiinței, un sine-45 este față de om așa cum este omul față de plantă.
+
+<sup>16.</sup>În unele cărți ezoterice, esențialitatea este numită „iubire și înțelepciune”, iar supraesențialitatea, „voință”. Astfel de termeni sunt înșelători, ca să spunem cel puțin atât. Neputința de a găsi termeni noi este remarcabilă, având în vedere că și cea mai mică noutate tehnică poate avea unul propriu.
+
+<sup>17.</sup>A folosi cuvântul „iubire” pentru esențialitate și a spune în același timp că omul nu știe ce este iubirea nu oferă nicio claritate. Confuzia de idei este cu atât mai mare, încât oamenii sunt imediat gata să susțină că omul este incapabil de iubire. Iubirea umană este atracție (fizică, emoțională și mentală). Din nefericire, ea se poate transforma în respingere dacă nu este autentică. Pentru conștiința esențială nu există nici atracție, nici respingere, ci numai unitate inseparabilă cu toate, voință de unitate.
+
+<sup>18.</sup>Termenul „voință”, aplicat supraesențialității, este la fel de lipsit de speranță. Cel mult, poate avea vechiul său sens filozofic: voința este raportul conștiinței față de un scop. Dar aceasta este, desigur, o informație săracă.
+
+<sup>19.</sup>Un termen potrivit pentru:
+
+| Conștiință | Denumire |
+|---|---|
+| 46 | conștiință de lume |
+| 45 | conștiință planetară |
+| 44 | conștiință interplanetară |
+| 43 | conștiință a sistemului solar |
+
+<sup>20.</sup>Sinele esențial știe că Legea este inflexibilă și inevitabil dreaptă, că viața este divină și că toate monadele sunt indestructibile. Știe că viața este fericire și că suferința există numai în cele trei feluri moleculare inferioare ale lumilor fizică și emoțională (49:5–7; 48:5–7), și atunci numai ca secerat rău din semănat rău.
+
+### 1.36 *Al șaselea regn natural, sau primul regn divin*
+
+<sup>1.</sup>Regnul divin cel mai de jos (numit și regnul manifestal) este alcătuit din acei indivizi care au dobândit învelișuri și conștiință în cele două lumi cele mai înalte ale sistemului solar (43 și 44). Ei dispun de cele două conștiințe colective cele mai înalte ale sistemului solar. Sunt omniscienți în sistemul solar, independenți de spațiu în acel glob și de timpul său trecut. Se înțelege că stăpânesc deplin aspectele de materie și mișcare, precum și Legea din lumile 43–49.
+
+### 1.37 *Regnurile cosmice*
+
+<sup>1.</sup>Despre aceste șase regnuri divine, succesiv mai înalte, din cele 42 de lumi atomice superioare știm că există, că ele constituie o organizație cosmică perfectă, lucrând cu precizie infailibilă potrivit tuturor legilor naturii și vieții ale existenței.
+
+<sup>2.</sup>În cosmos, individul nu dobândește niciun înveliș propriu. El succede într-o funcție superioară și, în cele din urmă, în cea mai înaltă funcție din lumea sa cu conștiința ei colectivă, și se identifică cu această lume drept propriul său înveliș.
+
+<sup>3.</sup>Indivizii celui de-al doilea regn divin aspiră la omnisciență în lumile 36–42 (abia acum „conștiință cosmică”), cei ai celui de-al treilea regn divin la omnisciență în lumile 29–35 etc.
+
+<sup>4.</sup>Cei care au atins lumea cea mai înaltă s-au eliberat de orice involvare în materie și, ca monade libere (atomi primordiali), au ajuns să se cunoască drept sinele ultime care au fost întotdeauna. Aurele lor sunt ca niște sori uriași cosmici, iar ei radiază energie ca izvorul oricărei puteri.
+
+<sup>5.</sup>Ei pot, dacă doresc, să se retragă împreună cu un colectiv din cosmosul lor și să înceapă construirea unui cosmos nou în haosul nesfârșit al materiei primordiale.
+
+### 1.38 *Ierarhia planetară*
+
+<sup>1.</sup>Indivizii din al cincilea și al șaselea regn natural constituie ierarhia planetei noastre, care a dobândit conștiință atomică în lumile planetare 46 și 45, precum și 44 și 43.
+
+<sup>2.</sup>Ierarhia se împarte în șapte departamente. Fiecare departament lucrează cu energia sa specializată, care funcționează potrivit legii periodicității din sistemul solar.
+
+<sup>3.</sup>Ierarhia supraveghează evoluția în regnurile inferioare. Ea se interesează în mod deosebit de cei aflați la stadiul umanității care caută, cu scop concentrat, să dobândească cele douăsprezece calități esențiale pentru a sluji mai bine viața. Prin aceasta se califică pentru al cincilea regn.
+
+### 1.39 *Guvernarea planetară*
+
+<sup>1.</sup>În guvernarea planetară pot intra indivizi care au atins al doilea regn divin. Conducătorul guvernării planetare aparține celui de-al treilea regn.
+
+<sup>2.</sup>Ca toate guvernările din regnurile încă mai înalte, guvernarea planetară este împărțită în trei departamente principale, care se ocupă de cele trei funcții fundamentale privind aspectele de materie, mișcare și conștiință. Ele au responsabilitatea finală ca toate procesele aferente ale naturii să funcționeze cu precizie infailibilă. Ele se îngrijesc ca toți să primească ceea ce au nevoie pentru dezvoltarea conștiinței și ca tuturor să li se facă dreptate neînduplecată, potrivit legii semănatului și seceratului.
+
+<sup>3.</sup>În contactele lor cu oamenii, zeii iau forme umane ideale, învelișuri permanente de materie atomică fizică, și pentru a-și ancora conștiința fizică; aceste învelișuri pot fi făcute ușor vizibile tuturor.
+
+### 1.40 *Guvernarea sistemului solar*
+
+<sup>1.</sup>Pentru a intra în guvernarea sistemului solar este necesar să fi atins al treilea regn divin. Ea supraveghează, firește, totul în sistemul solar, primește directive de la guvernări superioare și dă directive guvernărilor planetare.
+
+<sup>2.</sup>Ea transmite și cunoașterea primită despre cosmos și Lege în măsura necesară îndeplinirii funcțiilor.
+
+<sup>3.</sup>Legea autorealizării este valabilă în toate regnurile, iar toți indivizii trebuie să-și cerceteze lumile prin mijloacele lor respective și să învețe să aplice cunoașterea și înțelegerea dobândite.
+
+### 1.41 LEGEA
+
+<sup>1.</sup>Legea este totalitatea tuturor legilor naturii și vieții: relațiile constante ale materiei, mișcării și conștiinței, expresive ale naturii materiei primordiale și ale forței primordiale omnipotente, inepuizabile, veșnic dinamice, care acționează în felul său orb în relațiile constante, imperturbabile și inevitabile ale naturii și vieții.
+
+<sup>2.</sup>Din această Lege, știința nu a cercetat încă mai mult decât o fracțiune infinitezimală.
+
+<sup>3.</sup>Există legi în toate și totul este expresia legii. Zeii înșiși sunt supuși Legii. Omnipotența este posibilă numai prin aplicarea absolut lipsită de greșeală a legilor în integralitatea lor.
+
+<sup>4.</sup>În materia primordială (haosul anticilor) nu se manifestă legi. Ele apar numai în legătură cu compozițiile atomilor din cosmos.
+
+<sup>5.</sup>Cu cât se extind mai mult limitele conștiinței subiective și obiective, cu atât sunt descoperite mai multe legi. Numai monadele din regnul divin cel mai înalt cunosc toate legile universului și le pot aplica corect cu precizie infailibilă.
+
+<sup>6.</sup>Legile naturii privesc materia și mișcarea; legile vieții privesc aspectul conștiinței.
+
+<sup>7.</sup>Legile vieții cele mai importante pentru omenire sunt legile libertății, unității, dezvoltării, sinelui (autorealizării), destinului, seceratului și activării.
+
+<sup>8.</sup>Legea libertății spune că fiecare monadă este propria sa libertate și propria sa lege, că libertatea se câștigă prin lege, că libertatea este dreptul la caracter și activitate individuale în limitele dreptului egal al tuturor. (Curiozitatea privind viața de conștiință a altora este o greșeală gravă.)
+
+<sup>9.</sup>Legea unității spune că toate monadele alcătuiesc o unitate și că fiecare monadă, pentru extinderea suprapersonală a conștiinței, trebuie să-și realizeze unitatea cu întreaga viață.
+
+<sup>10.</sup>Legea dezvoltării spune că toate monadele își dezvoltă conștiința, că există forțe care acționează în moduri diferite spre scopul final al vieții.
+
+<sup>11.</sup>Legea sinelui spune că fiecare monadă trebuie să dobândească ea însăși toate calitățile și capacitățile necesare omniscienței și omnipotenței, începând cu regnul uman: înțelegerea legilor și responsabilitatea care urmează din aceasta.
+
+<sup>12.</sup>Legea destinului indică ce forțe influențează individul, ținând seama de experiențele necesare.
+
+<sup>13.</sup>Legea seceratului spune că tot binele și răul pe care le-am inițiat în gânduri, sentimente, cuvinte și fapte ne sunt întoarse cu același efect. Fiecare expresie a conștiinței acționează în moduri multiple și atrage după sine semănat bun sau rău, care se va coace și va fi secerat cândva.
+
+<sup>14.</sup>Legea activării spune că dezvoltarea individuală este posibilă numai prin activitate de conștiință autoinițiată.
+
+<sup>15.</sup>O relatare mai detaliată a legilor vieții se găsește în *Piatra filozofală* de Laurency. Cele mai importante pentru individ sunt legile libertății, unității, sinelui și activării — mai ales primele două.
+
+<sup>16.</sup>Legile vieții fac posibile cea mai mare libertate posibilă și dreptate infailibilă pentru toți. Libertatea, sau puterea, este dreptul divin inalienabil al individului. Ea se dobândește prin cunoașterea Legii și prin aplicarea infailibilă a legilor. Libertatea (puterea) și legea sunt condiții reciproce. Dezvoltarea implică activitate aplicată cu finalitate, în acord cu Legea. Altfel, cosmosul ar degenera în haos.
+
+<sup>17.</sup>În monadele cu tendință fundamentală respingătoare, dezvoltarea poate lua o direcție greșită, manifestându-se deja în parazitismul vieții vegetale și în prădarea vieții animale (și umane). Încălcarea inconștientă și, într-un grad și mai înalt, conștientă a libertății divine veșnic inalienabile și inviolabile a monadei, limitată de dreptul egal al întregii vieți, are ca rezultat lupta pentru existență și cruzimea vieții.
+
+<sup>18.</sup>Viața este bucurie, fericire, beatitudine în lumea mentală și în toate lumile superioare. Suferința se găsește numai în cele trei regiuni inferioare ale lumilor fizică și emoțională.
+
+<sup>19.</sup>Răul este orice greșeală față de Lege, mai ales tendința respingătoare (ura) în toate nenumăratele ei forme.
+
+<sup>20.</sup>Tot binele și răul care i se întâmplă individului sunt propria sa operă, rezultatul propriei sale aplicări a concepției limitate despre bine și rău. Toți seceră ce au semănat în vieți anterioare și adesea în aceeași viață. Individului nu i se poate întâmpla nimic ce nu a meritat prin sfidarea Legii.
+
+<sup>21.</sup>„Natura dublă a omului” apare în conflictul dintre „sinele superior și cel inferior” ale omului, dintre idealurile cauzale inevitabile ale conștiinței cauzale, pe care individul va putea să le realizeze mai devreme sau mai târziu, și „personalitatea imperfectă” din învelișurile încarnării (calitățile dobândite de monadă la stadiile inferioare). Face parte din experiența completă a vieții ca sinele să fi avut în cele din urmă fiecare calitate rea și să-i fi secerat consecințele.
+
+<sup>22.</sup>Omul învață, deși incredibil de încet, din propriile experiențe și secerând ce a semănat. El continuă să se încarneze până când a învățat tot ce are de învățat și a secerat până la ultimul grăunte ce a semănat. Cu cât o ființă a atins un stadiu mai înalt de dezvoltare, cu atât mai mare este efectul greșelilor sale față de Lege și al răului făcut ei. Nedreptatea, sub orice aspect, este absolut exclusă, iar vorbirea despre ea este un mod de exprimare al ignoranților și invidioșilor.
+
+<sup>23.</sup>Ignoranța, lipsa legii și arbitrariul suveran merg împreună. Pe măsură ce omul atinge niveluri tot mai înalte, vede necesitatea și finalitatea legii, caută să dobândească cunoașterea legilor naturii și vieții și se străduiește să dobândească capacitatea de a aplica rațional ceea ce știe. Când poate face aceasta, omul nu este numai învățat, ci și înțelept.
+
+<sup>24.</sup>Ignoranța crede că poate fi fără lege, poate refuza să dobândească cunoașterea legilor naturii și ale vieții și să le aplice corect. Legea naturii a cauzei și efectului, legea vieții a semănatului și seceratului, îi învață treptat pe ignoranți și pe cei mai sfidători, prin nenumărate experiențe dureroase, ce este rațional și necesar. Ignoranții trebuie învățați inevitabilitatea legii, iar cei lipsiți de voință să nu încalce dreptul egal al tuturor.
+
+<sup>25.</sup>Toți moraliștii („fariseii” Evangheliilor) încalcă legile libertății și unității prin violările lor constante ale inviolabilității personale a individului (calomnia, atitudinile dominatoare, intruziunea în sfințenia vieții private). Individul are dreptul divin al vieții de a fi ceea ce este, cu toate neajunsurile, greșelile și viciile sale; de a gândi, simți, spune și face ceea ce socotește potrivit, atât timp cât nu încalcă astfel dreptul egal al altora la aceeași libertate inviolabilă.
+
+<sup>26.</sup>La stadiul actual al omenirii lipsește înțelegerea dreptului individului la integritate absolută. Felul în care alții își trăiesc viața nu ne privește, iar toate judecățile sunt mari greșeli. Cel puțin așa-zișii ezotericieni ar trebui să înțeleagă aceasta, dar se pare că va mai trece timp până vor fi învățat să nu se amestece în treburile altora. Aceasta face parte din capacitatea de a tăcea.
+
+<sup>27.</sup>Sistemele juridice și sociale umane vor fi mereu schimbate, până când sistemul juridic elaborat în cele din urmă va fi în acord cu legile vieții, dezvoltarea și scopul vieții.
+
+### 1.42 ȘTIINȚA VIITORULUI
+
+<sup>1.</sup>Hylozoica, sistemul mental de cunoaștere elaborat de Pitagora, sine-46, este singurul sistem ezoteric care explică trinitatea existenței și, astfel, concepția fundamentală despre existență a ierarhiei planetare. Lui Pitagora îi datorăm conceptele despre realitate care oferă temelia necesară abordării științifice. Intenția lui era, într-adevăr, să facă din materialismul spiritual temelia de nezdruncinat a științei viitorului.
+
+<sup>2.</sup>Dintre cele trei aspecte ale existenței, numai aspectul materiei face posibilă exactitatea științifică. Nici aspectul conștiinței, nici cel al mișcării nu oferă temeiuri explicative la fel de logice. Cea mai bună dovadă a acestui fapt sunt filozofia yoga și sistemele „oculte” vechi și moderne.
+
+<sup>3.</sup>Cele mai multe sisteme de „superfizică” lansate în vremea noastră sunt cele mai potrivite pentru emoționaliștii care nu au nevoie, nici măcar nu doresc, claritate, deoarece claritatea împiedică expansiunea nestingherită a imaginației emoționale în infinitate, de care are nevoie misticul.
+
+<sup>4.</sup>Este evident că intelectualitatea cu pregătire filozofică și științifică nu va irosi timp și efort cu asemenea sisteme vagi, mai ales când toate autoritățile religioase, filozofice și științifice au declarat ezoterismul drept amalgamul spiritual al mistagogilor, pe care oamenii îl cunosc totuși de multă vreme.
+
+<sup>5.</sup>Cei care au asimilat conținutul *Problemelor realității* nu vor avea dificultăți să descopere neajunsurile mentale ale sistemelor mai vechi. Cei neinstruiți în ezoterism ar trebui însă să amâne asemenea comparații până când au stăpânit temeinic hylozoica, deoarece altminteri poate apărea ușor confuzia de concepte. Pentru a evita o asemenea confuzie, în vechime nimănui nu i se permitea să aparțină la mai mult de un ordin al cunoașterii.
+
+<sup>6.</sup>Capitolele 1.4–1.41 constituie „catehismul mai scurt” al hylozoicianului.
+
+### 1.43 *Concluzie*
+
+<sup>1.</sup>Sarcina emoțională a religiei a fost să-l elibereze pe om de frică și anxietate, să-i dea credință în viață și în puterea binelui; iar sarcina misticismului din toate religiile a fost să-i dăruiască beatitudine durabilă și „pacea care întrece orice înțelegere”.
+
+<sup>2.</sup>Sarcina științei este să cerceteze realitatea fizică, nu cea suprafizică. Fără faptele ezoterismului, omenirea va rămâne ignorantă cu privire la 46 dintre cele 49 de lumi cosmice, iar știința va putea cerceta numai lumea 49.
+
+<sup>3.</sup>Filozofia, ezoterismul și antroposofia s-au ocupat de problemele existenței. Marea deosebire dintre filozofi și ezotericieni este că filozofii au fost în general subiectiviști, bazându-se pe corectitudinea propriilor lor speculații, în timp ce ezotericienii au fost obiectiviști, construindu-și sistemele pe fapte.
+
+<sup>4.</sup>În această privință, antroposoful Steiner era ezoterician. Diferența dintre Steiner și ezotericieni este că ezotericienii acceptau fapte supraomenești numai de la ierarhia planetară, în timp ce Steiner credea că poate constata el însuși chiar și asemenea fapte, ceea ce este evident absurd. Nici nu pot fi găsite în „cronicile akashice”.
+
+<sup>5.</sup>Obiecția față de teozofi este că le-a lipsit pregătirea filozofică și științifică necesară și că expunerile lor despre ezoterism au fost adesea lipsite de inteligență și, în orice caz, neadecvate și, din această cauză, au părut „cvasi”. Nici teozofii nu au explicat diferența esențială și principală dintre filozofia yoga și ezoterism. Nu este corect să se spună, cum a făcut Blavatsky, că toată cunoașterea suprafizică a venit din „India”. Ea a venit de la ierarhia planetară, iar ordinele sale ezoterice ale cunoașterii au existat la toate popoarele care au atins un nivel suficient de înalt pentru a putea cerceta inteligent sensul și scopul vieții.
+
+<sup>6.</sup>Ezotericianul a părăsit o dată pentru totdeauna lumea iluziilor și ficțiunilor, în care omenirea preferă să trăiască, pentru a intra în lumea realității.
+
+---
+
+## 2 PROBLEMELE REALITĂȚII, PARTEA A DOUA
+
+### 2.1 *Introducere*
+
+<sup>1.</sup>Cele trei aspecte ale realității au fost tratate în *Problemele realității, partea întâi*, care cuprinde și câteva date esențiale despre structura materială a cosmosului, conștiința totală cosmică, energia dinamică a materiei primordiale, organizația cosmică și alte lucruri.
+
+<sup>2.</sup>În această Parte a Doua sunt date mai multe informații pentru a pune aceste trei aspecte ale existenței într-o perspectivă mai largă. Unele repetări din Partea Întâi au fost socotite necesare pentru ca expunerea să câștige în claritate.
+
+<sup>3.</sup>În aceste două părți s-a încercat prezentarea datelor fundamentale considerate necesare pentru a-i oferi omenirii perspectivele necesare asupra existenței, fără de care dezorientarea va fi inevitabilă.
+
+<sup>4.</sup>A fost pusă o temelie pentru concepția despre lume a viitorului, pentru prima dată exactă în concepte (așa cum trebuie să fie pentru mentaliști), eliberată de vagul simbolismului.
+
+### 2.2 ASPECTUL MATERIEI AL EXISTENȚEI
+
+<sup>1.</sup>Cosmosul nostru, unul dintre nenumăratele globuri din materia primordială, este compus din atomi primordiali. Aceștia au fost formați în 48 de feluri de atomi succesiv mai compuși, fiecare fel inferior conținând tot mai mulți atomi primordiali. Aceste 49 de feluri atomice diferite alcătuiesc 49 de lumi cosmice cu densitate din ce în ce mai mare. Deoarece materia este astfel compusă, toate lumile superioare pot pătrunde toate lumile inferioare. Toate cele 49 de lumi atomice ocupă același spațiu în cosmos și umplu globul cosmic.
+
+<sup>2.</sup>Cele 49 de lumi atomice sunt împărțite în șapte serii a câte șapte lumi fiecare. Împărțirea în septenare se datorează faptului că cele trei aspecte ale existenței au putut fi combinate în următoarele șapte moduri.
+
+<sup>3.</sup>Tabelul înlesnește analiza compoziției materiei, a raporturilor dintre aspecte, a celor șapte tipuri și departamente.
+
+| Serie | Combinație schematică |
+|---:|:---|
+| 1 | <span style="font-size:4em;">1</span> <span style="font-size:4em;">2</span> <span style="font-size:4em;">3</span> |
+| 2 | <span style="font-size:4em;">1</span> <span style="font-size:2em;">2</span> 3 |
+| 3 | <span style="font-size:4em;">1</span> 2 <span style="font-size:2em;">3</span> |
+| 4 | <span style="font-size:2em;">1</span> <span style="font-size:4em;">2</span> 3 |
+| 5 | <span style="font-size:2em;">1</span> 2 <span style="font-size:4em;">3</span> |
+| 6 | 1 <span style="font-size:4em;">2</span> <span style="font-size:2em;">3</span> |
+| 7 | 1 <span style="font-size:2em;">2</span> <span style="font-size:4em;">3</span> |
+
+1 = aspectul voinței (mișcarea)  
+2 = aspectul conștiinței
+3 = aspectul materiei
+
+<sup>4.</sup>Lumile cosmice sunt construite de „sus”. Cosmosul, inițial de întindere neînsemnată, crește continuu până a atins limita stabilită de capacitatea celor 49 de dimensiuni cosmice. Mai întâi se formează cele șapte lumi cele mai înalte. Ele sunt temelia a tot ce există în cosmos. Ele alcătuiesc planul cosmic de bază, modelul împărțirii repetate a lumilor atomice în septenare. Seriile septenare inferioare sunt astfel replici reduse ale celor imediat superioare. Această reducere este rezultatul densității sporite a atomilor primordiali și se observă mai ales în cazul aspectelor conștiinței și mișcării.
+
+<sup>5.</sup>Acest sistem de copiere are drept rezultat faptul că cele șapte serii septenare se raportează analog una la alta. Prin urmare, în lumile inferioare este posibil să se facă, în multe privințe, cel puțin analogii interesante cu lumile superioare.
+
+<sup>6.</sup>Principiul compoziției analoge are drept rezultat că lumile corespunzătoare din seriile septenare prezintă cea mai mare corespondență posibilă în privința tuturor celor trei aspecte. Ceea ce este caracteristic lumii 1 va reapărea astfel în lumile 8, 15, 22, 29, 36 și 43. Ceea ce este specific lumii 7 se va regăsi (în afara tuturor modificărilor inevitabile, firește) în lumile 14, 21, 28, 35, 42 și 49. Același lucru este valabil pentru toate celelalte lumi din serii.
+
+<sup>7.</sup>Seriile septenare de lumi cosmice formează tot atâtea regnuri naturale cosmice, regnuri divine, câte serii există. Regnul cel mai înalt, sau al șaptelea, constă din lumile 1–7; regnul cel mai de jos, sau întâiul, din lumile 43–49.
+
+<sup>8.</sup>Se spune că acel individ care, în lumea 43, a dobândit prin propriul efort conștiință în lumea 42 (adică a devenit un sine-42) a intrat în cel de-al doilea „regn divin”.
+
+<sup>9.</sup>Cosmosul a fost construit de o colectivitate de monade care au dobândit conștiință într-un cosmos și au urcat ele însele prin toate cele 49 de lumi ale sale. Ele doresc, la rândul lor, să trezească la conștiință monadele inconștiente din materia primordială și să le facă posibilă dobândirea omniscienței și omnipotenței în cosmos.
+
+<sup>10.</sup>În cosmosul nostru, toate cele 49 de lumi atomice ale celor șapte regnuri naturale cosmice au fost deja umplute cu indivizi care, în fiecare lume superioară, formează o conștiință colectivă tot mai largă.
+
+### 2.3 ASPECTUL CONȘTIINȚEI AL EXISTENȚEI
+
+În cele ce urmează vor fi date câteva informații referitoare la:
+
+- conștiința colectivă;
+- cele șapte tipuri fundamentale de conștiință;
+- cele șapte departamente ale ierarhiei planetare;
+- tipurile umane de conștiință;
+- câteva probleme ale psihologiei viitorului;
+- telepatie.
+
+### 2.4 *Conștiința colectivă*
+
+<sup>1.</sup>Cel mai esențial pentru înțelegerea aspectului conștiinței al existenței este să știm că există o singură conștiință în cosmos, conștiința totală cosmică, din care fiecare monadă are o parte pe care nu o poate pierde. Această conștiință este o contopire a conștiinței tuturor monadelor din cosmos.
+
+<sup>2.</sup>De aici rezultă că orice conștiință este prin natura ei atât individuală, cât și colectivă. Conștiința colectivă este cea primară și comună; conștiința individuală de sine trebuie să o dobândească individul însuși, prin regnuri naturale tot mai înalte, iar acest lucru este posibil tocmai fiindcă participă la conștiința colectivă.
+
+<sup>3.</sup>Fiecare agregat material din cosmos, de la un atom la o lume planetară, un sistem solar sau o lume cosmică, este alcătuit în ultimă instanță din atomi primordiali. Fiecare agregat are o conștiință colectivă.
+
+<sup>4.</sup>Cele șapte lumi atomice ale sistemului solar alcătuiesc șapte feluri principale de conștiință colectivă de lume. Cele șase lumi moleculare din cadrul fiecărui fel atomic formează șase subgrupuri de conștiință colectivă în cadrul fiecăruia dintre felurile principale. Este practic imposibil să fie enumerate toate felurile de conștiință colectivă. Orice poate forma o conștiință colectivă datorită unui fel de înrudire constituie automat una.
+
+<sup>5.</sup>Monadele care alcătuiesc un agregat pot fi, și de obicei sunt, la niveluri diferite de conștiință și au capacități foarte diferite de a participa la conștiința colectivă. Adesea monadele care alcătuiesc un agregat aparțin unor regnuri naturale diferite; adesea va exista în agregat o monadă mult înaintea celorlalte în dezvoltarea conștiinței; ea poate atunci, cu un anumit drept, să considere agregatul drept învelișul său.
+
+<sup>6.</sup>Conștiința totală cosmică este ceea ce anticii numeau „sufletul universal” sau „dumnezeu imanent”. Unii vorbesc despre „contopirea sufletului cu sufletul universal”. Nu te poți contopi cu ceva din care faci deja parte. Când sinele ajunge în cea mai înaltă lume cosmică, va fi urcat prin peste cincizeci de feluri diferite, succesiv mai înalte, de învelișuri materiale cu conștiințele corespunzătoare. „Dumnezeu imanent” indică faptul că fiecare monadă este un dumnezeu potențial, un dumnezeu în devenire (în plus, participând la „divinitatea” cosmică). „Dumnezeu transcendent” reprezintă toate regnurile superioare, supraomenești, care cooperează pentru evoluție. Cât despre un „dumnezeu personal”, ierarhia planetară declară cu vigoare că toți cei din regnurile superioare resping o asemenea caricatură. Iudaismul a introdus monoteismul în religie, având drept rezultat inevitabil antropomorfismul.
+
+### 2.5 *Cele șapte tipuri fundamentale*
+
+<sup>1.</sup>Monadele sunt introduse în cosmos din haos prin una sau alta dintre cele șapte lumi cosmice cele mai înalte. Aceasta le imprimă de la început o anumită pecete, astfel încât pot fi deosebite șapte tipuri de monade.
+
+<sup>2.</sup>Primele trei tipuri ale seriei septenare sunt expresiile cele mai pronunțate ale celor trei aspecte. Primul tip este tipul forței extreme (aspectul mișcării); al doilea tip reprezintă aspectul conștiinței; iar al treilea tip, aspectul materiei. Celelalte patru sunt diferențieri ale primelor trei în materie mai compusă.
+
+<sup>3.</sup>Tipurile 1, 3, 5, 7 exprimă mai degrabă latura obiectivă a existenței; tipurile 2, 4, 6, latura ei subiectivă.
+
+<sup>4.</sup>În fiecare regn cosmic inferior (serie septenară de lumi atomice), tipurile suportă modificările condiționate de compoziția materială. Tipurile se dovedesc astfel diferite în lumi diferite. Diferența este deosebit de mare între tipurile din lumile atomice și cele din lumile moleculare, chiar dacă va rămâne ceva din ceea ce caracterizează tipurile originare.
+
+<sup>5.</sup>Se pune deci întrebarea dacă nu cumva numerotarea cea mai potrivită a lumilor cosmice ar trebui să urmeze principiul septenarelor analoge, astfel încât lumile 1–7 să fie desemnate prin 11–17, lumile 8–14 prin 21–27, lumile 15–21 prin 31–37 etc., iar lumile 43–49 prin 71–77. Atunci lumea și departamentul ar coincide, astfel încât s-ar ști întotdeauna căror departamente le aparțin diferitele lumi.
+
+<sup>6.</sup>În sensul cel mai general, se poate spune că tipurile sunt determinate de posibilitatea celor trei aspecte de a se face simțite în diferite feluri de materie. Fiecare fel atomic exprimă cel mai ușor unul dintre cele trei aspecte. Rezultatul este că fiecare fel atomic oferă posibilitatea de a dezvolta îndeosebi calități și capacități de anumite feluri.
+
+<sup>7.</sup>Este adevărat că monadele sunt de anumite tipuri de la început. Dar, în cursul evoluției, individului i se dau prilejuri de a dobândi în diferitele sale învelișuri calitățile tuturor tipurilor, pentru a dezvolta multilateralitatea necesară. Are și prilejul de a decide el însuși ce tip preferă în cele din urmă să reprezinte. Până atunci, în cosmos, el își va fi identificat conștiința cu diferitele feluri de conștiință colectivă de tip ale lumilor respective.
+
+<sup>8.</sup>Împărțirea în tipuri funcționează în profunzime, în multe moduri și în nenumărate feluri de combinații. Oricât de ciudat ar părea, fiecare sistem solar, fiecare planetă, fiecare agregat exprimă îndeosebi unul dintre cele șapte tipuri. Fiecare individ aparține unuia, iar fiecare dintre învelișurile omului poate fi de un tip diferit.
+
+<sup>9.</sup>Și caracterul individual se face simțit, astfel încât fiecare individ, în pofida tipului său, este unic, fapt care contribuie la o înțelegere mai mare și face unitatea cosmică să vibreze mai deplin.
+
+### 2.6 *Cele șapte departamente ale ierarhiei planetare*
+
+<sup>1.</sup>Cele mai de jos șapte lumi atomice (43–49) alcătuiesc regnul cosmic cel mai de jos, sau întâiul. În sistemul nostru solar ele aparțin guvernului sistemului solar; pe planeta noastră, ele alcătuiesc conștiința colectivă a guvernului planetar.
+
+<sup>2.</sup>Ierarhia noastră planetară (nu guvernul) este împărțită în șapte departamente. În fiecare departament există patru grade, alcătuite din sine-43, sine-44, sine-45 și sine-46.
+
+<sup>3.</sup>Acei indivizi care au trecut cel mai recent din al patrulea în al cincilea regn natural sunt sine-46. Împreună cu sinele-45, ele alcătuiesc al cincilea regn natural. Cele mai înalte două feluri de sine de pe planetă (sinele-43 și sinele-44) formează al șaselea regn natural, numit și regnul divin cel mai de jos.
+
+<sup>4.</sup>Sarcina ierarhiei planetare este de a supraveghea evoluția în cele mai de jos patru regnuri naturale.
+
+<sup>5.</sup>Cele șapte departamente de pe planetă sunt replici ale celor șapte departamente ale sistemului solar și, într-o anumită măsură, și ale celor șapte tipuri care reapar constant în regnurile cosmice. S-au făcut multe încercări de a descrie sau explica aceste tipuri. Aceste încercări au eșuat, firește, singurul rezultat fiind idiotizarea întregii chestiuni.
+
+<sup>6.</sup>Notația cea mai potrivită ar trebui să fie cea matematică, adică: primul până la al șaptelea departament.
+
+<sup>7.</sup>În legătură cu cele mai de jos șapte lumi atomice (43–49), ele ar putea fi denumite, provizoriu și analogic:
+
+1. manifestalistul, dinamicianul;
+2. submanifestalistul, unificatorul tuturor;
+3. supraesențialistul, cunoscătorul tuturor;
+4. esențialistul, armonizatorul;
+5. mentalistul, tehnicianul;
+6. emoționalistul, reconciliatorul;
+7. fizicalistul, organizatorul.
+
+<sup>8.</sup>Aceste denumiri sunt simple sugestii. Toate încercările de analogie cu calități sau capacități umane sunt eșecuri totale, având drept singur rezultat o masă de superstiție, atât de tipică pentru prezumția incurabilă a omului că se crede în stare să judece totul.
+
+<sup>9.</sup>Expresia „iubire divină” a fost folosită în legătură cu al doilea tip. Un concept atât de omenesc (în ciuda tuturor lucrurilor) nu poate fi decât înșelător atunci când este aplicat cuiva care s-a alăturat conștiinței planetare de comunitate și este conștient de unitatea sa inseparabilă cu toate.
+
+<sup>10.</sup>Primul departament reprezintă aspectul mișcării (voință, energii); al doilea departament, aspectul conștiinței; iar al treilea departament, aspectul materiei. Celelalte patru sunt modificări potrivite ale celor trei.
+
+<sup>11.</sup>În departamentele „impare”, 1, 3, 5, 7, și în lumile „impare”, 43, 45, 47, 49, conștiința este mai obiectivă și extravertită; în departamentele „pare”, 2, 4, 6, și în lumile 44, 46, 48, ea este mai subiectivă și introvertită.
+
+<sup>12.</sup>Energiile departamentale care se fac simțite cel mai bine în conștiințele învelișurilor omului sunt:
+
+- 1, 4, 5 în conștiința mentală;
+- 2, 6 în conștiința emoțională;
+- 3, 7 în conștiința fizică.
+
+### 2.7 *Tipurile umane de conștiință*
+
+<sup>1.</sup>Cele șapte tipuri planetare există numai în lumile ierarhiei planetare (43–46).
+
+<sup>2.</sup>Tipurile umane pure nu există în regnul uman la actualul său stadiu de dezvoltare. Ele nu vor apărea decât în ultima, sau a șaptea, rasă-rădăcină.
+
+<sup>3.</sup>În orice caz, este greu de explicat chiar și aceste tipuri. Încercările nu vor face decât să-i ofere imaginației omului, care idiotizează totul, mai mult material pentru excese. Tipurile pure au fost numite tipuri principale, iar cele care există efectiv acum, subtipuri.
+
+<sup>4.</sup>Cele cinci învelișuri ale omului pot aparține la cinci departamente diferite. Învelișurile încarnării își schimbă de obicei departamentele la fiecare viață nouă, astfel încât individul își schimbă continuu „tipul”. El poate avea câte ceva din toate cele cinci tipuri.
+
+<sup>5.</sup>Un bărbat va părea feminin dacă tocmai a încheiat o lungă serie de încarnări feminine, o femeie masculină după o lungă serie de încarnări masculine.
+
+<sup>6.</sup>La bărbat, organismul și învelișul emoțional sunt pozitive, învelișurile eteric și mental sunt negative; la femeie, situația este inversă: organismul și învelișul emoțional sunt negative; învelișurile eteric și mental sunt pozitive. Aceasta explică de ce femeile suportă mai ușor durerea și sunt mai stabile mental, de ce bărbații sunt agresivi emoțional etc.
+
+<sup>7.</sup>Numai sinele-46 pot stabili cărui departament îi aparțin cele cinci învelișuri diferite. Prin urmare, nu are rost să se speculeze asupra tipului căruia îi aparține un individ.
+
+<sup>8.</sup>Totuși, pentru a da câteva indicii despre cele șapte tipuri umane, s-a făcut următoarea încercare de a arăta anumite caracteristici ale celor șapte tipuri, cu rezervele de mai sus.
+
+<sup>9.</sup>Primul tip se distinge printr-o așa-numită voință puternică, ce îl face pe individ potrivit ca lider, unul adevărat și recunoscut ca atare de toți. Acest tip, adesea fără a ține seama de consecințe și de opiniile celorlalți, merge cu „valurile lui peste ocean”.
+
+<sup>10.</sup>Al doilea tip este cel al omului înțelept, al celui care posedă cunoaștere, pătrundere și înțelegere. El este profesorul înnăscut, capabil și dispus să unească opinii și indivizi aflați în conflict etc.
+
+<sup>11.</sup>Al treilea tip este gânditorul, filozoful, matematicianul (adesea teoreticianul nepractic), care examinează totul din toate părțile etc.
+
+<sup>12.</sup>Al patrulea tip este cel care aspiră la armonie în toate, proiectantul, arhitectul, urbanistul, constructorul artistic etc., cu un simț pronunțat al formei și culorii.
+
+<sup>13.</sup>Al cincilea tip este savantul, cercetătorul cu simțul detaliului, descoperitorul, inventatorul etc. Este interesant de văzut că și cei care urmează calea 6–4–2 în cursul unei serii de încarnări trebuie să aibă al cincilea departament în învelișul lor cauzal inferior (cel care se încarnează).
+
+<sup>14.</sup>Al șaselea tip este omul imaginativ, predominant emoțional, din sferele religiei, literaturii etc., cu trăsături de fanatism și o simpatie-antipatie bine marcată.
+
+<sup>15.</sup>Al șaptelea tip este omul ordinii, cu un simț pronunțat pentru tot ce ține de procedură, ceremonie, ritual etc. Sensul simbolic al „ritualului”, ca sprijin al diferitelor momente în procesul formării materiei, rămâne ezoteric.
+
+<sup>16.</sup>Tipurile umane sunt mai degrabă exemple de moduri de reacție, rezultate din influența permanentă a anumitor feluri fixe de energii (vibrații).
+
+<sup>17.</sup>În ce măsură sunt exprimate tipurile depinde în mare măsură, printre altele, de nivelul de dezvoltare atins și de procentul de calități și capacități latente dobândite anterior, dintre care unele sunt trezite mai ușor decât altele.
+
+<sup>18.</sup>Uniformitatea este exclusă. Tot ce există este individual și unic și devine, odată ce a dobândit conștiința unității, o contribuție întotdeauna binevenită la plenitudinea mai mare a armoniei cosmice vibrante.
+
+### 2.8 *Câteva probleme ale psihologiei viitorului*
+
+<sup>1.</sup>Conștiința este un ocean cosmic. Psihologia umană este în măsură să exploreze cele mai de jos trei dintre cele 49 de straturi diferite ale sale. Celelalte fac parte din supraconștiința omului. Având numai această parte infimă din aspectul conștiinței al existenței, omului îi lipsesc, în mod evident, premisele pentru a aprecia natura reală a conștiinței.
+
+<sup>2.</sup>Același lucru se poate spune despre perspectiva omului de a construi un sistem de gândire în acord cu realitatea, un sistem care face posibilă explicarea celor trei aspecte ale existenței, a sensului și scopului existenței, a cauzelor proceselor din natură etc.
+
+<sup>3.</sup>Ni se dau toate faptele de care avem nevoie pentru orientarea necesară în concepția despre lume și concepția despre viață, dar depinde de noi să așezăm aceste fapte în contextele lor corecte.
+
+<sup>4.</sup>În domeniul psihologiei putem aștepta tot mai multe fapte despre:
+
+- tipurile umane de conștiință;
+- stadiile umane de dezvoltare;
+- conștiința în diferitele feluri moleculare;
+- conștiința în cele cinci învelișuri materiale diferite ale omului;
+- felul în care trebuie să dobândim capacitatea de activitate în diferitele centre ale învelișurilor;
+- felul în care trebuie să dobândim feluri de simț tot mai înalte (conștiință obiectivă în învelișurile noastre superioare).
+
+<sup>5.</sup>Psihologii ar trebui să încerce să explice de ce „hotărârile bune” au efectele opuse, să lămurească faptul că diferitele feluri de conștiință ale omului își au sediile în învelișuri materiale diferite, că există adesea tensiune între aceste învelișuri diferite și că, atunci când intră în conflict cu conștiința de veghe, subconștiința câștigă aproape întotdeauna.
+
+<sup>6.</sup>Este important ca cercetătorii de orice fel să înțeleagă că totul are un caracter individual. Fiecare atom primordial (monadă) este ceva unic. Fiecare combinație de monade, de orice fel, este ceva unic. Fiecare schimbare (din cauza schimbului neîntrerupt de atomi din agregat) este unică.
+
+<sup>7.</sup>Ceea ce este comun în toate este, în privința aspectului materiei, raporturile constante (legile) și, în privința aspectului conștiinței, conștiința colectivă mereu în expansiune.
+
+### 2.9 *Telepatia*
+
+<sup>1.</sup>Firește, neagă și ridiculizează un lucru precum telepatia uriașii noștri psihologi formați științific, fiind dincolo de capacitatea lor să-i stabilească existența.
+
+<sup>2.</sup>Dintre cele cinci învelișuri ale omului, organismul (creierul și sistemul nervos), învelișurile fizic eteric, emoțional, mental și cauzal, toate în afară de primul funcționează ca aparate vii de recepție, deoarece constau din materie elementală cu conștiință pasivă. Ele sunt incapabile de autoactivitate, dar au o sensibilitate de neîntrecut la vibrații de toate felurile, roboți perfecți.
+
+<sup>3.</sup>De nivelul său de dezvoltare depinde cât de mult din aceste vibrații este omul capabil să perceapă. Cât percepe efectiv din ceea ce ar trebui să poată percepe depinde de puterea atenției sale și a atenției simultane, în toate cele patru învelișuri.
+
+<sup>4.</sup>Toate vibrațiile care sunt deasupra nivelului individului trec aproape întotdeauna neobservate pe lângă el. Ele țin de supraconștiința sa și el nici măcar nu bănuiește că aceasta există.
+
+<sup>5.</sup>Expresiile conștiinței emoționale și mentale a omului pot fi împărțite în două grupe: autoactivitatea și activitatea robotică (inclusiv „gândirea obișnuită”: asocieri emoționale și mentale automatizate, la origine ale sale).
+
+<sup>6.</sup>Peste 80 la sută din activitatea de conștiință a celor mai mulți oameni este activitate robotică emoțională și mentală.
+
+<sup>7.</sup>Vibrațiile pe care le primesc roboții sunt, în cea mai mare parte, vibrații reproduse din ceea ce au simțit și gândit alții, pe care omul le primește și, prin atenția sa, le amplifică pentru a le reemite în lumile emoțională și mentală.
+
+<sup>8.</sup>Ceea ce cuprinde individul este de obicei și în modul cel mai general ceea ce atinge domeniile sale de cunoaștere și interese, lucruri despre care a auzit sau a citit recent etc. Restul trece neobservat pe lângă el.
+
+<sup>9.</sup>Gândirea umană este în mare măsură gândire de masă: gândire de grup, clan, clasă sau națiune, la care omul participă fără să știe, închipuindu-și că gândește „independent”, neștiind de unde vine totul.
+
+<sup>10.</sup>Lichtenberg (secolul al XVIII-lea) a întrezărit această idee când a scris: „Nu ar trebui să se spună: «Eu gândesc», ci «gândește în mine».” Este semnificativ că, nici după 200 de ani, acest adevăr nu a fost apreciat.
+
+<sup>11.</sup>Savanții au făcut o muncă imensă, după cum se va admite cu ușurință. Cu atât mai regretabilă este atitudinea lor dogmatică, încă existentă, care împiedică și restrânge cercetarea într-un mod cu totul incredibil. Chiar cred ei că au explorat totul, că nu mai sunt de făcut noi descoperiri revoluționare? Atunci ezotericianul le poate spune că asemenea descoperiri vor continua să fie făcute încă multe mii de ani. Așa cum savanții de astăzi zâmbesc la cei de acum o sută de ani, tot astfel savanții de peste o sută de ani se vor mira de lipsa actuală de înțelegere a faptelor ezoterice, care este aproape prostie. Dar opoziția este atât de puternică, omenirea este atât de indusă în eroare de nenumărate ideologii din teologie, filozofie și știință, încât peste un milion de ezotericieni care trăiesc acum, inclusiv savanți eminenți, sunt siliți să-și păstreze cunoașterea pentru ei înșiși.
+
+<sup>12.</sup>Cea mai simplă explicație a telepatiei este că toată conștiința este colectivă și comună tuturor în măsura în care ei au dobândit capacitatea de a cuprinde. Cu toții avem parte de conștiința colectivă.
+
+### 2.10 ASPECTUL MIȘCĂRII AL EXISTENȚEI
+
+În cele ce urmează sunt date câteva fapte despre:
+
+- procesul manifestării;
+- cele șapte energii fundamentale;
+- energiile sistemului solar și ale planetei;
+- „ideile guvernează lumea”.
+
+### 2.11 *Procesul manifestării*
+
+<sup>1.</sup>O expunere mai detaliată a marelui proces cosmic al manifestării, prin care cosmosul cu tot conținutul său ia ființă, a fost dată în *Piatra filozofală* de Laurency.
+
+<sup>2.</sup>Marile procese principale sunt:
+
+- procesele de involvare și evoluție inversă;
+- procesele de involuție și evoluție;
+- procesul expansiunii.
+
+<sup>3.</sup>În procesul involvării, atomii primordiali inconștienți (monadele) sunt introduși din haos și sunt involvați pentru a forma materie tot mai compusă, lumi materiale cosmice, precum și sisteme solare și planete.
+
+<sup>4.</sup>În procesele involuției și evoluției, monadele inconștiente sunt trezite la conștiință, după care dezvoltarea conștiinței lor continuă în regnuri naturale tot mai înalte.
+
+<sup>5.</sup>În procesul expansiunii, conștiința individuală se extinde într-o conștiință colectivă ce cuprinde tot mai mult, până când a fost atins țelul tuturor monadelor: conștiința totală cosmică comună.
+
+<sup>6.</sup>Cele mai înalte șapte lumi cosmice (1–7) alcătuiesc temelia a tot ce există în cosmos. Ele sunt alcătuite din monade care au trecut prin procesul manifestării într-un alt cosmos, au învățat să mânuiască dynamis (omnipotența veșnic oarbă a materiei primordiale, izvorul întregii puteri) și acum, la rândul lor, construiesc cosmosul și dirijează procesul manifestării.
+
+<sup>7.</sup>Din aceste șapte lumi emană toate energiile materiale care formează materia și lumile și fac din cosmos un întreg viu, în necontenită schimbare.
+
+<sup>8.</sup>Întregul proces al manifestării se bazează pe un plan trasat în linii mari, în care numai țelul final (omnisciența tuturor monadelor participante) este fixat. Desfășurarea procesului depinde mai mult sau mai puțin de cooperarea tuturor monadelor. Ele nu pot, desigur, împiedica îndeplinirea procesului, dar rezistența sau inerția lor îl poate întârzia.
+
+<sup>9.</sup>Toate evenimentele, toate procesele naturii, formarea, schimbarea și dizolvarea materiei își au în ultimă instanță originea în cele mai înalte șapte lumi cosmice. Ele alcătuiesc astfel baza aspectului mișcării al existenței.
+
+<sup>10.</sup>Aceste energii originare sunt transmise sistemelor solare prin cele cinci regnuri cosmice intermediare ale expansiunii (cele cinci serii septenare de la lumea 8 la lumea 42), iar pe parcursul transmiterii o lume superioară transformă și reduce energiile materiale pentru a le transmite mai departe următoarei lumi inferioare.
+
+<sup>11.</sup>Din ceea ce s-a spus deja despre cele trei aspecte ale existenței rezultă că:
+
+<sup>12.</sup>Însemnătatea relativă a celor trei aspecte unele față de celelalte se schimbă constant în procesul manifestării. În regnurile naturale inferioare, aspectul materiei pare a fi singurul. În fiecare regn superior, aspectul conștiinței crește tot mai mult în însemnătate, atât de mult încât aspectul materiei (care, firește, rămâne temelia ce nu poate fi niciodată pierdută) ajunge să pară conștiinței cu totul neînsemnat. Dar, fiindcă în fiecare fel superior de conștiință atomică omnipotența oarbă a lui dynamis se manifestă treptat mai limpede, aspectul mișcării (numit și aspectul voinței) ajunge în cele din urmă să domine totul.
+
+<sup>13.</sup>Nu există restricții asupra acțiunii lui dynamis în haos și, fiind o forță oarbă, el nu poate lucra singur decât haos. Dirijat de omnisciență și de înțelepciunea perfectă, el realizează finalitatea perfectă, bazată pe cunoașterea raporturilor constante ale aspectului materiei. Dynamis face din univers un *perpetuum mobile* și determină materia superioară să acționeze ca energie asupra materiei inferioare.
+
+### 2.12 *Cele șapte energii fundamentale*
+
+<sup>1.</sup>După cum s-a arătat deja, energiile materiale care se revarsă din cele mai înalte șapte lumi cosmice sunt izvorul tuturor energiilor din cosmos. Forța primordială este, într-adevăr, dynamis, dar materialul originar al energiilor sunt atomii primordiali. Toate energiile sunt materiale.
+
+<sup>2.</sup>Cele șapte energii fundamentale sunt expresii diferite ale acelui caracter individual care le face să urmeze, potrivit legii celei mai mici rezistențe, principiul numeric al seriilor septenare (de pildă, al șaptelea septenar prin lumile 7, 14, 21 etc.).
+
+<sup>3.</sup>Cele șapte energii fundamentale sunt compuse și reduse tot mai mult în fiecare regn cosmic inferior, până ajung în regnul cel mai de jos (43–49), sferele sistemelor solare, unde sunt folosite de guvernele sistemelor solare.
+
+<sup>4.</sup>Energiile cosmice sunt neîntrerupt active. În sistemele solare însă, activitatea lor crește și scade potrivit unei periodicități inevitabile pentru procesele materiale în cauză (așa-numita lege a periodicității), al cărei ritm variază în fiecare lume, în fiecare fel de materie, în fiecare fel de înveliș material.
+
+<sup>5.</sup>Această lege a periodicității face ca totul din sistemele solare și din raporturile dintre sistemele solare să se desfășoare în perioade sau cicluri care revin regulat și pot fi determinate matematic.
+
+<sup>6.</sup>Echilibrul vieții, echilibrul în compoziția materiei și în energia materială, cere o schimbare constantă a diferitelor energii care susțin viața.
+
+<sup>7.</sup>De pildă, așa-numita forță vitală a organismului depinde de cinci feluri diferite de energii, care se înlocuiesc una pe alta la intervale de douăzeci și patru de minute, revenind astfel periodic la intervale de două ore.
+
+<sup>8.</sup>Cele mai cuprinzătoare dintre aceste cicluri, ciclurile sistemului solar, sunt numite eoni (4320 milioane de ani).
+
+<sup>9.</sup>Activitatea ciclică domină toate procesele. Când istoria dezvoltării omenirii va fi publicată într-o zi, publicul va afla despre adevăratele epoci istorice. Îi așteaptă o surpriză: astronomii vor putea folosi mecanica cerească pentru a calcula exact datele determinabile ale evenimentelor trecute.
+
+### 2.13 *Energiile sistemului solar și ale planetei*
+
+<sup>1.</sup>Energiile cosmice care ajung la sistemele solare sosesc prin cele șapte lumi ale penultimului regn cosmic (36–42).
+
+<sup>2.</sup>Sistemele solare sunt o rețea complicată de distribuție a acestor energii.
+
+<sup>3.</sup>Fiecare sistem solar trece prin trei stadii diferite de dezvoltare, corespunzătoare celor trei aspecte: materia, conștiința și mișcarea. În fiecare dintre cele trei perioade, sistemul solar trece printr-o remodelare completă.
+
+<sup>4.</sup>Independent de aceasta, planetele din sistemul solar trec prin șapte procese diferite de dezvoltare, împărțite în șapte perioade de activitate și pasivitate numite eoni (în sanscrită: kalpa, cu manvantara și pralaya).
+
+<sup>5.</sup>Sistemele solare de grade superioare transmit energiile cosmice celor de grade inferioare. Sistemul nostru solar este de gradul al doilea. Energiile din alte sisteme solare ajung la planete prin soare, care are, între altele, funcția de a transforma energiile atomice în energii moleculare. Aceste șapte feluri principale de energii moleculare, ca toate septenarele, pot fi împărțite în trei superioare și patru inferioare. Cele trei circulă interplanetar; cele patru sunt distribuite planetelor, proces în care este folosit și principiul circulației, astfel încât planetele primesc energie unele de la altele.
+
+<sup>6.</sup>Fiecare sistem solar, fiecare planetă reprezintă întotdeauna în mod specific unul dintre cele șapte tipuri cosmice, întotdeauna în felul său individual, fiindcă totul în cosmos este totodată tipificat și caracterizat individual.
+
+<sup>7.</sup>Ca rezultat al acestei tipificări, cu diferențierea ei concomitentă până la caracterul individual, regnurile tot mai inferioare prezintă o subdivizare continuă a tipurilor până când fiecare individ devine ceva caracterizat individual; totuși, în privința unuia sau altuia dintre aspecte, se poate spune că reprezintă unul dintre tipurile principale, fiind însă în același timp ceva din toate tipurile.
+
+<sup>8.</sup>Energiile sunt întotdeauna energii de tip, iar efectele pe care le au asupra diferitelor tipuri, în diferitele feluri de materie și feluri de conștiință, diferă în consecință. Când domină activitatea unui anumit tip, ea își pune pecetea pe indivizi și pe colectivități în caracterele lor unice. Rezultatul este că fiecare proces este individual și nu poate produce niciodată din nou ceva exact similar, nici nu poate ajunge exact la același rezultat. (De aceea avem dificultăți în a învăța din istorie, fiindcă tipicul se pierde în individual.) Heraclit a încercat să indice unicitatea veșnică a tuturor lucrurilor când a spus că nu poți coborî de două ori în exact același râu. Aceasta spulberă fanteziile lui Nietzsche despre „eterna reîntoarcere” la exact același lucru. Este imposibil, pentru că totul este unic.
+
+<sup>9.</sup>Trebuie adăugat că toți atomii din toate agregatele materiale primesc energii și, la rândul lor, le emit.
+
+<sup>10.</sup>Energiile care vin din afară au propriile lor tipuri și caractere individuale. Energiile transmise mai departe au întotdeauna caracterele lor individuale colorate într-o anumită măsură în noile agregate prin care curg.
+
+<sup>11.</sup>Cunoașterea raporturilor sistemului nostru solar și ale planetei noastre cu alte sisteme solare, a schimbului de energii interstelare și interplanetare, a fost odinioară una dintre cele mai importante științe pe care le poseda omenirea. Oamenii care au ajuns cel mai departe în această privință au fost caldeenii de acum circa 30.000 de ani. Din fericire, putem privi cu speranță spre timpul când indivizii care au dobândit această cunoaștere în Caldeea se vor încarna din nou și vor prezenta încă o dată omenirii „astrologia” ezoterică, reînviind astfel cunoașterea uitată de mult. Ierarhia planetară le va oferi faptele necesare pentru a le trezi din nou la viață cunoașterea latentă. Aceasta se întâmplă constant, fiind în acord cu Legea. Ceea ce poate realiza omenirea trebuie să realizeze ea însăși. Omenirea trebuie să-și reamintească din nou cunoașterea pe care a pierdut-o.
+
+<sup>12.</sup>Astfel am ajuns la o chestiune considerată de astronomi superstiție de cea mai grosolană speță: astrologia. Din punct de vedere istoric există patru feluri de astrologie: astrologia ezoterică uitată de mult; cea adoptată din Antichitate, coruptă în multe privințe (cea ptolemaică, pornind de la planeta noastră ca centru al universului); astrologia medievală degenerată; și astrologia empirică de astăzi, care examinează statistic horoscoape colectate sistematic, folosind metoda inductivă de cercetare. Prin horoscop se înțelege totalitatea raporturilor cerești ce pot fi stabilite la momentul exact, longitudinea și latitudinea exacte de pe planeta noastră, la „nașterea” a ceva. Monada sau grupul de monade în chestiune intră astfel din nou într-o legătură cauzală întreruptă temporar. „Legea poate aștepta.” Din horoscop se dobândește cunoașterea energiilor principale care influențează puternic, să zicem, o persoană în timpul vieții sale. Dacă se mai cunosc și diferitele învelișuri ale individului și se poate stabili ce vibrații le vor influența cel mai puternic, va fi posibil să se tragă o serie de concluzii importante despre problemele caracteristice cu care aceeași persoană va trebui să se lupte. Dar aceasta nu înseamnă că poate fi prevăzut destinul individului. A face aceasta ar elimina cu totul legea libertății. Nimic nu este predestinat în detaliu. Noua astrologie ezoterică va pune capăt definitiv fatalismului și doctrinei predestinării.
+
+<sup>13.</sup>Astrologia exoterică nu este exactă. Îi lipsește încă cunoașterea unui număr de fapte necesare. Chiar având drept ghid cele douăsprezece tipuri zodiacale și șapte tipuri planetare, ea nu poate încă să le precizeze raporturile cu tipurile existente. Nu poate interpreta toate posibilitățile horoscopului. Nu știe nimic despre horoscopul a mai mult de unul dintre cele cinci învelișuri ale individului.
+
+<sup>14.</sup>Soarta astrologiei este unul dintre numeroasele exemple ale celor ce se vor întâmpla când cunoașterea ezoterică cade în mâinile neinițiaților. Același lucru se poate spune despre hylozoică în filozofie și despre gnosticism (doctrina secretă a lui Christos) în creștinism. Rezultatul este o superstiție mai mult sau mai puțin grosolană.
+
+### 2.14 „IDEILE GUVERNEAZĂ LUMEA”
+
+după cum ar trebui să reiasă din cele ce urmează:
+
+- „Ideile guvernează lumea”;
+- Idei cosmice;
+- Idei ierarhice;
+- Ideile în omenire.
+
+### 2.15 *„Ideile guvernează lumea”*
+
+<sup>1.</sup>Făcând această afirmație, „divinul” Platon „a spus un secret care nu trebuia spus”, trădând o axiomă ezoterică. A îndrăznit, fiindcă a văzut că nimeni nu avea să înțeleagă axioma. Iar evenimentele i-au dat dreptate.
+
+<sup>2.</sup>Numai un ezoterician poate înțelege axioma. Aceasta ar trebui să reiasă din cele ce urmează. Niciun exoterist nu a înțeles măcar ce voia să spună Platon prin idee sau prin lumea ideilor. Dar o cantitate incredibilă de palavre agere și profunde a fost risipită în această încercare, cea mai bună dovadă posibilă a prezumției incurabile a ignoranței și a încrederii ei în capacitatea de a discerne: de a judeca fără cunoașterea faptelor realității. Bunul-simț este perceperea directă, de către conștiința colectivă umană, a realității în fiecare lume luată separat. Nu avem dreptul logic de a exprima opinii despre lumi necunoscute nouă. Nu le putem cuprinde corect realitatea. Toate sunt cu totul diferite în elaborarea celor trei aspecte, în ciuda analogiilor existente.
+
+<sup>3.</sup>Ca expresie a conștiinței, ideea aparține aspectului conștiinței. Dar realizarea ei aparține aspectului mișcării. Ce ar fi omnisciența fără omnipotență?
+
+<sup>4.</sup>„Ideile guvernează lumea”, căci întregul proces al manifestării se desfășoară în acord cu ideile cosmice.
+
+### 2.16 *Idei cosmice*
+
+<sup>1.</sup>Întregul proces al manifestării este un proces continuu de idei.
+
+<sup>2.</sup>Există idei cosmice, idei ale sistemului solar, idei planetare, tot atâtea feluri diferite de idei câte feluri de conștiință atomică și lumi atomice există în cosmos.
+
+<sup>3.</sup>Guvernului nostru planetar îi sunt încredințate ideile cosmice referitoare la menținerea și dezvoltarea vieții pe planetă și el se îngrijește și ca acestea să fie realizate în acord cu legile.
+
+<sup>4.</sup>Aceste idei sunt cauzele proceselor din natură, cauzele formării, schimbărilor și dizolvării materiei și sunt condiția prealabilă a dezvoltării conștiinței tuturor regnurilor naturale.
+
+<sup>5.</sup>Nu este adevărat, după cum cred fizicaliștii, că finalitatea din natură este un caz special al forțelor materiei inconștiente care acționează mecanic. Situația este exact inversă: energiile care acționează mecanic în sistemul solar sunt cazuri speciale ale celor care acționează cu finalitate: roboți ai conștiinței automatizate care îndeplinesc cu precizie infailibilă misiunile potrivite lor.
+
+<sup>6.</sup>Guvernul planetar și ierarhia planetară nu sunt în niciun fel încântate de vreun cult al personalităților. Ele explică faptul că monada cu dezvoltarea cea mai înaltă dintr-o conștiință colectivă mai permanentă (conducătorul planetar, de pildă) își va părăsi funcția pentru una mai înaltă atunci când o altă monadă s-a dezvoltat suficient pentru a putea prelua acea funcție.
+
+<sup>7.</sup>Trebuie să existe unul dominant (cu un eon înaintea celor care îl urmează nemijlocit în dezvoltarea și expansiunea conștiinței), deoarece hotărârile finale trebuie să fie neechivoce, iar divergența imposibilă.
+
+### 2.17 *Idei ierarhice*
+
+<sup>1.</sup>Acele idei cosmice referitoare la dezvoltarea conștiinței, care trebuie realizate în regnul uman și în regnurile inferioare, sunt stabilite de guvernul planetar și înfăptuite de ierarhia planetară. Idealurile pot fi acceptate sau respinse. Dar ideile ierarhice trebuie să fie realizate, indiferent cât timp va dura.
+
+<sup>2.</sup>După cum omenirea are lumea sa cea mai înaltă (lumea cauzală) și de acolo poate coborî idei, tot astfel ierarhia planetară are lumea sa a ideilor, lumea cea mai de jos a guvernului planetar.
+
+<sup>3.</sup>Lucrarea ierarhiei planetare poate fi citită în istoria planetară a dezvoltării conștiinței celor mai de jos patru regnuri naturale, care se desfășoară în lumea fizică. Această istorie este păstrată în întregime în memoria colectivă a lumii submanifestale. „Akasha”, despre care Rudolf Steiner a vorbit atât de mult, nu este lumea emoțională (48), cum credea el, ci lumea submanifestală (44).
+
+<sup>4.</sup>Istoria individului uman există în memoria colectivă a lumii cauzale (47).
+
+<sup>5.</sup>Lumea cauzală, lumea ideilor platonice, este proprietatea ierarhiei planetare. Este accesibilă celor care au dobândit conștiința cauzală. Ideile cauzale reproduc realitatea astfel cum poate fi redată în acest fel de conștiință. Elaboratorul indian al sistemului raja yoga, Patanjali, a numit conținutul de idei al lumii cauzale „norul de ploaie al lucrurilor cognoscibile”.
+
+<sup>6.</sup>Omenirii i se dă tot ce are nevoie pentru dezvoltarea conștiinței sale. Omenirii i se dau prilejuri de a cunoaște realitatea prin propriile experiențe de-a lungul nenumăratelor încarnări. Omenirea este informată despre toate faptele necesare pentru a se orienta în realitate și în viață, pe care nu le poate stabili ea însăși. I se dă orice posibilitate. Ceea ce poate face omenirea trebuie însă să facă ea însăși, rezolvându-și singură toate problemele. Legea autorealizării este o lege cosmică valabilă în toate regnurile.
+
+### 2.18 *Ideile în omenire*
+
+<sup>1.</sup>Fizicaliștii cred că ideile sunt concepții subiective ale creierului uman. Aceasta este, în mare, adevărat despre conținutul de realitate al ideilor lor, căci ele constau din iluzii emoționale și ficțiuni mentale.
+
+<sup>2.</sup>Iluziile emoționale sunt concepții mentale emoționalizate care, din cauza nevoilor emoționale, s-au transformat în convingeri permanente (dogme, credințe). Exemple sunt toate ideologiile politice și dogmele religioase.
+
+<sup>3.</sup>Ficțiunile mentale cuprind toate fanteziile, năzăririle, ghicirile, supozițiile, presupunerile etc., precum și ipotezele și teoriile științei, toate fiind construcții mentale care nu au toate faptele așezate în contextele lor corecte.
+
+<sup>4.</sup>Cunoașterea, pe de altă parte, este un sistem mental perfect al faptelor necesare. Numai ierarhia planetară poate hotărî dacă toate faptele sunt acolo.
+
+<sup>5.</sup>Omenirea are un drum lung de parcurs înainte de a fi învățat să deosebească între ceea ce știe și ceea ce nu știe. Socrate a fost unul dintre puținii care nu se înșelau în această privință. Ceilalți se înșală singuri prin agerimea și profunzimea lor.
+
+<sup>6.</sup>Este semnificativ că puțini dintre acei oameni hiperinteligenți au fost inițiați în ordine ezoterice ale cunoașterii și că aceia care au fost rămân în gradele inferioare. Nu stau mai bine nici cei care delirează despre intuiția lor sau cred că pot aprecia conținutul de realitate al „revelațiilor” ori experiențelor lor clarvăzătoare.
+
+<sup>7.</sup>Dacă nu știe, nu cuprinde, nu vede și nu înțelege, cea mai sigură atitudine este o bună doză de scepticism sănătos, după sfatul sinelui-45 D.K., pentru a contracara credulitatea și credința oarbă în autoritate.
+
+<sup>8.</sup>Există două feluri principale de idei:
+
+- idei ierarhice;
+- idei ale lumii cauzale.
+
+<sup>9.</sup>Ideile ierarhice cuprind faptele de care omenirea are nevoie pentru o concepție rațională despre realitate și viață, despre sensul și scopul vieții, despre tot ce nu poate stabili ea însăși. Aceste fapte sunt comunicate treptat, pe măsura în care omenirea se dezvoltă suficient pentru a le putea cuprinde corect, a le așeza în contextele lor corecte și a nu abuza de ele în detrimentul vieții și spre propria sa ruină.
+
+<sup>10.</sup>Pentru ca aceste idei să poată fi concepute, ele trebuie reduse la mentalul inferior. Acei oameni care se ocupă de problemele în cauză și sunt acordați pe „lungimea de undă” potrivită pot capta moleculele mentale corespunzătoare. Urmează apoi un proces al materiei și conștiinței care poate dura un timp relativ îndelungat, în multe cazuri chiar cincisprezece ani. Ideea mentală devine parte a conștiinței, adesea a supraconștiinței, a învelișului mental, frecvent ca o „presimțire”. În cele din urmă devine o concepție mentală și apoi își croiește drum în jos spre moleculele mentale din celulele creierului. Poate fi acum formulată într-o definiție.
+
+<sup>11.</sup>„Ideile guvernează lumea” înseamnă, în ce privește omenirea, că ideile sunt pietrele de hotar ale dezvoltării, că ceea ce numim cursul istoriei se desfășoară în acord cu ideile cosmice reduse de ierarhia planetară. Omenirea avansează în măsura în care aceste idei pot fi concepute ca idealuri, pentru a fi în cele din urmă realizate. Faptul că aceste idealuri sunt încă privite drept utopii este dovada stadiului de dezvoltare la care se află omenirea.
+
+<sup>12.</sup>Se iau, firește, și alte măsuri. De pildă, clanurilor aflate în stadiul culturii li se îngăduie să se încarneze când trebuie construită o cultură nouă, iar clanurile aflate în stadiul barbariei se încarnează când culturile vechi au devenit improprii vieții sau ostile vieții și trebuie distruse. Procesul corespunzător se repetă în fiecare epocă zodiacală (de circa 2500 de ani).
+
+<sup>13.</sup>Dictatura, democrația și comunismul sunt toate exemple de idealuri care au fost prost gestionate. Până acum, au fost întotdeauna idiotizate și brutalizate. Ele sunt laturi diferite ale uneia și aceleiași idei, care, mai devreme sau mai târziu, în cursul istoriei, va trebui să fie realizată într-o sinteză.
+
+<sup>14.</sup>„Energia urmează gândul” este și ea o axiomă ezoterică pe care psihologii nu au putut încă să o cuprindă.
+
+## 3 ORIGINEA CUNOAȘTERII ȘI A FICȚIUNILOR
+
+### 3.1 *Din istoria ezoterică*
+
+<sup>1.</sup>Trecem peste întrebările despre felul în care iau ființă sistemele solare, despre felul în care s-au format sistemul nostru solar și planeta noastră și despre felul în care a evoluat viața pe planeta noastră. Cei interesați pot studia aceste chestiuni în literatura ezoterică existentă. Schița următoare va oferi câteva fapte despre dezvoltarea conștiinței omenirii pe planeta noastră în cursul eonului actual. Informația dată se va limita la ceea ce este esențial de știut pentru a înțelege originea cunoașterii și felul în care această cunoaștere, care este moștenirea omenirii, a ajuns să fie înlocuită de ficțiunile ignoranței. Din istoria omenirii vom trata numai punctele necesare pentru a înțelege situația contemporană în ceea ce privește cunoașterea. Aceasta este mai importantă decât toată istoria. Omenirea își caută drumul pe bâjbâite, în întuneric, spre un țel necunoscut, iar dezorientarea ei în privința vieții cu greu ar putea fi mai mare. Intenția este de a le oferi căutătorilor firul Ariadnei, pentru a-i călăuzi afară din labirintul ignoranței vieții. Probabil că singurii interesați vor fi cei care au cunoașterea ezoterică latentă în subconștientul lor din încarnări anterioare. Ceilalți se vor agăța, cum au făcut-o întotdeauna, de autoritățile zilei și de opinia publică din știință, filozofie sau religie. Desigur, acesta este lucrul cel mai sigur.
+
+<sup>2.</sup>Omenirea este alcătuită în total din aproximativ 60 de mii de milioane de indivizi în lumile fizică, emoțională, mentală și cauzală ale planetei noastre. Dintre aceștia, aproximativ 24 de miliarde s-au cauzalizat (au trecut din regnul animal în cel uman dobândind propriile învelișuri cauzale) în Lemuria, începând cu anul 21.686.420 î.e.n. Celelalte 36 de miliarde au fost transferate pe planeta noastră în momente diferite. Învelișurile cauzale ale acestor 36 de miliarde sunt de vârste foarte diferite. Aceasta explică de ce indivizii din omenire se află în stadii atât de diferite de dezvoltare și cum se face că mulți au reușit acum să treacă în regnuri superioare.
+
+<sup>3.</sup>În termenii cei mai generali, se poate spune că actuala conștiință fizică a omenirii s-a dezvoltat în Lemuria, conștiința ei emoțională în Atlantida, iar conștiința ei mentală pe continentele pe care le cunoaștem. Mai avem însă un drum lung de parcurs până să ne fi dezvoltat conștiință fizică, emoțională și mentală deplină în învelișurile noastre fizic eteric, emoțional și mental. Când aceasta va fi realizată și vom fi dobândit conștiință obiectivă deplină în învelișurile noastre cauzale, vom trece în al cincilea regn natural.
+
+<sup>4.</sup>Când, după aproximativ 300 de milioane de ani ai actualului al patrulea eon din istoria Pământului, viața organică evoluase atât de mult încât creierul omului-maimuță putea începe să fie mentalizat și astfel putea începe intensificarea dezvoltării conștiinței, guvernul sistemului solar a socotit că venise vremea ca un guvern planetar separat să preia conducerea planetei noastre. Aceasta s-a întâmplat acum aproximativ 21 de milioane de ani. Guvernul planetar, la rândul său, a transferat pe planeta noastră indivizi care atinseseră al cincilea regn natural, pentru a constitui acea ierarhie planetară căreia i s-a dat misiunea specială de a supraveghea dezvoltarea conștiinței umane. Membri ai acestei ierarhii planetare s-au încarnat în omenire, pentru a alcătui în cele din urmă ceea ce în istoria ezoterică a fost numit „preoțimea superioară”. Aceasta s-a întâmplat în Lemuria. De îndată ce conștiința se dezvoltase suficient pentru ca oamenii să poată învăța, li s-au dat instrucțiunile și cunoașterea necesare despre acea realitate pe care o puteau cuprinde. Atât în Lemuria, cât și în Atlantida, au fost întemeiate școli de templu în care elitei umane i se dădea educația potrivită capacității ei de înțelegere. Această elită era alcătuită, firește, din indivizi aparținând celui de-al patrulea regn natural, transferați pe planetă în momente diferite și aflați înaintea restului omenirii în privința dezvoltării conștiinței. Elita era pregătită să fie învățătoarea restului omenirii, pentru a forma în cele din urmă „preoțimea inferioară”.
+
+<sup>5.</sup>La început, totul a mers conform planului, mai întâi în Lemuria și mai târziu în Atlantida. Pe aceste două continente emisferice au înflorit atât civilizații, cât și culturi care, în anumite privințe, se situau la niveluri pe care noi nu le-am atins încă pe continentele noastre. Dar atunci erau conduse de elita cea mai înaltă, care trecuse în regnuri superioare.
+
+<sup>6.</sup>S-a vădit însă următorul fapt: cunoașterea care dă putere, cunoașterea forțelor naturii, mai ales a energiilor eterice dirijate mental, duce la abuzul acelei puteri de către toți cei care pot fi seduși să o folosească spre propriul lor bine. O mare parte a preoțimii inferioare, care dobândise cunoașterea magiei, s-a răsculat împotriva preoțimii superioare. Fiind învățătoarea maselor, preoțimea inferioară știa cum să atragă masele de partea ei, folosind trucul infailibil de a le întinde promisiuni și perspective imposibile. Ierarhia planetară a fost alungată, mai întâi din Lemuria și mai târziu din Atlantida. Poporul înșelat a descoperit apoi cât valorau promisiunile ce-i fuseseră date. Conducătorii vicleni au inventat conceptul de păcat și au făcut masele să creadă în doctrina satanică a păcatului ca o crimă împotriva divinității, care devenea mâniată și îi pedepsea pe oameni pentru faptele lor rele. Numai preoții puteau influența divinitatea și săvârși jertfele necesare ispășirii. Stăpânirea asupra minților oamenilor, pe care preoțimea a dobândit-o astfel, nu a început să slăbească decât odată cu Revoluția Franceză.
+
+<sup>7.</sup>Rezultatul pentru masele induse în eroare a fost o tiranie pe care epoca noastră ar fi putut-o înțelege mai bine dacă Hitler ar fi reușit să-și ducă planurile la îndeplinire. Lucrurile au ajuns într-atât încât, în cazul Lemuriei și mai târziu în cel al Atlantidei, ierarhia planetară a trebuit să apeleze la guvernul planetar pentru a interveni. Iar guvernul planetar a văzut necesitatea de a scufunda ambele continente în mare. Valul uriaș care, la distrugerea Atlantidei, a măturat în cele din urmă continentele rămase a fost denaturat în scrierile evreiești în așa-numitul potop.
+
+<sup>8.</sup>Abuzul de cunoaștere duce la pierderea cunoașterii și, de când ierarhia planetară a fost alungată din Atlantida, omenirea a trebuit să-și „poarte singură de grijă”. Omenirea noastră actuală seceră, așadar, ceea ce a semănat. „Istoria lumii este tribunalul lumii.” Violența, arbitrariul și ignoranța vieții au domnit. Partea de istorie mondială pe care o cunoaștem este istoria unor suferințe fără nume. Statisticile ezoterice estimează la 60 de milioane numai pe cei arși spre slava lui Moloch și a lui Dumnezeu. Poate că nu este de mirare că subconștientul multor oameni le dă un sentiment instinctiv de vinovăție veche de veacuri.
+
+<sup>9.</sup>Nu toți au luat însă parte la revolta preoțimii negre împotriva preoțimii superioare. Acei indivizi care atinseseră stadiul de cultură și erau de partea binelui nu au pierdut dreptul de a-și reaminti vechea cunoaștere. În folosul lor, ierarhia planetară a instituit ordine secrete ale cunoașterii în toate națiunile care atinseseră un asemenea stadiu de dezvoltare încât indivizi cultivați să se poată întrupa printre ele.
+
+<sup>10.</sup>De regulă, numai ei nu pot accepta niciuna dintre nenumăratele idiologii ale ignoranței, cu care omenirea a fost inundată, și au rămas căutători ai „cuvântului pierdut al maestrului” ori ai „pietrei filozofale”.
+
+<sup>11.</sup>În nemărginita sa compasiune pentru omenirea dezorientată și suferindă, ierarhia planetară a făcut două încercări de a-l trezi pe om ca să vadă raționalitatea vieții și de a contracara ura îngrozitoare dintre oameni, care nu poate decât să sporească suferința din lume. În India, Buddha s-a întrupat în ceea ce era atunci națiunea cea mai intelectualizată, în încercarea de a-i imprima ceea ce s-a numit „religia înțelepciunii”. Iar Christos s-a întrupat în națiunea evreiască pentru a o trezi să înțeleagă ceea ce s-a numit „religia iubirii”.
+
+<sup>12.</sup>Națiunea evreiască a fost aleasă deoarece era prevăzută inevitabila ei dispersare. Se dorea trezirea conștiinței emoționale superioare a acestor oameni, pentru ca ei să poată face muncă misionară în națiunile printre care aveau să ajungă. Sute de vechi inițiați s-au întrupat pentru a pregăti lucrarea lui Christos și pentru a elibera poporul de atitudinea sa fizicalistă, de ficțiunea unui „regat mesianic” în lumea fizică etc.
+
+<sup>13.</sup>După cum știm, ambele încercări au eșuat. Discipolii lui Buddha au fost alungați din India, iar mesajul de iubire al lui Christos a fost preluat de indivizi care aparținuseră preoțimii negre din Atlantida.
+
+<sup>14.</sup>Ierarhia planetară nu a avut de ales decât să continue să instituie noi ordine ale cunoașterii și, în rest, să încerce să vitalizeze conștiințele emoționale și mentale ale oamenilor, pentru ca acestea să se poată dezvolta spre o înțelegere mai mare a realității.
+
+<sup>15.</sup>Între timp, în India, casta brahmanilor, cea a preoților și a învățaților, își pusese mâna grea asupra poporului, ca pretutindeni (și încă o face), și îi înăbușise dezvoltarea. În Europa, pe de altă parte, „mințile începuseră să se trezească”.
+
+<sup>16.</sup>În secolul al XVIII-lea, viața intelectuală încerca să se elibereze de tirania teologică, ce interzicea libertatea gândirii. În Anglia, Hume (1711–1776), între alții, demonstrase caracterul fictiv al sistemelor teologice și filozofice de gândire. În Franța, așa-numita filozofie a luminilor se răspândea tot mai mult, tendința ei fiind că omul poate dobândi cunoaștere numai despre lumea vizibilă. În Germania, Kant (1724–1804) era ocupat să făurească noi lanțuri pentru gândire și să demonstreze că orice sugestie a existenței unei realități superfizice era absurdă. Cercetarea naturii progresa rapid, o descoperire științifică urmând alteia. În *Système du monde*, Laplace (1749–1827) a construit un univers care nu avea nevoie de ipoteza vreunui Dumnezeu pentru a fi explicat. Lamarck (1744–1829) a arătat în *Philosophie zoologique* că formele animale superioare au evoluat din cele inferioare, deci povestea evreiască a creației, potrivit căreia Dumnezeu a creat separat fiecare specie animală, nu avea niciun temei. Lupta împotriva concepției evreiești despre lume era în plină desfășurare, deși abia bine în secolul al XIX-lea puteai socoti tirania gândirii exercitată de teologie, în sfârșit, răsturnată, chiar dacă dogmele religioase își păstrau încă puterea asupra maselor neinstruite. Cei cu educație filozofică și științifică deveneau de obicei „liber-cugetători”, agnostici cu o atitudine sceptică față de tot ce este superfizic.
+
+<sup>17.</sup>Răspândirea alfabetizării în secolul al XIX-lea, capacitatea tot mai mare de reflecție și dezacordul lumii învățate asupra celor mai multe probleme de concepție despre lume și despre viață au făcut ca tot mai mulți oameni să înceapă să speculeze pe cont propriu și să ajungă la propriile concluzii despre viață și sensul ei. Și pentru că mulți socoteau propriile lor sisteme speculative fictive suficient de valoroase pentru a fi comunicate restului omenirii, rezultatul a fost că, în timp, am ajuns să avem un număr nesfârșit de idiologii, secte religioase și filozofii. (Idiologie: construcție a ignoranței vieții, din *idios* = propriu și, prin urmare, distinctă de ideologie, care are idei platonice = idei ale realității.)
+
+<sup>18.</sup>Fiecare nouă generație cercetează explicațiile existenței care i se dau și, nemulțumită de ipotezele prezentate, caută noi soluții ale problemei nerezolvate. Tot mai mulți oameni ajung la concluzia că ea este de nerezolvat, așa cum Buddha a explicat în vremea sa că este pentru rațiunea umană.
+
+<sup>19.</sup>Mulți oameni care au atins un stadiu mai înalt de dezvoltare și caută cu sârguință mai departe fie ajung în misticism religios, fie găsesc în cele din urmă o concepție superfizică ce corespunde nevoilor lor intelectuale și li se pare suficient de rațională pentru a fi acceptată drept ipoteză de lucru.
+
+<sup>20.</sup>Anul 1775 a fost important în istoria omenirii. De ceva vreme lucrau cele două instrumente speciale ale ierarhiei planetare în secolul al XVIII-lea. Saint Germain (sine-45, alias Proklos, „învățatul filosofiei grecești”, ale cărui opere au determinat timp de un mileniu metoda științifică a arabilor și a gânditorilor creștini medievali; alias Christian Rosencreutz; alias Francis Bacon, în ultimele trei încarnări menționate fusese capul ordinului rozacrucienilor) încercase în toată Europa să intereseze oamenii în întemeierea de societăți secrete în care să poată „gândi liber”, neîmpiedicați de tirania mentală a Bisericii. Și asemenea societăți răsăriseră ca ciupercile. Cele mai multe s-au stins de la sine. Multe au ajuns mai târziu în mâinile șarlatanilor, dar aceasta este o altă poveste. Cagliostro (sine cauzal; alias Paracelsus) primise sarcina nu de a „pregăti” Revoluția Franceză, ci de a lua măsuri pentru a împiedica degenerarea ei.
+
+<sup>21.</sup>Omenirea secerase atunci ultima parte a relei sale semănături din Atlantida. Cunoașterii realității i se putea îngădui astfel, sub acest aspect, să devină proprietate comună. Singura întrebare era: cum putea fi ea transmisă unei omeniri înlănțuite în sistemele ei fictive ancorate în emoționalitate? Întrebarea era legată și de problema noii semănături pe care omenirea urma să o secere din cauza faptelor ei rele săvârșite după Atlantida. Este o semănătură care va mai cere aproximativ cinci sute de ani pentru a fi secerată, timp în care nenumăratele idiologii politice, sociale, economice, religioase, filozofice etc. își vor duce lupta amară. Atât va dura până când aproximativ 60 la sută din omenire va fi ajuns la înțelegerea că hylozoica este cea mai rațională dintre toate ipotezele de lucru. Restul de 40 la sută nici nu pot, nici nu vor să renunțe la iluziile lor emoționale.
+
+<sup>22.</sup>Problema felului în care omenirea cu totul dezorientată putea asimila cel mai bine cunoașterea fusese îndelung discutată în ierarhia planetară și se făcuseră vaste pregătiri. Părerea generală era însă că avea să mai treacă mult până când acțiunea directă să devină posibilă.
+
+<sup>23.</sup>La conclavul ierarhiei planetare din 1775, doi dintre membrii ei (atunci sinele-45 M. și K.H.) s-au oferit să ia măsuri imediate pentru a face publică o parte a cunoașterii despre aspectele conștiinței și materiei ale existenței, transmisă până atunci în ordinele ezoterice ale cunoașterii.
+
+<sup>24.</sup>Ei socoteau că omenirea aflată la stadiul de civilizație se dezvoltase mental suficient pentru a putea cuprinde sistemul mental hylozoic al lui Pitagora. Dacă era așa, dificultatea de a-i aduna în ordinele cunoașterii pe cei care aveau această cunoaștere latentă ar fi fost înlăturată, iar cei inițiați anterior ar fi putut să-și reamintească vechea cunoaștere. În plus, se putea spera că ei, la rândul lor, vor ajuta la răspândirea mai bună a ideilor cauzale relevante și vor contracara astfel răspândirea atitudinii agnostice care respingea tot ce este superfizic.
+
+<sup>25.</sup>Toți ceilalți membri ai ierarhiei planetare au votat împotriva propunerii, deoarece socoteau că prea puțini oameni atinseseră stadiul necesar de dezvoltare mentală pentru ca întreprinderea să aibă vreo perspectivă de reușită. Iluziile emoționale ale religiilor dominante și ficțiunile mentale ale filozofiei erau atât de departe de concepția corectă despre realitate, încât orice încercare de a comunica celor așa-zis educați cunoașterea superfizică fie ar fi fost respinsă din capul locului, fie ar fi dat naștere unor noi excese imaginative. Ei socoteau că trebuia așteptat până când cel puțin cei mai dezvoltați ar fi dobândit conștiință obiectivă fizic eterică. Atunci ar fi văzut caracterul fictiv al idiologiilor dominante și s-ar fi arătat mai dispuși să cerceteze, cel puțin, conținutul de realitate al sistemului mental ezoteric.
+
+<sup>26.</sup>Deoarece nu s-a putut ajunge la unanimitate, chestiunea a fost înaintată președintelui guvernului, conducătorul planetar, care a socotit: „fiindcă acești doi frați ai noștri s-au oferit să pregătească răspândirea cunoașterii, și-au exprimat dorința de a purta ei înșiși consecințele și știu ce înseamnă aceasta, ar trebui să li se îngăduie să facă încercarea”.
+
+<sup>27.</sup>Timpul pentru publicarea cunoașterii a fost fixat pentru 1875. Între timp, trebuia făcut totul pentru a ridica nivelul general de educație și a răspândi alfabetizarea.
+
+<sup>28.</sup>Despre unul dintre cei doi frați va fi auzit toată lumea din istorie: în încarnarea sa ca Pitagora. El a fost desemnat să fie capul celui de-al doilea departament al ierarhiei planetare când actualul său cap, Christos-Maitreya, va părăsi planeta noastră pentru a-și continua expansiunea interstelară a conștiinței. Celălalt este viitorul cap al primului departament. Indienii au de mult titluri pentru aceste două funcții: manu și bodhisattva.
+
+<sup>29.</sup>Cei doi frați s-au pus imediat pe lucru. Un obiectiv era să se afle care dintre vechii ezotericieni urmau să se încarneze în 1875 și, dintre aceștia, care aveau un secerat bun care să le îngăduie să fie pionieri și să ia asupra lor povara martiriului pentru adevăr. Era ușor de prevăzut că o năvală violentă și amară din întreaga lume a religiei, filozofiei și științei avea să urmeze acestei „revelații”. Pionierii aveau să fie socotiți șarlatani și escroci sau, în cel mai bun caz, simpli proști lipsiți de judecată ori cazuri patologice mentale delirante.
+
+<sup>30.</sup>Celor doi membri menționați ai ierarhiei planetare nu li s-a dat însă deloc mână liberă să hotărască ce fapte aveau să publice. Conducătorul lor, care trebuia să supravegheze totul, a cooptat câțiva frați cu același fel de conștiință de sine (conștiință a lumii 45). Activitatea ordinelor ezoterice ale cunoașterii a fost sporită, iar membrii lor au fost stimulați să scrie cărți și articole care să pregătească publicul pentru anunțul ce urma despre o realitate superfizică.
+
+<sup>31.</sup>La mijlocul secolului al XIX-lea, în S.U.A. a apărut o nouă „mișcare”. Adepții ei o numeau spiritism, denumire schimbată mai târziu în spiritualism. Ei susțineau că „spiritele din lumea astrală” ale morților pot comunica cu oameni din lumea fizică prin „mediumuri”, persoane capabile să-și împrumute organismul împreună cu învelișul său eteric (tocmai acele două învelișuri pe care omul le părăsește când doarme, ceea ce îi îngăduie să doarmă adânc) acestor „spirite”. Mișcarea s-a răspândit larg și a dezvoltat treptat un corp considerabil de literatură.
+
+<sup>32.</sup>Instrumentului special ales de ierarhia planetară pentru a proclama fraternitatea universală a întregii vieți și, totodată, pentru a prezenta lumii primele fapte ale cunoașterii ezoterice, Blavatsky (alias Paracelsus, alias Cagliostro), i s-a poruncit să se alăture mișcării spiritualiste și să încerce să o orienteze pe linii care s-o facă o „societate religio-filozofică” și o platformă pentru învățătura ezoterică. A mers la New York și de acolo, în octombrie 1874, la Chittenden, Vermont, unde cei doi frați Eddy țineau celebrele lor ședințe de spiritism. La început totul părea să meargă cum se dorea, dar când a fost publicată cartea lui Blavatsky, *Isis*, spiritiștii au rupt legătura și au devenit la fel de implacabil ostili ca restul lumii.
+
+<sup>33.</sup>Blavatsky susținea că „spiritele din lumea astrală” ale morților nu sunt nicidecum atât de omnisciente pe cât pretind spiritiștii și că nu pot oferi omenirii cunoașterea realității. Nu poți dobândi mai multă înțelegere a existenței în lumea emoțională decât în lumea fizică. Totul în acea lume este înșelător.
+
+### 3.2 *Publicarea cunoașterii ezoterice*
+
+<sup>1.</sup>Când ierarhia planetară hotărâse în cele din urmă că existența ei putea fi făcută cunoscută (pentru prima dată de la Atlantida) și să publice cunoașterea ținută până atunci secretă, instrumentul ales pentru această învățătură se afla într-o situație precară, ca să spunem cel puțin atât. Lui Blavatsky i s-a poruncit să nu dea niciun fapt ezoteric fără încuviințare specială în fiecare caz particular. Nu trebuia să menționeze nimic despre ierarhia planetară. În privința învelișurilor individului, trebuia la început să se limiteze la termenii folosiți de gnostici (corp, suflet și spirit). Dacă era nevoie de o autoritate, așa cum trebuie să invoce fiecare pentru a fi crezut de o omenire care nici măcar nu e capabilă să decidă ce este posibil și probabil, trebuia să se sprijine pe „rișii” indieni, pe Eliphas Lévi (cunoscutul cabalist) sau pe „rozacrucieni”, pentru care romancierul Bulwer-Lytton făcuse propagandă.
+
+<sup>2.</sup>Adevărul, sau cunoașterea realității, trebuie dat numai treptat, prin fapte puține, unei omeniri nepregătite să-l primească. Este necesar să se găsească legături cu ficțiuni consacrate, despre care oamenii au auzit suficient ca să creadă că înțeleg despre ce este vorba. Un nou sistem revoluționar de idei ar fi respins pe loc ca simplă invenție fantastică. Nu ar putea fi cuprins, cu atât mai puțin înțeles, fără o pregătire atentă.
+
+<sup>3.</sup>Cel mai important motiv, pe care probabil numai ezotericienii îl pot înțelege, este faptul energiei dinamice a ideilor. Fiecare idee este un atom mental încărcat cu energie. Dacă acestea reușesc să pătrundă în celule cerebrale receptive, dar care nu au fost vitalizate anterior de molecule mentale asemănătoare, pot avea un efect nefavorabil asupra echilibrului minților oamenilor. Transmiterea unui întreg sistem ar putea provoca haos mental. Faptul că oamenii resping instinctiv ideile prea revoluționare este adesea o măsură firească de autoprotecție. Pentru oricine, schimbarea concepției și lepădarea moleculelor mentale asimilate este, în orice caz, o încordare, mai ales dacă presupune „sacrificarea” unor molecule emoționale ale iluziilor prețuite. Atunci pot urma atât haos mental, cât și emoțional.
+
+<sup>4.</sup>Cele două lucrări principale ale lui Blavatsky sunt tratate într-un capitol separat, la fel ca acelea ale celor trei discipoli ai ei, Sinnett, Judge și Hartmann. Cei doi discipoli cei mai importanți ai ei au fost Besant și Leadbeater, care erau ei înșiși capabili să facă muncă de cercetare în lumile omului.
+
+<sup>5.</sup>Odată ce s-a îngăduit publicarea cunoașterii ezoterice, nu mai era nevoie de inițiere în vechile ordine ale cunoașterii și nimeni nu a mai fost inițiat într-unul dintre ele după 1875. Deși celor inițiați în încarnări anterioare nu li s-a dat prilejul să reînvie întreaga lor veche cunoaștere, s-a făcut cunoscut, și pe deasupra s-a sugerat, destul pentru ca ei să poată descoperi singuri ceea ce era mai esențial.
+
+<sup>6.</sup>În cele ce urmează se oferă o scurtă privire de ansamblu asupra faptelor cărora li s-a îngăduit, în cele din urmă, să fie publicate.
+
+<sup>7.</sup>Cele mai importante fapte ezoterice care se găsesc în lucrările lui Sinnett, Judge și Hartmann — care le-au primit de la ierarhia planetară prin Blavatsky până în 1891 — sunt:
+
+- reîncarnarea;
+- karma, sau legea semănatului și seceratului (legea seceratului);
+- preexistența și postexistența individului (de aici, nemurirea);
+- existența lumilor 45–49;
+- cunoașterea învelișurilor individului în lumile superioare;
+- ordinele cunoașterii din vremurile trecute;
+- numeroase fapte istorice.
+
+<sup>8.</sup>Faptele despre „reîncarnare” au arătat falsitatea doctrinei indiene a „metempsihozei”, potrivit căreia omul se poate renaște ca animal. Ezoterica arată limpede că revenirea dintr-un regn natural superior într-unul inferior este exclusă. Faptele despre legea seceratului arată că legea cauzei și efectului este o lege universală, valabilă în toate lumile din întregul cosmos și pentru toate cele trei aspecte ale existenței.
+
+<sup>9.</sup>Deoarece lucrările lui Sinnett, Judge și Hartmann sunt încă folosite în mare măsură ca manuale, o scurtă relatare despre unele greșeli grave făcute de autorii lor ar trebui să-i instruiască pe cei care vor să cerceteze conținutul de realitate al cunoașterii teozofice. Aceste greșeli explică și conceptele în general vagi ale teozofilor. Comentându-le, autorul speră să facă mai ușor de înțeles neajunsurile acestor prime încercări, arătând cum au fost posibile. Comentariile vor arăta, de asemenea, că faptele adăugate de atunci completează prezentarea originară.
+
+<sup>10.</sup>Odată cu moartea lui Blavatsky, în 1891, s-a încheiat această primă fază a publicării noilor fapte ezoterice. Nici Sinnett, nici Judge, nici Hartmann nu erau capabili ei înșiși să stabilească fapte în lumile superioare, ci depindeau în întregime de cele dobândite prin Blavatsky, personal sau în scrierile ei.
+
+<sup>11.</sup>A doua fază, care a durat din 1894 până în 1920, s-a caracterizat prin colaborarea strânsă a două capacități ezoterice: Annie Besant (1847–1933) și C. W. Leadbeater (1847–1934). Blavatsky îi pusese în legătură cu învățătorii ei, care le-au spus că, deși se va face totul pentru a le înlesni munca ulterioară, amândoi, fiind vechi inițiați de cel mai înalt grad al gnosticismului, erau în stare să dobândească singuri simțul cauzal (conștiință obiectivă în învelișul cauzal) și astfel să poată face propria lor muncă de cercetare în lumile omului.
+
+<sup>12.</sup>Au început prin a compila și sistematiza faptele pe care Blavatsky le adunase în lucrările sale. A urmat apoi o muncă de cercetare care, mai ales în cazul lui Leadbeater, a avut drept rezultat o producție unică atât calitativ, cât și cantitativ. Nimeni înaintea lui nu a dat atâtea fapte noi. Până în 1920, el a fost cel mai de seamă sistematician și istoric al ezotericii. Investigațiile sale extrem de cuprinzătoare în domenii până atunci neexplorate au atras inevitabil multe greșeli. Surprinzător este că nu au fost mai numeroase sau mai însemnate.
+
+<sup>13.</sup>Nu este aici locul să fie tratată munca acelor două sine cauzale (având conștiință esențială: 46:5–7). Scriitorii menționați mai înainte urmează să fie comentați deoarece prezentările lor sunt prea înșelătoare ca să rămână necontestate.
+
+<sup>14.</sup>Următoarele sunt cele mai importante dintre noile fapte fundamentale (necesare pentru a cuprinde realitatea) prezentate de Leadbeater:
+
+- compoziția materiei;
+- diferența dintre materia atomică și materia moleculară;
+- cele șapte lumi atomice ale sistemului solar;
+- lumile moleculare ale sistemului planetar;
+- materia de involuție;
+- evoluția regnurilor naturale;
+- expansiunea conștiinței prin dobândirea unei conștiințe colective tot mai largi;
+- cele trei lumi atomice și cinci lumi moleculare ale omului;
+- cele cinci învelișuri materiale ale omului și conștiința în acestea;
+- atomii permanenți ai omului (triada);
+- ierarhia planetară;
+- împărțirea ierarhiei planetare în șapte departamente;
+- guvernul planetar.
+
+<sup>15.</sup>Este de regretat că Leadbeater (inițiat de grad inferior) nu a luat niciodată în considerare sistemul pitagoreic al cunoașterii (hylozoica), care era destinat să fie temelia viitoare a cunoașterii pentru știința occidentală. Aceasta s-ar putea datora aversiunii sale instinctive față de analizele conceptuale goale, lipsite de conținut de realitate, ale filozofilor, care cred că, spulberând conceptele fictive, pot realiza orice care să țină de realitate.
+
+<sup>16.</sup>Prin urmare, ceea ce lipsește operei lui Leadbeater este relatarea despre sistemul hylozoic de realitate al lui Pitagora, cu:
+
+- cele trei aspecte ale existenței;
+- energia dinamică a materiei primordiale;
+- cele șase regnuri divine din lumile cosmice 1–42;
+- monada ca atom primordial;
+- atomul primordial ca sinele, individul;
+- atomul primordial ca sinele ultim în toate învelișurile individului, în toate lumile, de-a lungul cosmosului. Sinele sunt atomi primordiali. Tot restul sunt „învelișuri”.
+
+<sup>17.</sup>La început Besant și Leadbeater au lucrat împreună în cercetările lor, dar în cele din urmă Besant s-a interesat mai mult de India. A întemeiat o universitate la Benares. O vreme a colaborat cu Gandhi pentru independența Indiei, deși avea propria ei părere despre ruperea definitivă a tuturor legăturilor cu Marea Britanie.
+
+<sup>18.</sup>A treia și cea mai recentă fază a publicării cunoașterii ezoterice se situează în anii 1920–1950. Între timp avuseseră loc multe schimbări în ierarhia planetară. Mai mulți indivizi din omenire deveniseră sine cauzale, sine cauzale deveniseră sine esențiale (46), iar unele dintre acestea sine supraesențiale (45) etc.; iar câteva sine-43 de până atunci izbutiseră să dobândească conștiință a lumii 42 (cea mai de jos conștiință cosmică) și intraseră astfel în „cariera cosmică”.
+
+<sup>19.</sup>Ierarhia planetară numise un „secretar”, care trebuia să fie legătura efectivă dintre ezotericieni și ierarhia planetară, și hotărâse ca, cel puțin pentru moment, faptele noi să fie date numai prin el: sinele-45 D.K. (alias Kleinias, alias Dharmajyoti, alias Aryasanga).
+
+### 3.3 *H. P. Blavatsky (1831–1891)*
+
+<sup>1.</sup>Helena Petrovna von Hahn era o nobilă rusă bogată, a cărei viață nu a fost decât un lung martiriu. Nu a primit niciodată o școlarizare adevărată. Calitățile ei superfizice înnăscute o făceau voluntară încă din copilărie. Râdea de guvernantele franceze și engleze care încercau să-i transmită „cultura occidentală”. La șaptesprezece ani, sfidându-și familia, s-a căsătorit cu guvernatorul, generalul Blavatsky, cu vreo cincizeci de ani mai în vârstă decât ea, a fugit de la el în noaptea nunții și a plecat în străinătate. Fiind bogată, a putut călători în toată lumea, dezvoltându-și între timp calitățile latente și redobândind atât simțul mental, cât și pe cel cauzal (conștiință obiectivă în învelișurile mental și cauzal). În timpul unei șederi la un sine-45, a devenit conștientă în creierul ei că era un sine cauzal.
+
+<sup>2.</sup>Două biografii bune despre ea sunt *Incidents in the Life of Madame Blavatsky* de Sinnett și *The Real H. P. Blavatsky* de W. Kingsland.
+
+<sup>3.</sup>Era o personalitate neobișnuită, învinuită toată viața pentru opoziția ei față de orice fel de convenționalism, iluzoritate și ipocrizie; îi îngrozea pe toți sclavii convenției, cu atitudinea lor infantilă. Mai târziu a regretat că, făcând astfel, respinsese mulți oameni. Dar adevărații căutători sunt independenți de ficționalismul moral. Așa-numiții sfinți omenești sunt genii emoționale, dar aceasta nu înseamnă că au vreo cunoaștere a realității. Adevărații „sfinți” există numai în regnuri supraumane. Ei nu corespund deloc idealurilor sfinte ale ficționaliștilor morali.
+
+<sup>4.</sup>Blavatsky a ajuns în cele din urmă la New York, unde, în 1875, a luat parte la întemeierea Societății Teozofice, la dorința numeroșilor intelectuali fascinați de vasta ei cunoaștere și de experimentele ei magice autentice.
+
+<sup>5.</sup>Aceste dovezi ale cunoașterii superfizice nu ar fi trebuit îngăduite niciodată. Cei care nu sunt în stare să înțeleagă aceste fenomene devin doar o turmă de palavragii nesiguri și iresponsabili când încearcă să explice ce nu pot cuprinde. Aceasta a vătămat cauza cunoașterii ezoterice, dar a folosit șarlatanilor de toate felurile. Din fericire, ierarhia planetară a interzis aceasta și rămâne interzisă până când hylozoica va fi acceptată universal drept singura ipoteză de lucru rațională. Esențială este cunoașterea, nu fenomenele.
+
+<sup>6.</sup>În 1877, la New York, Blavatsky a scris *Isis Unveiled*, o lucrare în două volume. Primul volum (628 de pagini) critică dogmele științei; al doilea (648 de pagini), dogmele teologiei. Timpul a arătat tot mai mult cât de îndreptățită era acea critică.
+
+<sup>7.</sup>Le-a explicat prietenilor că lucrarea ei nu îi va atrage decât neînțelegere, calomnie și răutate neîmpăcată. Iar aceasta este inevitabil cu omenirea aflată la actualul ei stadiu de dezvoltare. Dar ea a făcut ceea ce i se poruncise.
+
+<sup>8.</sup>*Isis Unveiled* este o carte monumentală. Pare de necrezut că un singur individ, fără educație formală, fără studiu științific ori altă instruire, ar fi putut realiza o asemenea performanță de cunoaștere aproape atotcuprinzătoare a istoriei, mai ales fără ajutorul nici celei mai mici biblioteci de referință.
+
+<sup>9.</sup>Autorități savante au susținut că Blavatsky luase totul din surse pe care lumea academică le exploatase deja (*Isis* abundă în citate din scrierile învățaților). Argumentul este vădit absurd. Nici astăzi o asemenea realizare nu stă în puterea niciunuia dintre ei. În privința lui *Isis*, asemenea susțineri au devenit o tradiție (pe *The Secret Doctrine* au preferat — și cu înțelepciune — să o ucidă prin tăcere). Critica nimicitoare a lui Blavatsky la adresa ipotezelor efemere ale științei și a lipsei de bun-simț a teologiei era cu totul prea revelatoare. Asupra acestei femei, care îndrăznise să sfideze cele mai vestite autorități ale unei lumi întregi, care îndrăznise să demonstreze lipsa de valoare a agerimii și profunzimii lor, s-au revărsat toate infamiile de care este capabilă imaginația omenească (întotdeauna dovedite prin principiul „nu iese fum fără foc”).
+
+<sup>10.</sup>Oamenii de știință, care își închipuiau că pot judeca ce „contravine legilor naturii”, au declarat, firește, imposibile experimentele ei magice autentice. Cercetătorii care, după verificări cât se poate de atente, se convinseseră erau batjocoriți pentru că se lăsaseră păcăliți ori pentru că sufereau de halucinații. Nu-i poți convinge niciodată pe cei care „știu că asemenea lucruri sunt imposibile”. Nu se vor convinge până când, la un moment dat în viitor, nu vor putea face ei înșiși aceleași experimente. Au mai multă credință în dogmele lor decât în bunul-simț și în mărturia propriilor simțuri. Nenumăratele demonstrații ale lui Blavatsky despre felul în care energia mentală domină materia fizică au fost negate, iar ea însăși declarată cea mai mare fraudă a secolului al XIX-lea. Așa se face. Așa sunt asasinați oamenii academic, dacă nu sunt înlăturați prin internarea în aziluri, ca să se gândească la ce se întâmplă când îndrăznești să propui adevăruri de neconceput pentru autorități. A crescut omenia; pe vremuri ar fi fost arși.
+
+<sup>11.</sup>Blavatsky era desigur o enigmă deplină pentru toți. Dar cum ar fi putut ei înțelege un sine cauzal? Nu avusese niciodată parte de o educație adevărată, nu studiase nicio lucrare științifică (inutil, căci i-ar fi cunoscut imediat conținutul dacă ar fi dorit). Și totuși putea da informații despre orice era întrebată și rezolva probleme care sunt încă obiect de dispută între învățați.
+
+<sup>12.</sup>Profesorii de literatură, psihologie etc. lucrează cu informații sărăcăcioase, rezultate ale unor manifestări întâmplătoare ale învelișurilor de încarnare ale individului, care se dizolvă curând, dar nu au nicio idee despre nivelul de dezvoltare a monadei în învelișul ei cauzal.
+
+<sup>13.</sup>Lipsa ei de școlarizare avea însă dezavantajul evident că o lăsase incapabilă să gândească metodic și sistematic în creier, ceea ce îi dăuna felului de expunere. Detesta tot ce amintea de sistem mental, socotindu-l un obstacol pentru concepția corectă despre realitate și ceva care nu se va potrivi niciodată ordinii firești a lucrurilor. Credea că sistemele paralizează gândirea prin imobilitatea mentală a sistemelor rigide. Cu toate acestea, ele sunt necesare pe nivelurile mentale pentru toți cei care nu au devenit sine cauzale. Ele sunt garanții mentale că faptele sunt puse în contextele lor corecte. Lămuresc învățarea la un anumit nivel, făcând mai ușoare privirea de ansamblu și orientarea. Întreaga dezvoltare mentală a omenirii se oglindește într-o serie de sisteme mentale. Sinele cauzal nu are nevoie de sisteme mentale (necesare pentru a da ideilor mentale cadrul corect), fiindcă ideile cauzale sunt ele însele sisteme infailibile și fapte puse întotdeauna în contextele lor corecte.
+
+<sup>14.</sup>Titlul operei sale este înșelător. Ca și restul terminologiei ei, este o dovadă a educației sale formale defectuoase.
+
+<sup>15.</sup>Isis nu a fost dezvăluită. Dacă prin văl se înțelege inconștiența cauzală a monadei în învelișul cauzal, numai monada însăși poate ridica acel văl, dobândind conștiință cauzală. (Pe soclul statuii lui Isis: „Niciun muritor nu mi-a ridicat vălul”.) Dacă se înțelege adevărata cunoaștere a realității, ea nu se află în carte. Dar, cum a spus un sine-45: „S-au făcut spărturi îndeajuns de mari pentru a îngădui priviri fugare.” Și acesta a fost, desigur, scopul.
+
+<sup>16.</sup>Pentru că Blavatsky primise ordin să nu facă public niciun fapt ezoteric nou fără permisiune în fiecare caz individual, s-a mărginit la folosirea termenilor cunoscuți din istorie și idiotizați de ignoranță. Pentru că nu trebuia să spună lucrurile așa cum erau, a trebuit să lase contradictorii spusele autorităților de-a lungul veacurilor și doar să sugereze că numai cei inițiați în ordinele ezoterice ale cunoașterii puteau explica acele chestiuni asupra cărora învățații trebuie să dispute mereu.
+
+<sup>17.</sup>Astfel, ea era enorm împiedicată încă de la început. Este cu totul imposibil să lămurești ficțiuni precum spiritul–materia al zoroastrienilor, corpul, sufletul și spiritul gnosticilor, concepțiile despre Dumnezeu de-a lungul veacurilor etc., fără a avea voie să folosești conceptele exacte ale realității.
+
+<sup>18.</sup>Când a încercat să redea idei pentru care nu există cuvinte în limbile occidentale, a eșuat. Terminologia ei (care încă bântuie) este un capitol deplorabil, care i-a zăpăcit ecourile și, din nefericire, a împiedicat formularea unei terminologii occidentale adecvate.
+
+<sup>19.</sup>Chiar termenul „teozofie” este o greșeală, oricât de vechi alexandrin ar fi. Omul este incapabil să înțeleagă concepția divinității despre realitate. Faptul că teologia ar trebui să fie știința divinului ține de ficționalismul teologic.
+
+<sup>20.</sup>La fel de rău stau toate chestiunile superfizice. Câteva exemple ar trebui să fie suficiente.
+
+<sup>21.</sup>Prin „astral”, anticii înțelegeau lumea fizic eterică. La Blavatsky termenul desemna tot ce era superfizic și era folosit în toate contextele: monadă astrală, ego astral, lumină astrală etc. Discipolul ei, Judge, s-a zăpăcit complet și a amestecat lumea fizic eterică (49:2–4) cu lumea emoțională (48:2–7), rezultatul fiind un amestec perfect. Faptul că tipurile superioare de materie sunt luminoase în lumile lor respective nu justifică numirea lor de lumină astrală.
+
+<sup>22.</sup>Deoarece nu trebuia să vorbească despre mai multe lumi superioare, toate au trebuit numite „lume astrală”, iar „lumina astrală” a devenit un termen generic pentru toate tipurile superioare atât de materie, cât și de energie.
+
+<sup>23.</sup>Un alt exemplu este „akasha” (lumea 44), pe care îl folosea pentru aproape orice lume.
+
+<sup>24.</sup>Și afirmația despre „cele șapte principii” ale sinelui vine de la Blavatsky, care o întemeia pe idealul ei manifest, sinele-45 care îi erau învățători. Ele au șapte învelișuri, dar nu aparțin celui de-al patrulea regn natural.
+
+<sup>25.</sup>Pentru ezoterician este ușor de înțeles de ce Blavatsky nu a deosebit niciodată lumea fizic eterică de lumea emoțională: ea nu avea înveliș emoțional sau, mai exact, al ei era gol de orice conținut. (Din această pricină fumatul nu-i putea influența învelișul emoțional.) Așa se întâmplă întotdeauna cu cei care au dobândit simțul cauzal (posedă conștiință obiectivă în învelișul cauzal) și nu mai au nevoie de conștiința lor emoțională; atunci acest înveliș servește numai ca legătură cu învelișul eteric. Corespunzător este adevărat despre cei care au dobândit conștiință esențială (46): învelișurile lor mentale sunt „goale”, fiindcă nu mai au nevoie de conștiința mentală. Aceasta nu înseamnă că le-ar lipsi înțelegerea felurilor de conștiință ale vibrațiilor în cauză. Superiorul îl cuprinde pe inferior. Totuși, aceasta are anumite dezavantaje pentru cei care urmează să fie învățători ai oamenilor, căci adaptarea la iluzoritatea emoțională generală și individuală și la ficționalitatea mentală, atât de îndepărtate de perceperea corectă a realității, presupune un adevărat sacrificiu.
+
+<sup>26.</sup>Având voie numai să sugereze sursele ei, fără să menționeze că existaseră ordine secrete ale cunoașterii timp de aproape cincizeci de mii de ani, Blavatsky nu putea face decât să invoce „vechea înțelepciune secretă a Indiei” drept izvor al oricărei cunoașteri și înțelegeri adevărate. Putea fi prea generoasă cu laudele dacă avea nevoie să folosească „autorități” antice cunoscute de știință. Uneori aceasta este prea mult pentru ezoterician. De pildă, putea spune că gnosticismul era doctrina esenienilor sub alt nume. Esenienii erau cabaliști de un fel aparte, iar papa lor de hârtie era o redare sărăcăcioasă a cabalei caldeene. Gnosticismul era o adaptare independentă a hermetismului la concepția despre lume schimbată a unei epoci ulterioare.
+
+<sup>27.</sup>Faptul că *Isis* a fost întotdeauna ridiculizată public nu i-a împiedicat pe savanți să o folosească fără recunoaștere ca tezaur de fapte anterior necunoscute și să le publice drept propriile descoperiri, ca să culeagă gloria pentru ele. După Schopenhauer, aceasta este soarta pe care geniul o împărtășește cu iepurele: cât e viu se trage în el și, din fericire, după ce e omorât se ospătează din el.
+
+<sup>28.</sup>A doua lucrare fundamentală a vastei producții literare a lui Blavatsky, *The Secret Doctrine*, tratează pe larg simbolismul câtorva ordine ezoterice ale cunoașterii. Ea poate, ca și *Isis*, fi socotită o faptă supraomenească. Adăugați faptul că a fost scrisă când autoarea era o invalidă îmbătrânită, deja marcată de moarte, și lucra în cele mai apăsătoare condiții exterioare.
+
+<sup>29.</sup>A scris-o între 1885 și 1888, când nu avea acces la nicio bibliotecă de referință. Ca și *Isis*, este presărată cu citate din cele mai rare cărți și manuscrise pe care nu le văzuse niciodată!! Ce înseamnă aceasta va înțelege ezotericianul. Și *The Secret Doctrine* constă din două volume groase, primul despre cosmos, al doilea despre om. Fiecare volum este împărțit analog în trei părți: creația, simbolurile ei folosite de antici și critica ipotezelor relevante ale științei contemporane.
+
+<sup>30.</sup>După moartea lui Blavatsky, Besant a publicat un așa-zis al treilea volum. Acesta cuprinde mai multe eseuri rămase (se pare neterminate) despre diverse teme ezoterice.
+
+<sup>31.</sup>*The Secret Doctrine* nu este lectură ușoară pentru cei fără pregătire ezoterică, nefamiliarizați cu simbolurile relevante. Nu trebuie să te aștepți la o expunere sistematică a cunoașterii ezoterice despre realitate. Cartea cuprinde simbolurile „Dzyan” (cele mai vechi ale ierarhiei planetare). Relatează diferitele prezentări simbolice ale evoluției cosmosului și ale evoluției vieții, făcute de mai multe ordine ale cunoașterii, și arată cum se acordă între ele.
+
+<sup>32.</sup>Scrierile ezoterice vechi erau complet de neînțeles pentru neinițiați. Celor din afară le păreau pură abracadabra, cum li se par și astăzi învățaților. Unele lucruri par să aibă un sens, dar interpretate literal rezultatul este superstiția. Miturile grecești bine cunoscute, provenite în mare parte din aceste scrieri, sunt un exemplu. Scrierile indiene, Upanișadele și Vedele, pot fi în cea mai mare parte incluse în această categorie. Cei mai învățați brahmani se înșală dacă cred că sunt în stare să le interpreteze.
+
+<sup>33.</sup>În plus, cartea conține multe fapte istorice care ilustrează nesiguranța iluziilor și ficțiunilor dominante și demonstrează ignoranța învățaților.
+
+<sup>34.</sup>Au fost date cercetătorilor multe indicii de valoare, iar acestea vor ajuta interpretarea conținutului ideatic al scrierilor ezoterice când, într-un viitor, manuscrisele vechi, dar intacte, vor vedea din nou lumina zilei. Ezotericienii nu vor avea aproape nicio dificultate să înțeleagă ce se intenționează, chiar dacă nu cunosc în prealabil diferitele limbaje simbolice folosite. Pentru ei, aceasta va fi o dovadă în plus (dacă ar mai fi nevoie) că relatările lui Blavatsky sunt demne de încredere.
+
+<sup>35.</sup>Poate trebuie menționat că, atunci când scria, Blavatsky interpreta mai mult decât socotea ierarhia planetară de atunci recomandabil, motiv pentru care aproape jumătate dintre manuscrisele ei gata de tipar au trebuit date flăcărilor. Aceasta explică poate de ce multe fapte au ajuns în contexte greșite, împrăștiate ici și colo prin ambele volume. Din cauza aceasta, lucrarea dă mai degrabă impresia unei enciclopedii decât a unei expuneri sistematice.
+
+<sup>36.</sup>Blavatsky știa, desigur, ce fel de primire avea să aibă lucrarea ei: a fost, într-adevăr, ucisă prin tăcere. Spunea că orice om de știință care ar admite că s-a ocupat de lucrarea ei și-ar face poziția imposibilă. Spunea pe drept: „Niciun adevăr nu a fost acceptat vreodată de corpuri învățate dacă nu s-a potrivit ideilor preconcepute obișnuite ale profesorilor lor” și „Ficțiunile noastre ne orbesc față de ignoranța noastră”. Până când individul nu a recunoscut uriașa limitare a conștiinței emoționale și mentale, va rămâne victima neputincioasă a iluziilor sale emoționale și a ficțiunilor sale mentale.
+
+<sup>37.</sup>Dar pentru cei care fuseseră odată inițiați și rămăseseră, prin urmare, căutători ai „cuvântului pierdut al maestrului” ori ai „pietrei filozofale”, lucrarea ei a venit ca o revelație. Au recunoscut atât de multe, încât au știut că găsiseră, în sfârșit, ceea ce căutaseră instinctiv și au știut direcția în care să-și continue căutarea, pentru a-și reaminti cunoașterea pe care o avuseseră cândva.
+
+### 3.4 *Sinnett*
+
+<sup>1.</sup>Alfred Percy Sinnett (1840–1921) a fost mulți ani redactor-șef al ziarului englez *Pioneer*, publicat în India. L-a cunoscut pe H.P.B. în 1880 și a invitat-o acasă la el. După ce Sinnett fusese câteva săptămâni martorul unor fenomene magice autentice și fusese informat despre fapte ezoterice privind raționalitatea existenței, H.P.B. a aranjat ca el să corespondeze cu sinele-45 K.H. de atunci. Rezultatul experiențelor sale cu H.P.B. a luat forma primei sale cărți, *The Occult World*, urmată în 1883 de un studiu de ezoterică, *Esoteric Buddhism*, alcătuit din materialul obținut în corespondența cu K.H. și conținând faptele pe care ierarhia planetară îngăduia atunci să fie făcute cunoscute. Lucrarea a fost prima încercare de expunere a concepției ezoterice despre lume care a primit vreodată permisiunea de a fi publicată. Faptele prezentate de Sinnett au fost folosite pe larg atât de Judge, cât și de Hartmann.
+
+<sup>2.</sup>Scrisorile lui K.H. din anii 1880–1884 au fost publicate integral în 1923, după moartea lui Sinnett.
+
+<sup>3.</sup>În cele ce urmează este examinată lucrarea principală a lui Sinnett, *Esoteric Buddhism*, mai ales fiindcă încă se reeditează, deși ar fi trebuit de mult să fie trimisă în depozitele bibliotecilor. Multe dintre ficțiunile încă răspândite printre teozofi pot fi urmărite până la această primă autoritate a teozofiei. Comentariile de față urmăresc să indice greșelile. Ele erau inevitabile când se încerca alcătuirea a ceva asemănător unui sistem cu fapte atât de puține. Ca atare, cartea lui Sinnett era o realizare uimitoare, depășită ulterior numai de lucrările lui Besant și Leadbeater, și numai datorită numărului mare de fapte noi pe care li s-a îngăduit să le dea. Remarcabila sa abilitate jurnalistică i-a fost de mare folos. Mai târziu, a văzut neajunsurile cărții și a scris într-o anexă la ultima ediție că, recitindu-și încercarea de prezentare a ezotericii, el însuși fusese îndemnat la râs. În acel punct ea prezenta, chiar pentru el, puțin mai mult decât interes istoric. Riscul este ca cititorii ignoranți, neștiind aceste lipsuri, să le ia drept bune și vechile idei greșite să fie perpetuate.
+
+<sup>4.</sup>Sinnett începe arătând că prin budism nu înțelege în mod special doctrina lui Gautama, ci „doctrina înțelepților” (*buddhi* = înțelepciune). Încă nu s-a îngăduit publicarea a nimic din ceea ce Buddha sau Christos i-au învățat pe discipolii lor. (Traducerea suedeză se intitulează „Doctrina inițiaților”, ceea ce este mai exact.) Trebuie adăugat că versiunea lui Sinnett concordă numai parțial cu ceea ce se preda în vechile ordine ale cunoașterii. Că perceperea realității de către ierarhia planetară este cu totul diferită rezultă din faptul că fiecare lume superioară are propria percepere total diferită a celor trei aspecte ale existenței.
+
+<sup>5.</sup>În primul capitol Sinnett scrie despre învățătorii săi etc., încercând să descrie capacitatea unui sine-45. Asemenea strădanii sunt infinit de tipice pentru occidentali.
+
+<sup>6.</sup>Al doilea capitol tratează constituția omului. Sinnett, ca toți ceilalți teozofi și ecourile lor, îi atribuie omului șapte învelișuri. Omul are însă numai cinci. Învelișurile din lumea esențială (46) și cea supraesențială (45) sunt dobândite de individ în al cincilea regn natural.
+
+<sup>7.</sup>Sinnett face din învelișul emoțional (48) sediul „voinței”. Aceasta înseamnă însă, de fapt, că materia emoțională este materia în care monada poate folosi cel mai ușor dynamis. Și aceasta indică stadiul general de dezvoltare al omenirii, demonstrând că se află la stadiul emoțional. Când monada va ajunge în cele din urmă să-și centreze conștiința de sine în conștiința mentală (47), aceasta va deveni „voința” omului.
+
+<sup>8.</sup>Al treilea capitol este despre lanțul planetar. Ar fi putut fi omis fără pierdere. Lanțul planetar nu-și are locul într-o primă relatare a faptelor de bază ale cunoașterii ezoterice, care trebuie stăpânite înainte de a merge mai departe. El rămâne de neînțeles pentru cei care nu cunosc cele șapte dimensiuni (nouă dacă sunt numărate linia și suprafața) ale sistemului solar. Aici el a amestecat concepte de bază ce trebuiau tratate separat: compoziția materiei, construirea lumilor, evoluția în diferitele regnuri naturale din punctul de vedere al biologiei și conștiinței, elementalii involuției etc. Nu este suficient în sine să ai fapte corecte. Ele trebuie puse în contextele corecte. Dar faptele disponibile erau mult prea puține pentru a face posibile neinițiaților contexte inteligibile.
+
+<sup>9.</sup>O expresie veche, încă întâlnită în cărțile ezoterice, este „coborârea spiritului în materie”, expresie simbolică ce, firește, a fost neînțeleasă și are mai multe sensuri menite să acopere: involuția (compunerea materiei din atomi primordiali), diferitele feluri de involvare (renașterea constantă a tuturor lucrurilor, sau involvare și evoluție inversă continue) și alte sensuri.
+
+<sup>10.</sup>Dacă prin „spirit” se înțelege aspectul conștiinței, importanța acestuia, ca și a aspectului mișcării, scade în fiecare lume inferioară (din cauza densității crescute a atomilor primordiali), în timp ce aspectul materiei devine tot mai dominant. Acest lucru este valabil mai ales în cele trei lumi atomice cele mai de jos (47–49).
+
+<sup>11.</sup>Chiar termenul „spirit” a dat naștere la multă nesiguranță. Sensul lui corect este conștiința monadei (atomul primordial, individul, sinele). Dar, fiindcă toată lumea știe ce înseamnă spirit fără să știe ce este spiritul, cuvântul a ajuns să însemne aproape orice. Cei mai mulți teozofi par să fie de acord că înseamnă conștiința sinelor-45.
+
+<sup>12.</sup>Al patrulea capitol al cărții lui Sinnett se intitulează „Perioadele lumii”. Se ocupă mai ales de diferitele rase și de multe alte lucruri despre care atunci erau disponibile prea puține fapte. Cea mai mare greșeală a lui a fost însă încercarea de a explica numărul simbolic „777 de încarnări”. Sinnett nu a înțeles niciodată semnificația acelui simbol, socotind numărul de încarnări necesare individului în regnul uman la aproape 800. Și astăzi îi auzi pe teozofi repetând acest număr. Simbolul urmărea să dea proporțiile de timp pentru activarea celor trei feluri diferite de conștiință: 700 pentru fizică, 70 pentru emoțională și 7 pentru mentală. Nu se referea, deci, la numărul încarnărilor. Blavatsky sugerase numărul aproximativ, referindu-se la zilele lucrate la templul lui Solomon (învelișul cauzal simbolic al fabulei), relatate în II Cronici 2:17, 18.
+
+<sup>13.</sup>Capitolele cinci și șase tratează șederile individului în lumile emoțională și mentală dintre încarnări, a căror importanță pentru dezvoltarea lui este enorm supraestimată. Ele sunt pur și simplu perioade de odihnă înaintea unei noi încarnări. Individul nu învață nimic nou cât se află în aceste lumi. Pentru individul normal este cu totul exclus să le cerceteze. Nu are posibilitatea nici măcar să observe a patra dimensiune în lumea emoțională și a cincea în cea mentală. În aceste lumi el întrebuințează încă vederea tridimensională dobândită în lumea fizică și nu cuprinde nimic din ceea ce se petrece în jur. Nu are, așadar, de ales decât să încerce să elaboreze iluziile și ficțiunile despre existență, realitate și viață în care credea când se afla în organism, neputând să le vadă caracterul fictiv. Indivizii par mult mai puțin raționali în acele lumi decât în lumea fizică. Desigur, cu cât mai mulți oameni studiază ezoterica în viața fizică, din 1875 încoace, cu atât mai mulți oameni din lumea emoțională vor înțelege și vor preda ezoterica.
+
+<sup>14.</sup>Ca spiritiștii, Sinnett pare să fi avut o predilecție nesănătoasă pentru fenomene de acest fel, neînțelegând că experiențele și concepțiile individului sunt extrem de personale și subiective. În lumea mentală mai ales, orice fel de obiectivitate este exclusă. Acolo, individul duce o viață de fericire fără sfârșit, experimentând realizarea aparent obiectivă a fanteziilor sale. Numai în lumea emoțională poate avea experiențe neplăcute, fiindcă acolo mai este posibil contactul cu oameni aflați la stadiul urii.
+
+<sup>15.</sup>Într-un loc Sinnett vorbește despre „elementali, spiritele naturii, acele creaturi semiinteligente ale luminii astrale”. Aceasta arată că nu înțelesese limpede ce se înțelege prin acești termeni. Elementalii fac parte din materia de involuție; spiritele naturii aparțin evoluției deva, iar lumina astrală este același lucru cu materia emoțională.
+
+<sup>16.</sup>Capitolul șapte, intitulat „Valul uman”, cuprinde două concepții greșite care trebuie arătate. Una privește Marte și Mercur în sistemul solar. Cealaltă privește intervalele dintre încarnările omului.
+
+<sup>17.</sup>Marte și Mercur sunt planete cu propriile lor lanțuri planetare, singurele globuri vizibile în cele șapte globuri respective. Greșeala a apărut fiindcă, în scrierile anticilor, cele două globuri eterice ale lanțului planetar al Pământului erau numite și Marte și Mercur.
+
+<sup>18.</sup>Sinnett dă ca interval mediu între încarnări 8000 de ani. Aceasta este cu totul greșit. Fără cunoașterea diferitelor stadii de dezvoltare ale omenirii este imposibil să precizezi chiar și aproximativ durata acestor intervale. S-a socotit că, în majoritatea cazurilor, ar putea fi suficiente: cinci ani la stadiul barbariei, 300 la stadiul civilizației, 1000 la stadiul culturii și 1500 la stadiul umanității. Dar nu există regulă; în general, totul este foarte individual și depinde de numeroși factori. Oricine se poate reîncarna mai mult sau mai puțin imediat. Oricine poate aștepta milioane de ani, adormit în învelișul său cauzal. S-a spus cu tărie că orice speculație este inutilă aici. Se știe numai că individul se încarnează în serii și că numărul de încarnări din serie variază atât în general, cât și individual.
+
+<sup>19.</sup>Capitolul opt, despre „Progresul omenirii”, precum și cele patru capitole următoare, consacrate lui Buddha, Nirvanei, Universului și Doctrinei revăzute, sunt cu totul prea neadecvate și înșelătoare chiar și pentru a fi rezumate.
+
+<sup>20.</sup>Numai despre chestiunea ficționalismului moral se pot spune câteva cuvinte: binele este tot ce promovează, răul tot ce împiedică dezvoltarea conștiinței, atât individual, cât și colectiv. Răspândirea iluziilor emoționale și a ficțiunilor mentale ale ignoranței, care au drept rezultat idiotizarea, este printre cele mai mari și mai fatale greșeli ce pot fi făcute.
+
+### 3.5 *Judge*
+
+<sup>1.</sup>William Quan Judge era un avocat american de origine irlandeză, care locuia la New York. A fost unul dintre fondatorii Societății Teozofice. Până la moartea sa, în 1896, a încercat prin scris și conferințe să facă cunoscute faptele primite prin Blavatsky și Sinnett. Lucrarea sa principală, *The Ocean of Theosophy*, este socotită de secta pe care a format-o, cunoscută mai târziu ca tingleyenii, principala lucrare teozofică, singura care ar oferi o prezentare corectă a doctrinei. Cât de neîntemeiată este această pretenție ar trebui să reiasă din cele ce urmează. Este timpul ca erorile ei de fapt, repetate atât de mult timp, să fie arătate spre folosul celor care nu au acces la literatură mai recentă.
+
+<sup>2.</sup>Judge a fost elevul lui Blavatsky și, ca toți cei care, ani la rând și în toate situațiile imaginabile, au fost zilnic martori ai experimentelor ei magice, era desigur convins de autenticitatea lor și de capacitatea ei de expertă în cunoașterea ezoterică.
+
+<sup>3.</sup>Încă din prefața cărții sale, el precizează în mod înțelept că Societatea Teozofică nu trebuie considerată răspunzătoare pentru conținutul cărții. Concepția teozofilor despre ce este teozofia și teozofia originară, autentică (cunoașterea ezoterică) sunt, în prea multe privințe, două lucruri foarte diferite.
+
+<sup>4.</sup>Nu se intenționează aici citarea a tot ce a spus Judge pentru a arăta cât de neclară, confuză și laxă este întreaga alcătuire și câte fapte au ajuns în contexte greșite. Este tipic pentru prezumția lui că înlocuiește mai multe fapte ale lui Sinnett cu propriile sale concepții greșite. Vor fi suficiente erorile cele mai evidente. Judge nu a reușit niciodată să devină sine cauzal.
+
+<sup>5.</sup>Afirmația lui „Ființa cea mai inteligentă din univers, omul” nu se potrivește prea bine nici cu ce a spus înainte, nici cu ce urmează.
+
+<sup>6.</sup>Sau ce se poate spune despre aceasta? „Cel mai important sistem” pe care l-ar fi predat Blavatsky ar fi fost „cunoscut de mult Lojii”, adică ierarhiei planetare, a unui regn natural pentru intrarea în care omnisciența despre lumile omului este o condiție prealabilă.
+
+<sup>7.</sup>Una dintre cele mai nefericite greșeli ale lui, care i-a zăpăcit fără speranță pe toți cei care „au învățat de la Judge”, este confundarea a două lumi foarte îndepărtate: fizic eterica (49:2–4) și emoționala (48:2–7). Rezultatul este un mare amestec. Judge le cuprinde pe amândouă sub termenul „lume astrală”. Anticii foloseau acest termen pentru lumea fizic eterică, fiindcă în ea se văd de trei ori mai multe stele decât în lumea vizibilă individului normal. În lumea emoțională nu se vede deloc nicio stea.
+
+<sup>8.</sup>Un alt termen pe care Judge nu l-a înțeles niciodată a fost „lumina astrală”. H.P.B., căreia nu-i păsa de terminologie, a luat termenul de la Eliphas Lévi, care îl făcea să desemneze toate felurile de materie și energie superfizică, uneori chiar „anima mundi” (sufletul universal). Prin urmare, termenul nu mai poate fi folosit de cei care știu despre ce vorbesc.
+
+<sup>9.</sup>Judge a tratat „constituția septuplă a omului” și mai rău decât Sinnett. Omul are numai o constituție quintuplă, și anume cele cinci învelișuri din încarnarea fizică. Șapte învelișuri au acei indivizi care, în al cincilea regn natural, au devenit sine-45 și au dobândit astfel, pe lângă învelișul cauzal uman, învelișuri esențial (46) și supraesențial (45). Omul nu are nevoie de aceste două învelișuri, deoarece nu a dobândit încă nici conștiință în învelișul său cauzal.
+
+<sup>10.</sup>Judge numește „linga sharira” al indienilor „corp astral”, înțelegând prin acesta atât învelișul fizic eteric, cât și pe cel emoțional. Termenul corect este însă învelișul eteric. Afirmația lui Judge că „acest termen se apropie de fapt, deoarece substanța acestei forme derivă din materia cosmică sau materia stelară” este pură abracadabra. Totul constă din materie și toată materia este de origine cosmică.
+
+<sup>11.</sup>Este limpede că Judge nu înțelesese că învelișul eteric aparține organismului, că se dezintegrează odată cu organismul, celulă cu celulă, astfel încât din el, văzut deasupra mormântului, se poate spune ce stadiu de dizolvare a atins organismul. Nu este deci corect să se spună că după moarte învelișul emoțional ia în posesie învelișul eteric. Când omul doarme, învelișul emoțional (împreună cu învelișurile superioare) se eliberează de organism și de învelișul lui eteric. Dacă învelișul eteric este expulzat din organism, survine catalepsia sau moartea aparentă. În procesul morții, învelișul emoțional se eliberează de învelișul eteric când acesta a părăsit organismul.
+
+<sup>12.</sup>Explicația lui Judge despre învelișurile superioare ale omului și conștiința din ele este la fel de confuză.
+
+<sup>13.</sup>El face ca „Sufletul” să cuprindă atât „Sufletul spiritual”, cât și „Spiritul”, prin „Suflet spiritual” înțelegând ceva corespunzător conștiinței 46 și prin „Spirit” conștiinței 45. În alt loc, „Spiritul” este „Sinele divin” sau „raza din Ființa absolută”.
+
+<sup>14.</sup>Nu este de mirare că în mințile teozofilor domnește confuzia.
+
+<sup>15.</sup>Ideea obișnuită că omul trebuie să aibă învelișuri superioare pentru a intra în contact cu lumile divine este dovada fie a ignoranței, fie a lipsei de gândire. În cea mai joasă materie cosmică (atomul fizic) există toate celelalte feluri de atomi cosmici. Lumea fizică este pătrunsă de toate lumile superioare. Conducătorul planetar are un înveliș de materie fizică atomică, iar monada se află în atomul-28 al lanțului său atomic.
+
+<sup>16.</sup>O mare greșeală este afirmația lui că lanțul planetar nu constă din șapte globuri separate. Spusa lui Judge că prin acesta se înțeleg lumile superioare ale planetei noastre este incorectă.
+
+<sup>17.</sup>În fundal se află, firește, acel termen „iluzie” al filozofiei iluzioniste indiene (Advaita), termen care a paralizat întotdeauna gândirea. Astfel: „Celula este o iluzie... Nu are existență ca lucru material... moleculele fizice... trebuie să părăsească celula în fiecare clipă. Prin urmare, nu există celulă fizică.” Faptul că în toți atomii (care alcătuiesc moleculele) are loc un schimb de atomi primordiali nu înseamnă că moleculele nu există.
+
+<sup>18.</sup>Capitolele despre reîncarnare, karma, kama loka (lumea emoțională), devachan (lumea mentală) și stările de conștiință ale individului dintre încarnări nu fac lucrurile mai clare.
+
+<sup>19.</sup>Judge se interesa mai ales de legea periodicității, discutând cicluri de diverse feluri. În cea mai mare parte, nu mergea mai departe decât să explice noțiunile acestora la diferite popoare.
+
+<sup>20.</sup>În privința posibilității de a prevedea viitorul, Judge avusese evident această chestiune explicată limpede de Blavatsky. Tot ce se întâmplă este rezultatul unor cauze care pot fi oricât de îndepărtate în timp. Pentru a putea prevedea viitorul, trebuie să ai cunoașterea factorilor din trecut care nu au fost încă eliberați. Nesiguranța constă în necunoașterea factorilor care pot apărea între momentul predicției și evenimentul definitiv însuși. De cele mai multe ori, viitorul apare ca o multiplicitate de posibilități diferite. Care dintre ele urmează să se realizeze este nesigur.
+
+### 3.6 *Hartmann*
+
+<sup>1.</sup>Franz Hartmann (1838–1912) era un medic german care la început avea atitudinea fizicalistă și agnostică obișnuită, care respinge din capul locului orice discuție despre superfizic drept simplă imaginație. Și-a mutat cabinetul în S.U.A., unde a avut prilejul să studieze magia autentică împreună cu elevi ai lui H.P.B. În consecință, a renunțat la cabinet și a plecat în India, la Adyar (Madras), unde H.P.B. își mutase sediul.
+
+<sup>2.</sup>După câțiva ani de studiu ezoteric acolo, timp în care a avut mai multe ocazii să vadă formele fizicalizate temporar atât ale lui M., cât și ale lui K.H., a hotărât să se întoarcă în Germania, în 1885. Acolo a scris cu hărnicie și a tradus lucrări indiene. Din 1893 a publicat trimestrialul *Lotusblüten* și a scris cărți despre teozofie. Când Societatea Teozofică s-a scindat în 1895, a regretat profund ruptura, nu s-a alăturat niciuneia dintre părți și a întemeiat în 1897 propria societate în Germania, *Internationale Theosophische Verbrüderung*.
+
+<sup>3.</sup>Nu i se pot atribui fapte ezoterice în plus față de cele primite din scrierile lui H.P.B. și Sinnett. Era mai interesat de problemele concepției despre viață decât de cele ale concepției despre lume. Avea prea puține fapte pentru a-i putea satisface pe filozofi și pe oamenii de știință. A văzut foarte devreme nesiguranța prezentării lui Steiner, cu fundamentul ei teoretico-cognitiv, și s-a disociat hotărât de adepții acesteia, pe care i-a botezat cu umor „die versteinerten Theosophen”.
+
+<sup>4.</sup>Interesul principal al lui Hartmann se îndrepta spre arta de a trăi, care este, desigur, esențială pentru mistic. Alții, înclinați mai mental, vor înainte de toate cunoașterea realității, pentru ca, știind adevăratul sens al existenței, să poată hotărî ce să gândească, să spună și să facă.
+
+<sup>5.</sup>Aceasta este rădăcina vechii controverse dintre mistic (emoționalist) și ezoterician (mentalist). Misticul crede că rațiunea omului nu poate explica existența, ceea ce este adevărat. Ezotericianul știe aceasta, dar nu se mulțumește cu capacitatea rațiunii umane de a constata fapte superfizice, ci caută acea rațiune superioară care poate intra în contact cu lumea ideilor platonice. Până atunci, nu va accepta alte fapte superfizice decât cele de la ierarhia planetară. Dovada că „faptele” sunt într-adevăr fapte o găsește în locul lor dat în sistemul mental hylozoic pitagoreic și în faptul că sunt explicațiile cele mai simple și generale ale unor realități până atunci inexplicabile.
+
+<sup>6.</sup>Misticul poate, deși în cazuri rare, să dobândească un contact de moment cu lumea esențială (46) și să preguste fericirea ei, dar nu poate cuprinde nimic din acea lume, fiindcă îi lipsește intuiția conștiinței cauzale, care este o condiție necesară.
+
+<sup>7.</sup>Scopul principal al activității lui Hartmann în Germania a fost să demonstreze că misticii medievali și moderni — Meister Eckehardt, Böhme, Silesius, Tauler, Gichtel, Saint Martin etc. — împărtășeau atitudinea față de viață a misticilor indieni.
+
+<sup>8.</sup>Ignoranța a produs atât de multe lucruri nesigure în privința misticismului, încât nu ar strica să lămurim chestiunea o dată pentru totdeauna.
+
+<sup>9.</sup>Inițial, „mistere” era termenul aplicat „cunoașterii secrete”, care nu trebuia împărtășită decât celor inițiați în mod special.
+
+<sup>10.</sup>Nu există alte „mistere” decât probleme nerezolvate. Odată ce ai faptele necesare, problema și, prin urmare, „misterul” sunt rezolvate.
+
+<sup>11.</sup>Ceea ce misticii numesc „mistere” sunt realități despre care individul nu are experiență suficientă pentru a le putea cuprinde la nivelul său de dezvoltare.
+
+<sup>12.</sup>Astfel, „mister” înseamnă fie că îți lipsesc faptele pentru a-l explica, fie că ai atins limita înțelegerii individuale (tot ceea ce depășește puterea ta de cuprindere).
+
+<sup>13.</sup>Pentru fizicaliștii care nu pot vedea că există o realitate superfizică, tot ce este superfizic este un mister.
+
+<sup>14.</sup>Ierarhia planetară dorește să ne dea toată cunoașterea. Cei mai mulți oameni nu sunt în stare să o cuprindă și astfel avem „mistere”.
+
+### 3.7 *Mișcarea teozofică*
+
+<sup>1.</sup>În ansamblu, istoria mișcării teozofice este un capitol deplorabil, căci în principal a făcut mai mult rău decât bine cauzei cunoașterii ezoterice și a fost o mare dezamăgire pentru ierarhia planetară. În loc de fraternitate, a existat ceartă pentru putere și doctrină. Că aceasta a rupt legătura cu ierarhia planetară, ei nu au înțeles încă.
+
+<sup>2.</sup>Teozofii cred poate că ar trebui să se spună societate teozofică în loc de mișcare teozofică, dar nu este o societate, ci multe societăți sau secte, toate pretinzând că predau singura cunoaștere adevărată a realității.
+
+<sup>3.</sup>Din nefericire, teozofii au discreditat atât de mult cunoașterea ezoterică în ochii publicului, încât este de dorit să se explice cum s-a ajuns aici.
+
+<sup>4.</sup>Părerea ierarhiei planetare că încercarea fusese făcută prea devreme s-a dovedit corectă. Nici măcar acea parte a omenirii (aproximativ cincisprezece la sută) care atinsese stadiile culturii și umanității nu putuse să se elibereze de iluziile emoționale și ficțiunile mentale, pentru a examina fără prejudecăți temeinicia și conținutul de realitate a ceea ce socotea o idiologie mistificatoare.
+
+<sup>5.</sup>Blavatsky a atacat toate concepțiile dominante din teologie, filozofie și știință. Iar toate autoritățile în aceste chestiuni au fost ofensate în gloria de sine a înțelepciunii lor. Pentru a demonstra că știa despre ce vorbește, Blavatsky a produs nenumărate fenomene magice. Dar singurul lucru pe care l-a obținut astfel a fost ca reprezentanții științei să le declare fraude, deoarece asemenea lucruri erau imposibile, fiind „contrare legilor naturii”.
+
+<sup>6.</sup>Masele curioase și lipsite de discernământ s-au înghesuit însă să intre în Societate. De îndată ce auzeau ceva, acești membri credeau că știu și înțeleg totul. Și astfel am avut această turmă de teozofi, care nu făcea decât să se facă ridicolă prin flecăreala ei. În schimb, ar fi trebuit să facă un jurământ al tăcerii când intrau.
+
+<sup>7.</sup>Cei aflați în poziții de răspundere, încercând să împiedice neînțelegerile, declarau cu vigoare că, deși fiecare avea dreptul la propriile opinii, aceasta nu îi dădea dreptul să le numească teozofie. Dar la ce folosea, când cei mai mulți palavragii, pentru a-și sublinia concepțiile greșite, afirmau că „aceasta este teozofia”?
+
+<sup>8.</sup>Societatea numise doi președinți: colonelul Henry Steel Olcott (1832–1907), care urma să fie capul organizației propriu-zise și să se ocupe de problemele ei practice, și Blavatsky, care urma să fie conducătoarea ei spirituală. Lucrarea lui Olcott, *Old Diary Leaves*, în șase volume, relatează despre Societate și Blavatsky.
+
+<sup>9.</sup>După moartea lui Blavatsky, Olcott, care fusese întotdeauna singurul care hotăra asemenea întrebări, a decis ca Besant să-i ia locul lui Blavatsky și să fie conducătoarea spirituală a Societății (mai târziu, din nefericire, o dictatoare). Aceasta însă nu i-a convenit lui Judge, unul dintre fondatori, care se socotea alegerea evidentă pentru post. Oricui compară capacitatea lui cu aceea a lui Besant ar trebui să-i fie limpede cât de neîntemeiată era insistența lui. Rezultatul a fost o schismă care, în 1895, a despărțit „Fraternitatea Universală” într-o societate americană condusă de Judge și societatea-mamă, al cărei sediu Blavatsky îl mutase la Adyar, lângă Madras, în India.
+
+<sup>10.</sup>Judge nu s-a bucurat mult de noua poziție de putere. A murit în anul următor (1896), iar locul lui a fost luat de doamna Katherine Tingley, care și-a arătat interpretarea fraternității profitând de orice prilej pentru a ridiculiza societatea lui Besant. A înăbușit orice încercare de a introduce fapte și idei noi în secta ei, care a rămas cu totul ignorantă de marele progres făcut de cunoaștere prin Besant și Leadbeater. Sistemul mental a cărui formare a permis-o mult mai târziu este categoric înșelător. Sămânța schismei odată semănată i-a făcut tot mai mulți membri să se desprindă pentru a forma secte noi.
+
+<sup>11.</sup>Dar și societatea lui Besant avea dificultățile ei. Blavatsky încercase să formeze un cerc interior (Secția Ezoterică), ai cărui membri urmau să primească anumite fapte ce nu trebuiau încă făcute publice. După moartea ei, acest cerc a devenit unul care insista asupra ortodoxiei, prezentând în exterior o fațadă de libertate a opiniei. Intoleranța sa s-a arătat însă prin faptul că cei „neinițiați” nu erau socotiți „adevărați teozofi” de ceilalți membri dacă nu se alăturau „Secției Ezoterice”. Mai târziu s-a dovedit că noile fapte împărtășite inițiaților erau complet neimportante. Afirmația teozofilor că, alăturându-te „Secției Ezoterice”, vei intra în contact cu ierarhia planetară este falsă.
+
+<sup>12.</sup>În ansamblu se poate spune că, în condițiile actuale, adevărații ezotericieni nu se alătură niciunei societăți, ci se găsesc în afara organizațiilor de orice fel. Pot fi recunoscuți prin înțelegerea lor pentru toate lucrurile omenești și se străduiesc spre relații cu adevărat umane între toți, indiferent de rasă, naționalitate, sex, religie, politică și toate celelalte lucruri care îi separă pe oameni.
+
+### 3.8 *Secte dezorientatoare*
+
+<sup>1.</sup>Experiența avea, firește, să confirme părerea ierarhiei planetare din anul 1775 că noua încercare propusă de a transmite cunoașterea avea drept rezultat ca aceasta să fie din nou denaturată de fantaști imaturi.
+
+<sup>2.</sup>Pe lângă sectele teozofice care se ceartă între ele, au apărut mai multe secte oculte, mai multe secte rozacruciene și antroposofia lui Steiner, care pretinde de asemenea că se întemeiază pe Ordinul Rozacrucian, despre care nimeni nu știe nimic.
+
+<sup>3.</sup>Cunoașterea realității nu poate fi dobândită în lumile omului, ci numai în lumea cauzală, cea mai înaltă accesibilă omului. Așa-numita clarviziune nu oferă nicio cunoaștere reală, deoarece omul este cu totul incapabil să evalueze conținutul de realitate al experiențelor sale din lumile emoțională și mentală. Aceasta este limpede și din faptul că toți clarvăzătorii au concepții diferite.
+
+<sup>4.</sup>Ignoranții îi confundă pe ezotericieni cu misticii (emoționaliștii). Cei dintâi au o concepție despre lume elaborată (atât cât este ea); cei din urmă se mulțumesc cu o concepție despre viață.
+
+### 3.9 *Concluzie*
+
+<sup>1.</sup>Este dincolo de scopul acestei schițe să se discute ce a realizat secretarul ierarhiei planetare, D.K., în anii 1920–1950 pentru a face posibil ca omenirea să dobândească o concepție mai adevărată despre realitate, despre concepția despre viață a regnurilor naturale superioare și despre efortul lor concertat de a activa conștiința fiecăruia. Trebuie spus atât: ierarhia planetară face tot ce poate pentru a împiedica un alt război mondial și întrebuințează orice instrument dispus să ajute oamenii să-și rezolve cele mai urgente probleme: cele ale educației, economiei mondiale, fraternității universale și religiilor lumii. Ea face apel la toți să lucreze împreună (nu separat) pentru rezolvarea acestor probleme. Tuturor celor care vor și pot contribui li se va da orice „inspirație” posibilă.
+
+<sup>2.</sup>D.K. subliniază că individului nu i s-a dat cunoașterea ca să se bucure de ea cu un plăcut sentiment de superioritate. Ea atrage răspundere, ca orice cunoaștere.
+
+## 4 CELE TREI ÎNTREBĂRI ALE SFINXULUI: DE UNDE? CUM? ÎNCOTRO?
+
+### 4.1 *Treimea existenței*
+
+<sup>1.</sup>În ceea ce privește teoria cunoașterii, fiecare lucru este, înainte de toate, ceea ce pare a fi, dar, pe lângă aceasta, este întotdeauna ceva cu totul diferit și incomensurabil mai mult.
+
+<sup>2.</sup>Treimea existenței este alcătuită din trei aspecte echivalente: materia, mișcarea și conștiința. Niciunul dintre aceste trei aspecte nu poate exista fără celelalte două. Toată materia este în mișcare și are conștiință. Conștiința este fie potențială (inconștientă), fie actualizată, pasivă (inactivă) sau activă.
+
+### 4.2 *Cosmosul*
+
+<sup>1.</sup>Potrivit hylozoicii ezoterice (doctrina lui Pitagora), materia primordială este spațiu nelimitat și conține rezerva inepuizabilă de atomi primordiali inconștienți. În această materie primordială este loc pentru un număr nelimitat de globuri. Cosmosul nostru este un astfel de glob.
+
+<sup>2.</sup>Cosmosul este alcătuit din atomi primordiali (monade), care constituie cele mai mici părți posibile ale materiei primordiale și cele mai mici puncte fixe posibile pentru conștiința individuală. Atomii primordiali formează o serie continuă de stări de agregare tot mai grosiere, de feluri de materie tot mai grosiere.
+
+<sup>3.</sup>Cosmosul este o organizație perfectă, alcătuită dintr-o lungă serie de lumi materiale interpenetrante, cu grade diferite de densitate. Lumea fizică vizibilă este cea mai de jos, fiind de felul cel mai grosier de materie. Lumile superioare există în toate cele inferioare. Astfel, în lumea fizică există întreaga serie de lumi atomice. Materia fiecărei lumi inferioare este compusă din tot mai mulți atomi primordiali.
+
+### 4.3 *Involuția*
+
+<sup>1.</sup>Lumile sunt construite de „sus”, din lumea cea mai înaltă. Atomii primordiali sunt involvați în feluri de atomi tot mai grosieri odată cu fiecare lume inferioară. Toate procesele de involvare aferente sunt numite prin termenul cuprinzător de involuție.
+
+<sup>2.</sup>Fiecare lume are propriul fel de „spațiu” (dimensiune), „timp” (existență continuă, durată), materie atomică și agregate alcătuite din aceasta, mișcare (putere, energie, vibrație, „voință”) și conștiință. Astfel, numai materia primordială este „dincolo de spațiu și timp”.
+
+### 4.4 *Formele vieții*
+
+<sup>1.</sup>Toată viața are o formă, de la atomi, molecule și agregate până la planete, sisteme solare și lumi cosmice. Aceste forme sunt supuse legii transformării, fiind necontenit schimbate, dizolvate și reformate. Monadele (atomii primordiali) alcătuiesc (privite din punct de vedere fizic) o serie ascendentă de forme de viață tot mai înalte, în care cele inferioare intră în cele superioare și alcătuiesc învelișuri pentru ele. Întregul cosmos constituie o serie de forme de viață tot mai rafinate, care servesc treptat la înzestrarea conștiinței monadei cu „organul” de care are nevoie pentru dezvoltarea ei continuă.
+
+<sup>2.</sup>Monadele sunt singurele lucruri indestructibile din univers. Nu există „moarte”, ci numai forme noi pentru conștiința monadei. Când forma și-a îndeplinit scopul temporar pentru dezvoltarea conștiinței monadei, ea este dizolvată.
+
+### 4.5 *Evoluția*
+
+<sup>1.</sup>Involuția implică involvarea monadelor până la lumea cosmică cea mai de jos, iar evoluția, întoarcerea lor la lumea cosmică cea mai înaltă. Prin aceasta, ele dobândesc în lumea cea mai de jos conștiință de sine activă deplină, iar mai târziu omnisciență și omnipotență în lumi tot mai înalte. Evoluția constă, așadar, într-o serie de regnuri naturale tot mai înalte, de stadii de dezvoltare tot mai înalte. Fiecare monadă se află undeva pe această uriașă scară a dezvoltării; locul ei depinde de vârsta sa: momentul introducerii ei în cosmos din materia primordială și trecerea ei dintr-un regn natural inferior într-unul superior.
+
+<sup>2.</sup>Evoluția este împărțită în cinci regnuri naturale și șapte regnuri divine. Lumile planetare conțin regnurile naturale, lumile sistemului solar, regnul divin cel mai de jos, iar lumile cosmice, pe celelalte șase.
+
+<sup>3.</sup>Omenirea, care a explorat până acum aproximativ a milioana parte din realitate, are în lumea fizică posibilitatea de a explora aproximativ unu la sută din întreaga existență. Monada din al cincilea regn natural poate fi conștientă de aproximativ 10 la sută, ca divinitate în regnul divin cel mai de jos de aproximativ 14 la sută, în al doilea regn divin de 28, în al treilea de 42, în al patrulea de 56, în al cincilea de 70, în al șaselea de 85, iar în regnul divin cel mai înalt de 100 la sută. Toată cunoașterea existenței are autoritate în cadrul seriilor de monade din lumi tot mai înalte, până când individul poate dobândi prin propria experiență cunoașterea directă necesară.
+
+<sup>4.</sup>Înainte ca monada să fi atins regnul divin cel mai înalt, ea deosebește între Dumnezeu imanent și Dumnezeu transcendent. Divinitatea imanentă este întotdeauna conștientă de unitatea sa cu întreaga viață. Supraconștientul ține de divinitatea transcendentă.
+
+<sup>5.</sup>Când un număr suficient de monade au reușit să urce din regnul natural cel mai de jos până în regnul divin cel mai înalt, această ființă colectivă își poate părăsi globul cosmic pentru a începe să construiască, în materia primordială, un glob cosmic propriu, materialul fiind atomi primordiali luați din rezerva inepuizabilă a materiei primordiale.
+
+### 4.6 *Procesul de manifestare*
+
+<sup>1.</sup>Întregul cosmos alcătuiește un singur proces continuu de manifestare, la care toate monadele participă cu manifestările conștiinței lor, inconștient sau conștient, involuntar sau voluntar. Cu cât lumea ori regnul este mai înalt, cu atât este mai înalt felul de conștiință, cu atât mai mare este contribuția monadei la procesul de manifestare.
+
+<sup>2.</sup>Când monada a străbătut involuția și evoluția procesului de manifestare, a dobândit și a lepădat înveliș după înveliș în lume după lume și, în cele din urmă, în lumea cosmică cea mai înaltă, s-a eliberat de involvarea ei în materie, devine conștientă de sine ca monadă. Până atunci, se va identifica cu unul sau altul dintre învelișurile pe care le-a dobândit și activat.
+
+### 4.7 *Conștiința*
+
+<sup>1.</sup>Conștiința este una. Întregul cosmos constituie o singură conștiință totală în care fiecare monadă are o parte inalienabilă. Conștiința universală este ca suma totală a conștiințelor tuturor monadelor, așa cum oceanul este unirea tuturor picăturilor de apă. Astfel, toată conștiința este prin natura ei atât colectivă, cât și individuală, deși individul normal nu poate cuprinde aceasta, resursele sale fiind extrem de limitate.
+
+<sup>2.</sup>Există tot atâtea feluri diferite de conștiință câte feluri de materie există. Fiecare lume are propria conștiință totală, așa cum fiecare înveliș al monadei o are pe a sa. Fiecare lume imediat superioară prezintă, în comparație cu fiecare lume imediat inferioară, o creștere enormă, atât intensivă, cât și extensivă, în privința energiei și a conștiinței. În fiecare lume, conștiința monadei cuprinde realitatea într-un mod cu totul diferit. Acesta era sensul originar al zicalei că orice cuprindere a realității este maya, sau „iluzie”, fiindcă nu există o cuprindere comună valabilă universal până în lumea cosmică cea mai înaltă.
+
+<sup>3.</sup>Fiecare lume, fiecare planetă, sistem solar etc. are astfel propria conștiință colectivă și constituie o ființă colectivă unitară, având o monadă drept dominantă superioară. Cu cât este mai înalt regnul atins de monadă, cu atât este mai mare participarea ei la conștiința totală cosmică. Când monada a dobândit conștiință planetară, ea este o ființă planetară. Când, în cele din urmă, și-a actualizat conștiința universală potențială, a devenit o unitate individuală în omnisciența și omnipotența cosmică. Până atunci, ea va fi fost monada cea mai dezvoltată din acel înveliș material tot mai mare, pe care a putut să-l considere propriul ei înveliș. În fiecare lume, ea se îmbracă într-un înveliș al materiei acelei lumi, iar acest înveliș devine din ce în ce mai extins.
+
+<sup>4.</sup>Monada este conștiință individuală indestructibilă, care, fiind originar potențială (inconștientă), este trezită la conștiință activă în regnul natural cel mai de jos al lumii celei mai de jos (regnul mineral fizic) și dobândește treptat conștiință în lumi tot mai înalte. Numai materia cea mai grosieră oferă conștiinței subiective a monadei suficientă rezistență pentru a învăța să deosebească între opușii realității interioare (subiective) și exterioare (obiective) și pentru a dobândi conștiință activă, care este condiția prealabilă a conștiinței de sine în toate felurile de realitate. După aceea, monada poate dobândi, prin activitate proprie, calitățile și abilitățile necesare în regnuri naturale tot mai înalte, în lumi tot mai înalte.
+
+<sup>5.</sup>Conștiința într-un fel inferior de materie și lume nu implică conștiința într-o lume superioară sau despre aceasta, care, prin urmare, pare să nu existe. Tot ce este superior monadei aparține supraconștientului ei. Întregul trecut al monadei aparține subconștientului ei, accesibil numai indirect, în încarnări noi, ca reamintire reînnoită, în legătură cu experiențe de feluri asemănătoare.
+
+<sup>6.</sup>Pentru monadă, evoluția nu înseamnă numai dobândirea prin propriile puteri a unor feluri de conștiință tot mai înalte, ci și eliberarea de identificarea cu felurile inferioare, care par întotdeauna a fi singurele ce pot fi cunoscute și singurele sigure, fiindcă până atunci sunt singurele trăite și cunoscute.
+
+<sup>7.</sup>După cum materia superioară pătrunde materia inferioară, tot astfel conștiința superioară cuprinde toate felurile inferioare.
+
+### 4.8 *Regnurile naturale*
+
+<sup>1.</sup>Conștiința monadei „doarme” în regnul mineral, „visează” în regnul vegetal, se trezește în regnul animal, dobândește conștiință de sine în regnul uman și cunoașterea existenței în al cincilea regn natural, pentru ca apoi să-și continue evoluția conștiinței în cele șapte regnuri divine tot mai înalte, dobândind astfel omnisciență și omnipotență în lumi tot mai înalte.
+
+<sup>2.</sup>Planetele reprezintă cele cinci lumi cele mai de jos și cele cinci regnuri naturale. Dintre aceste cinci regnuri, regnul mineral aparține lumii fizice vizibile. Regnul vegetal are și o parte în lumea fizic-eterică, regnul animal în lumea emoțională (numită impropriu lumea astrală), regnul uman în lumea mentală, iar al cincilea regn natural în lumea cauzală.
+
+<sup>3.</sup>Când monadele minerale au reușit să dobândească conștiință fizic-eterică, ele trec în regnul vegetal. Conștiința se exprimă mai întâi ca tendință de repetare, devenind o tendință spre deprindere organizată, sau „natură”. Când conștiința sporește, apare o străduință spre adaptare. Monadele vegetale devin monade animale prin dobândirea conștiinței emoționale. Când conștiința lor mentală este suficient de activă, monadele animale trec în regnul uman; iar omul trece în al cincilea regn natural prin dobândirea conștiinței depline în învelișul său cauzal.
+
+<sup>4.</sup>Monadele din regnul mineral sunt închise într-un înveliș care aparține unui suflet-grup mineral, cele din regnul vegetal se află într-un suflet-grup vegetal, iar cele din regnul animal într-un suflet-grup animal. În lumile superioare, monada însăși trebuie să se îmbrace într-un înveliș aparținând materiei lumilor respective. După ce s-a dezvoltat astfel încât să dobândească un înveliș propriu în lumea cauzală, monada animală transmigrează în regnul uman. Monada este apoi, pe durata întregii sale șederi în regnul uman, întotdeauna închisă în învelișul ei cauzal. Se poate spune că învelișul cauzal este cel care se încarnează, cuprinde și pătrunde învelișurile inferioare. Din aceasta ar trebui să fie limpede că un om nu poate renaște niciodată ca animal, tot așa cum un animal nu poate deveni plantă sau o plantă, mineral. Transmigrarea nu poate acționa în sens invers.
+
+<sup>5.</sup>Nu este câtuși de puțin necesar ca monada să se dezvolte prin învelișuri organice. De fapt, cele mai multe monade (de pildă, cele care urmează evoluția paralelă a devașilor) nu au avut niciodată alte corpuri decât învelișuri agregate, alcătuite din atomi și molecule ținute împreună electromagnetic, așa cum omul are în toate lumile, cu excepția celei vizibile.
+
+### 4.9 *Învelișurile și lumile omului*
+
+<sup>1.</sup>În timpul încarnării în lumea fizică, monada din regnul uman are la dispoziție în total cinci învelișuri, câte unul în fiecare dintre cele cinci lumi cele mai de jos: un organism în lumea fizică vizibilă, un înveliș eteric în lumea fizic-eterică, un înveliș emoțional în lumea emoțională, un înveliș mental în lumea mentală și un înveliș cauzal permanent în lumea cauzală (lumea ideilor a lui Platon). Dintre aceste cinci învelișuri, cele patru inferioare se reînnoiesc la fiecare încarnare și se dizolvă mai mult sau mai puțin repede după ce monada s-a eliberat de organism. Toate învelișurile, cu excepția organismului, sunt învelișuri agregate. Materia eterică învăluie fiecare celulă a organismului și transmite acele energii funcționale diferite pe care anticii le numeau forță vitală. Învelișurile emoțional, mental și cauzal le cuprind și le pătrund pe toate cele inferioare. Ele au formă ovală și se extind între 30 și 45 cm dincolo de organism, alcătuind așa-numita aură. Aproximativ 99 la sută din materia acestor învelișuri este atrasă spre organism și ținută împreună în interiorul periferiei sale, astfel încât învelișurile agregate formează replici complete ale organismului.
+
+### 4.10 *Conștiința omului*
+
+<sup>1.</sup>În timpul încarnării, individul normal, la actualul stadiu general de dezvoltare al omenirii, este de regulă conștient obiectiv numai în organismul său, conștient subiectiv în învelișurile sale eteric, emoțional și mental și inconștient în învelișul său cauzal. Realitatea fizică „vizibilă”, cuprinzând cele trei stări de agregare fizice cele mai de jos (solidă, lichidă, gazoasă), este singura despre care omul știe ceva și pe care o consideră singura existentă. El socotește dorințele și sentimentele din învelișul său emoțional și gândirea din învelișul său mental numai stări subiective, neînțelegând că aceste fenomene corespund obiectiv vibrațiilor din felurile de materie ale lumilor respective.
+
+<sup>2.</sup>Când individul a dobândit conștiință obiectivă în toate învelișurile sale de încarnare, împreună cu intuiția cauzală, și deci conștiință în învelișul său cauzal, el trece ca sine cauzal în al cincilea regn natural.
+
+<sup>3.</sup>Până când dobândește capacitatea de activitate cauzală permanentă, monada trebuie, la încheierea încarnării sale, să aștepte o nouă renaștere, adormită în învelișul său cauzal. Prin aceasta, continuitatea conștiinței sale se pierde, iar memoria trecutului devine latentă până când monada este capabilă să fie conștientă cauzal.
+
+<sup>4.</sup>Numărul încarnărilor în fiecare regn natural este nelimitat până când individul va fi dobândit calitățile și abilitățile necesare în regnurile respective și un înveliș propriu în lumea imediat superioară. Trebuie observat că toate calitățile dobândite rămân latente într-o nouă încarnare dacă nu sunt dezvoltate, lucru care devine însă din ce în ce mai ușor. De obicei, numai înțelegerea este actualizată.
+
+### 4.11 *Stadiile de dezvoltare ale omului etc.*
+
+<sup>1.</sup>Clasele sunt ordinea firească a lucrurilor. Clasele naturale indică diferite clase de vârstă, atât în regnul uman, cât și în toate celelalte regnuri naturale, inferioare și superioare.
+
+<sup>2.</sup>În timpul șederii sale în regnul uman, individul trece prin cinci stadii de dezvoltare: stadiul barbariei (ca sine emoțional inferior), stadiul civilizației (ca sine mental inferior), stadiul culturii (sine emoțional superior), stadiul umanității (sine mental superior) și stadiul idealității (sine cauzal).
+
+<sup>3.</sup>Monada se dezvoltă învățând din propriile experiențe și secerând ceea ce a semănat în încarnări anterioare. Tot binele și răul cu care se întâlnește individul sunt propria lui faptă. Nu i se poate întâmpla nimic ce nu a meritat. Nedreptatea, sub orice aspect, este exclusă în mod absolut, iar vorbirea despre ea este un mod de exprimare al celor ignoranți în privința vieții și invidioși.
+
+<sup>4.</sup>Dezvoltarea monadelor cu tendință fundamentală respingătoare poate lua o direcție greșită, fapt ce se arată deja în parazitismul plantelor și în prădătorismul animalelor. În regnurile inferioare, monadele, în mare măsură, contracarează dezvoltarea, tulburând ordinea lucrurilor, totul pe propria lor răspundere. Încălcarea inconștientă și, într-o măsură și mai înaltă, cea conștientă a libertății divine inalienabile și inviolabile a monadei, limitată de dreptul egal al tuturor ființelor vii, are drept rezultat lupta pentru existență și cruzimea vieții.
+
+<sup>5.</sup>Monadele vegetale se dezvoltă prin faptul că plantele sunt devorate de animale și de oameni și, astfel, sunt supuse vibrațiilor emoționale puternice din aceste corpuri animale.
+
+<sup>6.</sup>Nu viața este de vină că individul, aflat la stadii inferioare de dezvoltare, în ignoranța sa aproape totală despre viață, greșește în privința aproape tuturor legilor naturii și legilor vieții.
+
+<sup>7.</sup>Potrivit axiomei fundamentale a ezotericii, există legi în toate și toate exprimă legea. Oricine posedă cunoașterea tuturor legilor din toate lumile este omniscient. Omnipotența și libertatea sunt posibile numai prin aplicarea absolut fără greșeală a tuturor legilor.
+
+* * * * * * * *
+
+<sup>8.</sup>Concepția ezoterică despre lume nu poate fi niciodată, desigur, pentru omenire altceva decât o ipoteză de lucru. Dar cu cât omenirea se dezvoltă mai mult, cu atât superioritatea incomparabilă a acestei ipoteze va deveni mai evidentă. Sinele cauzal poate constata concordanța ei cu faptele în cele cinci lumi ale omului.
+
+---
+
+## 5 O PRIVIRE EZOTERICĂ ASUPRA ISTORIEI FILOSOFIEI EUROPENE
+
+### 5.1 *Introducere*
+
+<sup>1.</sup>Istoria filosofiei poate fi scrisă în feluri diferite. Poate fi tratată ca istorie sau ca filosofie. Se pot sublinia diversele încercări de a distinge între concepte, pot fi prezentate diferitele contribuții ale filosofilor la pseudo-soluțiile pseudo-problemelor filosofice, se poate concentra atenția asupra principiilor diferite, se poate critica demonstrând contradicțiile din sistemele filosofice ori pot fi scoase ideile din cadrele lor fără înțelegerea celorlalte concepții despre viață și despre lume ale filosofilor.
+
+<sup>2.</sup>Următoarea schiță se bazează pe descrierea realității cuprinsă în sistemul mental ezoteric al pitagoreicilor (capitolele 1.4–1.41) și încearcă să arate încercările — în ansamblu nereușite — ale filosofilor de a surprinde o licărire a acestei realități. În acest sens au fost folosite și alte idei și fapte, tot mai multe dintre ele fiind puse la dispoziția omenirii de frații noștri mai vârstnici. Fără cele spuse anterior, cele ce urmează vor „pluti în aer”. Schița încearcă să elibereze omenirea de dependența de speculațiile imaginative ale filosofiei și să-i învețe pe oameni să gândească singuri.
+
+### 5.2 *Problemele fundamentale ale filosofiei*
+
+<sup>1.</sup>Așa-numita filosofie teoretică (concepția despre lume) se împarte în ontologie, metafizică, cosmologie, psihologie și teoria cunoașterii; iar așa-numita filosofie practică (concepția despre viață), în filosofie etică, juridică, politică și socială.
+
+<sup>2.</sup>În toate aceste chestiuni, filosofi pătrunzători și profunzi au susținut opinii diferite. Deoarece concepția despre viață trebuie să se bazeze pe concepția despre lume, ei nu au putut cădea de acord nici măcar asupra problemelor „practice”.
+
+<sup>3.</sup>Este inevitabil ca opiniile să difere, fiindcă problemele filosofice nu pot fi rezolvate fără cunoașterea faptelor existenței, iar aceste fapte au lipsit. Nu a fost posibilă formularea corectă a problemelor, lucru imposibil până nu sunt cunoscute răspunsurile corecte. Pentru a putea pune rațional întrebări, trebuie să ai cunoaștere. Așa cum au fost formulate, ele sunt pseudo-probleme absurde și insolubile.
+
+<sup>4.</sup>Echivalentul ezoteric al „ontologiei” filosofice (știința realității) este știința materiei, a originii și compoziției ei (chimia ezoterică).
+
+<sup>5.</sup>Metafizica caută să explice mișcarea (procesele din natură, procesul de manifestare) și, ezoteric, este știința energiilor, a originii și naturii lor (fizica ezoterică). În vorbirea curentă, termenul „metafizică” a fost aplicat la tot ce este superfizic. „Metafizica” filosofiei este speculația ignoranței și nu trebuie confundată cu „superfizica” ezotericii. Înțelegerea nemijlocită a ezotericii o posedă numai cei care au cunoașterea latentă (reamintirea reînnoită).
+
+<sup>6.</sup>Cosmologia este știința universului, a genezei lumilor etc. (astronomia ezoterică).
+
+<sup>7.</sup>Psihologia este știința conștiinței.
+
+<sup>8.</sup>Teoria cunoașterii, sau epistemologia, este problema posibilității cunoașterii etc. Această pseudo-problemă, care a fost problema principală a filosofiei de la Locke, Hume și Kant încoace, va fi înlăturată când omul va dobândi cunoașterea realității și vieții, precum și faptele fundamentale ale existenței.
+
+<sup>9.</sup>Etica (concepția despre dreptate) caută să decidă ce este drept și nedrept, ce sunt acțiunea dreaptă și motivele drepte pentru acțiune. Aceste principii ale dreptății sunt determinate, în ultimă instanță, de concepția individului despre sensul și scopul existenței, văzute din perspectiva concepției sale despre realitate și viață. Istoria eticii filosofice este studiul tuturor concepțiilor diferite despre dreptate propuse de perspicacitatea ignorantă în privința vieții.
+
+### PERIOADA HYLOZOICĂ
+
+#### 5.3 *Pitagora*
+
+<sup>1.</sup>Cele trei absolute (materia, mișcarea, conștiința; totalitatea existenței) care există pentru orice conștiință trebuie să poată fi sesizate direct, imediat, fără reflecție de conștiința cea mai elementară (inclusiv conștiința animală). Pentru bunul-simț al omului, ele trebuie să fie lucrurile cele mai evidente dintre toate, cea mai simplă aplicare a legii identității: acesta este acesta. Filosofii nu au reușit încă să rezolve această problemă fundamentală a filosofiei, cea mai evidentă dintre toate problemele. „Realitatea îmi este dată” (Tegnér); atât de simplu este ceea ce e nemijlocit și ceea ce a fost prefăcut într-o problemă insolubilă.
+
+<sup>2.</sup>Pitagora a explicat că realitatea are trei aspecte unite indisolubil și inseparabil, fără confuzie sau transformare, și că toate trei sunt indispensabile pentru o concepție corectă despre realitate.
+
+<sup>3.</sup>Treimea existenței este alcătuită din:
+
+aspectul materiei  
+aspectul mișcării (aspectul energiei)  
+aspectul conștiinței
+
+<sup>4.</sup>Caracterul unilateral al speculației în teoria cunoașterii se vede din faptul că cele trei principale concepții filosofice au putut descoperi fiecare numai o latură a realității, nu însă sinteza pitagoreică.
+
+<sup>5.</sup>Oamenii de știință susțin că „totul este materie”. Filosofii subiectiviști din Occident și Orient afirmă că „totul este conștiință”. Fizicienii nucleari susțin acum cu ardoare că „totul este energie”. Materia fizică observabilă se dizolvă sub ochii lor în „nimic”, sau în fenomene energetice, și ei trag îndată concluzia că „materia se dizolvă în energie”. Numai ezotericienii știu că ea se dizolvă în materie invizibilă pentru fizicieni, al cărei efect energetic este enorm mai mare, fiind de un fel molecular superior.
+
+<sup>6.</sup>Această singură concepție corectă despre realitate, Pitagora a numit-o hylozoică (materialism spiritual), eliminând astfel antiteza dintre spirit și materie și explicând că „spiritul” este conștiința indestructibilă a atomilor.
+
+<sup>7.</sup>Pitagora a înțeles că oricine dorește să dobândească, în lumea fizică, o concepție despre realitate cât mai exactă trebuie să pornească de la aspectul material al existenței, ca bază inevitabilă a cercetării științifice. Aceasta a fost confirmată în mod strălucit. Știința naturii și-a demonstrat superioritatea nu numai în privințe tehnologice, ci și prin faptul că a prezentat cel mai mic număr de erori. Cine a dobândit simțul realității al bunului-simț în lumea fizică nu cade atât de ușor pradă iluziilor imaginației emoționale, ficțiunilor activității mentale și ideologiilor ignoranței despre viață, ca până acum.
+
+<sup>8.</sup>Occidentalii pornesc de la aspectul obiectiv al materiei; indienii, de la aspectul subiectiv al conștiinței. Cosmosul constă dintr-o serie de lumi atomice cu grade diferite de densitate. Toate lumile superioare le cuprind și le pătrund pe toate cele inferioare. Sesizarea realității (sesizarea absolută în mod logic de către conștiință a aspectelor realității) diferă în lumile diferite, în funcție de diferențele de densitate ale atomilor primordiali, care duc la diferențe de dimensiune, durată, compoziție materială, mișcare, conștiință și conformitate cu legea. Orientalul face eroarea logică de a numi „iluzie” sesizarea realității, deoarece aceasta se schimbă cu fiecare lume.
+
+#### 5.4 *Alți ezotericieni*
+
+<sup>1.</sup>Manualele actuale de istorie a filosofiei fac să înceapă gândirea filosofică pe la 600 î.e.n., perioadă care marchează, dimpotrivă, declinul hotărât neputincios al culturii grecești și, împreună cu ea, al așa-numitelor mistere. Pentru a contracara decăderea prevăzută, Pitagora (în jurul anului 700 î.e.n.) a întemeiat o colonie (numită Krotona) în afara orașului Taormina din Sicilia, a cărei populație avea într-o zi să nimicească colonia și să-l ucidă. Există trei legende diferite despre Pitagora. Tot ce se spune despre el este fals, departe de adevăr, deoarece Pitagora era un sine esențial (un sine-46) și întemeietorul unui ordin ezoteric de cunoaștere.
+
+<sup>2.</sup>Membrilor acestui ordin li se împărtășea, sub jurământ de tăcere, ca în misterele originare, cunoașterea realității, pe care ignoranța o va denatura întotdeauna și de care setea de putere va abuza întotdeauna.
+
+<sup>3.</sup>Ordinul avea mai multe grade. În gradul cel mai de jos, cunoașterea era împărtășită sub formă de mit. În gradele superioare erau oferite interpretări din ce în ce mai numeroase ale simbolurilor. Unele dintre aceste mituri, chiar denaturate, au ajuns să fie cunoscute de posteritate.
+
+<sup>4.</sup>Inițiaților superiori li se oferea cunoașterea existenței unor lumi materiale mai înalte decât cea fizică. Toată materia este compusă din atomi primordiali, pe care Pitagora îi numea monade (cele mai mici părți posibile ale materiei primordiale și cele mai mici puncte fixe pentru conștiința individuală). Aceste monade sunt indestructibile, de aceea nu poate exista moarte, ci numai dezintegrarea formei. Odată trezită la viață conștiința lor potențială, dezvoltarea conștiinței lor continuă printr-o serie de regnuri naturale, în lumi din ce în ce mai înalte, până când ele ating regnul divin cel mai înalt.
+
+<sup>5.</sup>Scriind simbolic, pitagoreicii au consemnat doctrina maestrului lor despre, printre altele, cele trei aspecte echivalente ale existenței. Ei învățau că sensul vieții este dezvoltarea conștiinței, că „conștiința doarme în piatră, visează în plantă, se trezește în animal, devine conștiință de sine în om, conștiință a unității în al cincilea regn natural și dobândește o omnisciență care cuprinde tot mai mult, în regnuri divine din ce în ce mai înalte”.
+
+<sup>6.</sup>Ce mai învățau ei este sugerat parțial în lucrările filosofilor ezoterici de mai târziu (așa-numiții presocratici).
+
+<sup>7.</sup>Copernic, Galilei și Giordano Bruno, printre alții, au avut acces la copii ale acestor manuscrise pitagoreice.
+
+<sup>8.</sup>Probabil era inevitabil ca unele moduri ezoterice de exprimare să devină cunoscute publicului neinițiat și să devină obiectul speculației imaginative. Se pare că unii inițiați au luat parte la acest joc al imaginației, nu în ultimul rând pentru a îndruma discuția spre domeniul analizei mentale (care, firește, a degenerat în subtilitate fără rost) și pentru a dezvolta astfel capacitatea de a gândi în cei „needucați”.
+
+<sup>9.</sup>Din istoria filosofiei reiese limpede că se cunoaște puțin mai mult decât numele unora dintre acei filosofi presocratici. Nu se știe nici măcar când s-au născut. Tot ce se știe despre ei este legendă și încercarea ignoranței inteligente de a interpreta poeme simbolice și alte fragmente de scrieri ce le sunt atribuite.
+
+<sup>10.</sup>Filosofii presocratici erau cu toții hylozoicieni. Chiar și din presupusa lor înțelepciune nu au rămas decât câteva enunțuri sărăcăcioase, iar numai acest fapt ar fi trebuit să impună prudență în aprecierea lor.
+
+<sup>11.</sup>Acei înțelepți posedau o cunoaștere a realității care încă le lipsește oamenilor de știință de astăzi. Este caracteristic pentru lipsa tradițională de judecată faptul că ei sunt prezentați drept exemple ale „primelor încercări de gândire”. Și aceasta, în ciuda afirmației că despre ei se cunoaște următoarele:
+
+<sup>12.</sup>Ei învățau că stelele fixe sunt sori; că planetele se rotesc în jurul soarelui, strălucesc cu lumină reflectată și au fost cândva mase lichide desprinse din soare. Ei descriau perioadele de revoluție ale soarelui și lunii, preziceau eclipsele de soare și de lună. Știau că pământul este rotund și dădeau cifrele corecte privind dimensiunea lui. Aveau concepții despre noțiunile cele mai fundamentale și despre problemele cele mai dificile, de pildă cauzele mecanice sau finale ale proceselor din natură.
+
+<sup>13.</sup>Posteritatea le-a atribuit acelor oameni ignoranța cea mai primitivă: că ar fi dat explicații absurde despre alcătuirea lucrurilor și despre originea tuturor lucrurilor. Ceea ce se poate întrezări în aceste fragmente este în întregime simbolic și dovedește că aceste rămășițe au aparținut cândva unor scrieri destinate „inițiaților”. (Cunoașterea reală era împărtășită numai în ordine secrete de cunoaștere.) Ei nu erau interesați nici să practice perspicacitatea și profunzimea. În această privință, logica nu a progresat deloc timp de 2.500 de ani. Filosofii aplică încă contradictoria „lege a contrariilor”, deși înțelegerea gândirii perspectiviste a semnificației relativizării a început să se facă simțită în ultima vreme. Ei sunt tot atât de departe de puterile mentale superioare pe cât era neamul lor acum câteva mii de ani. Ezotericianul — care „știe cât de puțini oameni sunt capabili să gândească și că și mai puțini sunt capabili să gândească corect” — zâmbește când citește cum au fost interpretate și denaturate unele dintre aceste enunțuri atribuite înțelepților.
+
+<sup>14.</sup>„Totul a venit din apă” (Thales, primul hylozoician cunoscut în general). Aceasta sugerează că starea solidă de agregare s-a cristalizat din starea lichidă. Era o teză ezoterică întâlnită în vechea Kabbalah a caldeenilor, pe care evreii au revizuit-o mai târziu. Din acest motiv, „potrivit lui Moise”, spiritul a produs totul „plutind deasupra apelor”.
+
+<sup>15.</sup>„Totul a venit din aer” (Anaximene). Starea lichidă a venit din cea gazoasă.
+
+<sup>16.</sup>„Totul a venit din foc” (Heraclit). Foc desemna starea eterică de agregare. Totul trebuie să fi fost eter înainte de a putea deveni materie gazoasă, lichidă și solidă. Ei nu puteau merge mai departe de „foc” fără a trăda secrete. Stării supraeterice de agregare i s-a dat mai târziu numele latin de „quinta essentia”.
+
+<sup>17.</sup>Anaximandru învăța că în haos își au originea cosmosurile, al căror număr este nelimitat (!!), și că fiecare cosmos se dezvoltă de la sine. Spunând aceasta, el a enunțat două dintre cele mai mari adevăruri ale ezotericii. Și aceasta se numește speculație primitivă!
+
+<sup>18.</sup>Când Xenofan explică în limbajul său simbolic că universul este dumnezeu și că divinitatea este sferică, el oferă unele fapte ezoterice. Cosmosul este o sferă, sau un glob, în materia primordială, care este cu adevărat spațiu nelimitat. În același timp, cosmosul este conștiința colectivă cosmică, cea mai înaltă divinitate. Nu e de mirare că a criticat aspru antropomorfismul!
+
+<sup>19.</sup>Parmenide a făcut distincția dintre ceea ce se vede (*phainomenon*) și ceea ce se gândește (*noumenon*), termeni care aveau să fie utilizați greșit mai târziu, mai ales de Kant. Conceptul, de pildă, de masă, ca noțiune mentală, este neschimbător odată ce are definiția sa, în timp ce corespondentul său fizic se poate schimba și poate avea forme și culori diferite. Dacă, din această perspectivă, cineva dorește să considere „lumea conceptelor” drept „ființarea adevărată”, poate desigur face aceasta. Parmenide a arătat prin exemple formulate pătrunzător cum ne vom încurca în contradicții și vom ajunge la absurd dacă încercăm să cuprindem realitatea cu ajutorul conceptelor construite de noi. Dacă distincția lui Parmenide dintre *phainomenon* (existența fizică) și *noumenon* (conceptul) ar fi fost înțeleasă corect, conceptul ca realitate subiectivă nu ar fi fost confundat cu corespondentul său fizic obiectiv, iar oamenii ar fi văzut, printre altele, deosebirea dintre temeiul și consecința logicii și cauza și efectul existenței fizice.
+
+<sup>20.</sup>Zenon a dovedit incontestabil că „săgeata în zbor stă pe loc” și că „Ahile nu poate ajunge din urmă broasca țestoasă dacă aceasta a avut avansul”, precum și alte lucruri. Este limpede că încă nu s-a înțeles ce voia să spună prin aceste demonstrații. În realitate, suntem înșelați de rațiunea noastră subiectivă, fiindcă demonstrațiile logice, pe care subiectiviștii le socotesc concludente, sunt în realitate absurde. Ideea subiacentă era că nu putem explica existența cu resursele obișnuite ale rațiunii, că, limitată la realitatea fizică, cunoașterea exoterică rămâne ficționalism.
+
+<sup>21.</sup>Heraclit a explicat că totul este în mișcare, într-o stare de schimbare și fluctuație veșnică. Aceasta este axioma fundamentală ezoterică privind aspectul mișcării al existenței. El mai învăța că lumea se dezvoltă în cicluri, că orice schimbare are loc în conformitate cu legi eterne ale naturii, singurele lucruri neschimbătoare din univers. Totul este ezoteric!
+
+<sup>22.</sup>Empedocle a reunit și a sistematizat ceea ce fusese permis până atunci să devină exoteric. El mai învăța conceptele de atracție și selecție, ideea reîncarnării și predica împotriva consumului de carne.
+
+<sup>23.</sup>Democrit a fost primul care a pus un accent deosebit pe aspectul materiei.
+
+<sup>24.</sup>Pitagora învățase că existența este alcătuită dintr-o serie de lumi materiale interpenetrante, cu grade diferite de densitate. Fiecare lume este alcătuită din propriul ei fel atomic. Atomii lumilor inferioare conțin atomi ai tuturor lumilor superioare. Astfel, există o întreagă serie de feluri atomice diferite.
+
+<sup>25.</sup>Democrit a încercat, în limitele a ceea ce era permis, să construiască o teorie exoterică despre natura materiei. Pentru a putea face aceasta, a introdus conceptele de „vid” și de „cădere” a atomilor. Pentru a explica însușirile materiei, a făcut nefericita greșeală de a le împărți în calități obiective (formă, soliditate, greutate) și subiective. Această pseudo-soluție nefericită avea să bântuie filosofia de atunci înainte. Democrit mai învăța că mișcarea atomilor este determinată de „necesitatea oarbă” (*ananke*), adică de cauze mecanice, și că sufletul este de natură materială (implicit: un înveliș material pentru monadă).
+
+<sup>26.</sup>Democrit marchează începutul filosofiei, sau al speculației exoterice așa cum o cunoaștem, și astfel este pe deplin îndreptățit să se spună că „materialismul” (de fapt, fizicalismul) este la fel de vechi ca filosofia (subiectivismul).
+
+### 5.5 PRIMA PERIOADĂ SUBIECTIVISTĂ
+
+<sup>1.</sup>Culturile sunt construite de clanuri aflate la stadiile culturii și umanității. Când lucrarea lor este preluată de clanuri aflate la stadii inferioare, începe un declin mai mult sau mai puțin rapid. Aceasta se întâmplă nu numai fiindcă acești indivizi nu au experiența de viață dobândită, latentă, care este condiția prealabilă a bunului-simț și a unui instinct de viață corect, ci și pentru că nedreptatea, cu nesățiozitatea ei egoistă (exploatarea), lipsa de omenie (sclavia) și corupția generală, se afirmă tot mai mult. Istoria lumii a fost numită tribunalul lumii. Ea este un exemplu etern al valabilității legii semănatului și seceratului.
+
+<sup>2.</sup>Secretul culturii superioare a grecilor stă în faptul că toți bărbații lor conducători din filosofie, știință și artă erau inițiați ai ordinelor ezoterice de cunoaștere. Sofiștii (asemenea oamenilor de astăzi) nu erau doar ignoranți în privința sensului și scopului vieții, ci și incapabili să înțeleagă.
+
+<sup>3.</sup>Încă înainte de apariția sofiștilor, misterele împreună cu oracolele etc. degeneraseră cumplit. Ceea ce se învăța devenise simplă credință superficială și, prin urmare, era supus îndoielii. Dacă ar fi fost altfel, un fenomen precum cel al sofiștilor ar fi fost imposibil.
+
+<sup>4.</sup>Cu sofiștii a început acea speculație imaginativă a ignoranței despre viață care se numește filosofie. Ei au fost primii teoreticieni ai cunoașterii. Sofiștii nu erau inițiați. Ei își însușiseră învățătura exoterică disponibilă. Prin perspicacitatea lor incontestabilă, au văzut că această învățătură nu le oferea nicio cunoaștere a realității. Prin urmare, învățătura exoterică nu poate să fi fost atât de primitivă cum o prezintă istoricii filosofiei. Ca Locke, într-o perioadă subiectivistă ulterioară, ei socoteau că se procedează greșit, că în loc să se încerce explorarea lumii materiale exterioare, ar trebui început prin explorarea posibilității de cunoaștere a rațiunii.
+
+<sup>5.</sup>Protagoras, cel mai important dintre sofiști, considera că „omul este măsura tuturor lucrurilor”. Cunoașterea este o relație între un subiect care sesizează și un obiect sesizat. Calitatea obiectului depinde de subiectul care sesizează (Kant). Acestui subiectivism i s-a adăugat individualismul. Obiectele apar diferit unor indivizi diferiți și sunt întotdeauna așa cum îi apar individului. Întreaga existență este sesizarea personală a individului. Nu putem ști dacă există o realitate independentă de această sesizare (Hume).
+
+<sup>6.</sup>Aceste afirmații reflectă deja așa-numita problemă a realității din teoria cunoașterii, acea pseudo-problemă a subiectivismului filosofic care nu a fost încă demascată. Dacă ontologia (știința aspectului material al existenței) și metafizica (știința aspectului mișcării al existenței), împreună cu psihologia (știința aspectului conștiinței), nu pot oferi faptele necesare despre realitate, atunci nicio teorie a cunoașterii nu va ajuta. Cel mult, ea va fi o încercare nereușită de a explica prin negație realitatea care depășește puterea individului normal. Ezoterica susține că numai conștiința, fără instrumente sau mijloace ajutătoare, poate explora întregul aspect material; că lumile superioare pot fi studiate prin organe de sesizare încă nedezvoltate la individul normal; că toată materia are conștiință și că această conștiință — când a devenit autoactivă — își poate explora propria materie. Ea afirmă că fiecare lucru este, înainte de toate, ceea ce „pare” a fi, dar, în același timp, întotdeauna ceva cu totul diferit și incomensurabil mai mult, „marele neexplorat”. Subiectiviștii nu au înțeles niciodată acest absolut logic (acel „acesta este acesta” al legii identității), diferit în lumi diferite.
+
+<sup>7.</sup>Înțelepții voiau să îndrepte atenția spre numeroasele probleme ale lumii fizice, fiindcă aceasta este singura lume despre care individul normal poate dobândi cunoaștere. El trebuie mai întâi să se orienteze în această lume și să rezolve problemele vieții fizice înainte de a dobândi capacitatea necesară pentru a aborda problemele incomparabil mai dificile ale lumilor superioare.
+
+<sup>8.</sup>Este ușor de înțeles cum a ajuns ignoranța la o concepție subiectivistă despre existență. Simțurile noastre ne înșală uneori, deoarece organismul și creierul nostru nu funcționează întotdeauna perfect. Dacă atunci înțelepții ne spun că obiectele materiale sunt alcătuite din atomi pe care nu-i putem vedea, concluzia se prezintă aproape imediat: aceste obiecte trebuie să fie altceva decât par a fi. Dacă ideea aceasta este urmărită mai departe, totul va fi, în cele din urmă, numai aparență. Iar dacă ea este repetată destul de des, omul va deveni în cele din urmă incapabil să vadă că lumea exterioară trebuie să fie realitate.
+
+<sup>9.</sup>Spre deosebire de subiectiviști, obiectiviștii susțin că conștiința poate fi atât subiectivă (rațiunea), cât și obiectivă (simțul); că, atunci când observă realitatea materială exterioară, conștiința este determinată direct și nemijlocit de această realitate; că numai faptele obiective despre realitatea materială obiectivă, constatate în conștiința obiectivă, pot oferi cunoașterea lumii exterioare. Fără conștiință obiectivă, ne pierdem în subiectivitate. Acest lucru este evident mai ales pentru cei care, în învelișurile lor superioare din lumi superioare, pot constata aceeași obiectivitate.
+
+<sup>10.</sup>Sofiștii erau „filosofii iluminismului” din Grecia antică. Ei respingeau tot ce fusese predat tradițional, tot ce ținea de concepția despre lume și de concepția despre viață. Analizau tot ce se putea concepe, în special concepția despre realitate, religia, concepțiile despre dreptate și formele de guvernare. S-a întâmplat ceea ce trebuie să se întâmple când individul normal, cu resursele lui extrem de limitate, se aventurează să rezolve enigma existenței: presupuneri avortate despre tot ce nu poate fi constatat direct în realitatea fizică. Reflecția neobosită își începe lucrarea de distrugere, dizolvă toate conceptele împrumutate de la ezoterică, fără să bănuiască faptul că ele desemnează o realitate „necunoscută”. Nu se înțelege că aceste concepte auxiliare servesc unui scop important. Ele fac posibilă o prelucrare mentală ulterioară, până când vom fi dobândit cândva cunoașterea deplină a realităților corespunzătoare și vom putea înlocui conceptele auxiliare cu unele mai exacte.
+
+<sup>11.</sup>Potrivit ezotericii, lumea vizibilă constituie aproximativ un procent din aspectul material al realității totale. Individul normal poate fi cel mai mare geniu mental, dar este profund ignorant în privința existenței. El nu poate ști nimic despre sensul și scopul vieții, despre ce este în această privință adevărat și fals, drept și nedrept. Nu este în măsură să-și formeze singur o concepție cu adevărat rațională despre lume și viață.
+
+<sup>12.</sup>Deși primii sofiști erau cercetători serioși, totul a degenerat curând. Deoarece toate concepțiile aveau așa-numita lor justificare, fiecare trebuia să lase lumina geniului său să strălucească în întunericul crescând al haosului emoțional și mental. S-au exprimat cele mai variate opinii, formând în cele din urmă un spectru al tuturor capriciilor suverane, glorioase în ochii lor, ale înțelepților de duzină, ale așa-numiților gânditori independenți de la stadiul intermediar dintre gândirea deductivă și gândirea principială. Supraestimându-și noua capacitate, își imaginează că pot gândi în acord cu realitatea, neputând vedea caracterul fictiv al ipotezelor lor.
+
+<sup>13.</sup>Unii susțineau, asemenea lui Rousseau mai târziu, că natura umană este bună, iar cultura rea; că toți oamenii se nasc egali și că legile au fost făcute de cei aflați la putere pentru a-i oprima pe oameni. Alții socoteau, asemenea lui Nietzsche mai târziu, că natura este dincolo de bine și de rău, că morala este o invenție a celor slabi pentru a-i dezarma pe cei puternici și că singura formă rațională de guvernare este aristocrația.
+
+<sup>14.</sup>Sofiștii, fiind profesori de retorică, promiteau să-i învețe, firește contra bani grei, pe orice aventurier politic sau așa-numit reformator social arta cazuisticii retorice și juridice. Au dezvoltat o artă a disputării, eristica, care prin tertipurile ei lăsa orice adversar fără răspuns. Singurul lucru care conta era să câștige într-o dispută. Au mers atât de departe, încât au sfârșit încercând să demonstreze că negrul este alb și să facă să pară mai bună cauza mai rea, astfel încât cuvântul sofist (profesor de înțelepciune) a devenit un cuvânt de ocară.
+
+<sup>15.</sup>Politizarea tot mai accentuată a tuturor lucrurilor și democratizarea au coborât neîncetat, așa cum fac întotdeauna, standardul cerut de autenticitate, fiabilitate și competență. În locul acestora au venit spiritul întreprinzător, disprețul față de autoritate și volubilitatea. Nimic nu este bun așa cum este. Tot ce este vechi trebuie respins. Înțelepciunea de duzină știe cum ar trebui făcute toate. Schimbarea este același lucru cu îmbunătățirea. Dărâmă doar, ca să intre aer și lumină, iar totul se va construi din nou singur în deșertul steril. (Sfârșitul îl vedem în deșerturi și ruine.) Cea mai bună cale de a obține un cosmos perfect este să produci haos. Cea mai bună cale de a stârni invidia este să înfățișezi exagerat cât de mult mai bine o duc alții. Cea mai bună cale de a stârni nemulțumirea și spiritul de revoltă este să promiți satisfacerea egoismului nesățios. Deoarece pretențiile cresc pe măsură ce cererile sunt îndeplinite, demagogia iresponsabilă a pus în mișcare o forță oarbă a naturii, care nu se va opri până când sărăcirea națională nu va fi un fapt împlinit, dacă dictatura nu pune capăt nebuniei. Dar atunci, desigur, „sărăcia este îndurată cu seninătate când este împărțită în mod egal de toți”. Faptul că nu va exista niciun motiv de invidie pare să fie lucrul esențial.
+
+### 5.6 REACȚIA ÎMPOTRIVA SUBIECTIVISMULUI
+
+<sup>1.</sup>Prin învățăturile lor lipsite de principii și de sistem, sofiștii au provocat o confuzie generală de idei. Trei oameni curajoși s-au străduit să o contracareze. Ei vedeau că totul nu putea duce decât la pană intelectuală, catastrofă socială și economică. Dar reacția a venit prea târziu pentru a preveni devastarea. Degenerarea intelectuală avansase prea mult. Capacitatea de a înțelege ceva cu adevărat rațional se întâlnea din ce în ce mai rar. Până și capacitatea de cuprindere se diminuase.
+
+<sup>2.</sup>Cei trei mari au fost Socrate, Platon și Aristotel.
+
+<sup>3.</sup>Socrate căuta să găsească acele concepte fundamentale originare ale concepției despre viață care erau latente în el, dar pe care nu a reușit niciodată să le actualizeze. Căuta în zadar acel sistem în care conceptele capătă fermitate prin așezarea lor în contextele corecte. În pofida unor încercări meritorii, numai în mod excepțional se ridica până la gândirea principială.
+
+<sup>4.</sup>Platon și Aristotel posedau amândoi cunoaștere ezoterică. Dar, fiind limitați la folosirea faptelor și concepțiilor exoterice, au eșuat în strădaniile lor, deoarece numai folosind faptele și ideile fundamentale ale ezotericii se poate construi un sistem de gândire cu adevărat rațional și adecvat, în acord cu realitatea.
+
+### 5.7 *Socrate*
+
+<sup>1.</sup>Subiectivismul sofiștilor a dus (cum trebuie să ducă în mod logic) la îndoială în privința tuturor lucrurilor. Individualismul lor amenința să degenereze în arbitrar și lipsă de lege. Analiza lor conceptuală a distrus toate conceptele despre dreptate, a subminat toate temeliile cunoașterii și activității. Aproape că sună ca vremurile noastre.
+
+<sup>2.</sup>Pentru a contracara această influență distructivă, la Atena a apărut un om de forță și voință, un caracter de o măreție uimitoare, Socrate, care, prin puterea personalității sale alese și prin entuziasmul pentru sarcina pe care și-o asumase, a atras un grup de discipoli devotați. Cel mai strălucit dintre ei, Platon (pe care posteritatea l-a numit „divinul”), avea să exercite o influență mai mare decât oricare alt filosof, o influență care va dăinui întotdeauna. Când îi citim dialogurile, ne putem imagina aproape că ascultăm discuțiile intelectuale ale timpului nostru. Temele de care se ocupa sunt atemporale.
+
+<sup>3.</sup>Socrate și-a făcut misiunea vieții din a aduce ordine în confuzia generală de idei. A văzut limpede prin pseudo-filosofia sofiștilor datorită concepției sale latente, mai corecte, deși nu a putut s-o actualizeze decât parțial. Datorită capacității sale dialectice superioare, a putut lupta cu sofiștii folosind propriile lor arme. Metoda lui era să ceară o explicație a ceea ce se înțelegea printr-un anumit concept: de pildă, virtute, dreptate, curaj, înțelepciune etc. Cei mai mulți oameni sunt atunci gata să lase să curgă înțelepciunea ignoranței lor. Răspunsurile nu erau decât frazele obișnuite, lozincile pe care oamenii le-au preluat și pe care cred că le-au înțeles. Prin întrebări abile, Socrate îi făcea curând să vadă că nu știau despre ce vorbeau. Atunci venise momentul ca Socrate să se întrebe dacă, poate, „această explicație” ar fi potrivită. Cei destul de ageri vedeau ironia.
+
+<sup>4.</sup>Oricine și-a făcut misiune din a-i învăța pe oameni să vadă că presupusa lor înțelepciune nu valorează nimic trebuie să-și asume riscul de a nu scăpa nevătămat din această întreprindere. Metoda mai „umană” de a ucide folosită astăzi este tăcerea. Toată neliniștea și iritarea pe care sofiștii le provocaseră oamenilor conservatori s-au întors împotriva lui Socrate. Ei nu voiau să înțeleagă din întreaga lui operă de viață mai mult decât puteau transforma într-o acuzație că îi corupe pe tineri, propagă învățături subversive pentru stat și este el însuși cel mai periculos dintre toți sofiștii. Acest om, care încercase să-i elibereze pe oameni de gândirea lor obișnuită lipsită de sens și de repetarea neinteligentă a unor vorbe, a fost acuzat de impietate și condamnat la moarte de adunarea cetățenilor. Un alt exemplu drastic al adevărului sloganului Vaticanului: „glasul poporului este glasul lui Dumnezeu”.
+
+<sup>5.</sup>Realitatea materială nu-l interesa pe Socrate. El considera că știm mult prea puțin pentru a ne putea forma o concepție corectă despre lume. De asemenea, era convins că concepția despre viață predată de marii înțelepți era adevărata înțelepciune a vieții. Dar, nefiind inițiat și neavând astfel prilejul de a-și reaminti din nou vechea cunoaștere, era limitat exclusiv la aprobarea instinctului său de viață față de cele spuse de antici. Nu înțelegea nici că o concepție despre viață se bazează întotdeauna pe o concepție despre lume, că normele de acțiune se bazează pe anumite condiții, că trebuie să ai o anumită cunoaștere a felului în care stau lucrurile pentru a putea spune cum ar trebui să fie.
+
+<sup>6.</sup>Socrate nu făcea distincția necesară între comprehensiune și înțelegere. Cei care înțeleg au cunoașterea latentă din încarnări anterioare. Ei au prelucrat-o deja și, cel puțin parțial, au putut să o pună în practică. Omul poate realiza ceea ce înțelege, nu însă ceea ce poate doar cuprinde și ceea ce este deasupra nivelului său de dezvoltare. Socrate putea realiza ceea ce ajunsese să cunoască și socotea că alții puteau să înțeleagă și să realizeze lucrul pe care el, cu dificultate, îi putea constrânge să-l cuprindă. De îndată ce vibrațiile lui mentale se volatilizaseră din creierele ascultătorilor, ceea ce le spusese devenea la fel de neinteligibil ca înainte și, firește, imposibil de realizat.
+
+<sup>7.</sup>Și-a însușit maximele anticilor. De pildă, socotea că este mai bine să suferi o nedreptate decât să săvârșești una; că trebuie să ne abținem de la acțiunea nedreaptă nu din teamă, ci din datorie; că acela care trăiește așa cum ne-au învățat înțelepții, vede voința zeilor în toate și se mulțumește cu ceea ce are viața de oferit va găsi fericirea și se va elibera de teamă și neliniște.
+
+<sup>8.</sup>Socrate a încercat să definească conceptele. Încă există o mare nesiguranță în privința lor. Există concepte obiective și subiective, concrete și abstracte. Un fel special de concepte numai subiective sunt acele construcții imaginative ale ignoranței numite iluzii și ficțiuni. Aceste plăsmuiri ale imaginației nu au niciun temei în realitate.
+
+<sup>9.</sup>Experiența unui obiect material (să zicem, o masă) este obiectivă. Ca imagine de memorie, această experiență devine o reprezentare concretă prin vizualizarea obiectului. Conceptul abstract de masă include toate felurile de mese. Prin urmare, la definirea conceptului de masă, imaginația ar trebui să evoce din memorie mese de toate formele și culorile. Mobilierul este un concept mai abstract decât masa: cuprinde mese, scaune, dulapuri, paturi etc. Un concept și mai abstract este cel de bunuri gospodărești, deoarece cuprinde și mai multe feluri de obiecte. Cu cât un concept este mai abstract, cu atât conținutul lui este mai bogat și extensiunea lui mai mare. Pentru indivizii obișnuiți, cu cât extensiunea este mai mare, cu atât este mai mic conținutul de vizualizare, fiindcă puterea de vizualizare a individului normal este extrem de limitată, iar ignoranța cu privire la ceea ce este inclus în concepte este mare. De aceasta depinde eroarea logicii acceptate privind conținutul și extensiunea, concretul și abstractul.
+
+<sup>10.</sup>Totuși, definirea conceptelor obiective ale aspectului materiei este relativ ușoară, deoarece există obiectivitatea, ceea ce poate fi constatat de toți. Este incomparabil mai dificil să definești toate conceptele care țin de aspectul subiectiv al conștiinței. În cele mai multe cazuri, omul va fi limitat la concepte convenționale, general acceptate și într-o anumită măsură arbitrare. Aproape întotdeauna se va ajunge la evaluări subiective.
+
+<sup>11.</sup>Dacă o acțiune urmează să fie judecată corect, trebuie să fie posibilă izolarea motivului. Cauzele reale pot să se afle în vieți anterioare. Constătând care acțiuni au, mai devreme sau mai târziu, consecințe bune sau rele în sens vital, se poate spera că se va dobândi în cele din urmă cunoașterea legilor vieții și că se va descoperi semnificația calităților ființelor individuale din care iau naștere acțiunile.
+
+<sup>12.</sup>Istoria consemnează o varietate enormă de evaluări și concepții. La actualul stadiu de dezvoltare al omenirii, nici măcar evaluările celor mai mari colectivități nu au vreo autoritate, ci pot fi tot atât de arbitrare ca cele individuale.
+
+<sup>13.</sup>Cultura, în sens ezoteric, se dobândește numai prin aplicarea adecvată, conștientă sau inconștientă, a legilor vieții. Pentru a fi descoperite, ele trebuie mai întâi să fi fost aplicate. Această străduință inconștientă era cea pe care Socrate se străduia să o facă conștientă.
+
+<sup>14.</sup>Deoarece nu cunoștea natura existenței, sensul și scopul ei, lui Socrate îi lipsea certitudinea personală că acționa corect în chestiuni care nu intrau în conflict cu învățătura înțelepților. În cazuri individuale, depindea de „vocea”, *daimonion*-ul său (Augoeides), pe care o considera, prin urmare, o inspirație venită din afară. Nu cunoștea ezoterismul potrivit căruia „îngerii șoptesc numai minciuni”, că omul ar trebui să urmeze numai ceea ce vine din propriul său bun-simț. Greșelile sunt regula la actualul stadiu de dezvoltare al omenirii, dar prin greșeli învățăm. Dacă facem o greșeală urmând sfatul altora împotriva propriei convingeri, aceasta este o greșeală de consecință și nici cea mai bună cale de a învăța.
+
+### 5.8 *Platon*
+
+<sup>1.</sup>Timp de mulți ani, Platon (latinizat: Plato) a putut asculta convorbirile lui Socrate cu sofiștii și cu alți interesați de problemele vieții. Multe dintre dialogurile lui Platon par să fie relatări ale unor asemenea discuții. Este limpede că a îmbunătățit într-un mod superior ceea ce auzise. Discuțiile nepregătite nu sunt atât de logice ca acestea. Nicio convorbire nu este consemnată atât de exact. „Amintirile despre Socrate” ale lui Xenofon oferă o imagine mai bună despre cum se petreceau lucrurile. Socrate a devenit purtătorul de cuvânt anonim de care Platon avea nevoie pentru a evita persecuția. Datorită lui Platon, executarea lui Socrate a fost recunoscută ca o crimă judiciară. Socrate a putut astfel, de atunci înainte, să-și proclame liber concepțiile. Punându-și consecvent propriile concepții în gura lui Socrate, Platon a evitat riscul de a atrage prea mult atenția asupra sa. Complexul democratic al egalității și invidia nu ar fi tolerat ca cineva care trăiește să se ridice deasupra mulțimii. („Dacă cineva este mare printre noi, să fie mare în altă parte.”) Ceea ce l-a scutit pe Pericle (singurul dintre „cei mari” ai Atenei) de soarta de a fi răsturnat a fost că știa cum să lingușească gloata, cerând iertare pentru propria sa existență și implorându-i, cu lacrimi în ochi, să-i scuze geniul. Cu excepția lui, toți oamenii mari ai Atenei au fost persecutați, ostracizați sau uciși.
+
+<sup>2.</sup>Nimeni nu a fost mai capabil decât Platon să dezbată probleme, să analizeze iluziile și ficțiunile sofiștilor. Deseori lăsând nespusă soluția problemelor, făcând din discuție răspunsul la întrebare și lăsând cititorului sarcina de a trage propriile concluzii, el știa să mențină viu interesul și, mai mult decât oricine, să dezvolte capacitatea de a gândi. Este, neîndoielnic, o artă să poți, asemenea lui Platon, să le oferi neinițiaților chiar și o vagă viziune asupra existenței folosind un material atât de inadecvat și să arăți prin aluzii instinctului de viață în ce direcție să caute adevărul.
+
+<sup>3.</sup>Fiecare filosof a încercat în zadar să ofere propria interpretare a lui Platon. S-a irosit multă flecăreală pătrunzătoare și profundă despre ce ar fi trebuit să însemne Platon. Pentru cei pentru care lumea vizibilă este singura existentă, iar „realitatea spirituală” este o plăsmuire a imaginației, el era, firește, doar un fantasist. Scrie atât de simplu, încât oamenii cred că îl înțeleg. Ei nu știu că lucrul cel mai simplu nu este doar cel mai greu de descoperit, ci și cel mai greu de înțeles pentru posteritate — dacă nu este de la sine evident în mod nemijlocit — și, astfel, este trecut cu vederea fără să fie bănuit. Astfel de autori rari contează numai pe cititorii la care se gândea Goethe când scria: „Du gleichst dem Geist, den du begreifst” (Semeni cu spiritul pe care îl înțelegi). Desigur, ar trebui să fim sceptici față de interpretările încercate de traducători.
+
+<sup>4.</sup>Platon a fost inițiat nu numai în Misterele orfice, ci și în Ordinul pitagoreic, mutat la Atena de Kleinias, discipolul lui Pitagora.
+
+<sup>5.</sup>Pentru a-l înțelege pe Platon, mai ales doctrina sa despre idei și reamintirea reînnoită, trebuie cunoscută concepția pitagoreică despre lume pe care se baza opera sa. Platon voia să le ofere oamenilor un indiciu despre lumile superioare, reîncarnare și dezvoltarea conștiinței, fără a trăda nimic din ezoterică. De aici dificultățile cu care trebuia să se lupte.
+
+<sup>6.</sup>Pitagoreicii învățau că existența constă din lumi materiale interpenetrante, cu grade diferite de densitate. Monadele își încep dezvoltarea conștiinței în regnul mineral, apoi o continuă în regnurile vegetal, animal și uman, precum și în regnuri superioare. Revenirea de la un regn superior la unul inferior este imposibilă.
+
+<sup>7.</sup>Evoluția celor mai de jos patru regnuri naturale se desfășoară în cele mai de jos trei lumi planetare (mai exact, „globuri materiale”): lumile fizică, emoțională și mentală.
+
+<sup>8.</sup>În lumea fizică, omenirea poate dobândi în cele din urmă, prin propriile puteri, cunoașterea acestei lumi. Ea poate dobândi singură cunoașterea lumilor superioare când a dobândit conștiință obiectivă superioară. Până atunci, trebuie să se bazeze pe cunoașterea autorității. Lumea emoțională este lumea iluziilor, iar lumea mentală inferioară este lumea ficțiunilor. În aceste două regiuni intermediare, cunoașterea reală este exclusă. Numai în lumea mentală superioară, sau lumea ideilor, individul poate dobândi cunoașterea realității și a vieții, a sensului și scopului existenței, deoarece numai în acea lume ideile (atomi mentali și formele lor), care reprezintă realitatea, pot fi înțelese corect de intuiție.
+
+<sup>9.</sup>Materia fiecărei lumi are propriul ei fel caracteristic de conștiință. Sentimentele corespund vibrațiilor din materia emoțională, gândurile, vibrațiilor din materia lumii mentale.
+
+<sup>10.</sup>Monadele se dezvoltă dobândind capacitatea de a percepe vibrațiile din regiuni tot mai înalte ale lumilor lor și de a intra în contact cu lumi tot mai înalte. Speciile vegetale cele mai înalte pot ajunge în contact cu lumea emoțională, iar speciile animale cele mai înalte pot intra în contact cu lumea mentală. Omul caută să se orienteze în lumea mentală inferioară. Scopul lui este lumea mentală superioară, lumea intuiției, lumea ideilor platonice.
+
+<sup>11.</sup>Dezvoltarea mentală a omului prezintă cinci faze principale: deducția discursivă de la temei la consecință, gândirea principială, gândirea perspectivistă, gândirea sistematică și, în cele din urmă, intuiția sau gândirea prin idei platonice.
+
+<sup>12.</sup>Cunoașterea ca reamintire reînnoită este o teză fundamentală a învățăturii lui Platon. Ezoterica explică aceasta.
+
+<sup>13.</sup>Monada nu uită nimic. Tot ce a trăit este păstrat în stare latentă în subconștientul ei. Pentru ca o anumită cunoaștere dobândită anterior să fie reînviată într-o nouă încarnare, este necesară reînnoirea contactului cu acest domeniu de cunoaștere. Altfel, această cunoaștere rămâne latentă. Același lucru se aplică abilităților dobândite anterior. Ceea ce nu este cultivat într-o viață nouă rămâne latent. „Darurile” depind de specializarea de-a lungul mai multor vieți: de regulă trei pentru „talent” și șapte pentru „geniu” (la aproape orice nivel de dezvoltare). Tot ce a trăit monada în regnul uman nu devine disponibil până când individul nu a dobândit intuiția și nu poate studia în lumea ideilor (dar numai acolo) toate viețile sale anterioare ca om. Mulți oameni nu au timp, într-o nouă încarnare, să-și redobândească adevăratul nivel de dezvoltare, latent.
+
+<sup>14.</sup>Orice am învățat și prelucrat cândva (!) nu putem pierde. Tot ce am știut și am putut face există latent. Cunoașterea devine înțelegere instantanee în viețile ulterioare. Calitățile și abilitățile dobândite există ca predispoziții. Ele pot fi actualizate repede, dacă este nevoie, dacă există interes și se oferă o ocazie de redobândire.
+
+<sup>15.</sup>Nimic nu se dobândește ușor. Sunt necesare nenumărate experiențe de același fel, viață după viață, înainte ca experiențele să fie reunite foarte încet în concepte și ca acestea să poată fi așezate în contextele lor corecte, prelucrate până devin pătrundere și înțelegere. Monada petrece milioane de ani în fiecare regn înainte de a fi învățat tot ce poate fi învățat în acest regn și este necesar pentru evoluția ei ulterioară.
+
+<sup>16.</sup>Capacitatea de a sesiza obiecte exterioare, de a învăța mai multe despre calitățile obiectelor prin vibrațiile lor, apare ca rezultat al unui proces îndelungat și complicat, regn după regn. În fiecare lume superioară, sesizarea devine tot mai exactă și pătrunzătoare. Monada ajunge să cunoască totul „identificându-se” cu vibrațiile lui.
+
+<sup>17.</sup>„Ideile platonice” nu pot fi înțelese fără următoarea pătrundere. Ideile lumii ideilor sunt forme obiective, dar și subiective, și, prin urmare, sunt reprezentări fidele ale realităților obiective și subiective durabile. Fiecărei intuiții îi corespunde un sistem mental de idei ale realității. Lumile inferioare există în ideile lumii ideilor și, astfel, cunoașterea acestor lumi inferioare este cuprinsă în sistemul de idei al intuițiilor. „A contempla ideile în lumea ideilor” însemna a trăi conținutul de realitate, cu toate relațiile sale, al sistemului de cunoaștere inerent ideii cauzale.
+
+<sup>18.</sup>Lumea ideilor este, printre multe altele, memoria nealterată a tuturor evenimentelor trecute din lumile fizică, emoțională și mentală, de când planeta a luat ființă. Conținutul subiectiv de conștiință al acestor idei ne oferă cunoașterea exactă a realității, fără posibilitate de eroare, caracter fictiv sau înșelare. Ele constituie și idealurile noastre, deoarece explică scopurile și căile realizării lor. Formele din lumea ideilor sunt formele perfecte ale frumuseții.
+
+<sup>19.</sup>Când ideile cauzale ale intuiției sunt mentalizate în concepte mentale, aceste idei devin idealuri pentru rațiune, iar când aceste idealuri sunt emoționalizate, devin dogme pentru gândirea emoțională. Dar, fiind astfel reduse de două ori, validitatea lor relativă a devenit absolută și ele au devenit ostile vieții.
+
+<sup>20.</sup>Plasând în lumea ideilor, ca ființare adevărată inaccesibilă conștiinței inferioare, temeiurile și cauzele obiective, neschimbătoare, ale adevărului, frumosului și binelui, Platon căuta să-i lipsească pe sofiști de suveranitatea și autoritatea lor. Pe bună dreptate, „idealiștii” tuturor epocilor l-au considerat pe Platon salvatorul de arbitrariul subiectiv și individual.
+
+<sup>21.</sup>Istoria filosofiei a confirmat pe deplin temerea lui Platon că Aristotel, prin sistemul exoteric pe care îl plănuia, nu le va oferi neinițiaților decât material proaspăt și imbolduri noi pentru a-și continua speculația zadarnică. Numai lumea ideilor și revelările puternice ale intuiției pot oferi soluțiile corecte la problemele filosofiei.
+
+<sup>22.</sup>Republica ideală a lui Platon nu a fost niciodată menită să fie realizată. El știa prea bine că o asemenea comunitate nu poate fi construită, nu poate lua ființă fără conducători care au atins stadiul unității (al cincilea regn natural), că idealitatea presupune indivizi aflați la stadiul idealității. Nu îl interesa politica practică și a acceptat foarte împotriva voinței sale să participe la experimente cu ea. Avusese multe ocazii să studieze sisteme diferite și ajunsese la concluzia că democrația era cea mai rea dintre toate. Democrația punea puterea în mâinile unei majorități lipsite de discernământ, care se lăsa condusă de sofiști și demagogi ce apelau la cele mai rele instincte ale ei pentru a dobândi puterea și apoi pentru a o păstra, indiferenți față de faptul că rezultatul nu putea fi decât ruină economică, dezordine socială și declin cultural.
+
+<sup>23.</sup>Republica lui Platon era o critică voalată a idealului democratic al egalității, precum și o indicație a direcției în care ar trebui căutată soluția. Cea mai potrivită societate este o societate de clase, cu sarcinile sociale repartizate între clase. Competența (cunoașterea, abilitatea, disponibilitatea de a munci) determină cărei clase îi aparține individul. Fiecare primește posibilitatea concurenței libere. Statul își ratează scopul dacă nu creează condiții raționale și dreptate potrivit meritului fiecăruia. Numai celor incoruptibil de integri, care au cunoașterea, calitățile și abilitățile necesare, ar trebui să li se îngăduie să administreze treburile statului, să ocupe poziții de putere și să-i conducă pe alții. Dacă statul este condus de elemente corupte (cum se întâmplă inevitabil, într-o măsură mai mare sau mai mică, în toate statele democratice), corupția se va răspândi ca ciuma. Într-un stat guvernat rațional, repartizarea muncii este determinată de nivelurile de dezvoltare ale cetățenilor, de înțelegerea lor despre viață și de competența generală.
+
+<sup>24.</sup>Concepția despre dreptate a lui Platon se arată în doctrina sa despre integritate, virtuțile cardinale și legea binelui.
+
+<sup>25.</sup>Se face dreptate când fiecare își îndeplinește datoria. El cunoștea temeinic doctrina indiană despre *dharma*, în care noțiunea de datorie reiese limpede din sarcina de viață și nivelul de dezvoltare al individului. Pentru a fi integru, individul trebuie să posede ideea de integritate. Această idee nu este o abstracție lipsită de viață, ci totalitatea cunoașterii expresiilor integrității în toate relațiile vieții.
+
+<sup>26.</sup>Virtuțile cardinale ale lui Platon au produs multă nedumerire și au fost criticate. Ele reprezintă abilitatea cea mai dezirabilă la individ, în diferitele stadii de dezvoltare: „curajul” fizic al stadiului barbariei, „stăpânirea de sine” a stadiului emoțional, „înțelepciunea” (cunoașterea corectă) a stadiului mental, „dreptatea” (posibilă numai când există cunoaștere reală) a stadiului intuițional. Comparați-le cu formulele ezoterice „a îndrăzni, a voi, a cunoaște, a tăcea” (capacitatea de a tăcea despre ceea ce știe cineva în fața celor care nu înțeleg).
+
+<sup>27.</sup>Socrate, când afla ce era drept, făcea acel lucru fără ezitare și fără a ține seama de urmările pentru sine. Când vedea ce era nedrept, nimic nu-l putea face să acționeze împotriva acestei pătrunderi. Faptul că alții nu făceau ca el îl considera datorat ignoranței. Luminează-l pe om, și el va face atunci ceea ce este drept, fiindcă este în propriul său interes să acționeze rațional și adecvat. Aceeași ignoranță despre viață i-a caracterizat întotdeauna pe toți iluminiștii entuziaști și bine intenționați, adică lipsa de înțelegere a diferenței foarte mari dintre posibilitățile teoretice și capacitățile formate ale deprinderilor practice.
+
+<sup>28.</sup>Platon avea o perspectivă mai profundă. Pentru cei care au dobândit deja cunoaștere, înțelegere și abilitate în vieți anterioare și le au pe toate latente în ei, lucrul este ușor. Ei trebuie doar să intre în contact cu cunoașterea lor latentă pentru a face automat și spontan lucrul corect. Potrivit legii binelui, omul urmează întotdeauna idealul cel mai înalt pe care îl vede și îl înțelege cu adevărat (nu doar îl crede sau îl hotărăște), deoarece nu poate face altfel, fiindcă pentru el este o nevoie și o bucurie să procedeze astfel.
+
+<sup>29.</sup>Faptul că Platon făcea o distincție între învățare și înțelepciune, între cunoașterea teoretică și pătrunderea și abilitatea latente, reiese din teza sa că omul înțelept este calificat să fie cel mai priceput în tot ceea ce îl interesează.
+
+### 5.9 *Aristotel*
+
+<sup>1.</sup>Aristotel (latinizat: Aristoteles, anglicizat: Aristotle) a fost discipolul mereu opozant al lui Platon. Acolo unde Platon considera filosofia exoterică o artă pedagogică, Aristotel o socotea înainte de toate logică, metodică și sistematică. Era convins că Platon nu va putea stăvili speculația neîntemeiată a sofiștilor. La ce le folosea exoteriștilor lumea ideilor? În lipsa intuiției, aceasta trebuia să le pară o plăsmuire a imaginației. Înainte de a putea ajunge la intuiția lumii ideilor, ar fi trebuit să dezvolte cele patru feluri diferite de conștiință mentală: gândirea deductivă, gândirea principială, gândirea perspectivistă și gândirea sistematică. Numai inițiații de cel mai înalt grad ai unui ordin de cunoaștere erau capabili de aceasta. Aristotel credea că singurul mod de a stăvili speculația era construirea unui sistem de gândire care să corespundă capacității de cuprindere a individului normal. Faptul că numai ezotericianul a fost în stare să-l înțeleagă corect este o altă chestiune. Prin urmare, sistemul era ceea ce te-ai fi așteptat să fie. Cât de abil a fost construit se vede cel mai bine din faptul că a preocupat gândirea filosofică mai bine de două mii de ani.
+
+<sup>2.</sup>Conceptele și faptele se află în aceeași situație. Ele sunt aproape inutile dacă nu sunt așezate în contextele lor corecte. Ideile și faptele izolate stimulează speculația să construiască contexte care par să le dea un sens. Tocmai pentru că faptele au fost puse în contexte greșite — „nucleul de adevăr” din orice superstiție — întreaga lume mentală este un haos de ficțiuni.
+
+<sup>3.</sup>Sistemul mental ezoteric îl convinsese pe Aristotel că singurul mod de a le da oamenilor claritate este să le ofere un sistem. Certitudinea mentală vine numai din deducție. Sistemul ezoteric oferă claritate și certitudine, deoarece cunoașterea poate fi dedusă din el, iar rezultatul poate fi arătat ca fiind în acord cu realitatea. Un sistem perfect cuprinde toate faptele în contextele lor corecte, dar așa ceva era, firește, exclus. A trebuit să se mulțumească să adune cât mai multe fapte și să le sistematizeze. După moartea lui Platon, Aristotel a preluat discipolii maestrului și i-a pus pe fiecare să cerceteze domeniul spre care îl înclina firea. Uriașa sa avere personală i-a îngăduit să cumpere manuscrise privitoare la toate domeniile cunoașterii și să angajeze cercetători care să adune informații din întreaga lume. Materialul furnizat de mii de manuscrise a fost prelucrat metodic. Astfel s-a pus temelia științei exoterice occidentale. Terminologia științifică pe care a creat-o este încă în mare parte folosită. Cea mai mare parte din ceea ce știu istoricii despre filosofii anteriori provine prin Aristotel. Avea obiceiul să relateze în felul său ceea ce nu folosea el însuși.
+
+<sup>4.</sup>Au apărut tratate ample care acopereau cunoașterea vremii în matematică, fizică, chimie, geografie, meteorologie, astronomie, botanică, zoologie, anatomie, logică, psihologie, etică și politică.
+
+<sup>5.</sup>Când, câteva sute de ani mai târziu, s-a hotărât să se salveze ce se mai putea salva, din această uriașă enciclopedie s-au găsit numai puține rămășițe fragmentare, în cea mai mare parte adaptări neclare, nesistematice și arbitrare.
+
+<sup>6.</sup>Aristotel nu făcea un secret din suveranitatea sa, din faptul că era un titan printre pigmei. Aceasta era primejdios în climatul complexului egalitar al democrației, care cere nivelarea a tot ce este superior. Când a ajuns la Atena vestea că murise puternicul său protector, regele Alexandru, Aristotel a părăsit, pentru a evita furia gloatei, orașul care îl ucisese pe Socrate.
+
+<sup>7.</sup>Cele ce urmează nu sunt o expunere a sistemului exoteric al lui Aristotel, ci doar o indicare a fundamentelor sale ezoterice.
+
+<sup>8.</sup>Cuprinderea este rezultatul reflecției. Înțelegerea este sesizare nemijlocită, ca rezultat al reamintirii reînnoite după prelucrarea încheiată a unui anumit domeniu. Mintea cea mai simplă poate trage concluzii de la temei la consecință, de la cauză la efect. Pentru a conchide de la consecință la temei, de la efect la cauză, este nevoie de judecată. Ignoranța este lipsa cunoașterii faptelor. Capacitatea de judecată este inteligența (bunul-simț) și presupune capacitatea de analiză și sinteză. Judecata necesită fapte, concepte și principii. Privite separat, acestea sunt absolute. Dar dobândesc o semnificație relativă când sunt puse în relație cu altele, în sistemul lor corect. Conceptele sunt necesare pentru cuprindere. Principiile sunt necesare pentru a avea o privire de ansamblu asupra conceptelor. Un principiu este o generalizare a unor cazuri bine delimitate, care apar rareori în realitate. De regulă, pentru o judecată corectă sunt necesare multe principii care se modifică reciproc. Judecata bună poate aprecia corect faptele, le poate așeza în contextele lor corecte, poate distinge între fapt și ficțiune, între credința oarbă și punctul de vedere critic care se întreabă dacă sunt disponibile suficiente fapte pentru ca o presupunere să fie făcută provizoriu.
+
+<sup>9.</sup>Aristotel voia să le ofere oamenilor un sistem mental. Vedea că sistemul este calea prin care gândirea se orientează în existență. Faptele simțurilor sunt în mare parte inutile până când rațiunea le poate așeza în contextele lor corecte: istorice, logice, psihologice, cauzale. Sarcina rațiunii nu este să construiască ficțiuni. Orice gândire se bazează pe principii și sisteme. Orice om care gândește și-a format propriul sistem, fie că știe sau nu acest lucru. Calitatea sistemului arată nivelul de dezvoltare, capacitatea de judecată și cunoașterea faptelor ale individului. Sistemele celor mai mulți oameni sunt sisteme ficționale sau sisteme de credință ale gândirii emoționale. Fiecare are credințele sale mărunte despre aproape orice absurditate, fiindcă majoritatea nu au posibilitatea de a dobândi cunoaștere reală despre altceva decât faptele definitiv stabilite ale lumii vizibile. Ei nu au acces la lumea intuitivă a ideilor.
+
+<sup>10.</sup>Înțelegerea vieții cere un fond de experiențe sistematizate. Aceasta este temelia dobândită în cursul lungului proces de dezvoltare mentală, la stadiul barbariei. O abundență mai mare de principii ordonate implică superioritate mentală, atât în domenii separate ale cunoașterii, cât și cu privire la viață în ansamblul ei.
+
+<sup>11.</sup>Condiția prealabilă a cuprinderii este posedarea a ceva mai general decât ceea ce se încearcă a fi înțeles logic, deoarece cuprinderea merge de la general la particular, de la ceea ce este încă și mai general, mental mai înalt, la ceea ce este mental mai jos. Cele mai generale dintre toate sunt ideile intuiției, care conțin toate faptele. Principiile sunt cele care dau sistemului precizia sa.
+
+<sup>12.</sup>Platon subliniase necesitatea unor concepte neechivoce. Aristotel a înțeles că, pentru ca noțiunile (faptele) să aibă semnificațiile lor corecte, ele trebuie așezate în contextele lor corecte și că acest întreg tot mai larg intercorelat se dovedește în cele din urmă a fi sistemul sau cea mai înaltă concepție mentală. Ideile intuitive sunt încă și mai înalte și mai cuprinzătoare. Dar, cu mult înainte ca puterea de cuprindere a omului să poată ajunge la ideile lumii ideilor, ea trebuie să stăpânească aptitudinile mentale superioare. Oamenii nu sunt încă în stare să gândească intuitiv, adică fără concepte, principii și sisteme. Pentru a putea descoperi ceea ce este mai general, trebuie să posedăm cunoașterea mai multor fapte decât pot fi explicate prin ceea ce este mai puțin general. După cum spune Goethe în *Faust*, putem avea părțile în mână (faptele necesare), dar să ne lipsească totuși legătura unificatoare. Descoperirea a ceea ce este mai general face posibilă o înțelegere lărgită.
+
+<sup>13.</sup>Fiecare idee platonică, sau intuiție, dacă este concretizată, devine un sistem complet propriu, cuprinzând toate conceptele și faptele care țin de materia ei.
+
+<sup>14.</sup>Sistemele mentale exoterice sunt sinteze ordonate de fapte, alcătuite metodic. Ele nu sunt aproape niciodată corecte, deoarece nu pot fi niciodată complete și se modifică la adăugarea fiecărui fapt nou. Însemnătatea lor pentru știință constă în faptul că ușurează orientarea și asimilarea a ceea ce a fost deja cercetat. Totuși, dacă nu pot fi înlocuite treptat prin sisteme din ce în ce mai complete, devin obstacole pentru gândire și cercetare. Încercarea de sistem a lui Aristotel a devenit un asemenea obstacol, fiindcă ignoranța a absolutizat-o.
+
+<sup>15.</sup>Ceea ce este mai caracteristic perspectivei logice atribuite lui Aristotel este încercarea ei cu totul eșuată de a separa forma și conținutul, atât subiectiv, cât și obiectiv.
+
+<sup>16.</sup>Aceasta a dus la formularea așa-numitei a treia legi a gândirii, care nu este o lege a gândirii. Gândirea a fost astfel formalizată. Cu cât un concept este mai abstract, cu atât extensiunea lui este mai mare și conținutul mai limitat. Încercând să construiască o schemă de concepte tot mai abstracte, se spera să se ajungă la abstracțiile cele mai înalte, categoriile, și astfel la „cunoașterea absolută”.
+
+<sup>17.</sup>Există un nucleu de adevăr în toate acestea. Logicianul vede curând că nu se poate ajunge la claritate fără unitate și sistem. Greșeala a fost încercarea de a construi un sistem din concepte fără fapte. Această superstiție logică avea să domine scolastica și gândirea până târziu în secolul al XIX-lea, până când știința, prin faptele ei, a oferit o cunoaștere a realității și a respins astfel această pseudo-cunoaștere.
+
+<sup>18.</sup>Când individul, ignorant în privința realității, începe să speculeze, are de-a face cu concepte goale. Nu va pune în ele fapte, fiindcă nu are, ci un conținut arbitrar. Astfel iau naștere ficțiunile. Întreaga istorie a filosofiei este o istorie de încercări de a înlocui ficțiunile vechi cu ficțiuni noi. Speculația fără fapte este ficționalism. Numai cercetarea ne poate da fapte. Când cercetarea a încetat în Antichitate, iar oamenii au crezut că pot găsi cunoașterea concentrată în filosofie fără experiență a realității, rezultatul trebuia să fie superstiția. Explicațiile oferite de-a lungul timpului nu au fost niciodată verificate în realitatea materială.
+
+<sup>19.</sup>Distincția dintre formă și conținut sub aspect obiectiv avea să fie la fel de înșelătoare.
+
+<sup>20.</sup>Obiectele individuale erau considerate produse ale formei și conținutului. Materia era potențialitatea, posibilitatea realității. Așa cum Platon susținea că ideile sunt și forțe ce acționează finalist, Aristotel a făcut ca „forma” să îndeplinească același rol. „Posibilitatea realității” inerentă formei se realiza prin diferite stadii de dezvoltare. În acest proces continuu, inferiorul era întotdeauna materie în raport cu superiorul, principiul său formator. Forma cea mai înaltă era rațiunea atotcuprinzătoare, sursa de putere a tuturor lucrurilor, divinitatea.
+
+<sup>21.</sup>Este evident că această împărțire oferă nesfârșite posibilități de speculații fantastice. Ele au fost exploatate, cu rezultatul că gândirea a fost prinsă într-un labirint fără ieșire. Doctrinele despre divinitate ca formă supremă a materiei și despre capacitatea materiei (atomilor) de a atinge cel mai înalt stadiu divin s-au dovedit ezoterisme bine mascate, precum și doctrina potrivit căreia materia superioară se raportează la materia inferioară precum energia la materie.
+
+<sup>22.</sup>Învățând continuitatea materiei și negând existența vidului absolut, Aristotel a enunțat două fapte ezoterice.
+
+<sup>23.</sup>Aristotel s-a luptat mereu cu aceleași dificultăți ca Platon: să facă un sistem exoteric din sistemul de cunoaștere ezoteric. Dar numai faptele ezoterice fac posibil un sistem al realității. A reușit totuși să-și atingă scopul de a pune capăt semanticii sofiștilor. Abia în vremurile noastre, după câteva mii de ani și fiascoul general al filosofiei, principiul arbitrariului subiectiv a fost proclamat din nou.
+
+<sup>24.</sup>Sistemul lui Platon poate fi înțeles de cei care au fost cândva inițiați ai unui ordin ezoteric de cunoaștere și au cunoașterea latentă. Ei nu întâmpină nicio dificultate în a identifica lumea cauzală cu lumea ideilor a lui Platon. Dar pentru neinițiați, limitați la calea obișnuită a ignoranței, calea inductivă, sistemul lui Aristotel era singurul realist.
+
+<sup>25.</sup>Desigur, Aristotel știa că lumea cauzală este lumea cunoașterii reale, că conștiința cauzală poate constata toate faptele necesare pentru cuprinderea și înțelegerea în diferitele lumi ale omului, poate constata cauzele proceselor. Dar, fiindcă lumea cauzală era inaccesibilă neinițiaților, trebuia să li se arate o altă cale către sistemul cunoașterii. Aceasta este calea inductivă a cercetării, a constatării faptelor și a așezării lor într-un sistem comprehensibil. Ideea poate fi numită ideal corectă, dar irealizabilă, deoarece cunoașterea tuturor faptelor existenței este țelul final visat al cercetării.
+
+<sup>26.</sup>Platon pornea de la faptul că lumea cauzală a ideilor și cunoașterii este țelul final al dezvoltării conștiinței umane și o numea „ființarea adevărată”, ca fiind cel mai înalt stadiu accesibil omului în dezvoltarea sa ca om. Aristotel dezaproba termenul, sugerând că „ființarea adevărată” este materia primordială omogenă (în care se formează nenumărate cosmosuri și se dizolvă după ce și-au realizat scopul). Când Aristotel, în felul său realist, a ajuns să parafrazeze ceea ce Platon numise ierarhia ideilor, a încercat să arate cum sunt posibile forme tot mai înalte prin existența lor potențială în cele inferioare. Metoda lui nu a fost, evident, niciodată înțeleasă de discipolii săi. Astfel s-a dezvoltat în schimb întregul aparat al formei și materiei, al realului și posibilului, care i-a preocupat mai ales pe scolastici.
+
+<sup>27.</sup>Termenii folosiți de Aristotel — materie, posibilitate și potențialitate, formă, realitate și actualitate, cauze mecanice și finale — nu au fost niciodată înțeleși corect. La aceasta se adaugă faptul că urmașii săi nu au fost în stare să separe temeiul logic de cauza materială și le-au confundat. Nu este de mirare că așa-numitele scrieri aristotelice prezentau obscurități și contradicții.
+
+<sup>28.</sup>Aristotel cunoștea teza ezoterică potrivit căreia „forma este modul de existență al materiei” (și aceasta în toate lumile). Prin realitate înțelegea ceea ce este faptic, constatabil. Ceea ce nu putea fi constatat putea, firește, să existe ca posibilitate teoretică. Deoarece numai o fracțiune a realității materiale este constatabilă în lumea fizică, partea rămasă, mai mare, există numai ca posibilitate.
+
+<sup>29.</sup>De când rațiunea s-a dezvoltat suficient pentru ca omul să aibă o anumită concepție despre drept și nedrept, omul a preferat, din autoafirmare și importanță de sine, să învețe numai din experiențele dureroase ale vieții, nu să respecte alte norme decât acelea rezultate din constrângerea socială. Astfel de concepte despre drept apar numai încet din ordinea stabilizată, pentru a fi sfințite de tradiție. În tulburările sociale, respectul față de lege și drept se pierde din nou.
+
+<sup>30.</sup>Concepția independentă despre drept a unui individ indică nivelul de dezvoltare atins și înțelegerea vieții dobândită.
+
+<sup>31.</sup>Perspectiva lui Aristotel era că toate lucrurile sunt bune în limitele stabilite de legile vieții. În afara legii, binele devine rău, iar virtuțile devin vicii. Prin doctrina sa despre calea de mijloc între extreme („perechile de contrarii” ale ezotericii), el încerca să fixeze acele norme pe care omul trebuie să le adopte pentru a deveni armonios și fericit. Potrivit lui Buddha, aceasta este calea înțelepciunii.
+
+<sup>32.</sup>„În toate relațiile poate exista o măsură care este prea mare, una care este prea mică și una potrivită, situată la mijloc între celelalte două. Aceasta nu poate fi calculată matematic, însă rațiunea învață măsura corectă prin experiență. Virtutea este calea de mijloc între două vicii, situate de fiecare parte extremă a virtuții.” Virtutea presupune experiență. Aristotel a introdus astfel principiul relativității, fiindcă a arătat că drumul de mijloc se schimbă cu fiecare situație nouă, apare diferit din puncte de vedere diferite și nu poate fi definit decât în scop de orientare.
+
+<sup>33.</sup>„Virtutea curajului se află la mijloc între viciile lașității și temerității. Lașul numește curajul nesăbuință, iar omul temerar numește curajul lașitate. Generozitatea este virtutea situată între lăcomie și risipă. Cumpătarea este justa cale de mijloc între iubirea plăcerii și ascetism, popularitatea între lingușire și răceală, blândețea între lentoare și mânie etc., la nesfârșit.”
+
+<sup>34.</sup>Devenim virtuoși prin deprinderea de a acționa drept, ceea ce presupune experiență, bun-simț și capacitate de judecată.
+
+### 5.10 FIZICALISMUL
+
+<sup>1.</sup>Odată cu politizarea și democratizarea crescânde, nivelul culturii grecești a scăzut, firește, cu repeziciune, în doar câteva generații. Speculația imaginativă s-a răspândit tot mai mult. Orice înțelept de duzină cu platitudini de vânzare trebuia să lase lumina geniului său să strălucească. Cu cât se înțelegea mai puțin din marii filosofi, cu atât era mai mare nerăbdarea de a-i explica. Mâncărimea de a scrie a devenit epidemică. „Cultura generală” creștea pe măsură ce capacitatea de judecată scădea, iar toți își lăudau „epoca luminată”. Nu te poți împiedica să te gândești la vremurile noastre.
+
+<sup>2.</sup>Sătui de toate acele vorbe goale, naturaliștii vremii s-au limitat, cum s-a întâmplat și după Hegel, la lumea vizibilă și au căutat o concepție fermă despre lume în limitele bunului-simț și ale realității fizice. Această perspectivă a fost numită materialism filosofic sau științific. Mai corect ar trebui numită fizicalism, deoarece lua în considerare numai materia fizică, iar există o întreagă serie de lumi materiale tot mai înalte.
+
+<sup>3.</sup>Materialismul este singura dintre diferitele concepții metafizice care a putut fi confirmată științific. Teoria atomică nu mai poate fi inclusă în „metafizică”, cum s-a făcut tradițional, de vreme ce cercetarea a confirmat atât de strălucit acest fapt ezoteric fundamental: toate formele materiale sunt alcătuite din particule materiale. În istoria filosofiei, materialismul a reprezentat concepția suverană, de bun-simț, despre realitate, afirmând existența unei lumi exterioare obiectiv durabile. Teoriile subiectiviste care neagă existența lumii exterioare se infirmă singure, fiindcă trebuie să admită întotdeauna existența materiei de îndată ce au de explicat fenomene naturale.
+
+<sup>4.</sup>Fizicalistul presupune greșit că lumea vizibilă este singura existentă, că organismele sunt singurele forme de viață și că organele de simț ale organismului sunt singurele mijloace ale omului de a sesiza lumea materială exterioară.
+
+<sup>5.</sup>Pitagoreicii afirmă — la fel ca filosofii yoga — că individul normal, dispus să se supună antrenamentului necesar, își poate dezvolta organe de sesizare care îi vor permite să aibă conștiință obiectivă despre feluri superioare de materie.
+
+<sup>6.</sup>Fizicalismul era reprezentat de două direcții filosofice care se criticau reciproc, una susținută de Epicur, cealaltă de Chrysippos. Nu sunt multe de spus despre niciunul dintre acești oameni de seamă. Amândoi au fost scriitori harnici, dar din scrierile lor au supraviețuit numai fragmente. În schimb, a supraviețuit bârfa despre viețile lor private, subiect care pare să trezească întotdeauna un interes uriaș. Pentru a înfrânge mai convingător opiniile adversarului, discipolii maestrului îl fac pe acesta un sfânt și o minune de agerime, în vreme ce adversarul lui devine o creatură indescriptibil de jalnică și ridicolă, a cărei concepție despre existență trebuie, în consecință, să fie cu totul lipsită de valoare. Potrivit ficționalismului moral dominant, „sfântul” suveran emoțional are un fel de brevet asupra cunoașterii realității, spre deosebire de geniul mental.
+
+### 5.11 *Epicur*
+
+<sup>1.</sup>Avem puține informații de la Epicur însuși despre concepția sa asupra existenței. Exoteriștii susțin însă că doctrina lui a fost redată cu fidelitate de Lucrețiu, un roman care mai avea acces la scrierile sale.
+
+<sup>2.</sup>Epicur era materialist în sensul mai restrâns de fizicalist. Pentru el, lumea vizibilă era singura existentă. Își întemeia concepțiile pe Democrit. De altfel, prin Epicur și Lucrețiu am aflat detalii despre doctrina lui Democrit, teoria atomică exoterică. Democrit trebuie poate considerat materialist, însă nu fizicalist, căci nu ignora nicidecum existența materiilor lumilor superioare.
+
+<sup>3.</sup>Ideile următoare sunt cele esențiale în explicarea lumii de către Epicur, faptele și ipotezele care sunt încă proprii „materialismului filosofic”.
+
+<sup>4.</sup>Orice concepție trebuie să se bazeze pe experiență și cercetare. Presupunerea arbitrară este abia mai bună decât superstiția. Cunoașterea este indusă din constatarea prin simțul obiectiv a faptelor realității. Observațiile repetate de același fel oferă certitudinea că această cunoaștere este corectă. Conceptele formate de rațiunea subiectivă, călăuzită de sesizarea nemijlocită a simțului obiectiv, trebuie verificate prin experiență.
+
+<sup>5.</sup>Realitatea este alcătuită din atomi și spațiu gol. Acestea sunt bazele pe care trebuie explicată existența. Timpul nu este nimic în sine, ci numai perceperea succesiunii evenimentelor în spațiu. (Aceasta este în acord cu ezoterica: timpul înseamnă durată, existență continuată, și este doar un mod de a măsura procesele din natură, de pildă ziua și noaptea, anotimpurile etc., care depind de rotația planetei și de revoluția ei în jurul soarelui.) Numărul atomilor este infinit.
+
+<sup>6.</sup>Formarea și dizolvarea materiei, toate procesele, de la mișcarea atomilor la revoluția planetelor, se desfășoară în conformitate cu legile mecanice, eterne ale naturii (*ananke*). Finalitatea în natură pe care o putem constata este un caz special de cauze mecanice nesfârșit de numeroase. Un cosmos ordonat este un caz special al jocului etern al atomilor, de-a lungul timpului nesfârșit. Caracterul finalist care face viața durabilă se datorează faptului că tocmai ceea ce este finalist este cel mai stabil și își poate comunica, sau transmite, caracterul finalist.
+
+<sup>7.</sup>Sufletul constă din materie, iar conștiința este exclusiv o funcție a creierului. Conștiința este o calitate specială a materiei organice și apare ca rezultat al unor cauze mecanice. Schimbările stării de conștiință a sufletului sunt provocate de mișcarea în materie. Prin urmare, gândirea este determinată fizic, este întotdeauna rezultatul unei influențe exterioare. De aici rezultă că nu există posibilitatea activității inițiate de sine.
+
+<sup>8.</sup>La acestea Chrysippos ar fi putut adăuga următoarele observații.
+
+<sup>9.</sup>Numărul atomilor nu este infinit, ci atât de mare încât omul nu îl poate calcula. Singurul lucru infinit este spațiul nesfârșit, alcătuit din materie primordială nediferențiată. Un cosmos este un glob în materia primordială și există nenumărate asemenea globuri.
+
+<sup>10.</sup>Numai atomii primordiali sunt indestructibili, nu materia formată din ei. Toate formele materiale de existență sunt supuse unei schimbări continue. Energia constă dintr-un curent de atomi încărcați eteric (electric), „puncte de forță”.
+
+<sup>11.</sup>Materia și conștiința sunt aspecte concomitent identice și diferite. Materia afectează conștiința, iar conștiința afectează materia. În acest context putem lăsa deoparte faptul că nu conștiința este, în realitate, cauza ultimă a mișcării, ci al treilea aspect al existenței, energia dinamică etern autoactivă a materiei primordiale.
+
+<sup>12.</sup>Epicur nu poate explica originea conștiinței, nici unitatea ei, nici capacitatea ei de a afecta materia, nici cauzele proceselor sau ale gândirii inițiate de sine.
+
+### 5.12 *Chrysippos*
+
+<sup>1.</sup>Chrysippos, teoreticianul școlii stoice, era un ezoterician inițiat. A hotărât să elaboreze un sistem hylozoic exoteric, care a fost transmis posterității, denaturat și ridiculizat cum se cuvine, în măsura în care nu a fost considerat mai potrivit să fie suprimat ca aliat al stoicismului.
+
+<sup>2.</sup>Hylozoica fizică era astfel limitată la realitatea fizică, materia fizică și lumea vizibilă. Kant dovedește că această hylozoică a fost complet neînțeleasă. Crezându-se în stare să judece totul, el și-a rostit judecata adesea citată, care îi arată ignoranța reală: „hylozoismul ar fi moartea întregii filosofii naturale”. Dimpotrivă, el favorizează cercetarea. Afirmația că exclude o explicație mecanică a naturii este greșită. Legile naturii sunt fundamentale.
+
+<sup>3.</sup>Potrivit lui Chrysippos, există două aspecte echivalente ale existenței: materia și conștiința. Toată materia are conștiință.
+
+<sup>4.</sup>Pământul provine din apă, apa din aer, aerul din foc. Totul vine din focul primordial și se întoarce la el într-un ciclu etern, în conformitate cu legi imuabile. Unele dintre ele sunt finale, altele pur mecanice. Totul are un scop. Totul în lume este guvernat de înțelepciune perfectă.
+
+<sup>5.</sup>Atât divinitatea, cât și sufletul au un aspect material. Divinitatea este cosmosul și sursa întregii finalități. Sufletul mai trăiește un timp după moarte. Cei nesăbuiți petrec acest timp în lumea de jos; cei înțelepți, pe Câmpiile Elizee. Pretutindeni transpar cunoașterea preexistenței și a reîncarnării (nu a metempsihozei).
+
+<sup>6.</sup>Destinul, care este voința divinității, conduce totul spre divinitate. Cei care nu tind spre divinitate de bunăvoie sunt constrânși, mai devreme sau mai târziu, să o facă de forța împrejurărilor. Răul din existență este un bine mai mic, necesar continuării întregului, și îl împinge pe individ spre divinitate.
+
+<sup>7.</sup>Omul răspunde pentru acțiunile sale, deoarece are rațiune, posibilitatea alegerii și cunoașterea a ceea ce este drept. Cu cât un om se află mai sus, cu atât este mai liber chiar și în privința destinului. Numai omul înțelept este liber, bogat și frumos: liber fiindcă vrea ceea ce vrea destinul său, bogat fiindcă posedă tot ce își dorește, frumos fiindcă este natural și numai ceea ce este natural este frumos. Nu se teme de nimic, deoarece nimic nu-l poate vătăma. Singurul lucru care contează este dispoziția, motivul. Tot restul sunt *adiaphora*. Eliberarea de afecte, a nu fi mișcat de nimic, este starea cea mai dezirabilă, cea spre care trebuie tins.
+
+### 5.13 GNOSTICII
+
+<sup>1.</sup>Efectul accentuării declinului cultural, combinat cu confuzia politică, socială și economică tot mai mare (ca întotdeauna la trecerea într-o nouă epocă zodiacală) și cu clanurile aflate la nivelurile barbariei care se încarnează mai ales în asemenea vremuri de răsturnare, a fost diminuarea interesului pentru problemele mai serioase ale cunoașterii.
+
+<sup>2.</sup>Hierofanții ordinelor ezoterice de cunoaștere au căutat în zadar neofiți potriviți. Kabbalismul caldeean din Mesopotamia, Ordinul lui Mithra din Persia, hermetismul din Egipt duceau o viață lâncedă din lipsă de aspiranți. Ordinul pitagoreic a trebuit să-și limiteze interesele tot mai mult la problemele științifice ale concepției ezoterice despre lume. Chiar și vechile forme de religie își pierduseră puterea asupra minților oamenilor.
+
+<sup>3.</sup>În această situație de urgență a fost întemeiat la Alexandria, în 300 î.e.n., Ordinul gnostic. Avea o misiune atât teoretică, cât și practică. Deoarece concepția despre viață trebuie să se sprijine pe o temelie fermă, cunoașterea realității, întemeietorii au adoptat elementele esențiale ale hermetismului, accentuat emoțional, și ale hylozoicii mentale. Prin aceasta posedau gnosis (cunoașterea existenței, a sensului și scopului ei). Sarcina practică și cea mai importantă a Ordinului era să folosească forme noi, libere, nedogmatice de prezentare, pentru a atrage acei căutători care, recunoscând inadecvarea formelor vechi, căutau unica religie adevărată, năzuința eternă a omului spre divin, indiferent ce nume alege să-i dea.
+
+<sup>4.</sup>Această gnostică originară, autentică, a rămas secretă. Activitatea ei a durat vreo șase sute de ani (300 de ani înainte și 300 de ani după era curentă). Ordinul a dispărut ca urmare a răspândirii acelui creștinism căruia îi dăduse naștere fără voie. În istoria filosofiei, ultimei ramuri a Ordinului i s-a dat numele înșelător de „neoplatonism”, Plotin fiind reprezentantul ei cel mai cunoscut. Ceilalți mai importanți au fost Origen, Iamblichos și Proklos.
+
+<sup>5.</sup>Din cauza cerințelor stabilite pentru admiterea în Ordin (cea mai înaltă capacitate emoțională și mentală), acesta s-a bucurat de la început de mare respect. A fi admis era în sine o distincție. Comunitatea s-a răspândit relativ repede și avea loji în Egipt, Arabia, Persia și Asia Mică. Membrii așteptau avatarul despre care se profețise că se va naște la echinocțiul de primăvară, la intrarea în constelația zodiacală a Peștilor. Și a venit, născându-se în ceea ce este acum luna martie, în anul 105 î.e.n. (după cronologia acceptată).
+
+<sup>6.</sup>Părinții lui Jeshu erau de neam evreiesc, înstăriți și aparțineau stratului social cel mai înalt. Maria fusese invitată să-l nască pe noul avatar și, fiindcă atât ea, cât și Iosif erau gnostici, știau ce însemna aceasta. La vârsta de doisprezece ani, Jeshu a ales să intre în Ordinul evreiesc al esenienilor, care, deși secret, nu fusese instituit de ierarhia planetară. Jeshu era pe deplin conștient de riscul la care se expunea astfel. Ocolit de toți și urât pe ascuns din cauza libertății sale fără egal față de defectele omenești, a părăsit Ordinul la nouăsprezece ani și a călătorit în India via Egipt, întorcându-se în Palestina în anul 76 înaintea erei noastre.
+
+<sup>7.</sup>Acolo a strâns în jurul său un grup de discipoli aparținând tuturor ordinelor ezoterice de cunoaștere și le-a împărtășit o mulțime de fapte ezoterice noi despre procesele manifestării, involuția monadelor etc. De asemenea, a dat o nouă interpretare unui mare număr de simboluri. Unul dintre ele (necunoscut altor inițiați) era cel al celor trei cruci așezate pe „altarul” gnosticilor. Crucea din mijloc îl reprezenta pe mântuitorul omenirii (guvernul planetar), celelalte două pe hoțul pocăit (ierarhia planetară) și pe cel nepocăit (omenirea).
+
+<sup>8.</sup>Această lucrare a fost însă curând întreruptă. Acuzat de esenieni că dezvăluia secrete, faptă pedepsită cu moartea, a fost ucis cu pietre, din ordinul Consiliului Suprem, de o gloată ațâțată, în anul 72 înaintea erei noastre.
+
+<sup>9.</sup>Pentru a păstra amintirea învățătorului fără egal (o expresie folosită greșit în prezent), un gnostic evreu a hotărât să înfățișeze o așa-numită viață omenească perfectă, îndemnând oamenii să o imite și provocând reflecția prin tragedia ei sfâșietoare. Ideea exista mai înainte, într-o veche povestire egipteană simbolică despre viața omului. În ea a introdus cu ingeniozitate simboluri și ziceri gnostice, episoade bine cunoscute din viața maestrului și ceea ce reușise să adune din parabolele acestuia etc. Această primă versiune a fost apoi prelucrată individual de vreo cincizeci de gnostici din Alexandria.
+
+<sup>10.</sup>Inevitabil, în acest proces zicerile gnostice și-au schimbat forma și au dobândit astfel un alt înțeles. Un exemplu este afirmația: „Nimeni nu va veni la tatăl decât prin mine.” Aceasta era o reinterpretare a faptului ezoteric că, înainte ca monada să poată atinge regnul divin (tatăl = învelișul monadei în lumea 43), trebuie să dobândească învelișuri în lumile intermediare (fiul = învelișul în lumea 46).
+
+<sup>11.</sup>În cele din urmă au fost făcute și răspândite nenumărate copii ale acestor cincizeci de legende. A luat ființă o mișcare religioasă de masă, care și-a luat numele de la figura ei centrală, Christos, fiul lui Dumnezeu. Această mișcare aproape social-revoluționară s-a răspândit în tot Imperiul Roman, în pofida tuturor eforturilor autorităților de a o înăbuși. În cele din urmă, singura ieșire a fost să fie îndrumată această revoluție pe căi potrivite și transformată în religie de stat.
+
+<sup>12.</sup>La ordinul împăratului Constantin, părintele Bisericii Eusebios a pregătit sursele scrise necesare ale Noului Testament pe care îl cunoaștem. Modul în care a făcut aceasta reiese limpede din faptul că, în istoria ezoterică, este numit cel mai mare falsificator literar al lumii. Ar fi de dorit ca un sine-46 să parcurgă Evangheliile verset cu verset, precizând originile: spus de Christos, spus de Jeshu, zicere gnostică curentă, formulările proprii ale autorului Evangheliei, lucruri modificate și adăugate de Eusebios. Acestea sunt cele cinci surse originare. Acest Testament a fost acceptat prin aclamație la un conciliu de episcopi convocat de împărat (Niceea, 325 e.n.). Nivelul educațional al episcopilor prezenți poate fi apreciat după faptul că singurii de față care știau să citească erau împăratul și Eusebios. Poate că dreptul de vot nu este dovada infailibilă a cunoașterii și a capacității de judecată. Poate că sistemul democratic de vot nu este cu totul rațional.
+
+<sup>13.</sup>Scrierile cvasi-gnostice au avut însă și un alt efect. Mulți dintre cei care le citeau credeau că învățătura stranie pe care o dobândiseră atunci îi făcea apți pentru intrarea în Ordinul gnostic. Spre dezamăgirea celor mai mulți și spre indignarea multora, s-a dovedit însă că puțini erau aleși dintre toți cei care se socoteau chemați.
+
+<sup>14.</sup>Cei respinși au găsit însă o cale de ieșire. Dacă trufașii doctori gnostici nu voiau să-i inițieze, puteau fi „inițiați spiritual” și puteau primi putere „de la cea mai înaltă autoritate” să-și înființeze propriile loji. Asemenea loji au răsărit pretutindeni ca ciupercile. Se calculează că existau peste șaptezeci de secte cvasi-gnostice, toate certându-se frenetic în privința celei care posedă unicul adevăr și aruncându-și unele altora pamflete. (Recunoaștem tendința?) S-a ajuns atât de departe, încât adevărații gnostici au schimbat numele doctrinei lor în teosofie atunci când gnosticismul a devenit un termen de ocară și a intrat, ca atare, în acea colecție de legende numită istorie.
+
+### 5.14 *Plotin*
+
+<sup>1.</sup>Unii discipoli ai lui Platon au devenit și ei pitagoreici inițiați, dar nu au urcat la grade înalte. În încercarea de a compensa lipsa faptelor ezoterice, au adoptat multe simboluri neinterpretate de la alte societăți. Totul a degenerat curând în binecunoscuta speculație asupra simbolurilor. Moștenitorii acestui „cvasi” s-au numit platonicieni. Faptul că Plotin a fost socotit unul dintre ei se datorează ignoranței cu privire la marea diferență. Sub denumirea comună de „neoplatonicieni”, istoricii au reunit membri ai Ordinelor pitagoreic și gnostic, „platonicieni” și păstrători tradiționaliști ai învățăturilor lui Platon și Aristotel.
+
+<sup>2.</sup>Explicând concepția generală despre frumos, Platon spunea că odinioară văzuserăm cu toții ideea frumosului în lumea ideilor. Aceasta a fost de ajuns ca orice fantasist să se imagineze pe deplin acasă în acea lume.
+
+<sup>3.</sup>Plotin, cel mai cunoscut dintre „neoplatonicieni”, a înțeles că, dacă ignoranța urma să fie împiedicată să strice totul prin speculația ei, cel puțin lucrul suprem trebuia așezat dincolo de atingerea gândirii. Pentru a face imposibilă orice fantasmagorie ulterioară, divinitatea trebuia eliberată de conceptul de personalitate și de toate celelalte atribute degradante. Mai mult, în lumea ideilor, cineva putea crede că a dobândit cunoașterea prin „contemplarea sistemului ierarhic al ideilor”, fără să bănuiască ce era încă mai esențial, anume unitatea existenței.
+
+<sup>4.</sup>Plotin, care era inițiat, știa că există lumi superioare: lumea esențială (46) (buddhi al indienilor) și lumea supraesențială (45) (în sanscrită: nirvana), lumile celui de-al cincilea regn natural. Următoarea noastră lume superioară este lumea esențială, lumea unității. Dar aceasta nu trebuia spusă. Se putea însă face întotdeauna un concept simbolic din ea și astfel a făcut din „Unul” originea tuturor lucrurilor.
+
+<sup>5.</sup>Din Unul vine existența, așa cum o cunoaștem, în trei stadii (ipostaze). Mai întâi vine lumea ideilor. Din aceasta vine „lumea sufletelor” (lumile mentală și emoțională), iar din aceasta, în cele din urmă, lumea fizică.
+
+<sup>6.</sup>Odată cu „neoplatonicienii” apare vechiul simbol al „creației din nimic”, care începe să apară din nou în cercetarea modernă. Fizica nucleară „scindează atomii”, astfel încât rămâne „nimicul”. Potrivit lui Pitagora, atomii materiei primordiale par a fi „viduri impenetrabile, infinitezimale în materia primordială” și, prin urmare, „nimic”. Cosmosul este alcătuit din atomi primordiali și, prin urmare, este „creat din nimic”.
+
+<sup>7.</sup>Pentru Plotin, întreaga existență era divină, inclusiv partea ei fizică, atât de perfectă pe cât putea fi. Ceea ce considerăm imperfect nu este decât un stadiu inferior. Răul este un bine mai mic. Binele devine rău dacă îl împiedică pe om să dobândească un bine încă mai înalt. Toate acestea sunt ezoterică. Viața este o școală. Suntem aici pentru a avea experiențe și a învăța din ele. Învățăm identificându-ne cu ceea ce ne este necunoscut. Ne eliberăm de lucrurile inferioare într-un proces fără sfârșit. Fiecare ideal indică dincolo de sine spre un altul, încă mai înalt, pe care nu-l putem descoperi înainte de a fi realizat idealul inferior și nu-l putem înțelege deplin înainte de a-l fi realizat pe cel superior.
+
+<sup>8.</sup>Concepția despre frumos, potrivit lui Plotin, depinde de unirea simetriei, armoniei și finalității.
+
+### 5.15 SCOLASTICA
+
+<sup>1.</sup>Când clanul care a construit cultura grecească a încetat să se mai încarneze, acea epocă s-a încheiat. Cei care s-au întrupat în timpul Imperiului Roman au lucrat mai ales pentru a le da oamenilor o concepție despre viață împreună cu o concepție despre drept. Clanurilor barbare care s-au încarnat după aceea le lipseau toate premisele culturii și filosofiei. Rezultatele dobândite de cercetare urmau să fie uitate, cunoașterea că natura este guvernată de legi urma să se piardă, iar credința superstițioasă în arbitrariul atotputerniciei urma să înlocuiască, timp de aproape două mii de ani, explicația naturală, de bun-simț, a cauzelor.
+
+<sup>2.</sup>Părinții Bisericii fuseseră cu toții, la origine, cvasi-gnostici. Dintr-un motiv oarecare, nimeni în afară de Clemens și Origen nu fusese inițiat. Cei cărora li se refuzase inițierea au arătat, prin felul în care s-au răzbunat, că nu erau copți pentru doctrina inițiaților. Cu o înduioșătoare unanimitate, au hotărât că în viitor nu va mai exista niciun motiv de a se preocupa de filosofie și de orice alte „amăgiri diavolești”. S-au străduit să-și purifice doctrina de tot ce mai rămăsese rațional în ea. Au reușit peste așteptările lor. Distrugerea sistematică a tuturor manuscriselor a fost un mijloc incredibil de eficace. Augustin a făcut tot ce a putut pentru a despărți pentru totdeauna teologia de știință. Concepția sa despre iubirea divină este grăitoare: „Nimiciți orice rezistență! Ucideți-l pe cel care nu se va converti!” Biserica s-a dovedit gata să învețe.
+
+<sup>3.</sup>Pitagoreicii distingeau trei lumi: lumile mentală, emoțională și fizică. Părinții Bisericii, care auziseră despre această împărțire tripartită, dar nu aveau nicio idee despre ce însemna, au inventat „cerul, pământul și iadul”, și în legătură cu Câmpiile Elizee și Hadesul grecilor.
+
+<sup>4.</sup>Nivelul intelectual se vede cel mai bine din faptul că nici măcar episcopii, cu foarte puține excepții, nu știau să citească și să scrie. A ști să faci aceasta era socotit aproape păcătos. În colegiile unde erau formați preoții, toată instruirea se dădea oral. Manuscrisele erau foarte rare. Prin repetare necontenită, erau puși să memoreze tot ce trebuiau să știe și să spună. Aplicând tactici de teroare (ficțiunea păcatului de neiertat ca o crimă împotriva unei ființe infinite care cere pedeapsă infinită, prin răspândirea fricii de moarte și de Iadul veșnic), Biserica știa să domine mințile oamenilor, ajungând în cele din urmă puterea politică și spirituală supremă, care făcea și desfăcea regi și împărați.
+
+<sup>5.</sup>După ce dobândise puterea dorită, Biserica a simțit tot mai mult nevoia să se îngrijească de educația conducătorilor spirituali. Au fost întemeiate universități în care studenții erau învățați mai ales teologie și latina scolastică, devenită „limbă universală” obligatorie. Cu cât puterea ei era mai consolidată, cu atât Biserica avea mai puține motive să se teamă de critică. Contactele cu arabii, care păstraseră cunoașterea filosofiei grecești, mai ales pe cea a lui Platon și Aristotel, așa cum fusese prezentată de „neoplatonicieni”, au oferit Bisericii unele idei raționale. Abia mult mai târziu, în Renaștere, aveau să scoată la iveală săpăturile rămășițe ale comorilor literare ale Greciei și Romei.
+
+<sup>6.</sup>Scolastica poate fi împărțită în trei perioade principale. Prima perioadă era caracterizată de credință oarbă și convingere irațională. Nietzsche, citând binecunoscuta afirmație a lui Tertullian, unul dintre Părinții Bisericii, a remarcat satiric că nu ar fi trebuit să fie *credo quia absurdum est* (cred fiindcă este absurd), ci *credo quia absurdus sum* (cred fiindcă sunt idiot). A doua perioadă era caracterizată de *credo ut intelligam*: cred pentru a înțelege. Acea înțelegere era ceea ce te-ai fi așteptat să fie. A treia perioadă, încă proprie Bisericii Catolice, face posibilă o recunoaștere prudentă a acelor rezultate ale cercetării științifice care nu mai pot fi negate.
+
+<sup>7.</sup>Pe măsură ce numărul concepțiilor raționale creștea și ele ocupau un loc tot mai mare în ficționalismul teologic, reflecția a început încet să se întărească. Aceasta a sporit capacitatea de a supune cercetării critice temeliile credinței, așa-numitele surse sacre (Biblia, scrierile Părinților Bisericii și hotărârile conciliilor). Un rezultat al acestei critici a fost că Biserica s-a văzut obligată să numească profesori de filosofie la universități. Li s-a dat sarcina de a-și folosi mințile luminate de Dumnezeu pentru a combate rațiunea critică întunecată de diavol. În cele din urmă a luat ființă o literatură bogată. Concepțiile existente au fost prelucrate într-o dogmatică a rațiunii teologice și în acea logică scolastică ce avea să paralizeze gândirea până târziu în secolul al XIX-lea.
+
+<sup>8.</sup>Potrivit lui Toma d'Aquino, cel mai de seamă dintre filosofii Bisericii, anumite dogme puteau fi dovedite. Altele (de pildă, trinitatea) depășeau puterea de cuprindere a rațiunii, dar trebuiau crezute.
+
+<sup>9.</sup>Filosofia scolasticii este în mare parte o adaptare a scrierilor atribuite în mod tradițional lui Aristotel. Ceea ce nu era limpede în ele și părea contradictoriu a devenit obiectul a nenumărate explicații agere și, firește, eșuate despre ce voise de fapt să spună Aristotel.
+
+<sup>10.</sup>Exista un întreg spectru de presupuneri despre lumea ideilor a lui Platon, ideile platonice, relația dintre ideile platonice și formele naturale fizice, ce gândea Aristotel despre aceste concepte, dacă ideile platonice existau înaintea lucrurilor sau în ele ori produceau formele, ce înțelegea Aristotel prin potențialitate (posibilitate) și actualitate (realitate) etc. Iar învățații încă se ceartă în privința acestor pseudo-probleme și a celor legate de ele.
+
+<sup>11.</sup>Sistemul pe care Aristotel îl construise prin metoda sa inductivă era socotit de scolastici un sistem de cunoaștere absolută din care cunoașterea putea fi produsă prin deducție. Ei mai credeau că se poate dobândi cunoașterea logic, prin generalizări sau abstracții tot mai largi. Dacă cineva numai „gândea corect”, avea să ajungă la abstracțiile ultime, sau categoriile, și astfel la cunoașterea absolută. Obscuritatea întregului acestui labirint al gândirii l-a indus ulterior pe Kant în eroare, făcându-l să construiască o rațiune „pură” a categoriilor sau conceptelor absolute.
+
+<sup>12.</sup>Faptele ezotericii despre diferitele învelișuri ale omului (câte unul în fiecare lume) ajunseseră la scolastici, firește în formă denaturată, prin Aristotel, cvasi-gnostici și arabi. Astfel, ei învățau în psihologia lor că omul era alcătuit din trei suflete distincte: *anima vegetativa*, pe care îl împărtășea cu plantele și animalele; *anima sensitiva*, pe care îl împărtășea cu animalele; și *anima rationalis*, care îi aparținea numai lui și era socotit nemuritor și de origine divină. Funcția sufletului vegetal era să asimileze hrana; aceea a sufletului animal, să se miște, să perceapă și să dorească; iar a sufletului uman, să gândească.
+
+<sup>13.</sup>Capacitatea de reflecție crește pe măsură ce este exersată, dacă nu este paralizată prin idiotizarea rațiunii. În pofida tuturor eforturilor violente ale Bisericii de a împiedica critica, reflecția neobosită, odată trezită, a început puțin câte puțin să descopere o absurditate după alta. La universități au început să distingă tot mai mult între ceea ce era adevărat potrivit teologiei și ceea ce era adevărat potrivit filosofiei. Cât de mult era prețuit adevărul teologic se vede cel mai bine din formulele curente ale vremii: „Nimic nu mai poate fi cunoscut de rațiune, pentru că teologii îl cunosc. Teologii își întemeiază doctrinele pe fabule. Filosofii sunt singurii oameni înțelepți din lume.”
+
+<sup>14.</sup>S-a produs însă o reacție care a căutat să înăbușe orice asemenea critică. Biserica, condusă de Inchiziție, a văzut în cele din urmă, asemenea tuturor dictaturilor, că numai prin reprimare, suprimarea libertății de exprimare a opiniilor, forță și, dacă toate celelalte eșuează, teroare poate fi apărată credința. Abia odată cu Revoluția Franceză filosofii au îndrăznit să se opună deschis dogmatismului. Condițiile erau aproape la fel de rele în țările protestante ca în cele catolice. Chiar în anii 1840, Schopenhauer a trebuit să consulte un avocat pentru a vedea dacă îndrăznea să publice una dintre lucrările sale. Teologia, ca orice altă dictatură cu tirania ei a opiniei, le prescrie oamenilor ce trebuie să gândească și cercetării cum trebuie să arate realitatea. Biserica, dușmanul libertății, a început să lupte pentru libertate când își pierduse ea însăși puterea. Tipic.
+
+### 5.16 RUPTURA CU SCOLASTICA
+
+<sup>1.</sup>Există două feluri de cunoaștere obiectivă a realității: cea a lumii ideilor și cea a cercetării naturii. Scolastica nu le avea pe niciuna. Nu avea nimic în comun cu sistemul mental de cunoaștere al ezotericii. Nu știa despre realitate mai mult decât puținul păstrat în rămășițele științei naturale aristotelice. Sistemul scolastic era un sistem dogmatic al ignoranței, a cărui criticare era interzisă sub pedeapsa morții. Războiul pe care bunul-simț în ascensiune a trebuit să-l poarte împotriva lui a fost lung și amar. Abia mult după începutul secolului al XIX-lea fuseseră măturate toate rămășițele gândirii scolastice. Atât de greu sunt de eradicat sistemele dogmatice întemeiate în cele din urmă pe argumente emoționale. Dar, pe termen lung, nici dictatorii, nici ideologiile mincinoase, nici puterile represiunii nu pot împiedica spiritul uman în căutarea și găsirea adevărului, nu pot împiedica cercetarea în descoperirea ei neîntreruptă și fără sfârșit a realității, nici filosofia în construirea unor noi sisteme temporare de orientare în rezultatele dobândite ale cercetării.
+
+<sup>2.</sup>Lupta împotriva scolasticii a durat atât de mult fiindcă Biserica avea privilegiul de a decide ce trebuia predat în universități și în școlile orășenești înființate treptat. Până în secolul al XIX-lea, educația se limita în principal la teologie, latină, greacă și ebraică, precum și la conținutul literaturilor respective. Totul trebuia să urmeze stilul tradițional, iar orice abatere de la acesta era socotită condamnabilă.
+
+<sup>3.</sup>Ruptura a început cu descoperirea literaturii clasice în timpul Renașterii. Cusanus și Bruno, Galilei și Copernic au putut să se distingă drept deschizători de drumuri noi fiindcă toți patru intraseră în posesia unor manuscrise pitagoreice despre astronomie, fizică și alte chestiuni. Din aceste scrieri au aflat despre sistemul solar heliocentric, despre cosmosul plin de sisteme solare etc. Istoria științei a păstrat numele unora dintre pionierii cercetării și ai gândirii libere. Uită adesea milioanele de martiri ai adevărului.
+
+<sup>4.</sup>În cele mai multe ramuri ale științei naturii s-au făcut acum încet, pas cu pas, noi descoperiri. În metafizică, Bacon, Hobbes, Descartes, Spinoza, Leibniz și alții au încercat să frângă puterea suverană a scolasticii și să pună ceva mai rațional în locul ei. Eforturile lor nu au însemnat însă decât încercări bâjbâite de a interpreta ceea ce fusese descoperit în ultima vreme din învățăturile anticilor.
+
+<sup>5.</sup>De regulă, o idee intuitivă îi îndemna pe gânditori să construiască un sistem. Cei care, eliberați de ficționalismul universal, se dedică încercării de a cuprinde realitatea într-o anumită privință pot trăi o intuiție concretizată într-o viziune mentală. Aceasta este o experiență atât de puternică, încât puțini îi pot scăpa puterii, ci trebuie să consacre o viață de abnegație formării ideii într-un sistem, cu materialul puțin disponibil altfel. De aceea, de regulă, numai ideea originară supraviețuiește când elaborarea ulterioară s-a prăbușit. Astfel este inoculată una după alta câte o idee ezoterică și devine treptat posibilă pregătirea pentru înțelegerea sistemului ezoteric. În lipsa faptelor, acești gânditori recurg la multe argumente pe care cei crescuți în scolastică le acceptau drept dovezi, dar pe care copiii unei epoci ulterioare le găsesc adesea derutante și neinteligibile. Pentru a pătrunde soluțiile încercate de acești gânditori la pseudo-problemele filosofice, trebuie să fim familiarizați cu felurile în care priveau oamenii lucrurile în epoca lor. Profunzimea se caracteriza prin a vedea ceva originar axiomatic în ceea ce era vădit absurd, chinuindu-se să interpreteze aceasta prin noi absurdități.
+
+### 5.17 *Bacon*
+
+<sup>1.</sup>Potrivit lui Francis Bacon, filosofia este știința existenței deduse dintr-un sistem perfect. Aceasta este ezoterică. Până nu poți deduce, nu ai stăpânit sistemul. Dar de unde obții acest sistem mental perfect?
+
+<sup>2.</sup>Sistemele de gândire construite pe baza faptelor constatate și sistematizate sunt mijloace de orientare într-un haos de fapte disparate, culese nesistematic. Asemenea sisteme arată cât de departe a ajuns cercetarea. În lipsa unor fapte suficiente, sistemul este completat cu ipoteze și teorii, presupuneri și ghiciri mai mult sau mai puțin arbitrare.
+
+<sup>3.</sup>Alături de aceste sisteme ale științei naturii, filosofii și teologii își construiesc propriile sisteme, cu totul diferite. Sistemele științifice se prăbușesc când sunt constatate fapte noi care nu pot fi integrate în ele. Sistemele filosofice sunt demolate când sunt supuse berbecului analizei critice. Sistemele teologice dogmatice nu trebuie criticate, ci numai admirate.
+
+<sup>4.</sup>Bacon, bucurându-se de protecția reginei Elisabeta, a putut ataca sistemul scolastic, pe care îl numea „Aristotel”. A fost un atac violent, distructiv, îndreptat împotriva a tot ce fusese înainte, chiar și împotriva modestelor noi încercări bâjbâite. Numai cercetarea naturii, constatarea faptelor, descrierea realităților și așezarea faptelor în contextele lor corecte ofereau cunoașterea realității obiective. Oamenii de știință trebuiau să se limiteze exclusiv la legile cauzale ale naturii și să le ignore pe cele finale. Sistemul dogmatic dominant al ignoranței trebuia abolit, fiindcă i se îngăduise să înșele omenirea prea mult timp.
+
+<sup>5.</sup>Bacon a fost învinuit că nu a expus sistemul de cunoaștere despre care susținea că îl posedă. A fost condamnat și pentru multe alte lucruri. Când istoria ezotericii va putea fi făcută publică într-o zi, se va dovedi corectă axioma ezoterică potrivit căreia ceea ce știm despre cei mari este legenda despre ei.
+
+<sup>6.</sup>Bacon era conducătorul Ordinului Rozacrucienilor, iar sistemul la care făcea aluzie îl preda celor pe care îi iniția în acel Ordin. În vremurile noastre au luat ființă mai multe secte rozacruciene care pretind în mod fals că predau doctrina autentică a Rozacrucienilor, care nu a ajuns niciodată în mâinile neinițiaților și nici nu va fi îngăduit să fie făcută publică încă multă vreme, deoarece cuprinde fapte despre forțe ale naturii încă nedescoperite, pe care omenirea le-ar folosi inevitabil greșit pentru a extermina viața de pe pământul nostru.
+
+<sup>7.</sup>În privința acelei părți a sistemului ezoteric căreia i s-a îngăduit acum să devină exoterică, trebuie arătat că întrebarea deznădăjduit de naivă „cum pot ei să știe aceasta?” firește că nu primește răspuns, fiindcă nu este relevantă. Ezotericianul se mulțumește să le ceară criticilor să infirme sistemul, lucru care ar trebui să le fie simplu: să arate punctele de plecare false, nesustenabilitatea logică, contradicțiile inerente, consecințele absurde etc. Nu există alt fel de infirmare. Oricine respinge totul drept simplă chestiune de credință (felul obișnuit de „infirmare”) nu l-a examinat niciodată logic. Sistemul mental ezoteric nu poate fi decât o ipoteză de lucru pentru majoritatea oamenilor. Ca atare, va fi recunoscut într-o zi ca singurul cu adevărat rațional.
+
+<sup>8.</sup>Numai în sistemul mental rațional se va găsi concordanță între „ființare și gândire”, între construcția mentală a rațiunii și realitate. Acest sistem mental poate fi obținut în două moduri: prin inducție sau prin deducție. Ignoranța trebuie să urmeze calea lentă a inducției și analizei, constatând fapte și sintetizându-le. Ezotericianul urmează calea rapidă și infailibilă a deducției din sistemul de idei.
+
+<sup>9.</sup>Bacon voia să înlocuiască sistemul aristotelic cu teoria atomică a lui Democrit.
+
+<sup>10.</sup>Puținele aluzii simbolice pe care le-a făcut Bacon au fost cu totul suficiente pentru ca posteritatea să-l eticheteze drept șarlatan superstițios.
+
+<sup>11.</sup>Ceea ce ignoranța nu înțelege, autoritățile ei numesc șarlatanie. Înainte ca sistemul de idei să poată fi făcut public, ideile lui fundamentale trebuie inoculate una câte una, pentru a putea fi recunoscute când vine timpul ca întregul sistem să fie prezentat. De fapt, el a fost făcut public prea devreme. Examenele de admitere într-un ordin ezoteric erau menite să constate ce era latent în neofit și ce grad ar fi putut atinge. Căci ignoranța fie respinge, fie denaturează tot ce nu înțelege, fără a mai socoti că egoismul abuzează de cunoașterea ezoterică a unor forțe ale naturii altfel necunoscute.
+
+<sup>12.</sup>Bacon nu a avut niciodată prilejul să-și continue lucrarea filosofică de pionierat și, exoteric, nu a putut decât să demonstreze utilitatea metodei inductive de cercetare. Critica sa la adresa metodei scolastice a pătruns însă atât de adânc, încât oamenii încă nu au văzut că metoda deductivă este superioară pentru instruirea în școli. La școală, tinerii trebuie orientați într-un univers care le este necunoscut, nu trimiși să-l exploreze singuri. Într-o asemenea orientare nu se poate proceda inductiv, nu dacă vrei să produci ordine, metodă și claritate în mințile tinerilor. Teama de dogmatism i-a indus în eroare pe cei care nu au văzut că siguranța de sine este o chestiune de „temperament”, indiferent de metoda folosită.
+
+<sup>13.</sup>Inducția este o metodă pentru cercetătorii care sunt deja orientați și și-au format propriile sisteme, chiar inconștient. Altfel, orice constatare ar fi întâmplătoare și incoerentă. Faptele disparate, fără sistem, sunt numai înșelătoare. Metoda deductivă face instruirea mult mai interesantă și mai ușor de cuprins, deoarece cuprinderea merge de la general la particular. Metoda deductivă, fără formalizarea concluziilor și fără dogmatism, este cea mai bună lecție de gândire sistematică. De ce erai pus la școală să înveți toate acele lucruri neesențiale, cum ar fi, de pildă, dinții carnivorelor, dar nimic despre evoluția biologică? Aceasta ar fi dat un sens biologiei. Prea mulți oameni cu înțelegere latentă își pierd interesul pentru studiu la școală.
+
+<sup>14.</sup>Bacon a redat omului încrederea în bunul-simț și l-a învățat să vadă necesitatea cercetării; să vadă că există o diferență între concluzia logică, pe care o poate învăța mintea cea mai simplă, și capacitatea de judecată, care presupune pătrundere și înțelegere; că prima este un procedeu tehnic, pe când cea de-a doua cere cunoașterea faptelor; că judecățile opiniei publice nu sunt judecăți reale; că cei mai mulți oameni judecă totul din propria concepție limitată și devin astfel victimele propriilor idiosincrazii; că învățarea constă în mare parte în cunoașterea dogmelor și a altor ghiciri; că filosofii nu au cuprins problemele filosofice, ci numai au crezut că le-au cuprins.
+
+### 5.18 *Descartes*
+
+<sup>1.</sup>Cu toată absurditatea ei, scolastica i-a îngăduit omenirii să-și păstreze sesizarea obiectivă a existenței lumii exterioare.
+
+<sup>2.</sup>Cele două probleme care i-au interesat cel mai mult pe filosofi când cercetarea naturii a reînceput cu Galilei priveau natura materiei și relația dintre conștiință și materie, mai ales cea dintre corp și suflet. Descartes, Spinoza și Leibniz au inventat explicații diferite. Hobbes a rămas fidel lui Epicur.
+
+<sup>3.</sup>Descartes avea să-și înceapă speculația filosofică îndoindu-se de toate și a ajuns la concluzia că se putea îndoi de toate, cu excepția faptului că gândea și că, din moment ce gândea, exista. Scepticismul nu poate fi infirmat prin acea frază. Nici scepticul nu ar accepta sofismul că realitatea trebuie să existe, fiindcă altfel divinitatea ar fi un înșelător care ne-a făcut să credem că ea există. Dovada lui despre existența lui Dumnezeu este la fel de isteață. Sună cam așa: Dacă avem o ficțiune deosebit de frumoasă, atunci ea este corectă; altfel nu am avea-o.
+
+<sup>4.</sup>Descartes era subiectivist. Potrivit subiectivismului, perceperea de către om a obiectelor materiale obiective sau a unei lumi din afara lui este pur subiectivă și nu este determinată nici de obiecte, nici de lumea exterioară. S-a făcut orice încercare imaginabilă pentru a-i convinge pe oameni că nu văd ceea ce văd. De pildă, s-a susținut că obiectele ar putea să nu existe deloc, că ar putea exista, dar nu putem dovedi sau explica aceasta, că poate sunt diferite de perceperea noastră asupra lor, că nu sunt decât imagini în conștiința noastră. Această obsesie a început cu Descartes. Hume, Kant și Fichte au fost deosebit de inventivi în încercările lor de a demonstra logic justețea îndoielii subiectiviste cu privire la existența unei lumi exterioare obiective. Din fericire, s-a putut demonstra absurditatea tuturor acestor încercări. Concepția bunului-simț a triumfat, după cum se va explica mai departe. Conștiința obiectivă este necesară pentru a percepe lumea exterioară. Nu putem ști nimic despre ceea ce nu putem percepe obiectiv. Prin urmare, pentru a percepe realitatea obiectivă superfizică este necesară conștiința obiectivă superfizică.
+
+<sup>5.</sup>Descartes a preluat termenul de substanță de la scolastici. Aceștia ajunseseră să cunoască noțiunile de spirit și materie din religia persană. Spiritul reprezenta lumina și binele, materia, întunericul și răul. Astfel, „materia” a fost alungată din speculație. În locul ei se folosea termenul foarte vag de „substanță”, însemnând ceva ce nu putea fi explicat, ceva despre care se presupunea că se află în spatele calităților lucrurilor. Folosind termenul „substanță” în loc de „materie”, Descartes evita riscul de a fi acuzat că este aliat al puterilor întunericului.
+
+<sup>6.</sup>Totul constă din substanță, adică din ceea ce este independent de orice altceva. Dumnezeu este „substanță absolută”. Omul este relativ, ceea ce înseamnă că este alcătuit din două substanțe: corpul, care este din substanță materială, și sufletul, care este din substanță imaterială.
+
+<sup>7.</sup>De fapt, acestea sunt numai nume noi pentru noțiunile lui Chrysippos despre corp ca materie vizibilă și despre suflet ca materie invizibilă pentru cei mai mulți oameni. Ficțiunea substanței imateriale a fost hotărât un regres, fiindcă implică o contradicție. Cuvântul „substanță” este doar un alt cuvânt pentru materie.
+
+<sup>8.</sup>Pentru că substanța, spre deosebire de materie, nu trebuia să fie alcătuită din atomi, a trebuit să găsească moduri de a o parafraza. A făcut corpul să constea din extensie, iar sufletul din gândire. Drept urmare, conceptele obiective au devenit subiective. Prin tertipuri asemănătoare, toate conceptele obiective au fost subiectivizate mai târziu, până când totul a devenit subiectiv.
+
+<sup>9.</sup>Atunci relația dintre corp și suflet trebuia explicată. Aceasta era o pseudo-problemă care a prilejuit nesfârșită frământare a minților și a dat naștere celor mai fantastice excese. Potrivit lui Descartes, interacțiunea corpului cu sufletul era produsă prin spirite vitale speciale. Alții considerau că divinitatea intervenea în fiecare caz individual, aranjând lucrurile spre mulțumirea tuturor. Iar unii presupuneau că această minune constantă fusese fixată de Dumnezeu o dată pentru totdeauna.
+
+### 5.19 *Hobbes*
+
+<sup>1.</sup>Hobbes pornea de la scolastică, dar a adoptat pentru filosofia sa direcții de gândire de la sofiști și fizicaliști. Următoarele afirmații ale lui pot fi numite ezoterice:
+
+<sup>2.</sup>Toată realitatea exterioară este materială. Și sufletul este material, deși de un fel prea fin pentru a fi observabil. Orice mișcare presupune materie. Manifestările sufletului sunt, pe lângă senzațiile subiective, și mișcări în materie. Ezoterica este de acord că asociațiilor de gânduri din creier le corespund funcții fiziologice ale celulelor creierului, dar susține și că substanța cerebrală nu este suficientă în sine. Ca tuturor celorlalte feluri principale de conștiință, conștiinței mentale îi corespunde un fel propriu de materie.
+
+<sup>3.</sup>Hobbes exprimă o axiomă ezoterică atunci când spune că știința constă în a deduce efectele din cauze și cauzele din efecte. În pofida fizicalismului său altminteri foarte vag, lipsit de teorie atomică, Hobbes a ajutat prin aceste definiții la instaurarea concepției fizicaliste despre lume în Anglia.
+
+<sup>4.</sup>Este limpede că concepția fizicaliștilor este cu mult superioară tuturor celorlalte teorii filosofice. Ei pot cerceta obiectiv cel puțin o lume, lumea fizică. Astfel își păstrează bunul-simț. Nu neagă existența lumii exterioare. Orice intră în conflict cu bunul-simț, adică cu constatarea faptelor prin simț, nu poate fi în acord cu realitatea. Și aceasta este o axiomă ezoterică. Bunul-simț se ține de realitatea obiectivă.
+
+<sup>5.</sup>Teoria atomică primitivă a lui Epicur a rămas predominantă în cercurile fizicaliste. După descoperirea electricității, mișcările atomilor au fost explicate ca fiind produse de forțe electromagnetice. Această teorie nu a fost abandonată până când fizica nucleară, în secolul al XX-lea, a început așa-numita scindare a atomilor. Aceste experimente au infirmat dogma „indestructibilității materiei”. Potrivit ezotericii, numai atomii primordiali sunt indestructibili. Toată materia compusă este dizolvabilă. Fizica nucleară, încercând însă să exploreze structura materiei, nu a ajuns la atomul fizic. Cu mult înainte ca oamenii de știință să descopere atomul fizic, materia a devenit invizibilă chiar și sub cele mai puternice microscoape. Materia pare să „se dizolve în nimic”. Aceasta a dat, firește, naștere presupunerii că „materia se dizolvă în energie”. Nu există energie liberă de materie. Energia este materie, curenți de „puncte de forță”. Cu cât este mai înalt felul de materie căruia îi aparține o moleculă, cu atât conținutul ei de materie este mai mic și efectul ei energetic mai mare. Cândva, când va fi posibil să se scindeze atomul fizic, se va obține un nou fel principal de materie care aparține lumii emoționale, inaccesibilă celor mai mulți oameni.
+
+### 5.20 *Spinoza*
+
+<sup>1.</sup>Spinoza pornea de la Descartes. A preluat de la el termenii de substanță, extensie și gândire. Dar a îmbunătățit teoria făcând din două substanțe una singură. În schimb, acestei substanțe i s-au dat două calități fundamentale: extensia și gândirea (sau corpul și sufletul: materia și conștiința). El definea substanța drept „ceea ce există în sine și este perceput prin sine”. Dumnezeu, sau substanța, sau natura este atât rațiune, cât și lege a naturii, atât principiu formator, cât și necesitate mecanică. În Dumnezeu trăim, ne mișcăm și avem ființă. Binele este pozitiv, răul negativ.
+
+<sup>2.</sup>Trebuie adăugat că, în ezoterică, cuvântul „suflet” are un înțeles dublu: desemnează conștiința ca o calitate a întregii materii, precum și un anumit fel de înveliș material pentru monadă.
+
+<sup>3.</sup>Fie că, asemenea lui Descartes, se numesc materia și conștiința două substanțe diferite, fie că, asemenea lui Spinoza, sunt privite ca o singură substanță cu două atribute, materia și conștiința rămân două principii diferite, două aspecte diferite. Cele două aspecte diferite nu pot fi făcute identice sau paralele. „Monismul” obținut astfel este numai un joc de cuvinte. Nici materia, nici conștiința nu pot fi derivate una din cealaltă. Iar ceea ce nu poate fi explicat prin altceva este el însuși originar și propriul său temei și cauză. Conștiința este la fel de absolută ca materia.
+
+<sup>4.</sup>Pentru Spinoza, materia și conștiința erau laturi diferite ale aceleiași realități. Prin aceasta a înlăturat pseudo-problema oricărei interacțiuni speciale dintre corp și suflet.
+
+<sup>5.</sup>Paralelismul psihofizic lipsește atât materia, cât și conștiința de orice independență. Nici nu poate explica mișcarea (forța, energia, mișcarea proprie, voința). Conștiința fără mișcare este pasivă. Este mereu evident că niciunul dintre cele trei aspecte ale realității nu poate fi omis sau înlăturat prin explicații, fără ca rezultatul să fie vag, contradictoriu, înșelător.
+
+<sup>6.</sup>O altă problemă pe care filosofii au încercat zadarnic să o rezolve este cea a raportului dintre libertate și necesitate, dintre libertate și lege. Spinoza s-a apropiat de soluție cât poate ajunge speculația. Ordinea determinată de lege domnește atât în realitatea obiectivă exterioară, cât și în realitatea subiectivă interioară. Tot ce se întâmplă o face în conformitate cu legile respective. Omul este neliber pentru că acțiunile lui sunt întotdeauna determinate de motive și de motivul cel mai puternic. Se poate elibera lucrând pentru a face cel mai puternic orice motiv ar vrea. S-a dovedit însă că cele mai multe motive se află în complexe subconștiente care se afirmă automat și spontan.
+
+<sup>7.</sup>Spinoza a încercat în zadar să rezolve problema sa principală, aceea a opoziției dintre cauzele mecanice și cele finale ale proceselor.
+
+### 5.21 *Leibniz*
+
+<sup>1.</sup>Leibniz, fiind inițiat al Ordinului Rozacrucienilor, fusese învățat că existența are trei aspecte echivalente și inseparabile: materia, mișcarea și conștiința; că întregul cosmos este alcătuit din atomi primordiali (monade); că monadele sunt singurele lucruri indestructibile din univers; că toate formele materiale se dizolvă când și-au îndeplinit scopul; că formele naturii alcătuiesc o serie ascendentă de feluri de viață din ce în ce mai înalte; că monadele se dezvoltă (dobândesc capacitatea de a sesiza feluri de vibrații din ce în ce mai înalte în feluri de materie din ce în ce mai înalte) odată ce au fost trezite la conștiință prin intrarea în monade aflate la stadii superioare de dezvoltare și prin funcționarea ca învelișuri ale acestora.
+
+<sup>2.</sup>Firește, nu i se îngăduia și nici nu ar fi îndrăznit să prezinte astfel lucrurile contemporanilor săi, cu totul nepregătiți și lipsiți de înțelegere. A trebuit deci să găsească un mod de a face aluzie la adevăr. Rezultatul tuturor strădaniilor și al perspicacității irosite pentru aceasta a fost doar o sumă de absurdități. Ezoterica nu poate fi făcută comprehensibilă prin parafrazare exoterică și adaptare la ficțiunile predominante.
+
+<sup>3.</sup>Leibniz a preluat ficțiunea carteziană a substanței imateriale ca definiție esențială a monadei. După cum s-a arătat deja, substanța nu poate fi imaterială, deoarece nu poate fi decât materie. De fapt, în această privință era influențat de cunoașterea sa ezoterică a felurilor superioare de materie.
+
+<sup>4.</sup>Se contrazicea când contesta existența lumii fizice exterioare (Berkeley), dar susținea totuși că spațiul, timpul, materia și mișcarea au realitate relativă, deși nu absolută. Fără a preciza ce se înțelege prin absolut și relativ în fiecare caz particular, orice asemenea împărțire este cu totul arbitrară și lipsită de sens.
+
+<sup>5.</sup>Leibniz era matematician și a devenit victima conceptelor sale matematice. Considera atomul „infinit” divizibil. Deoarece trebuie să existe o limită a divizibilității materiale, monada, care este indivizibilă, trebuie să fie „imaterială”. Era numai un punct matematic de forță. (Definiția ezoterică spune: Atomul primordial este cel mai mic punct fix posibil al materiei primordiale și al conștiinței individuale.) Adoptând această poziție, Leibniz și-a răpit posibilitatea de a explica existența lumii exterioare, fiindcă nici măcar o cantitate infinită de nimic nu poate forma cea mai mică mărime materială.
+
+<sup>6.</sup>Dificultatea de a explica raportul dintre corp și suflet l-a făcut pe Leibniz să adopte ficțiunea barocă a „armoniei prestabilite”. Această construcție unește mai multe idei care nu au vreo legătură deosebită între ele: conformitatea cu legea, predestinarea, corespondența analogă, caracterul individual, unitatea tuturor lucrurilor, finalitatea, dezvoltarea. Dumnezeu a fixat o dată pentru totdeauna raportul nu numai dintre corp și suflet, ci și dintre perceperile reciproce ale tuturor monadelor. Corpurile acționează ca și cum nu ar avea conștiință, iar conștiința ca și cum nu ar avea corp, și amândouă acționează ca și cum s-ar influența una pe cealaltă. Monadele nu au nevoie de o lume exterioară sau unele de altele pentru a se dezvolta, ci totul se desfășoară ca un mecanism de ceasornic comun în mințile monadelor.
+
+<sup>7.</sup>Ne minunăm neîncetat de imensa masă de perspicacitate și profunzime pe care filosofii o pot cheltui construind o absurditate după alta. Astfel sunt formulate pseudo-soluții ale pseudo-problemelor cu o forță de convingere atât de talentată, încât oricine nu este format în filosofie ajunge mereu convins că filosoful pe care l-a ales drept interpret al realității a găsit într-adevăr „piatra filosofală”. Nu îi este ușor unui om neinstruit să se afirme împotriva argumentării copleșitoare a unui gânditor pătrunzător. Cât de ușor cad chiar și așa-numiții oameni educați victime unei minți superioare se vede la discipolii tuturor celor mari. Aceasta se vădește mai ales când apare un „filosof à la mode”, unul care întruchipează opiniile epocii sale sau exprimă ceea ce majoritatea oamenilor sunt pregătiți să accepte. Fără cunoașterea realității, filosofii se vor rătăci neajutorați după fiecare nouă toană. În cele din urmă ajungi să crezi că filosofia nu este cuprinderea realității, ci incapacitatea de a străvedea ficțiunile, mai ales pe cele construite de sine.
+
+<sup>8.</sup>Un alt lucru observat în această privință este cât de izbitor de ușor pare să fie să transformi cea mai absurdă ficțiune într-o idee fixă, numai repetând-o suficient de des. Se constată, de asemenea, că oamenii au o dificultate infinită de a se debarasa de noțiunile false pe care le-au dobândit odată. Într-adevăr, Bacon considera că, în școlile filosofilor, „adepții învață să creadă”. Iar mulți oameni s-au îndrăgostit atât de mult de sistemul lor ficțional, încât nu vor să aibă de-a face cu realitatea. Întreaga filosofie a fost, în general, speculație imaginativă subiectivistă sau considerare unilaterală numai a aspectului conștiinței.
+
+### 5.22 A DOUA PERIOADĂ SUBIECTIVISTĂ
+
+<sup>1.</sup>Bacon a demolat sistemul scolastic pentru orice gânditor nepărtinitor și pătrunzător. Au fost mulți care au încercat să propună sisteme noi. Nu era mare lucru în ele. Voltaire avea dreptate când exclama: „O, metafizică! Suntem acum tot atât de avansați ca pe vremea primilor druizi.” (Filosofii, în schimb, au regresat. În vremurile recente au încercat chiar să-și renege moștenirea.) Fizicalismul lui Epicur, așa cum a fost prezentat de Hobbes, se făcea simțit tot mai mult printre oamenii de știință ai naturii și obiectiviști. Ce altceva era posibil?
+
+<sup>2.</sup>Numai simțul obiectiv oferă fapte obiective despre realitatea materială exterioară. Dacă nu are o conștiință obiectivă superioară, individul este limitat la lumea fizică și, prin urmare, pentru el nu poate exista nicio „metafizică” (știința realității superfizice). Filosoful normal are numai trei posibilități: să accepte fie teologia tradițională, fie ezoterica autoritară, fie să continue în ficționalism speculativ.
+
+<sup>3.</sup>Când a părut imposibil să fie explorată realitatea materială obiectivă prin simțul obiectiv, s-a prezentat gândul că rațiunea subiectivă ar trebui folosită într-o încercare de a explora lumea conștiinței. Și astfel începe speculația despre teoria cunoașterii. După ce au descoperit existența conștiinței, mulți sunt cuprinși de dorința de a o cerceta, fără nicio idee despre ceea ce au întreprins. Ar fi mai ușor să înoți peste Atlantic. (Ceva de luat în seamă pentru psihologi.) Cei care se absorb cu totul în aspectul conștiinței pierd contactul cu aspectul materiei și, astfel, criteriul necesar al adevărului, care pune o limită exceselor imaginației. Orice încercare de a împărți conștiința altfel decât cu ajutorul materiei este sortită eșecului.
+
+<sup>4.</sup>Pentru Locke și Hume, subiectiviștii englezi, problema principală era cum dobândim cunoașterea lumii exterioare. Ei porneau de la perceperile prin simț, ca singura sursă a întregii cunoașteri. (De aici împărțirea realității în „lumea simțurilor” = lumea fizică și „lumea spirituală” = lumile superfizice.) Se va vedea însă că, dacă cineva se concentrează suficient de mult numai asupra perceperilor, va ajunge să nu vadă decât acestea, ca și cum ele ar fi propria lor origine și ca și cum sesizarea obiectivă a obiectelor lumii exterioare nu ar fi cauzată (notați aceasta!) și determinată de obiectele materiale. Subiectiviștii ajung să creadă că pot sesiza numai perceperile obiectelor, nu obiectele însele. Așa-numiții pozitiviști din vremuri mai recente au împins ideea și mai departe, spunând că, logic, obiectele materiale exterioare constau din perceperi prin simț, deoarece perceperile sunt singurele lucruri de care putem fi conștienți.
+
+<sup>5.</sup>Absurdul că perceperile prin simț ale organismului nostru fizic sunt materia primă a tuturor felurilor de conștiință — dorințe, sentimente, gânduri, intuiții, manifestări ale voinței — face parte din aceste ficțiuni fantastice. Pentru ezoterician există și alte moduri de a sesiza realitatea materială decât prin organele fizice de simț.
+
+<sup>6.</sup>Dintre cei trei subiectiviști, Locke, Berkeley și Hume, numai Berkeley și-a făcut subiectivismul atât de absolut, încât a negat chiar existența obiectivă a lumii materiale exterioare. Pentru Locke, materia exista, deși era sesizată incomplet. Hume considera că lumea exterioară ar putea exista, dar că nu putem „dovedi” aceasta. Și nu se putea spune nimic cu certitudine despre ceva ce nu putea fi dovedit. Experiența comună, universal valabilă a omenirii nu soluționa, firește, chestiunea.
+
+### 5.23 *Locke*
+
+<sup>1.</sup>Locke considera, pe bună dreptate, că încercările filosofilor anteriori de a explica realitatea erau nesatisfăcătoare. I-a venit ideea că ar trebui cercetat dacă rațiunea noastră este în stare să rezolve problemele filosofice. Primul lucru de făcut era să se determine posibilitățile și limitele cunoașterii.
+
+<sup>2.</sup>Această încercare era sortită eșecului, așa cum fusese când o făcuseră sofiștii. Noțiunea a dus la noi pseudo-probleme. Bunul-simț ne spune că nu putem avea cunoaștere decât despre ceea ce am trăit și prelucrat. Posibilitățile noastre de a dobândi cunoaștere apar în rezultatele cercetării: predicția corectă și aplicarea tehnică. Ele sunt și dovada corectitudinii cunoașterii.
+
+<sup>3.</sup>Potrivit lui Descartes, ideile omului erau fie înnăscute, fie dobândite prin simț obiectiv (perceperi prin simț), fie create de el prin prelucrarea de către rațiunea subiectivă a conținutului simțului. Locke a negat posibilitatea ideilor înnăscute, susținând că mintea copilului este de la început ca o pagină albă. Rațiunea dobândește toată cunoașterea din experiențele obiective ale simțului.
+
+<sup>4.</sup>Pentru că prin simțul obiectiv ajungem să cunoaștem calitățile obiectelor fizice, bunul-simț socotește, firește, că nu ar trebui să existe vreun temei pentru a refuza obiectelor anumite calități. Dar, fascinat de ideea că dobândim toată cunoașterea „de la simțurile noastre” și că, astfel, totul pare să fie perceperi prin simț, și neputând explica unele dintre aceste perceperi (sunete, mirosuri, culori), Locke a recurs la presupunerea că anumite calități erau numai subiective și nu, totodată, sesizări obiective. El și-a dat seama totuși că exista o lume exterioară. Putem face calcule exacte ale eclipselor de soare și de lună și prevedea multe alte lucruri. Toate acestea nu pot fi pură coincidență. Obiectele trebuie să existe, dar presupunem că nu putem ști mai mult despre ele decât ceea ce putem măsura și cântări.
+
+<sup>5.</sup>Locke s-a apucat, așadar, cu totul arbitrar și cu urmări fatale pentru filosofie, să împartă calitățile obiectelor în primare și secundare. Calitățile primare le atribuia obiectelor. Pe cele secundare le refuza acestora. Calitățile primare, sau așa-numitele calități cantitative, pe care oricine le putea măsura, cântări și număra, includeau forma, soliditatea, greutatea, mișcarea, numărul. Calitățile secundare, sau „calitative”, includeau sunetul, culoarea, mirosul, căldura, frigul etc. Prin urmare, se presupunea că aceste calități calitative erau doar perceperi subiective în noi, pe care le atribuiam obiectelor.
+
+<sup>6.</sup>Refuzând obiectelor anumite calități, Locke s-a lipsit de argumentul său principal în încercarea de a salva existența lumii exterioare. În neajutorarea pe care și-o provocase singur, a găsit o soluție spunând că ar contraveni bunului-simț să se creadă că lumea nu este așa cum o sesizăm cu simțurile noastre. Tocmai de acest bun-simț se îndoise când împărțise calitățile.
+
+<sup>7.</sup>Nici ezoterica nu admite idei înnăscute. Dar monada păstrează în subconștientul ei o memorie latentă a ceea ce a trăit în existențe anterioare. Când, într-o viață nouă, intrăm în contact cu realități obiective sau subiective asemănătoare, ne reamintim experiențele trăite, mai ales dacă au fost prelucrate în cunoaștere, calitate sau abilitate. Fără un nou contact, cunoașterea veche rămâne latentă. Dificultatea noastră este să știm ce experiențe am avut anterior. Într-o anumită măsură, aceasta se poate vedea din lucrurile pe care le recunoaștem, le cuprindem, le înțelegem sau ne sunt ușor de stăpânit imediat, fie sisteme teologice, filosofice etc., fie orice fel de talent.
+
+### 5.24 *Berkeley*
+
+<sup>1.</sup>Odată începută lipsirea materiei de unele dintre calitățile ei, „consecvența logică” cerea să fie lipsită de toate calitățile. Berkeley era numele logicianului care era și episcop. El considera că nu percepem niciodată altceva decât propriile noastre perceperi. Obiectele, cu toate calitățile lor, sunt numai un ansamblu de perceperi ținut laolaltă în minte. Sesizările nu sunt obiective, nu sunt copii ale obiectelor din afara noastră, ci copii ale ideilor altora. A exista este același lucru cu a fi perceput de cineva. Nu există lume exterioară. Universul cu conținutul său există numai în conștiința lui Dumnezeu și gândurile lui Dumnezeu sunt cele pe care le luăm drept realitate obiectivă.
+
+<sup>2.</sup>Repetă doar un gând suficient de des, iar la urmă va deveni de neeradicat. Cei mai mulți filosofi sunt dovada acestui fapt. Este foarte ușor să-ți imaginezi că totul este imaginație.
+
+<sup>3.</sup>Subiectiviștii, care de fapt și-au idiotizat fără scăpare bunul-simț, au făcut două încercări disperate de a se salva din neajutorarea pe care și-au provocat-o singuri. Ei trebuie să recurgă fie la gândul lui Dumnezeu, fie la conștiința altcuiva ca la cauza propriei lor sesizări a universului. Astfel, unii socotesc că, atât timp cât există pe pământul nostru un singur animal capabil să observe universul, universul există. Dar când și această ultimă conștiință s-a stins, universul subiectiv va fi dispărut. Nu a existat niciodată ceva precum un univers obiectiv, vedeți.
+
+<sup>4.</sup>Astfel de monstruozități nu sunt explicații, ci rațiunea care face tumbe în fantezie. Dar filosofii au crezut că pot explica totul construind ficțiuni.
+
+<sup>5.</sup>Un asemenea subiectivism se bazează adesea pe o gândire circulară inconștientă: concepția este un produs al creierului, iar creierul un produs al concepției. Subiectiviștii au reușit astfel să elimine cunoașterea că creierul este realitate materială obiectivă și noțiunea de creier, sesizarea obiectivă prin simț. Subiectivismul nu poate explica felul în care este posibilă cunoașterea lumii materiale exterioare.
+
+<sup>6.</sup>Conștiința obiectivă fizică eterică constată că un obiect fizic, de pildă o piatră, constă din particule minuscule aflate în mișcare constantă. Sofistica, care nu poate lăsa niciodată ca acesta să fie acesta, ci trebuie să facă mereu din acesta altceva, spune că sesizarea noastră a pietrei este falsă, ceea ce este tocmai greșeala subiectiviștilor. O piatră este o piatră și este așa cum o sesizăm prin simțul nostru fizic în lumea „vizibilă”. Faptul că este sesizată diferit într-o altă lume, în zece feluri diferite în zece lumi diferite, nu are nimic de-a face cu sesizarea noastră fizică a realității. Fizicienii nucleari nu știu că au reușit să pătrundă într-o lume nouă, „lumea eterică”.
+
+### 5.25 *Hume*
+
+<sup>1.</sup>O modalitate de a infirma o concepție este de a demonstra absurditatea consecințelor ei. Acesta a fost serviciul pe care Hume l-a adus filosofiei. El a infirmat subiectivismul dizolvând atât subiectul cunoașterii (sufletul, sinele), cât și obiectul cunoașterii (lumea exterioară cu conținutul ei material). Totul era numai perceperi lipsite de sens.
+
+<sup>2.</sup>Potrivit lui Hume, toate ideile noastre derivă din perceperi prin simț. Fiecare parte individuală a unei idei compuse derivă din observații. Nu putem „trece” de la subiect la obiect, de la conștiința subiectivă la realitatea obiectivă; într-adevăr, nici măcar nu putem dovedi că există o lume exterioară. Totul sunt numai idei construite de rațiunea noastră și compuse din feluri diferite de perceperi prin simț. Hume a arătat convingător că subiectivismul trebuie să ducă la scepticism.
+
+<sup>3.</sup>Nu poate exista nici eu, nici suflet coerent. Singurul lucru pe care îl întâlnim în conștiința noastră sunt diferite ansambluri de perceperi. Sufletul este un termen pentru o serie de asociații de gânduri.
+
+<sup>4.</sup>Hume a contestat și validitatea legii cauzei și efectului. Legile naturii sunt rezultatul observației obișnuite. Observăm ce se întâmplă, împărțind aceasta într-un înainte, pe care îl numim cauză, și un după, pe care îl numim efect. Am văzut întotdeauna că unul îl urmează pe celălalt și presupunem că trebuie să facă mereu astfel. Conceptul de cauză îl derivăm dintr-o constrângere asociativă subiectivă.
+
+<sup>5.</sup>Hume nu a putut găsi nicio diferență între conexiunea temporală și conexiunea cauzală. Nu avea experiența experimentatorului, care în laboratorul său decide el însuși succesiunea temporală (cauza) și prevede, de asemenea, efectul în fiecare caz individual cu certitudine infailibilă. Hume nu și-a dat seama că conformitatea cu legea a existenței este o necesitate, căci altfel cosmosul ar fi un haos. Până acum nu s-a găsit nicio excepție de la o lege a naturii constatată, ci numai faptul că o lege a naturii nu avea valabilitatea generală pe care ignoranța presupunea că o are.
+
+<sup>6.</sup>Hume era un maestru al analizei, incapabil să sintetizeze. Miopia sa intelectuală l-a făcut neegalat în demonstrarea erorilor de concluzionare, dar l-a împiedicat să descopere principii sau un sistem în propria gândire. Cu totul naiv, pornea de la superstiția filosofică potrivit căreia ceea ce nu poate fi demonstrat prin logică formală poate fi întotdeauna pus la îndoială. Logician adevărat, avea mai multă încredere în logica sa decât în experiența sa, se baza mai mult pe rațiunea sa subiectivă decât pe simțul său obiectiv. Declarațiile unanime ale oricât de mulți indivizi nu aveau pentru el nicio semnificație. Putea nega tot ce socotea că nu poate fi demonstrat logic.
+
+<sup>7.</sup>În fața unei asemenea superstiții filosofice, ezoterica propune teza fundamentală că dovezile rațiunii subiective sunt ficțiuni dacă sunt contrazise de evidența simțului obiectiv.
+
+<sup>8.</sup>Simțul trăiește realitatea materială direct și nemijlocit. Se identifică cu obiectul observației sale potrivit legii identității și identificării: trăiesc acest lucru. Afirmația subiectiviștilor că nu se poate „trece” de la conștiință la obiectul material este o construcție ficțională filosofică tipică, care sună plauzibil și a paralizat gândirea, dar este ușor de infirmat. Nu este nicidecum vorba despre o „trecere” de la vreo imagine reflectată la obiect. Sesizarea directă a obiectului a fost prefăcută într-o reprezentare independentă de obiect, în loc să fie obiectul însuși. Imaginea vizuală nu este obiectul. Observația nu este o imagine reflectată a obiectului, ci o sesizare a unui obiect concret. Trăirea obiectului nu este o concepție subiectivă arbitrară, ci o sesizare obiectivă a obiectului în concretețea lui, independentă de conștiință. Întreaga linie de gândire subiectivistă implică o tautologie și un regres logic și, prin urmare, este logic absurdă. Tautologia: ceea ce își imaginează conștiința trebuie să-și imagineze prin propria imaginație. Regresul: imaginația trebuie să fie întotdeauna imaginația a ceva; aceasta este o imaginație a unei imaginații, care la rândul ei este o imaginație etc., *ad infinitum*. Prin aceasta, subiectivismul este infirmat logic, lucru pe care filosofii ulteriori (Russell etc.) încă nu l-au înțeles.
+
+<sup>9.</sup>Dacă obiectele nu ar fi temeiul cunoașterii, nu am putea distinge în conștiință între realitatea obiectivă și plăsmuirile imaginației, nici nu am descoperi ceva obiectiv. Conștiința obiectivă a simțului este cunoaștere, fiindcă sesizează ceva independent de conștiință, este determinată de ceva exterior conștiinței.
+
+<sup>10.</sup>Simțul este conștiință obiectivă. Rațiunea este conștiință subiectivă. Acesta este înțelesul originar al cuvintelor „simț” și „rațiune”. Simțul este trăirea directă, nemijlocită, nereflexivă a realității. Încercarea subiectiviștilor de a explica psihologic aceasta este nelogică și înșelătoare, o confundare a problemelor logice cu cele psihologice. Rațiunea este instrumentul pentru prelucrarea conținutului simțului. Rațiunea își dobândește din simț întregul material de realitate și de cunoaștere. După verificare, simțul se dovedește întotdeauna corect. Greșelile noastre încep când ne îndoim de corectitudinea simțului, prin prelucrarea incorectă a rațiunii, prin ipoteze și alte feluri de ghiciri.
+
+### 5.26 FILOSOFIA REVOLUȚIEI
+
+<sup>1.</sup>Pentru a înțelege corect filosofia post-scolastică, trebuie să fim pe deplin conștienți de condițiile intolerabile în care a luat naștere. În cele mai multe țări, libertatea deplină de exprimare nu a fost posibilă decât mult după începutul secolului al XIX-lea (pe la 1880). Biserica, cu dogmatismul și fanatismul ei, domina nu numai guvernarea, care numea funcționari și profesori, ci și opinia publică, prin agresivitatea ei furibundă. Biserica (Voltaire avea motive întemeiate pentru strigătul său de luptă: „Écrasez l’infâme, Zdrobiți infama!”) veghea cu grijă ca nicio idee nouă să nu fie admisă. Astfel, cu plecăciuni neîncetate în fața autorității ecleziastice și cu asigurări zeloase de loialitate față de sistemul dogmatic al tiraniei teologice, filosofii trebuiau să trateze ideile noi ca pe niște amăgiri ale unor minți tulburate de diavol, menționate numai pentru a fi combătute eficient. Un procedeu folosit adesea era satirizarea și exagerarea într-atât, încât intelectualitatea, care cunoștea metoda folosită, trebuia să vadă că sensul intenționat era exact opusul celor spuse. „Marele Kant” este un exemplu despre cum chiar și satira cea mai izbitoare putea trece neobservată. Neputând să-i perceapă rezerva, el a respins întreaga filosofie a lui Locke numai pe temeiul că Locke, după ce demonstrase că nu putem cunoaște nimic despre invizibil, declarase că existența lui Dumnezeu poate fi dovedită cu aceeași evidență ca o demonstrație matematică. Kant nu bănuia că pierduse o minunată ocazie de a îmbunătăți satira, arătând cât de mare era pierderea pentru omenire că Locke omisese să ofere acea demonstrație. Următoarea afirmație a lordului Shaftesbury, protectorul lui Locke, arată cât de precauți trebuiau să fie filosofii. Lordul Shaftesbury îi răspundea unei doamne care auzise că el spusese că „oamenii cu bun-simț au, de fapt, o singură religie” și voia să știe ce fel de religie este aceasta. „Doamnă”, a spus el, „oamenii cu bun-simț nu spun niciodată.” Ei știau de ce depindea liniștea lor. De altfel, adevărul a fost întotdeauna îngrădit.
+
+<sup>2.</sup>Vorbind despre această intoleranță dogmatică, nu este nepotrivit să spunem ceva și despre condițiile din vremuri mai târzii. De regulă, profesorii universitari sunt cei care alcătuiesc autoritatea academică, stabilesc dogmele zilei și decid ce trebuie socotit adevărat sau fals. Pionierii cercetării, care încă nu au dobândit o catedră și îndrăznesc să fie înaintea timpului lor, atât de mult înainte încât opinia academică — rămasă încet în urmă — nu poate ține pasul, sunt declarați incompetenți dacă îndrăznesc să se opună concepțiilor dominante și sunt uciși prin tăcere. Există o conștientizare destul de răspândită că aceasta a împiedicat dezvoltarea.
+
+<sup>3.</sup>Chiar și libertatea de exprimare garantată constituțional își are riscurile ei. Din pricina lipsei de discernământ a maselor, a puterii orbitoare a argumentelor emoționale, împreună cu interesele egoiste ale indivizilor și claselor, mulțimea poate fi convinsă să creadă orice doresc demagogii însetați de putere. Propaganda, cu psihozele pe care le produce, are un mare efect de imbecilizare, după cum fascismul, nazismul și bolșevismul au dovedit de milioane de ori. Presa, filmul, radioul și televiziunea („cutia idioților”) au arătat convingător cât de repede pot fi degradate nivelurile de gust, cultură și discernământ chiar și ale așa-numitelor clase educate. Lipsită de temelia cunoașterii, omenirea va fi dusă în rătăcire de nenumărați fantasti.
+
+<sup>4.</sup>Uneori se afla câte un „liber-cugetător pe tron”, care le îngăduia filosofilor să vorbească liber. Odată publicată (de precauție, de obicei anonim), lucrarea lor nu putea fi ușor suprimată, ci era lăsată să-și exercite în liniște influența. S-a văzut că nicio tiranie nu a putut, pe termen lung, să împiedice să se audă glasul libertății. O altă lecție a istoriei este că orice putere este abuzată, indiferent de felul ei (nu în ultimul rând democrația și domnia majorității).
+
+<sup>5.</sup>Din studiile celor „ale căror lămpi nocturne luminează lumea”, concepții care aveau să zguduie Europa spre sfârșitul secolului al XVIII-lea au ajuns la clasele educate. La început șovăitori și precauți, apoi tot mai îndrăzneți în lupta lor împotriva tiraniei opiniei și a opresiunii, acești propagandiști au pregătit calea unei opinii publice care avea să învingă despotismul dictaturii teologice. Enunțând cu entuziasm și exaltare arzătoare drepturile inalienabile ale omului, ei au trezit sufletele înrobite din degradarea lor.
+
+<sup>6.</sup>Filosofii revoluției erau eclectici tipici. Propaganda lor, un amestec de fapte, jumătăți de adevăr, platitudini, romantism sentimental și patos revoluționar, a înflăcărat mințile și a pornit un proces de dizolvare a ordinii stabilite, proces care continuă încă. Cei mai importanți dintre ei pe plan cultural (cu câteva secole înaintea timpului lor) au fost Voltaire și Rousseau. Filosofia lui Voltaire era un amestec de Newton, Locke și Shaftesbury. Totodată, el propaga ideile liberale care revoluționaseră Anglia. Lupta lui eroică, neobosită, plină de sacrificiu de sine, pentru dreptate, toleranță, omenie, libertatea gândirii și iubirea de oameni, împotriva tuturor puterilor întunericului, nu poate fi admirată îndeajuns. În această strădanie a avut ajutorul unei mulțimi de enciclopediști și popularizatori. Ei făceau propagandă în mare parte pentru fizicalism, nebănuind existența unor lumi materiale superioare, supuse deopotrivă legilor.
+
+<sup>7.</sup>Apostolii ignoranței cred că trebuie doar să dărâmi lucrurile și să „lași să intre aer și lumină”, pentru ca deșertul să se prefacă singur în paradis. Proclamă doar libertatea și toți oamenii vor deveni sfinți. Predică doar fraternitatea și toți vor deveni îngeri. Distruge doar tot ce a existat înainte și vei face să apară societatea ideală. Spune doar maselor, ignoranței despre viață, că înțeleg totul și că toate problemele vieții au încetat să existe. Voltaire a înțeles mai târziu riscul popularizării: „Odată ce masele încep să raționeze, totul este pierdut.” „De îndată ce masele îmbrățișează o concepție, aceasta devine prin aceasta o minciună.” (Kierkegaard)
+
+<sup>8.</sup>Trăind ele însele puterea ideilor și supraestimând puterea lor asupra tuturor celorlalți, în care nu erau latente, acești idealiști (elita culturală) au trecut cu vederea că ceea ce pentru ei, ca elită culturală, era o eliberare necesară nu era cel mai bun lucru pentru cei care vedeau în libertate numai un prilej mult dorit pentru arbitrar și bun-plac. Pentru individul cultural, lipsa de respect și ireverența sunt semne de grosolănie emoțională și barbarie. Această pătrundere și-a găsit expresia cea mai limpede în vechea cultură chineză, care a cedat acum noii barbarii civilizaționale. În cultura adevărată este exclus orice fel de dictatură (lipsă de drepturi). Cunoașterea este pentru cei care au dobândit-o deja și, odată cu ea, înțelegerea libertății legate de lege și a răspunderii care însoțește libertatea. Pentru oamenii aflați la stadiul barbariei, omenia este totuna cu revendicarea drepturilor fără îndatoriri. Egalitatea duce la disprețul pentru tot ce este superior. Prostul nu este doar stăpânul propriei sale înțelepciuni, ceea ce este dreptul lui evident de a fi, ci vrea să fie și o autoritate pentru cei înțelepți.
+
+<sup>9.</sup>Toți idealiștii revoluționari se fac vinovați de aceste și de alte concluzii eronate asemănătoare. Ei cred că ideile care îi îndeamnă să sacrifice totul pentru adevăr, libertate și dreptate sunt latente și în toți ceilalți. Ei cred că, dacă numai câțiva deschid drumul, dând exemplu, toți ceilalți îi vor urma. Câți dintre acești oameni nu și-au văzut, cu inima îndurerată, idealurile, mai prețioase decât orice, călcate în țărână de cei pe care încercau să-i ajute, disprețuite de egoism și brutalitate! Câți dintre ei nu au fost ei înșiși victime ale furiei oarbe a maselor dezlănțuite!
+
+<sup>10.</sup>Printre toți acești nebuni optimiști, a existat un singur realist: Rousseau. A fost o ironie a sorții că Rousseau a devenit filosoful ales al revoluționarilor francezi și, prin urmare, a fost judecat greșit de mulți. Următoarele citate din el ar trebui să fie de ajuns. Ele spun totul: „Cea mai bună constituție naturală este aceea în care cei înțelepți îi guvernează pe ignoranți. Democrația este o formă de guvernare potrivită nu oamenilor, ci unei rase de zei. Nu a existat și nu va exista niciodată o democrație reală.” Rousseau nu nutrea nicio iluzie cu privire la valoarea acelei filosofii, științe și culturi pe care o avea înaintea ochilor. A mers chiar atât de departe în disprețul său față de superficialitatea și frivolitatea aristocrației timpului său, încât a declarat rațiunea lipsită de valoare, iar omul gânditor un animal degenerat. Cultura și filosofia contribuiseră la coruperea omului. Voltaire i-a mulțumit sarcastic, spunând că „i se făcuse poftă să umble în patru labe”. Desigur, oamenii l-au înțeles greșit pe Rousseau, care prin „întoarcerea la natură” înțelegea eliberarea de artificialitatea și nefirescul ce au caracterizat întotdeauna cultura europeană.
+
+<sup>11.</sup>În manuale, filosofia populară franceză este menționată de obicei în legătură cu umanismul german, o revoluție de alt fel. Lessing, Herder, Schiller și Goethe erau rozacrucieni inițiați, reprezentând un punct de vedere suveran, cu totul diferit chiar de cel al filosofilor profesioniști (Kant etc.), care se ocupau încă de gândirea principială a stadiului civilizației. Ei au arătat că atinseseră gândirea perspectivistă a stadiului umanității, care înlesnește contactul cu lumea ideilor. Ca în Grecia antică, acești umaniști, piramide în Sahara culturii germane, au făcut din epoca lor un timp de nouă strălucire în istoria europeană. Până atunci, „cultura” germană fusese franceză. Acești oameni au făcut din limba germană semibarbară o limbă literară desăvârșită. Ei au trezit la viață caracterul individual german și au eliberat literatura de imitația modelelor clasice și franceze, iar gândirea de raționalismul platitudinar dominant. Au silit Biserica să descopere în Evanghelii mesajul iubirii, singura și unica mântuire, până atunci mai mult sau mai puțin nesocotit. Au devenit protagoniștii adevărului și dreptății, ai toleranței și omeniei. Adevărata măreție a acestor oameni încă nu este înțeleasă.
+
+<sup>12.</sup>Lessing, numit exploratorul adevărului și dușmanul minciunilor, a subliniat deosebirea dintre dogmatismul sinoadelor teologice, învățătura lui Hristos din Evanghelii și doctrina ezoterică a lui Hristos. Demonstrând legile stilului, el a pus temeliile esteticii moderne. În lucrarea sa despre educația omenirii a arătat dezvoltarea culturii și a concepției despre dreptate, de la stadiul ignoranței totale până la un țel final într-un viitor vag și îndepărtat. Religiile diferite marchează stadii diferite de dezvoltare. Nicio religie nu a spus încă ultimul cuvânt. Omenirea înaintează pas cu pas, călăuzită de revelația continuă, prin ideile cunoașterii ezoterice. Cât de mult era înaintea timpului său se vede cel mai bine din îndrăzneala de a arăta că reîncarnarea (nu metempsihoza, cu implicația ei că omul se poate renaște ca animal) era singura cale posibilă de a împăca omnisciența, bunătatea infinită și omnipotența divinității cu existența evidentă a răului și cu aparentele nedreptăți ale vieții.
+
+<sup>13.</sup>Atitudinea oamenilor față de ideile noi, intoleranța lor și persecutarea maniacală a tuturor purtătorilor de idei, incapacitatea lor de a cuprinde ideile realității, a căror recunoaștere finală nu poate fi impusă decât încet și câte unui om deodată, au fost câteva dintre motivele pentru care cunoașterea a fost ținută secretă. Cunoașterea realității este numai pentru cei care nu pot nicicum abuza de putere, pentru cei pregătiți să se sacrifice ca să servească omenirea, evoluția și unitatea. Ca toate celelalte ordine ezoterice de cunoaștere, rozacrucienii învățau că întreaga existență este un gigantic proces de dezvoltare. Monadele, care în regnul mineral nu au cu mult mai mult decât posibilitatea unei conștiințe active, dobândesc în fiecare regn superior un fel mai înalt de conștiință, o participare tot mai mare la conștiința cosmică totală. Leibniz sugerase această idee fundamentală, iar Lessing a adus câteva idei înrudite.
+
+<sup>14.</sup>Herder a dezvoltat o filosofie a istoriei. Pentru filosofii așa-numitei iluminări, istoria era povestea prostiei și brutalității omului. Pentru Lessing, era povestea rațiunii care se trezește încet. Herder vedea în ea năzuința individului către caracterul individual. În om, întreaga natură se trezește la claritate și autoreflecție. Fără a intra în amănunte, el descrie cum sufletul trăiește între încarnări în splendoarea spațiului luminos și își caută iarăși drumul către pământ pentru a dobândi conștiință de sine și autodeterminare, pentru a dezvolta conștiința de sine în conștiință totală care cuprinde tot mai mult (ezoteric: pentru a dobândi tot mai multe idei ale intuiției, ca pregătire pentru o înțelegere finală a sistemului ezoteric de cunoaștere). Herder sublinia că istoricul trebuie să pătrundă în epocile pe care le descrie și să încerce să înțeleagă fiecare perioadă din punctul de vedere al condițiilor și atitudinilor ei proprii. Se întrezărește ideea istoriei ca rațiune care se trezește, idee pe care Hegel avea s-o etaleze cu mare pompă, schilodind-o cum se cuvine. „Hume socotea că originea religiei trebuie căutată în frica omului de necunoscut. Herder o considera prima încercare a omului primitiv de a explica existența. Vechiul Testament, care îi oferea lui Voltaire o sursă inepuizabilă de satiră, era pentru Lessing prima carte de citire a omenirii, iar pentru Herder poezie națională originară. Istoria trăia în basm, iar basmul în istorie.”
+
+<sup>15.</sup>Schiller a înțeles că imperativul categoric al lui Kant era o încercare de a înlocui dictatul mozaic, „trebuie să”, cu „porunca datoriei” a conștiinței, cu o aparență de autodeterminare, și că, prin urmare, nu era expresia unei autonomii adevărate; că morala este libertate, nu constrângere (nici măcar din interior). Schiller a refuzat să accepte orice formă de religie existentă pe temeiuri religioase și orice filosofie dominantă pe temeiuri logice.
+
+<sup>16.</sup>Goethe, marele sintetizator, a asimilat cele mai multe dintre ideile acumulate ale omenirii. Cunoscătorul va găsi pretutindeni în spusele inițiaților aluzii care trădează sursa cunoașterii lor. În asemenea cazuri, istoricii vor căuta în zadar influențele originare. Fiecare își pune amprenta asupra ideilor potrivit caracterului său individual. Astfel, numai cei capabili să le dea o expresie independentă sunt copți pentru ele.
+
+<sup>17.</sup>Fiind inițiat, Goethe primise cunoașterea anumitor fapte fundamentale. De pildă, știa despre lumile superioare și cât de imposibil trebuie să fie pentru un om care sesizează numai lumea vizibilă să încerce să explice singur existența. Mai știa că nu există niciun abis fix între conștiință și realitatea materială; că conștiința trăiește realitatea direct și nemijlocit; că materia, mișcarea (energia) și conștiința sunt aspecte diferite ale aceleiași realități.
+
+<sup>18.</sup>Orice înțelegere depinde de participarea individului la rațiunea cosmică. Toate ființele au atâta din aceasta cât le trebuie ca să se poată dezvolta mai departe, cât au dobândit prin experiență și pot exprima la nivelul lor de dezvoltare. Omul a ajuns atât de departe, încât poate înțelege că există mai mult decât ceea ce este vizibil, că existența superioară nu poate fi înțeleasă la un stadiu inferior de dezvoltare, că omul va putea cuprinde sensul existenței odată ce va fi primit faptele necesare.
+
+<sup>19.</sup>Potrivit concepției ezoterice a lui Goethe despre artă, artistul ar trebui să caute să descopere formele primordiale care, în formele de viață ale naturii, tind spre perfecțiune și să pună universalul în individual, precum conformitatea cu legea în natură. Artistul ar trebui să caute să depășească natura. Numai ceea ce exprimă o idee este potrivit reprezentării artistice. Goethe a descris pe bună dreptate arbitrariul subiectivismului drept lipsă de disciplină.
+
+<sup>20.</sup>Prin Schiller, care îl înțelegea pe Platon mai bine decât oricine înaintea lui, care risipise vorbăria lui Kant și își formase propria teorie rațională a cunoașterii, Goethe a învățat să înțeleagă ceea ce Kant, cu scolastica sa barocă, nu putuse explica. Schiller a arătat că putem cuprinde particularul numai pornind de la universal, că ideea este universalul și este necesară pentru concepția corectă, că ideea face posibilă așezarea faptelor în contextele lor corecte, că ideea poate explica corect realitatea.
+
+<sup>21.</sup>Ca toți inițiații, Goethe știa că toți vor atinge cel mai înalt stadiu divin prin diferitele stadii divine intermediare. Aceeași unitate divină a vieții se află în toate, atât înăuntrul tuturor ființelor (Dumnezeu imanent), cât și în afara propriei ființe (Dumnezeu transcendent). Dumnezeu-natură este cel care produce totul în fiecare, care face ca fiecare ființă să-și atingă destinul final. Religia este unitatea pe care o simți când trăiești cum, în necesitatea vieții (Legea = totalitatea tuturor legilor naturii și legilor vieții), totul lucrează împreună către cel mai bun sfârșit posibil.
+
+<sup>22.</sup>Suntem aici ca să avem experiențe și să învățăm din ele. Caracterul individual își caută el însuși acele condiții în care să învețe. Dezvoltarea noastră depinde de felul în care ne folosim timpul pentru a cunoaște realitatea și legile vieții, pentru a dobândi cunoaștere, calități și abilități. Putem învăța din orice. Nu există nimic banal, nimic prea simplu și nici experiențe lipsite de semnificație, dacă le înțelegem corect. Ca oameni, devenim pregătiți pentru sarcini superioare când am învățat tot ce se află în limitele înțelegerii umane.
+
+<sup>23.</sup>S-a crezut că Goethe a acceptat construcția eșuată a lui Kant despre așa-numita lege morală, cu datoria ei de ascultare, sentimentul de constrângere și abolirea libertății (odată ce falsa autonomie a lui Kant este demascată). Nimic nu poate fi mai greșit. Fiind inițiat, Goethe știa despre marea Lege, totalitatea tuturor legilor naturii și legilor vieții, pe care trebuie noi înșine să le căutăm, să le găsim și să învățăm anevoios să le aplicăm, dacă vrem să ne înălțăm, să putem să ne identificăm cu realitățile divine. La această lege, nu la ficțiunea lui Kant, se gândea Goethe.
+
+<sup>24.</sup>Dumnezeu-natură este guvernat de legi eterne, neclintite, care exclud orice arbitrar al bunului-plac. Ascultăm de legile naturii chiar când căutăm să le sfidăm. Acționăm prin ele chiar când credem că acționăm împotriva lor. Și răul servește binelui în felul său. Legea dezvoltării conduce totul către împlinirea sa finală.
+
+### 5.27 FILOSOFIA ROMANTISMULUI
+
+<sup>1.</sup>Mulți cititori pot socoti că întreg acest romantism ar putea fi omis fără risc dintr-o schiță care își propune numai să urmărească gândirea omului în strădania ei către o explicație cu adevărat rațională a existenței. Totuși, acești romantici joacă încă un rol prea mare pentru ca aceasta să fie posibil. Este timpul ca erorile lor fanteziste să fie semnalate cum se cuvine. În linii mari, istoria filosofiei este istoria erorilor. Însemnătatea ei constă în faptul că explică necesitatea de a cunoaște faptele pentru a-ți forma opinii, că ignoranța lipsită de fapte despre existență nu produce decât năzăriri absurde și ciudățenii, că nici măcar întrebările nu pot fi puse corect până nu se cunosc răspunsurile corecte.
+
+<sup>2.</sup>Filosofia romantismului a continuat să dezorganizeze mentalitatea, proces început cu sofiștii, continuat de scolastici și ajuns la fund cu Hegel. Ceea ce a urmat au fost încercări infantile de imitație.
+
+<sup>3.</sup>Acești romantici sunt cel mai bun exemplu al riscului de a te absorbi atât de profund în lumea gândirii, încât să pierzi contactul cu realitatea și să iei închipuirile drept fapte sau axiome. Este atât de ușor să uiți că noțiunea și realitatea nu au nicidecum în mod necesar vreo legătură una cu alta. Desigur, sistemele sunt necesare pentru a cuprinde realitatea. Dar trebuie să ne mulțumim să construim sisteme orientative de ansamblu, până ne vom osteni să studiem sistemul ezoteric. Până atunci, trebuie să ne limităm la a încerca să așezăm faptele constatate de cercetare în contextele lor corecte.
+
+<sup>4.</sup>Prin afirmația lui comică (acceptată de posteritatea filosofică) că „realitatea se conformează conceptelor noastre”, Kant (asemenea sofistului Protagoras la vremea lui) a deschis larg ușa amăgirii filosofice. El a indicat fără echivoc tendința tipică a subiectivismului, aceea spre arbitrar suveran. Aceasta devine evidentă la el și la cei trei succesori ai săi cei mai apropiați: Fichte, Schelling și Hegel. Citindu-i, ai putea crede că asisți la prelegeri în lumea emoțională, unde se dau demonstrații practice despre cum materia ascultă de cea mai ușoară sugestie a conștiinței și, prin urmare, realitatea este doar o plăsmuire a imaginației. O asemenea greșeală ar fi explicabilă în lumile emoțională și mentală. Dar nu este adevărată despre lumea noastră vizibilă, nici despre lumea ideilor platonice. Iar lumea fizică este cea în care ne aflăm și la care trebuie să ne limităm când încercăm să-i cuprindem realitatea. Vom afla despre celelalte lumi când vom ajunge acolo. Ele nu sunt relevante în acest context. Fiecare lume este un lucru de sine stătător, deși există anumite analogii.
+
+<sup>5.</sup>Subiectiviștii vădesc o tendință evidentă spre arbitrar. La romantici, acest arbitrar a apărut în interpretarea lor voluntaristă a realității durabile.
+
+<sup>6.</sup>Judecând după titlurile pe care și le-a dat cărților sale, lumea l-a numit pe Kant filosoful critic. Cât de nemeritat este acest titlu de onoare se va arăta când ne vom ocupa de el. Este o trăsătură comună oamenilor să creadă că sunt ceva ce nu au nici cea mai mică posibilitate de a fi. Autoamăgirea este mare, iar dorința este tatăl gândului. Kant a fost cel care a dus filosofia într-un impas în care ecourile lui încă rătăcesc, dezorientate mental.
+
+<sup>7.</sup>Caracteristică pentru Fichte, Schelling și Hegel este pornirea lor constructivă, care face totul superficial, încercarea de a îndesa ideile în sertare artificiale fără a înțelege realitatea din spatele lor.
+
+<sup>8.</sup>Fichte și Schelling au fost numiți filosofi transcendentali. Aceasta ar trebui să însemne că erau filosofi ai imanenței și se mențineau în limitele posibilității de cunoaștere a individului normal, adică în hotarele existenței fizice, singurul lucru rațional de făcut pentru cei care nu au dobândit simțul cauzal. În fapt, și ei erau „meta-fizicieni”, dar de un fel încă și mai fantezist.
+
+<sup>9.</sup>Filosofia lui Hegel a fost salutată de unii drept filosofia absolută. Făcând aceasta, au numit „absolută” iraționalitatea. În privința conceptelor, absolut este ceea ce este axiomatic.
+
+<sup>10.</sup>Schelling și Hegel au studiat tot ce puteau găsi în toate disciplinele, care, firește, erau atunci încă în copilărie, pentru a găsi material pentru sistemele lor imaginative. Ei s-au folosit din belșug de curentul de idei ce se revărsa de la numeroșii umaniști care, de la mijlocul secolului al XVIII-lea încoace, lucrau activ la ridicarea nivelului cultural. Au vârât aceste idei în cămașa de forță a sistemelor lor ficționale, fără să se îngrijoreze că ideile erau foarte rău schilodite în acest proces.
+
+<sup>11.</sup>Manualele de istorie a filosofiei dau o imagine cu totul falsă a acestei speculații, deoarece absurditățile au fost eliminate, ideile scoase din încadrările lor baroce, iar întregul a fost astfel făcut destul de prezentabil. Ceea ce comentatorii au crezut, ani mai târziu, că pot citi în scrierile predecesorilor lor le-a fost adesea atribuit pe nedrept acestora. Trebuie să mergi la lucrările romanticilor înșiși, cu vorbăria lor nesfârșită, cu obositoarea jonglerie cu idei și ciorovăiala asupra cuvintelor, ca să vezi ce urmăreau. Vei vedea atunci că ideile lor atât de lăudate erau în parte vechi idei ezoterice, în parte idei găsite în literatura contemporană. Singurul lucru original la ele era formularea nouă. Ezotericianul va vedea că ceea ce era sustenabil nu era nou, iar ceea ce era nou nu era sustenabil.
+
+<sup>12.</sup>Mulți oameni studiază filosofia greșit; ei scot ideile din contextele lor, făcându-le să piardă semnificația pe care o aveau la diferiții gânditori. Ideile erau cunoscute de antici, dar au fost interpretate greșit și maltratate în sisteme mai recente. Esențială este tocmai critica, care arată ascuțimea mentală a concepției despre interpretările diferiților filosofi, critica numeroaselor neînțelegeri ale ideii.
+
+<sup>13.</sup>Iarăși și iarăși întâlnim fraze ca „Spinoza a spus” sau „Fichte a spus” etc., *ad infinitum*, introducând ceva ce ei nu au vrut niciodată să spună astfel. Li se atribuie astfel idei pe care nu le-au avut niciodată, fiindcă ei înșiși le-au înțeles greșit. Descoperiri și observații ale unor vremuri ulterioare sunt citite în lucrările lor. Ei au folosit acele cuvinte, dar nu au cuprins conținutul lor rațional sau conținutul lor de realitate. Trebuie să ne ferim de atotștiutorii de după eveniment, care prin platitudinile lor caută să explice ce „au vrut ei cu adevărat să spună”.
+
+<sup>14.</sup>Poate că nu este prea departe vremea când studenții la filosofie, citind lucrările acestor romantici, vor întreba mirați cum au fost posibile asemenea lucruri, cum au putut fi scrise, tipărite și, în general, acceptate ca raționale. După cum a arătat potrivit Schopenhauer, este o trăsătură caracteristică a mentalității germane să vadă abisuri de profunzime în ceea ce este de neînțeles și să prefere să caute în nori ceea ce se află la picioarele sale. Și în scolastică întâlnim aceeași tendință de a face totul cât mai complicat cu putință și de a face de neînțeles ceea ce este de la sine înțeles, încercând să-l explici prin profunzimi lipsite de sens. În plus, educația din acele vremuri era pronunțat scolastică, încătușând gândirea. La cei educați, nevoia de a se elibera de aceste cătușe ale gândirii era atât de mare, încât erau gata să accepte orice i-ar fi eliberat de tirania intelectuală pe care o simțeau tot mai apăsătoare. Dintre diferitele absurdități dintre care trebuiau să aleagă, au ales-o pe cea nouă, prezentată tocmai în felul care atrăgea pe cei cu o educație scolastică excesivă. Firește, nu exista posibilitatea de a infirma fanteziile prin faptele cercetării, deoarece în acele zile știința naturii, singura care ne poate da cunoașterea cel puțin a realității fizice, abia exista.
+
+### 5.28 *Kant*
+
+<sup>1.</sup>Filosofia lui Kant a exercitat o influență atât de distructivă și paralizantă pentru gândire, încât este, din nefericire, necesar să ne ocupăm în detaliu de câteva dintre cele mai importante dintre numeroasele sale construcții arbitrare. Nu a fost ușor să le descoperi caracterul fals și să le respingi. Un număr considerabil de filosofi, matematicieni și oameni de știință au avut nevoie de mai mult de 150 de ani ca să arunce la gunoi toate ficțiunile lui Kant.
+
+<sup>2.</sup>La mulți autori de manuale de istoria filosofiei, precum și în enciclopediile generale, dăinuie încă formula, aparent de neeradicat, că Kant a fost o minune de perspicacitate și profunzime. Nenumărați erudiți și-au dobândit doctorate și catedre prin filosofia lui. Fiecare s-a crezut în stare să arate ce ar fi trebuit să înțeleagă Kant printr-un lucru sau altul. Toate interpretările diferite propuse au fost apărate cu belșug de dovezi. Fiindcă nimeni nu a putut să-l cuprindă, numai cei mai limpezi la minte au îndrăznit să sugereze că poate marele Kant s-ar fi putut înșela într-un punct minor. Într-o scrisoare către prietenul său Beck, Kant însuși a admis: „Mărturisesc, scriind aceasta, că nici eu nu mă înțeleg pe mine însumi.” (Nu e de mirare că la sfârșit a ajuns slab de minte.) Având în vedere cât se cere pentru a ajunge la o asemenea pătrundere, nu pare prea îndrăzneț să spunem că acesta este cel mai bun lucru spus vreodată de Kant. Lichtenberg a arătat satiric că filosofii, neputând să-l cuprindă pe Kant, nu l-au învinuit pe Kant, ci propria lor rațiune. De altfel, incapacitatea lui Kant de a-și exprima opinia ar fi trebuit să fie avertisment de ajuns. Niciun intelect cu gândire limpede nu va scrie astfel. „Scrisul obscur este gândire obscură.” A sosit vremea ca Kant să fie demascat drept sofistul care a fost. Nietzsche l-a caracterizat, cu răutate, dar nicidecum fără temei, drept un „olog de concepte supradezvoltat”.
+
+<sup>3.</sup>Kant a fost scolastic, logicist, psihologicist, subiectivist, pozitivist, agnostic, pragmatic, anti-metafizician și metafizician. Toate aceste concepții diferite au găsit întotdeauna ceva de folosit la Kant. Nu e de mirare că a devenit autoritatea la care se pot raporta toți.
+
+<sup>4.</sup>Printre numeroasele erori ale lui Kant se numără împărțirea realității în fenomen și lucru în sine; afirmația absurdă că materia este ceva total necunoscut și lipsit de calități; invențiile lui eșuate privind spațiul și timpul ca forme ale sesizării, rațiunea „pură”, categoriile, judecățile sintetice *a priori*, antinomiile rațiunii, rațiunea „practică”, imperativul categoric și cele trei idei „transcendente”. Iar cu asemenea nebunie i-au imbecilizat pe toți studenții la filosofie.
+
+<sup>5.</sup>Kant a fost scolastic. Întreaga lui filosofie a tratat forma și conținutul scolasticii. Ciudate erau lucrurile pe care le-a făcut din ele. Forma a devenit rațiunea „pură” (rațiune vidă, lipsită de conținut). În această formă a cioplit douăsprezece sertare diferite, pe care le-a luat din formele judecății ale scolasticii. Li s-a dat numele impresionant de categorii (propriu-zis: abstracții ultime). În aceste sertare a clasat toate percepțiile prin simț ale omului, spunând că nu putem sesiza realitatea în niciun alt fel. Aceasta echivalează cu a spune că nu am putea sesiza mările și continentele unui glob pământesc decât prin grila liniilor de longitudine și latitudine. El nu a indicat nicio unitate de percepție care să sintetizeze logic percepțiile psihologice. Categoriile lui sunt construcții arbitrare. Și nu a explicat cum au luat naștere unitățile de percepție, sau conceptele, pe care le folosește activitatea simțului. Aceste unități au dus mai târziu la distincția dintre ceea ce este primar în privință logică și psihologică.
+
+<sup>6.</sup>Faptul că Hägerström nu a reușit niciodată să se elibereze de Kant se arăta în sloganul său constant: „Metafizica trebuie distrusă.” Era întru totul în spiritul lui Kant. Din negarea existenței realității spirituale reiese limpede că, în pofida vorbirii sale despre religie, Kant era agnostic.
+
+<sup>7.</sup>Kant a fost subiectivist. În prima ediție a lucrării sale teoretice, neagă existența lumii materiale exterioare, căreia i se îngăduia să existe numai în imaginația noastră. Aceasta reiese limpede din următorul citat: „Dacă înlătur subiectul gânditor, întreaga lume trebuie să dispară.” Sau: „Lumea încetează să existe când ne întoarcem privirea de la ea.” Caracterul baroc al acestei concepții este ilustrat de cel mai important discipol și „moștenitor prezumtiv” al lui Kant, potrivit căruia: „este naiv să spui că obiectele nu există numai în imaginația noastră, ci și în realitate”, și: „procesele geologice nu au existență obiectivă, deoarece nu exista nicio conștiință care să le poată observa. Întreaga cosmologie a lui Laplace nu poate fi cu adevărat adevărată, deoarece este o descriere a unor lucruri care nu au existat niciodată, fiindcă ele nu puteau exista decât într-un creier.” (*Parerga*, § 28 și § 85). Aceasta înseamnă că nu putem ști nimic despre ceea ce este temeiul și criteriul obiectiv al cunoașterii noastre: obiectele însele.
+
+<sup>8.</sup>În a doua ediție, Kant a încercat să „salveze” existența lumii exterioare. Este parte din ironia destinului filosofic că posteritatea, crezând în infailibilitatea lui Kant, lipsită de firul Ariadnei și incapabilă să-și găsească ieșirea din labirintul grotesc, a făcut din „monstrul” din el pe cel mai uriaș dintre toate.
+
+<sup>9.</sup>Kant a fost psihologicist, prin care se înțelege un teoretician al cunoașterii care încearcă să înlocuiască o concepție logică despre realitate cu explicații ale fiziologiei simțurilor.
+
+<sup>10.</sup>Kant a fost logicist. Lumea vizibilă era o construcție de concepte subiective. Romantici ulteriori au luat aceasta ca punct de plecare și au construit realități din ficțiuni (așa cum făcuseră scolasticii), care nu aveau nimic de-a face cu realitatea. Abia în secolul al XX-lea au început filosofii să înțeleagă, în general, în ce constă cunoașterea realității: în fapte așezate în contextele lor corecte, aceste contexte alcătuind singurul sistem real de cunoaștere. Până când acest sistem va fi construit pe deplin, trebuie să ne mulțumim cu un sistem provizoriu, pentru a ne putea orienta în realitate.
+
+<sup>11.</sup>Spațiul și timpul nu sunt forme ale sesizării independente de materie. Este de ajuns să arătăm că atât lumile materiale fizică, emoțională și mentală, cât și toate lumile superioare, au propriile lor feluri de spațiu (dimensiune) și timp (durată) și că acestea sunt determinate de natura realității materiale. Prin activitatea simțului său, copilul, chiar în primul an, dezvoltă automat sesizări „instinctive” corecte ale unui număr de calități aparținând realității materiale, calități care mai târziu vor fi formate în concepte prin activitatea rațiunii. Automatismul simțului este acel proces predominant instinctiv, mecanic — unul dintre numeroasele procese care se desfășoară neîncetat în subconștient — care transformă multiplicitatea trăită în acele unități de percepție care fac posibilă activitatea simțului sau o înlesnesc. La un stadiu superior al dezvoltării rațiunii, acelei activități îi corespunde conceperea ideilor, care este de asemenea un proces ce găsește unitatea.
+
+<sup>12.</sup>Sesizarea spațiului, de pildă, se dezvoltă prin observarea formelor materiei; iar sesizarea timpului, prin observarea diferitelor feluri de intervale de timp. Ca noțiune matematică, spațiul fizic este construit prin determinările celor trei dimensiuni ale sale, în același fel în care celelalte noțiuni matematice fundamentale (axiome) sunt construite din elementele experienței pe care le oferă simțul.
+
+<sup>13.</sup>Simțul oferă condițiile necesare, materialul de realitate pentru descrierea realității sau constatarea faptelor. Rațiunea prelucrează acest material prin reflecție. Dacă rezultatul nu este corect, vina nu este a simțului, ci a rațiunii. Simțul observă drumul soarelui pe cer. Explicația rațiunii că aceasta se întâmplă fiindcă soarele se mișcă, iar pământul stă pe loc, nu este corectă. Anumite refracții optice înșelătoare („contradicții optice”) sunt corectate de simț prin observare continuă. Explicațiile corecte ale rațiunii au venit de obicei mult mai târziu. Rațiunea își dobândește din simț întregul material de realitate și de cunoaștere. Rațiunea este capacitatea noastră de a prelucra, clarifica și construi. Verificarea ulterioară dovedește întotdeauna că simțul are dreptate. Greșelile noastre încep cu prelucrarea rațiunii, cu ipotezele, teoriile și toate celelalte feluri de explicație.
+
+<sup>14.</sup>S-a făcut mare caz de judecățile sintetice *a priori*, acea năzărire a lui Kant. Explicația corectă a ceea ce este aprioric în sesizarea noastră a fost dată de Platon cu mult timp în urmă. Potrivit lui, există un alt fel de certitudine decât cea a experienței obișnuite. Această certitudine este rezultatul reamintirii reînnoite a conceptelor dobândite în încarnări anterioare. Astfel, tot ce este aprioric este dobândit în cele din urmă din experiență. În plus, infailibilitatea matematicii se datorează faptului că ea este demonstrabil o construcție exactă de axiome dobândite din experiența realității fizice și a celor trei dimensiuni ale materiei fizice. Și animalele au dobândit aceeași certitudine apriorică, după cum reiese din încrederea lor instinctivă și spontană în conformitatea universală cu legea a vieții, în pofida ignoranței lor privind temeiuri și cauze. Definițiile lui Kant privind judecățile analitice și sintetice sunt greșite, fiind bazate pe confundarea criteriilor psihologice cu cele logice.
+
+<sup>15.</sup>Printre numeroasele invenții ale lui Kant se numără așa-numitele sale antinomii ale rațiunii. Firește, nu există contradicții în rațiunea însăși. Faptul că folosim destul de multe ipoteze reciproc contradictorii se datorează lipsei faptelor necesare explicației. Orice aplicare a legii identității este absolută. Potrivit legii identității, un concept, ca concept, este absolut. Orice concluzie deductivă este absolută. Orice fapt este absolut. Așezat în relație cu alte concepte, un concept capătă o semnificație relativă. O antinomie a rațiunii ar însemna că ceva în însăși funcția rațiunii ne-ar constrânge să așezăm faptele în contexte greșite. Aceasta este evident o absurditate.
+
+<sup>16.</sup>De asemenea, împărțirea arbitrară a realității făcută de Kant în fenomen și lucru în sine a fost înșelătoare. El a găsit termenii *phainomenon* (realitate fizică) și *noumenon* (realitate mentală) la eleați. Neînțelegând aceste două distincții pe deplin corecte, Kant a făcut din *phainomenon*, sau lumea vizibilă, realitate iluzorie (*Erscheinung*), materie lipsită de orice calități; iar din *noumenon* (*Ding an sich*), adevărata realitate inaccesibilă, cauza de necuprins a realității iluzorii. Kant a stabilit și o limită cu totul arbitrară și totodată de netrecut între ceea ce este explorat și ceea ce este încă neexplorat, între ceea ce poate sesiza individul normal și ceea ce este în stare să constate conștiința obiectivă superioară. Pentru a accentua și mai mult această opoziție, Kant a redefinit cuvântul „transcendental” pentru a desemna opusul lui transcendent. „Transcendental” trebuia să însemne „în limitele sesizării umane”. „Transcendent” însemna ceea ce era dincolo de aceste limite, ceea ce era de negândit, de necuprins, irațional, metafizic. Transcendentalul este prelucrarea de către rațiune a experienței fizice. („Transcendent” și „transcendental” nu sunt diferențiate în uzul altor limbi.) Kant a numit filosofia sa transcendentală. Din obișnuita sa obscuritate și ambiguitate, a numit-o și metafizică. Firește, a trecut mult timp până s-a văzut în general că Kant respingea tot ce era „metafizic” ca de necuprins pentru rațiune. Cu obișnuita sa siguranță de sine, el a anunțat că „nu se va scrie niciodată o metafizică a suprasensibilului”. Kant nu ar fi fost Kant dacă nu s-ar fi contrazis și aici. Declară categoric că nu putem ști nimic despre „lucrul în sine”. Cu toate acestea, face două afirmații cu totul de necuprins despre el, ambele false, firește. Astfel, afirmă că materia, care de fapt cuprinde toate calitățile vieții, nu are nicio caracteristică și este absolut lipsită de calitate. A vorbi despre o „latură interioară a naturii” (cu totul corectă, firește, ezoteric) este, spune el, „pură imaginație”. Mai afirmă că realitatea superfizică, despre care nu se știe nimic, este „dincolo de spațiu și timp”. Această expresie înșelătoare a lui Kant a devenit de atunci cunoscută ca citat. Astfel, Kant înțelegea că spațiul și timpul aparțineau lumii fenomenale (lumii vizibile, transcendentalului), nu lucrului în sine metafizic (transcendent, superfizic). În ignoranța lui despre realitate, nu bănuia existența acelor lumi superioare despre care ezoterica și filosofia yoga indiană susțin că există, nici că expresia „dincolo de spațiu și timp” desemnează haosul pitagoreic, din afara cosmosului. Se poate spune că Kant, asemenea scolasticilor, a făcut tot ce a putut ca să inducă în eroare și să imbecilizeze. Abia odată cu apariția fizicii nucleare moderne au fost sfărâmate cătușele pe care încercase să le făurească pentru cercetarea științifică. Prin aceasta dispar și „limitele cercetării naturale” pe care du Bois-Reymond credea la vremea lui că le poate stabili. Nu există limite pentru cercetare (deși există pentru cea instrumentală), după cum nu există limite pentru dezvoltarea conștiinței.
+
+<sup>17.</sup>Kant nu știa că prin sentimentele noastre aparținem lumii emoționale, prin gândurile noastre lumii mentale și prin intuițiile noastre lumii ideilor. Era cu totul lipsit de orice instinct pentru realitatea superioară, de orice simț al experiențelor avute la stadiul misticului. Era darnic cu sarcasmul când discuta existența mai înaltă decât viața fizică. Critica sa la adresa lui Swedenborg (pe care insista să-l numească Schwedenberg) arată că era incapabil să sesizeze ceva din realitatea superioară. Lucrările lui Swedenborg, care conțin multe fapte ezoterice în formă simbolică, le-a respins drept „patru tomuri in-quarto pline de nebunie”. Dar, la urma urmei, câtă înțelegere se poate aștepta de la cineva capabil de această prostie tipică pentru Kant: „Este ușor de văzut că orice fel de presimțire este o plăsmuire a imaginației, căci cum poți sesiza ceva care încă nu există?” În ceea ce-l privește pe Swedenborg, el avea conștiință obiectivă emoțională și vedea în lumea emoțională multe lucruri, pe care le interpreta prin noțiunile false despre natura acelei lumi pe care și le formase anterior. Toate noțiunile false pe care le aduci cu tine își găsesc confirmare în lumea emoțională. De aceea este numită lumea iluziilor.
+
+<sup>18.</sup>Pe lângă „critica” rațiunii pure (teoretice), Kant a fabricat și o „critică” a rațiunii practice (pure). Tot ce este de spus despre aceasta este că nu există o asemenea rațiune specială și că critica lui Kant nu este mai mult critică decât cea teoretică, ci doar o construcție imaginativă.
+
+<sup>19.</sup>În prima sa așa-numită critică, Kant a respins pretinsele dovezi savante ale existenței lui Dumnezeu, ale nemuririi sufletului și ale liberului-arbitru. Potrivit rațiunii sale teoretice, ne este cu neputință să știm ceva despre cele trei idei transcendente, tocmai pentru că aparțineau transcendentului și nu transcendentalului. Dar când a ajuns să-și construiască rațiunea practică, a avut din nou nevoie de ele. Printr-o vrăjitorie poetică, a făcut transcendentul transcendental. Ceea ce ne este necesar trebuie să fie adevărat. Făcând aceasta, a pus primele temelii ale pragmatismului, un nou fel de logică devenit școală. A existat, într-adevăr, dintotdeauna o tendință în această direcție. Voltaire avea nevoie de un Dumnezeu, iar Sundberg, un arhiepiscop suedez, de un iad „ca să țină țăranii în frâu”.
+
+<sup>20.</sup>Kant voia însă o dovadă care să susțină cele trei idei transcendente ale sale: nu există idei platonice. Dar acum există aceste trei. Fără aceste trei nu pot exista făpturi morale. Experiența arată că există făpturi morale. Prin urmare, ideile transcendente trebuie să existe. Și apoi saltul mortal: morala, conceptul de virtute, nu poate proveni din experiență, fiindcă nimeni nu corespunde conceptului de virtute și astfel nimeni nu este o făptură morală.
+
+<sup>21.</sup>Kant a inventat „legea morală”. Termenul a fost, într-adevăr, născocit de Fichte, care a dus întotdeauna cele mai rele invenții ale lui Kant la absurd. Dar noțiunea era a lui Kant. El și-a numit construcția imperativ categoric: Trebuie să. Avem astfel din nou scolasticul, cu forma și conținutul său. Forma era rațiunea practică „pură” (vidă), fără conținut, cu porunca: Ascultă. Conținutul consta în ascultarea ordinelor autorității, precum și a principiilor făcute de sine.
+
+<sup>22.</sup>Teologii au făcut din această invenție a lui Kant o disciplină nouă: teologia morală. Mai întâi, cele trei idei transcendente despre care Kant susținea că există, după ce dovedise că nu există nicio dovadă pentru ele. Apoi, în plus, reformularea lui impresionantă a vechii legi mozaice: trebuie să. O temelie solidă, desigur.
+
+<sup>23.</sup>Potrivit lui Kant, comportamentul moral consta în ascultarea unei reguli. Putem ști întotdeauna cum ar trebui să ne purtăm, ne asigură el cu obișnuita sa siguranță de sine; trebuie numai să vedem ca regula pe care o inventăm să poată deveni o lege valabilă pentru toți în toate împrejurările. (O absurditate, chiar și aceasta.) Ceea ce nu poate fi derivat dintr-un principiu nu poate fi acțiune dreaptă. Omul a cărui purtare nu este călăuzită de principii este imoral. Astfel, de pildă, nu trebuie să ne lăsăm purtarea determinată de motive de iubire, fiindcă iubirea este emoție, nu principiu. Nu trebuia să existe alt sentiment decât cel al constrângerii. Până și satisfacția care vine din datoria împlinită era îndoielnică. Dar, firește, aceasta era prescrisă pentru om, făptură pe care el o declara iremediabil rea, „un animal care are nevoie de stăpân”. Adăugați la aceasta că „poporul de rând (*das gemeine Volk*) nu este decât o grămadă de idioți”.
+
+<sup>24.</sup>Să-i îngăduim ezotericianului să adauge unul sau două comentarii la aceste ultime afirmații, atât de absurde logic și psihologic. Orice concepție despre dreptate se întemeiază în cele din urmă pe înțelegerea sensului și scopului vieții și a conformității ei cu legea. Conformitatea cu legea poate fi văzută în principiul reciprocității: „ochi pentru ochi” la barbari și „fă altuia ce ai vrea să-ți facă ție” la civilizați. Când acționează deliberat, omul este întotdeauna determinat de motive: fizice, emoționale sau, după ce a părăsit definitiv stadiul emoțional, mentale. Nicio regulă nu poate fi făcută absolută. Acțiunea este condiționată de totalitatea împrejurărilor reale, care aproape niciodată nu pot fi prevăzute. Chiar și după aceea, adesea nu putem decide dacă am acționat drept. Acțiunea dreaptă presupune înțelepciune, iar aceasta nu se dobândește din reguli care, în cel mai bun caz, nu pot fi decât orientative. Cele mai bune acțiuni sunt cele spontane, care vin din inconștient după ce am dobândit atitudinea corectă față de viață. Oricine trebuie să cerceteze și să analizeze, să se certe cu sine sau are nevoie să fie influențat de reguli ori sentimentalism, sau convins, nu are spontaneitatea care vine din înțelegerea vieții.
+
+<sup>25.</sup>În teoria sa despre dreptate, Kant cere ascultare absolută față de arbitrariul puterii cârmuitoare și susține că este de datoria noastră să ne supunem măsurilor inumane. Multe dintre spusele lui Kant îi demonstrează lipsa de omenie. Două exemple ar trebui să fie de ajuns: „Copilul nelegitim este în afara ocrotirii legii, astfel că societatea poate îngădui uciderea lui” și: „Nicio lege nu poate înlătura rușinea mamei necăsătorite.” (Dar ascultarea legii în acest caz?)
+
+<sup>26.</sup>Meritul lui Kant este că ne-a ajutat să vedem absurditatea speculației imaginative a pseudo-filosofiei. Dar împarte acest merit cu cei mai mulți filosofi.
+
+<sup>27.</sup>„Post-kantienii” (un concept foarte cuprinzător dacă înseamnă toți cei care caută sprijin la Kant) au reîncălzit în cea mai mare parte ce a spus el, susținând totuși că acesta este ceea ce a spus Kant, adică un adevăr cu modificări, uneori foarte mari.
+
+<sup>28.</sup>Un exemplu foarte tipic al exceselor logice ale kantienilor târzii: „Dacă cunoașterea noastră ar fi absolută, legile naturii ar înăbuși în noi orice independență a gândirii și propria existență a omului ar fi lipsită de semnificație. Ne-am pierde fie cu totul în lume, fie am fi siliți să ne afirmăm semnificația prin mijloace dogmatice. Așa cum stau lucrurile, ne putem călăuzi după experiența noastră fără piedici, deoarece conceptele care fac experiența posibilă garantează în același timp suveranitatea și libertatea omului, excluzând cunoașterea absolutului și explicând rolul pe care trebuie să-l jucăm noi înșine în lume. Chiar organul nostru de cunoaștere, care ne împiedică să avem vreo cunoaștere a absolutului, este un mister și o enigmă care garantează existența absolutului și participarea noastră la el.”
+
+<sup>29.</sup>Acesta este un exemplu extraordinar de baliverne perspicace și profunde, în spirit kantian. Nu se află în el niciun singur cuvânt rațional, adică niciun cuvânt care să fie în acord cu realitatea. Devenim liberi constatând legile naturii și aplicându-le. Dacă cunoașterea ca cunoaștere nu ar fi absolută (fapte în contextele lor corecte), nu ar exista cunoaștere. Un mister și o enigmă nu garantează nimic. Știința naturii nu se limitează la ceea ce este vizibil în ziua de astăzi. Cercetarea este „nesfârșită”. Când vom fi explorat atomul fizic, cu conținutul său din întreaga serie de feluri atomice mereu mai înalte, numai atunci vom fi atins omnisciența celei mai înalte lumi cosmice.
+
+### 5.29 *Fichte*
+
+<sup>1.</sup>Fichte a pornit de la Kant, iar meritul lui a fost că, exagerând năzăririle lui Kant, le-a făcut absurditatea și mai vădită. Subtilitățile lui ascuțite ale ficționalismului romantic nu au nimic de-a face cu bunul-simț sau cu realitatea. Kant, Fichte, Schelling și Hegel disprețuiau profund bunul-simț, care este totuși condiția prealabilă pentru dobândirea felurilor superioare de conștiință mentală.
+
+<sup>2.</sup>Atât Fichte, cât și Kant au găsit cu greu o explicație a felului în care au ajuns la categoriile lor. Kant a construit o „apercepție pură” care le născocea. Această construcție i s-a părut lui Fichte mai degrabă suspectă, așa că a inventat un alt mod de a demonstra incomprehensibilul, și anume „intuiția intelectuală” drept izvor ultim al cunoașterii.
+
+<sup>3.</sup>Fichte a pornit de la ideea că „lucrul în sine” al lui Kant era cu totul superfluu. Dacă nu putem ști nimic despre el, atunci, firește, el nu există — deci: afară cu el! Aceasta a nimicit și ultima fărâmă de realitate materială. Din moment ce realitatea se conformează ideilor noastre, din moment ce totul poate exista numai în conștiință, sinele este cel care creează totul. Și astfel a decretat că: „sinele pune un non-sine împotriva sa” și scoate din sine întregul univers.
+
+<sup>4.</sup>Subiectiviștii, care împotriva bunului-simț au reușit să-și imagineze că nu există lume materială exterioară, încearcă în zadar să explice sesizarea realității, universal valabilă și inevitabilă.
+
+<sup>5.</sup>Bunul-simț, care în toată modestia este cel mai înalt refugiu al omului, obiectează că, dacă se neagă existența obiectivă a obiectelor, atunci întreaga cunoaștere se reduce la pură fantezie. Obiectele sunt obiectivitatea conștiinței și corectivul subiectivității.
+
+<sup>6.</sup>Fichte a rebotezat imperativul categoric al lui Kant („trebuie să” al dictatului mozaic), numindu-l „lege morală”. Istoricii filosofiei și teologiei au proclamat această invenție o mare descoperire intelectuală. Prin asemenea lucruri au știut întotdeauna să paralizeze gândirea și să-i impresioneze pe ignoranți și lipsiți de discernământ.
+
+<sup>7.</sup>Fichte, prin negarea realității materiale, a obiectivității și inevitabilității existenței, prin ciudățenia lui grotescă potrivit căreia sinele creează întreaga existență din sine însuși, a pus temelia romantismului german și a isteriei naționaliste.
+
+<sup>8.</sup>Aceasta era tocmai pe placul fantaștilor ignoranți despre viață, care se imaginau zei creatori îndeajuns de puternici ca să remodeleze realitatea. Acest individualism fără margini credea că poate dicta vieții legi arbitrare. Aceste încercări neputincioase și vanitoase ale romanticilor de a scăpa de realitate au dus în cele din urmă la cultul iraționalului, irealului, înșelătorului, falsificatorului de viață și, în mod consecvent, la capitularea deplină a rațiunii „în supunere față de credință”. Nietzsche poate fi numit o mlădiță a romantismului, întreaga sa operă fiind construcții vehemente de iluzii și ficțiuni ale secolului al XIX-lea, lipsite de orice conținut de realitate. După el au venit toate acele maimuțe trufașe ale supraomului. Ai fi putut crede că acesta era fundul. Dar nu pare să existe vreun fund.
+
+<sup>9.</sup>Fichte a fost „filosoful” care socotea că alegerea filosofiei de către individ este determinată de concepția lui etică despre existență și, prin urmare, nu de cunoașterea sau capacitatea lui de a cuprinde realitatea. Așa se întâmplă când omul se lipsește de criteriul obiectiv. Totul devine „ficțional”.
+
+<sup>10.</sup>În *Discursurile către națiunea germană*, Fichte afirmă că opozițiile german și străin sunt aceleași cu binele și răul. Germana (construită de curând) este singura limbă autentică, iar germanii singurul popor real. A avea caracter și a fi german sunt unul și același lucru. Numai germanii sunt capabili de gândire independentă. Numai ei iau viața în serios. Numai la germani este posibilă educarea maselor. Numai germanul „este capabil de o iubire adevărată, rațională, pentru națiunea sa”.
+
+<sup>11.</sup>Aceasta înseamnă, desigur, a fi un subiectivist consecvent.
+
+### 5.30 *Schelling*
+
+<sup>1.</sup>Schelling este eclecticul tipic, vânând idei și culegând fiecare idee pe care o întâlnește. Trebuia întotdeauna să facă din ele ceva nou, așa că acesta nu avea voie să rămână acesta, ci trebuia mereu transformat în altceva. Ideile erau reîncălzite ca să se potrivească jargonului, apoi lansate ca sclipiri noi de geniu. Jongla cu concepte științifice, logice, teleologice, metafizice, mistice și estetice. Totul era estetizat și volatilizat. Putea publica o lucrare intitulată „Cele patru epoci cosmice”, în care nu se spunea niciun cuvânt despre vreo epocă cosmică. Kierkegaard, care i-a audiat prelegerile, l-a numit „un palavragiu formidabil”. Ne amintim foarte potrivit de efuziunea unui orator: „Vânăm o umbră, iar când am găsit această umbră, stăm cu cenușă în mâinile goale.” Poate citind ceva de felul acesta a găsit Goethe satira potrivită: „De obicei omul crede că, dacă numai aude cuvinte, trebuie să existe și ceva ce poate fi gândit.” Lichtenberg ar fi putut adăuga că oamenii socotesc strălucitor ceea ce depășește puterea lor de înțelegere. Sau, după cum a spus cineva: „Nu că îl înțeleg, dar sună bine.” Cei capabili să se simtă indignați de această ironizare pe seama „marilor” atât de trâmbițați nu s-au numărat, desigur, niciodată printre sufletele luptătoare pentru care era vital să găsească realitatea și care, în această frivolă joacă cu adevăruri sacre, nu au găsit decât cuvinte goale, fraze, ciorovăială pe vorbe.
+
+<sup>2.</sup>Schelling a încercat să facă un sistem din ideile sale. Totul părea însă a fi năzăriri destul de nebulose și slab motivate. Firește, era expus cu toată siguranța de sine a bombastului înnăscut, așa încât îi impresiona pe cei lipsiți de discernământ. Dar cei care refuză să se lase înșelați se minunează în schimb de toată această sofistică. Aproape că vezi cum acești ficționaliști se învârt în coconii propriilor concepte, până devin mental pupe. Stau înăuntru cu universul lor.
+
+<sup>3.</sup>Aceasta nu înseamnă să negăm că multe puteau suna destul de judicios. Și nu era nimic greșit în îndemânarea lui de a formula. Se găseau destule aforisme ingenioase, precum: „Natura este spirit inconștient, spiritul este natură conștientă.” Sub influența esteticii idealiste a lui Schiller, Schelling a născocit expresia: „Frumusețea este infinitul prezentat finit.”
+
+<sup>4.</sup>În pofida tuturor încercărilor lor de a sistematiza existența, atât Fichte, cât și Schelling au trebuit în cele din urmă, cel puțin în termeni voalați, să recunoască înfrângerea și faptul că, în realitate, nu cuprinseseră nimic. Omenirea începe încet să-și dea seama că sunt necesare fapte înainte de a putea face ceva cu spiritul sau natura. Astfel, Fichte a capitulat spunând că filosofia teoretică nu-și poate rezolva problemele, ci duce la etică. Apoi Schelling, la rândul său, face ca etica să ducă la estetică. În adevăr, un rezultat sărac după atâta fanfaronadă.
+
+### 5.31 *Hegel*
+
+<sup>1.</sup>Filosofii trebuie studiați în propriile lor lucrări, nu în vreo istorie a filosofiei. Ca să-l cunoști pe Hegel, trebuie să citești mai presus de toate *Fenomenologia spiritului*. Cine, făcând aceasta, nu se va crede transportat într-un azil de nebuni va fi foarte potrivit „să fie porcar cu hegelienii”, după cum se spunea. Și-a găsit chemarea. „Pe cărările neumbrite ale viitorului poate vedea urmele unei mâini care pune ordine.” Cei interesați pot studia teza de doctorat a lui Phalén.
+
+<sup>2.</sup>Hegel era foarte citit și familiarizat cu învățătura contemporană, cu scrierile filosofilor și cu istoria. Știa să se folosească de toate acestea. Ignoranța istorică i-a atribuit lui Hegel cele mai multe dintre ideile pe care le asimilase, de pildă că un fel de rațiune se manifestă în istorie; că opoziția este pârghia dezvoltării; că trecutul există în prezent; că ideile alcătuiesc un sistem, sunt părți ale unui întreg, că în sistem au valabilitate relativă chiar dacă, fiind noi, par absolute, că sunt descoperite în cursul dezvoltării; că ideile pot fi negate și că și contrariile lor conțin idei, fiindcă ideile sunt incluzive, nu exclusive, cum sunt conceptele; că țelul unității, către care filosofia năzuiește prin cuprinderea rațională a realității, omul religios încearcă să-l atingă prin emoție și presimțiri, iar artistul prin descoperirea frumuseții. Toate aceste idei, simple și limpezi, existau cu mult înainte de a fi făcute obscure de Hegel, cel mai extrem dintre toți subiectiviștii.
+
+<sup>3.</sup>Ideea evoluției era în aer. Apăruse la Herder, Goethe, Lamarck și alții. Fusese adesea sugerată de antici: Heraclit, Aristotel, Plotin și alții. Hegel a hotărât să facă un sistem din aceste idei, un proces al revelării spiritului, care a produs universul și s-a manifestat în mod deosebit în istoria filosofiei, care era „partea cea mai lăuntrică a istoriei lumii”. Ideea lui Hegel era că procesul universal este un proces logic sau dialectic și că adevărata lui forță motrice este contradicția.
+
+<sup>4.</sup>Încă din vremea lui Kant se văzuse că cele douăsprezece categorii pe care își întemeia concepția despre realitate erau imposibil de susținut. Nu se văzuse însă, cum a văzut Schopenhauer, cât de pretențios era întregul procedeu: să crezi că poți înghesui realitatea în sertare artificiale. În schimb, au continuat să facă noi categorii.
+
+<sup>5.</sup>Hegel a făcut categorii ale realității, ale istoriei filosofiei, ale istoriei lumii, pe care a prefăcut-o într-o „filosofie a istoriei”. Dacă faptele istorice nu se potriveau cu categoriile sale, el refăcea pur și simplu istoria. Asemenea fleacuri nu-l preocupă pe un spirit mare. Asemenea realității, istoria avea datoria să se conformeze căilor trasate de rațiunea lui Hegel. Dacă realitatea nu se potrivea construcțiilor lui, cu atât mai rău pentru realitate. Dacă știi cum ar trebui să arate realitatea, nu mai e nevoie să întrebi cum este. Cele două norme raționale, „acesta să fie acesta” și „nu accepta nimic fără temei suficient” („există fapte pentru aceasta?”), evident nu se aplică „geniilor”. Fenomenologia spiritului se manifesta în rațiunea lui Hegel. În istoria filosofiei putem urmări procesul evolutiv al spiritului sau felul în care autoactivitatea dialectică a conceptelor produce universul, statul, religia și, în cele din urmă, rațiunea absolută a lui Hegel; toate acestea fenomene pur subiective, fiindcă „obiectivitatea” este o iluzie. Cititorii lui Hegel i-au trecut cu vederea subiectivismul absolut, dar, desigur, el este bine mascat.
+
+<sup>6.</sup>Procesul dialectic al lumii lucra potrivit unei anumite metode descoperite de Hegel: teza, antiteza, sinteza. Hegel descoperise ceea ce spune platitudinea bine cunoscută, că dezvoltarea culturală pare să înainteze prin contradicții. Aceasta este legată de succesiunea generațiilor. Noua generație, întotdeauna nemulțumită de condiții, găsește greșite cele mai multe lucruri, care chiar sunt greșite, și, trăgând concluzii pripite, presupune că opusul va fi drept. Este o pătrundere veche de când lumea că în orice lucru există un sâmbure de adevăr; că importanța și aplicabilitatea ideilor noi (redescoperite) sunt adesea supraestimate. Ideea este întoarsă pe toate fețele posibile, iar și iar, *ad nauseam*. Este pusă în toate contextele posibile, aplicată la lucruri asemănătoare și neasemănătoare. Aceasta duce în cele din urmă la o reacție împotriva exagerărilor, reacția însăși urmând să fie exagerată. Este nevoie de timp până când o idee este relativizată și așezată în contextul ei corect. Faptul că așa trebuia să se întâmple întotdeauna era brevetul lui Hegel, și era așa fiindcă astfel lucra spiritul lumii, nu Napoleon, despre care credea că este spiritul lumii călare. Potrivit lui Hegel, orice schimbare implică o contradicție întrupată. În arbitrariul său suveran, el a făcut subiectivul obiectiv și obiectivul subiectiv.
+
+<sup>7.</sup>Dialectica hegeliană teză-antiteză-sinteză depinde fie de ignoranța obiectivă și, de aici, de ipoteze contradictorii posibile, fie de confundarea absolutului cu relativul, fie de confundarea modurilor logice și lingvistice de exprimare. Ne exprimăm în enunțuri absolute în loc de enunțuri relative. Dacă limba ar conține o serie de relativizări practice, absența relativizării ar fi văzută ca datorându-se ignoranței obiective. Probabil, formalismul logic a întârziat înțelegerea semnificației generale a relativității. Criteriul rațiunii este realitatea. Contradicția implică sesizare greșită, ignoranță. Rațiunea este plină de contradicții din pricina prelucrării ei defectuoase a conținutului simțului. Dacă subiectivitatea și obiectivitatea se contrazic, vina este a subiectivității. Subiectivitatea noastră, împreună cu ignoranța noastră obiectivă, face ca realitatea să ne pară ilogică, așa cum logica unei pătrunderi mai profunde pare adesea ilogică logicii mai simple a ignoranței.
+
+<sup>8.</sup>Până în a doua jumătate a secolului al XVIII-lea, cercetarea naturii începuse hotărât în cele mai multe ramuri ale științei. O descoperire urma alteia în succesiune rapidă. Schelling și Hegel urmăreau cu atenție cercetarea din vremea lor. Trebuia să adune material pentru sisteme. Luau tot ce puteau găsi. Nebănuind că cercetarea era încă în copilărie, credeau că ajunsese deja la limitele ei ultime. Astfel, puteau lua materialul ei așa cum era și să facă din el sistemul absolut de cunoaștere. Hegel a mers cel mai departe în spiritul său suveran de întreprindere. Nu numai că a construit un sistem, ci a crezut că poate dovedi că lucrurile trebuie să fie astfel și nu altfel. Rezultatul a fost grotesc, firește. De pildă, a încercat să dovedească faptul că nu pot exista mai mult de șapte planete în sistemul solar, că fierul devine mai greu când este magnetizat, că legea gravitației contrazice legea inerției și alte nebunii. Când s-au făcut mai târziu noi descoperiri care i-au dezvăluit lipsa de judecată, sistemul său s-a prăbușit cu zgomot.
+
+<sup>9.</sup>Și ce prăbușire a fost aceea! După anii 1830, oricine rostea cuvântul filosofie printre oamenii de știință era luat în râs și socotit slab de minte. Și ei au devenit acum filosofi și au început să speculeze, ceea ce este de regretat.
+
+<sup>10.</sup>Partea filosofică a sistemului lui Hegel a fost cruțată de această soartă, fiindcă filosofii au încercat să salveze cât mai mult din ficționalism. De la căutarea originară de a rezolva enigma existenței, filosofia a degenerat de fapt într-un scop în sine. A devenit studiul istoriei filosofiei și, firește, sunt atunci dornici să-i dea toată înfățișarea raționalității și să poleiască ficțiunile. Încercând să „explice” toate absurditățile, sporesc confuzia ideilor. Ezotericianul își poate permite să fie mai necruțător de sincer și să admită că întreaga filosofie este speculația imaginativă a ignoranței și, ca atare, înșelătoare. Filosofii din Uppsala, Hedvall, Hägerström și Phalén, mai ales Hedvall (despre care Hedenius scrie: „Strălucita lucrare a lui Karl Hedvall despre teoria cunoașterii la Hume este una dintre cele mai originale și mai pătrunzătoare disertații dezbătute vreodată la o universitate suedeză”), au demonstrat că toate sistemele filosofice construite până atunci erau logic imposibil de susținut. Ei dezaprobau încercările istoricilor filosofiei de a psihologiza erorile fundamentale și de a face astfel istoria filosofiei istorie, dar nu filosofie. Totuși, nici ei nu au înțeles că conștiința mentală nu poate rezolva problema realității.
+
+### 5.32 REACȚIA ÎMPOTRIVA FICȚIONALISMULUI
+
+<sup>1.</sup>Fiecare descoperire științifică a infirmat afirmațiile dictatoriale ale lui Hegel și a arătat limpede că realitatea era cu totul altceva decât construcțiile imaginative ale romanticilor ficționaliști. Reacția împotriva sistemelor speculative, care până atunci dominaseră întreaga gândire, a fost, firește, violentă. Nu numai oamenii de știință, ci și publicul educat și-a pierdut credința în filosofie. În schimb, s-au întors spre oamenii de știință, cu concepția lor superioară de bun-simț despre realitate, în ceea ce privește lumea fizică. Oamenii credeau că se pot lipsi de filosofie. Din nefericire, acei fizicaliști care căutau să popularizeze concepția științifică de ansamblu nu aveau capacitatea necesară, iar aceasta nu a făcut decât să sporească dezorientarea.
+
+<sup>2.</sup>Totuși, a arunca la gunoi istoria filosofiei ar însemna doar să repetăm aceleași erori de gândire. Istoria filosofiei este istoria erorilor. Filosofia nu ne ajută nici să găsim „adevărul”, nici să explicăm existența. Ne arată cum nu trebuie să gândim. Demonstrează erorile de gândire inevitabile pentru intelectul uman. Și aceasta este destul de important. Singura concepție rațională pentru filosofia exoterică este să socotească adevăr ceea ce rămâne după ce au fost făcute toate greșelile. Vom ajunge treptat mai aproape de adevăr urmând calea greșelilor abandonate. Odată ce filosofii vor înțelege aceasta, vor trata încercările propuse pentru rezolvarea problemelor filosofice într-un mod cu totul diferit și mai critic. Istoria filosofiei trebuie să fie critică necruțătoare, nu încercări de a conserva tot felul de născociri. Așa cum este acum, ea este în mare măsură o serie de falsificări. Absurditățile filosofilor au fost poleite sau omise în punctele cruciale, pentru ca întregul să pară mai rațional, ignorându-se faptul că greșelile adesea nici măcar nu au fost descoperite.
+
+<sup>3.</sup>Există numai două moduri raționale de a privi existența: cel al bunului-simț sau cel al sistemului hylozoic al realității. Karl Hedvall, filosoful din Uppsala, cu remarcabila sa perspicacitate logică și bunul-simț, a demonstrat nu numai că sesizarea directă, nereflexivă a realității de către simțul obiectiv este singura corectă, ci și că rațiunea subiectivă induce în eroare și că simțul, care poate doar constata fapte, este lipsit de apărare împotriva teoriilor rațiunii. Iar această lipsă de apărare face posibile greșelile filosofice.
+
+<sup>4.</sup>Cercetarea nu are sfârșit. Omul nu are nicio posibilitate de a ajunge la vreun rezultat final în privința existenței. „Adevărul” exoteric, sistemul absolut de cunoaștere, este țelul final visat al cercetării. Omenirea mai are foarte mult de făcut înainte de a fi explorat lumea fizică și de a fi descoperit toate legile fizice. Pentru individul normal, cunoașterea realității este în toate aspectele esențiale un rezultat al cercetării naturii. Sarcinile filosofiei trebuie limitate la critica imanentă, examinări de principiu, analiză conceptuală și alcătuirea unor sisteme de ansamblu care orientează în rezultatele dobândite de cercetare. Critica filosofică arată defectele sistemelor, bazele lor greșite, contradicțiile interioare și consecințele absurde. Această critică va dezvălui treptat tot mai multe defecte ale sistemelor, în loc să încerce, ca acum, să le poleiască. În analiza conceptelor trebuie procedat cu precauție. Întreaga gândire umană este presărată cu concepte auxiliare, de care nu ne putem lipsi până nu au fost înlocuite cu faptele fundamentale, fie ale cercetării, fie ale ezotericii. Lipsindu-ne de conceptele auxiliare, nu găsim niciodată conceptele corecte, ci numai ne lipsim de un material necesar gândirii.
+
+<sup>5.</sup>Mai trebuie să menționăm patru filosofi, fiecare dintre care a găsit și a subliniat mai ales o idee platonică, una în acord cu realitatea: Schopenhauer, voința oarbă omnipotentă; Hartmann, inconștientul; Spencer, principiul fundamental al evoluției; și Bergson, intuiția. Se admite că sistemele pe care le-au construit pe ideile lor au fost eșecuri. Dar ideile însele și-au primit monumentele și astfel au fost păstrate pentru istoria ideilor, moștenitoarea filosofiei.
+
+<sup>6.</sup>În sfârșit, câteva cuvinte despre pragmatism, (ca și semantica) infinit de tipic pentru rătăcirea rațiunii dezorientate, infinit de tipic pentru conceptele neclare și gândirea încurcată a vremurilor moderne. Este arbitrariul subiectivismului în toată gloria sa. Pragmatismul este corespondentul filosofic al iezuitismului teologiei, pe care vor încerca zadarnic să-l reabiliteze. Pragmatismul este noțiunea că scopul scuză mijloacele, îmbrăcată în filosofie. Așa-numita valoare de adevăr a unei idei depinde, se spune, de potrivirea ei pentru atingerea unui scop dorit. Minciunile nu numai că pot fi numite adevăr, ci sunt adevăr, cu condiția să servească un scop. Și naziștii și bolșevicii au folosit această idee. Pragmatismul mai cuprinde încercările de a face din ipotezele științifice temelia sistemului de cunoaștere. Asemenea încercări sunt sortite eșecului, fiindcă nicio ipoteză nu este sustenabilă pe termen lung. Dintr-un sens originar de intenționat sau potrivit pentru viață (= adevărat), pragmatismul a căpătat un înțeles tot mai larg, ceva asemănător filosofiei imanenței.
+
+<sup>7.</sup>Privind înapoi la drumul urmat de filosofia europeană în cei 2.500 de ani ai ei (epoca zodiacală a Peștilor), constatăm că omenirea a dobândit încet ideile realității. Omenirea a trebuit să prelucreze ideile în sisteme ficționale pentru a le cuprinde și a le păstra posterității. Pas cu pas, oamenii sunt ademeniți fără să știe către realitate, înlocuindu-și ficțiunile cu idei ale realității. Nevoia indivizilor de autoactivitate mentală a fost satisfăcută, fiindcă li s-a îngăduit să-și construiască propriile sisteme imaginative, mai mult sau mai puțin logice. Cu trudă infinită, individul trebuie să-și formeze noi concepții despre lume și viață folosind ideile realității care se revelează treptat, până când omenirea va fi văzut că cunoașterea realității va rămâne inaccesibilă rațiunii umane până când aceasta va fi recunoscut superioritatea ezotericii ca ipoteză de lucru. Tocmai de aceste idei caută analiza conceptuală modernă să lipsească omenirea.
+
+### 5.33 *Schopenhauer*
+
+<sup>1.</sup>Educația realistă a lui Schopenhauer, care îl făcea să privească viața și experiența drept izvorul întregii cunoașteri, l-a salvat de jongleria scolastică cu concepte. Studiind filosofia, a văzut îndată caracterul baroc al construirii de categorii și al alcătuirii de sisteme din concepte goale, goale fiindcă lipseau conținutul faptelor realității. Îngustimea studiilor sale (Upanișadele, Platon exoteric și Kant) l-a împiedicat să vadă falsitatea a trei dintre numeroasele dogme ale lui Kant: subiectivismul, spațiul și timpul ca forme ale sesizării și împărțirea realității în fenomen și lucru în sine. Acceptând aceste trei, și-a ruinat propriul sistem. Spațiul este dimensiune, iar timpul este durată. Timpul este modalitatea de măsurare a succesiunii evenimentelor.
+
+<sup>2.</sup>Materia primordială (haosul) este lipsită de spațiu. Spațiul apare numai odată cu cosmosul. În cosmos, materia face posibilă perceperea spațiului, mișcarea face posibilă perceperea timpului, iar procesele naturii ne fac posibilă constatarea legilor naturii sau a cauzalității — toate acestea diferite în lumi diferite.
+
+<sup>3.</sup>Potrivit ezotericii, realitatea are trei aspecte: materia, mișcarea și conștiința. Descartes și Spinoza au subliniat aspectele materiei și conștiinței, Schopenhauer s-a ținut de aspectele mișcării și conștiinței. Deoarece toate cele trei aspecte sunt absolute și, prin urmare, nu pot fi derivate din altceva, orice încercare de a explica lumea care nu le ia pe toate trei în seamă este sortită eșecului.
+
+<sup>4.</sup>În toată viața sa, Schopenhauer a oscilat între subiectivism și obiectivism. De fapt, subiectivismul era o teorie care se războia cu întregul său instinct de viață și simț al realității; de aceea sublinia atât de puternic cauzalitatea materiei ca înlocuitor al materiei obiective. Nimeni nu a putut înfățișa realitatea ca el, nimeni nu a subliniat atât de mult faptul că experiența directă a realității este izvorul întregii noastre cunoașteri. Uneori realitatea este pentru el *maya*, aparență înșelătoare, iluzie. Dar de cele mai multe ori realitatea este pur și simplu ceea ce pretinde a fi. „Caracterul naturii este onestitatea de la un capăt la altul.” Aici aproape se împiedică de axioma lui Hedvall, că teoriile noastre ne induc în eroare, că simțul nostru obiectiv este lipsit de apărare, la cheremul ficțiunilor rațiunii noastre subiective, cu puterea lor sugestivă. Această oscilație a făcut ca sistemul lui să fie plin de contradicții. Se înțelege de ce Hedvall, pentru care orice contradicție era o oroare, l-a numit romancier. Totuși, niciun filosof al timpurilor moderne nu a enunțat atâtea adevăruri ezoterice ca Schopenhauer. În mod infinit de tipic, cel mai mare filosof al secolului al XIX-lea a fost cel mai disprețuit de filosofii profesioniști.
+
+<sup>5.</sup>Critica lui Schopenhauer la adresa lui Kant și a epigonilor lui este printre cele mai pătrunzătoare realizate vreodată. El a infirmat strălucit cele mai multe sofisme ale lui Kant, caracterul ficțional al ambelor feluri de rațiune „pură”, teoretică și practică, ale lui Kant. Dacă ar fi avut prilejul să-și reamintească din nou cunoașterea ezoterică latentă, nu ar mai fi rămas nimic din Kant, fizicalistul.
+
+<sup>6.</sup>Este interesant să observăm cele patru distincții ale lui privind modurile primare ale omului de a sesiza realitatea: cauza și efectul proceselor fizice, temeiul și consecința gândirii logice, axiomele evidente prin ele însele ale matematicii care nu au nevoie de dovadă, lipsa de libertate a voinței, fiindcă ea este întotdeauna determinată de motivul cel mai puternic.
+
+<sup>7.</sup>În doctrina voinței, Schopenhauer a văzut mai adânc decât orice alt filosof. Voința, originea mișcării, este puterea primordială, etern oarbă, dinamică; adică etern autoactivă, inepuizabilă, omnipotentă. Pentru a explica felul în care această voință oarbă putea produce forme de viață adecvate scopului, Schopenhauer a recurs la un sistem de „idei platonice” care oferă forme. În această măsură a văzut corect că ideile lui Platon sunt forțe vii, elementali cauzali cu idei încărcate de energie. (Potrivit ezotericii, conștiința care se trezește încet în regnuri tot mai înalte dobândește o capacitate tot mai mare de a-și însuși energia dinamică oarbă a materiei primordiale, această energie devenind astfel voință.) Pătrunderea sa psihologică insuficientă, care l-a făcut să treacă cu vederea faptul că emoționalitatea are propria ei realitate, a avut drept rezultat că nu a putut păstra teoria orbirii absolute a voinței. A făcut ca emoțiile să aparțină voinței, dându-i astfel un fel de conștiință; o confundare a emoționalității cu voința (cf. § 3.4.7).
+
+<sup>8.</sup>Și ca etician Schopenhauer ocupă o poziție excepțională. El a arătat limpede că, în pofida tuturor prelegerilor, nu a fost propusă niciodată o morală rațională, că nici măcar nu s-a putut cădea de acord asupra conținutului, principiilor sau motivelor ei. Ceea ce s-a produs este o colecție de ficțiuni, capricii, tabuuri și bule de săpun apriorice.
+
+<sup>9.</sup>Niciun motiv egoist nu este admisibil. Singurele motive sustenabile sunt corectitudinea și simpatia, totuși acestea nu au fost subliniate niciodată în vreun sistem etic, deși pot fi întrezărite la Rousseau. Din nefericire, Schopenhauer a folosit termenul negativ „milă” (*Mitleid*), care a stârnit opoziția furibundă a lui Nietzsche. Cine suferă împreună cu altul nu face decât să sporească fără rost suferința din lume, ajunge curând o epavă nervoasă și astfel are el însuși nevoie de ajutor, în loc să poată oferi altora ajutor eficient.
+
+<sup>10.</sup>Poruncile și cerințele depind de răsplată și pedeapsă, deci nu sunt categorice, cum spunea Kant, ci condiționale. Acțiunea rațională și cea dreaptă nu sunt neapărat unul și același lucru; ceea ce este nobil nu este neapărat rațional, iar ceea ce este rațional nu este neapărat nobil. Datoria și obligația merg împreună. Îndatoririle presupun drepturi. Așa-numita conștiință morală este un complex de teamă, superstiție, prejudecată, vanitate, obiceiuri și alte calități, în proporții care variază după aptitudine, educație și influența mediului.
+
+<sup>11.</sup>Și religia își primește partea cuvenită într-un dialog interesant. Trebuie să poți distinge între religie, care este dorul omului după lumea idealurilor, și Biserică, cu ignoranța, lipsa ei de judecată și ura ei. Prin osândirea și condamnarea ei neîncetată, intoleranța și persecuția ei, tortura și arderea pe rug, Biserica și-a pierdut orice pretenție de a fi o autoritate în privința adevărului și dreptății. Aceste expresii ale urii condamnă o Biserică a cărei sarcină era să predice iubirea. Totuși, nu se poate nega că Biserica a făcut și mult bine. Într-o epocă de barbarie, a luptat împotriva lipsei de lege, a exercitat o influență rafinatoare asupra manierelor și obiceiurilor grosolane, a îndeplinit opere caritabile, a păzit moștenirea învățăturii și a încurajat arta să-i împodobească templele.
+
+<sup>12.</sup>Schopenhauer avea dreptate din punct de vedere psihologic când socotea că aceia care studiază filosofia la universități nu caută, așa cum cred, adevărul, ci dovezi pentru credințele pe care le au deja.
+
+<sup>13.</sup>Schopenhauer socotea că poate găsi o trăsătură comună la sfinții tuturor epocilor: uciderea voinței de a trăi prin liniștism și asceză. Instinctul său latent de sfânt l-a indus în eroare în fața suferinței din lume. Cu totul contrar instinctului său de viață vital, sănătos, realist, era un pesimist teoretic. Aceasta se datora, după cum vedea el, faptului că viața este opera voinței primordiale oarbe și este lipsită de un sens absolut sau de un scop rațional. Istoria lumii, fiind tribunalul lumii, nu arată nicio dezvoltare, ci numai o repetare nesfârșită a lipsei de scop și a iraționalității. Dar așa ar fi dacă regnul uman ar fi cel mai înalt regn natural.
+
+<sup>14.</sup>Firește, o asemenea concepție despre viață are un efect paralizant asupra vieții. Potrivit ezotericii, viața nu este suferință. Suferința este secerat rău din semănat rău. Sinele (monada) se încarnează pentru a avea experiențe și a învăța din ele, pentru a cunoaște realitatea și viața. Sinele nu distruge prin asceză și moralism, prin concepții deprimante și devitalizante, unealta (organismul) de care are nevoie pentru aceasta. Nirvana lui Buddha nu este stingerea sinelui, nu este sfârșitul, ci începutul, intrarea într-un regn natural superior. Chiar și viața fizică va deveni în cele din urmă un paradis, odată ce omenirea va fi dobândit bun-simț, corectitudine și simțul unității, pătrunderea că ceea ce nu este iubire este ură.
+
+<sup>15.</sup>I-a iritat foarte mult critica usturătoare a lui Schopenhauer la adresa celor trei „filosofăstori”: Fichte, Schelling și Hegel. Ar fi trebuit, în schimb, să aprecieze că a existat cineva care a îndrăznit să se opună acestui scandalos supliciu. Neîndoielnic, el le era cu mult superior atât în perspicacitate, cât și în simțul realității (în afară de dependența sa teoretică de subiectivismul originar, absolut, al lui Kant). Cândva, în viitor, vor vedea câtă dreptate a avut critica lui.
+
+<sup>16.</sup>Este caracteristic că tocmai aceia care au avut o ședere foarte îndelungată în lumea mentală între încarnări cad ușor pradă filosofiei iluziei (care spune că întreaga materie este iluzie).
+
+### 5.34 *Hartmann*
+
+<sup>1.</sup>Contribuția lui Eduard von Hartmann la istoria filosofiei constă în afirmarea ideii că inconștientul este un factor fundamental al existenței și necesar pentru înțelegerea realității. În afară de această idee, nu ar exista niciun motiv să-l menționăm, căci nu a produs nimic altceva de valoare durabilă. Ca de obicei în filosofie, cadrul în care a așezat această idee era o construcție eșuată. Ideea însăși nu era nicidecum nouă. Este sugerată în sistemul pitagoreic. (Monadele sunt la început inconștiente. Conștiința și activitatea lor de conștiință se dezvoltă în procesul manifestării.) Hartmann recurgea adesea la inconștient ca la o bază mistică de explicație când nu era disponibilă nicio altă explicație. Firește, nu ar trebui procedat astfel, deși psihanaliștii o fac.
+
+<sup>2.</sup>În pofida eșecului lui Kant și Hegel și în pofida criticii nimicitoare a lui Schopenhauer, Hartmann nu văzuse caracterul pretențios al construirii de categorii. Așa cum se întâmplă întotdeauna la subiectiviști, ori de câte ori avea de-a face cu supărătoarea lume exterioară, pornea de la constatarea științifică a existenței materiei, deoarece aceasta este singura bază posibilă a explicației. Devenit astfel capabil să folosească faptele cercetării, obiectivul era făcut subiectiv ca printr-o mișcare de baghetă și potrivit în sertarele pe care le construise.
+
+<sup>3.</sup>Hartmann este un eclectic tipic, adunând toate ideile predecesorilor săi și încercând să facă un sistem din ele. Sistemul său îl impresionează pe cititor prin caracterul său multilateral și bogăția de conținut.
+
+### 5.35 *Spencer*
+
+<sup>1.</sup>Herbert Spencer a pornit de la rezultatele cercetării naturii și a încercat să reunească datele constatate într-un sistem de cunoaștere. Prin privirile lor de ansamblu, asemenea sisteme înlesnesc orientarea în discipline. Sistemul arată cât de departe a ajuns cercetarea. Din principiu, el s-a abținut să îngăduie rațiunii subiective să judece ceva ce nu putea fi găsit în conținutul simțului obiectiv. Astfel, este filosoful tipic al imanenței, cu instinctul corect că ceea ce contrazice bunul-simț nu poate fi în acord cu realitatea. Ceea ce este absurd este inutil ca ipoteză de lucru.
+
+<sup>2.</sup>Încă înainte de Charles Darwin, Spencer și-a elaborat teoria evoluției, potrivit căreia evoluția este o schimbare progresivă de la omogenitate incoerentă la eterogenitate coerentă a structurii și funcției. Ideea dezvoltării începuse, firește, să fie observată încă din secolul al XVIII-lea, mai ales la Lamarck. Dar abia după ce Spencer a demonstrat universalitatea legii dezvoltării și valabilitatea ei în toate sferele vieții, mai ales în biologie, sociologie și psihologie, ea a pătruns cu adevărat. „Sistemul său de filosofie sintetică” era rezumatul învățăturii contemporane. I se poate reproșa că a folosit mult prea mult principiul analogiei. Societatea nu este un organism fiziologic. Când analogia este împinsă prea departe, ea încurcă mai mult decât explică.
+
+<sup>3.</sup>Ezoterica susține că evenimentele mecanice, fiind în acord cu legile eterne ale naturii, servesc marelui scop cosmic: dezvoltarea fiecărei conștiințe atomice de la inconștiență la omnisciență. Experiențele conștiinței individuale și prelucrarea lor se adaugă acelui fond de experiență latentă din subconștient, care crește neîncetat de-a lungul încarnărilor și face posibil ca individul să cuprindă și să înțeleagă tot mai mult, să dobândească cunoașterea realității și a vieții, să descopere legile existenței și să învețe să le aplice rațional. Fiind orientate spre scop, legile vieții fac posibilă dezvoltarea conștiinței.
+
+<sup>4.</sup>Firește, Spencer nu s-a bucurat de favoare la filosofii de profesie. Altfel ar fi văzut că era de fapt un filosof-model, a cărui sarcină ar trebui să fie orientarea în realitate și oferirea unor priviri de ansamblu asupra realizărilor cercetării. În schimb, filosofii se ocupă astăzi numai de așa-numita lor teorie a cunoașterii, problema posibilității cunoașterii. Când filosofii vor fi lămurit pseudo-problemele filosofice și erorile de gândire ale marilor gânditori, își vor putea îndrepta atenția spre rezumarea rezultatelor cercetării despre realitate.
+
+### 5.36 *Bergson*
+
+<sup>1.</sup>Bergson a intrat în contact cu ezoterica pe când încă se forma. A avut prilejul să se familiarizeze cu ideile ei și mai târziu a folosit dintre ele atât cât a înțeles el însuși sau cât a putut întrebuința pentru filosofia sa exoterică.
+
+<sup>2.</sup>Potrivit lui Bergson, spațiul este omogen și o cantitate lipsită de calitate. Aceasta este și corect, și greșit. Spațiul infinit, nelimitat, care conține în sine nenumărate cosmosuri, este el însuși omogen. Dar, în același timp, acest „spațiu” este însăși materia primordială, care posedă toate calitățile inepuizabile ale vieții, așa cum apar ele în materia manifestată atomizată.
+
+<sup>3.</sup>Timpul nu are dimensiune. Folosirea unei linii pentru a simboliza timpul a fost un eșec, o comparație foarte prost aleasă, care a dat naștere la multe concepții greșite. Numai spațiul are dimensiune. Timpul este acea unitate care leagă trecutul de prezent și de viitor. Timpul este durabilitate, existență continuă, durată. Timpul obiectiv este întotdeauna legat de spațiu într-o succesiune de evenimente. Este o măsură a proceselor și, prin urmare, poate fi împărțit în perioade sau cicluri de timp. Timpul este atât obiectiv, cât și subiectiv. Cosmosul (în materia primordială) constă din materie manifestată și este ceea ce putem numi spațiul în care există toate lumile. Timpul este un mod de a măsura procesul total în care au loc toate evenimentele. Atât spațiul, cât și timpul pot fi împărțite în unități oricât de mici și sunt, pentru noi, moduri de măsurare și gradare.
+
+<sup>4.</sup>Potrivit lui Pitagora, cosmosul este plin de lumi materiale interpenetrante, cu grade diferite de densitate, până la cea mai grosieră, lumea fizică. Niciuna dintre aceste lumi nu este ireală, o realitate înșelătoare, o iluzie. Toate au existență materială obiectivă. Firește, ființele din lumile inferioare nu pot sesiza obiectiv materia din lumile superioare. Dar pot percepe subiectiv vibrațiile din acele lumi superioare, deși nu pot atribui aceste manifestări ale vieții unor feluri superioare de materie. Numai ezoterica poate da explicațiile corecte necesare pentru aceste fenomene.
+
+<sup>5.</sup>Trecutul există în prezent. Pentru un sine cauzal, nu există trecutul lumilor atomice planetare 47–49, după cum nu există nici pentru un sine-43 al lumilor atomice sistemice solare 43–49. Monada învață din toate experiențele sale și, prin urmare, se dezvoltă neîncetat. Atât lumea interioară a conștiinței, cât și lumea exterioară a materiei se schimbă constant. Conceptul păstrează ceea ce este universal, caracteristic, comun într-un număr de lucruri individuale.
+
+<sup>6.</sup>Ideea intuitivă de „evoluție creatoare” a fost cea pe care Bergson a reușit cel mai bine să o formuleze. Marea evoluție cosmică nu lucrează după un plan prestabilit. Numai țelul final este stabilit: toate monadele să dobândească omnisciența despre întregul cosmos. Bergson a înțeles limpede că evoluția însăși creează condițiile și posibilitățile creșterii sale. Aceste condiții depind însă de caracterul individual al fiecărei ființe, de la atomi la planete, sisteme solare etc. (Deoarece toată materia are conștiință, orice formă materială este o ființă aflată la un anumit nivel de dezvoltare.) Trecutul limitează astfel posibilitățile viitorului. Un plan rigid ar înlătura legea libertății, potrivit căreia fiecare monadă are dreptul la libertatea (condiționată de pătrundere și capacitate) pe care a dobândit-o cândva și continuă să o aplice în mod legal. Evoluția își caută drumul pe orice cale imaginabilă pentru a găsi calea cea mai potrivită pentru fiecare și pentru toți.
+
+<sup>7.</sup>O altă idee intuitivă a lui Bergson apare în afirmarea posibilității intuiției. Predând aceasta, el se întorcea chiar la Platon. Intuiția ne deschide lumea ideilor. Ea este un organ special de cunoaștere, care ne dă idei corecte, cunoaștere corectă a realității. Numai câțiva oameni și-au croit drum prin diferitele „straturi ale conștiinței” din lumea mentală și au reușit să cucerească conștiința intuiției. Chiar cei mai mulți filosofi se află încă, respectiv, în cele mai de jos două domenii ale gândirii deductive și ale gândirii principiale. Nu se poate vorbi despre intuiție adevărată până când individul nu a dobândit și stăpânit gândirea perspectivistă și gândirea sistematică. „Intuiția” pe care încearcă însă Bergson să o descrie este mai curând sinteza latentă a experiențelor, care alcătuiește sistemul inconștient de gândire dobândit de individ prin propriile puteri și îi determină spontan concepția despre realitate și viață.
+
+### 5.37 *Concluzie*
+
+<sup>1.</sup>În prezent, omenirea trece printr-o nouă perioadă atât subiectivistă, cât și sceptică. Aceasta este urmarea destrămării dogmatismului teologic, a pătrunderii care se ivește asupra caracterului fictiv al speculației filosofice și a fizicii nucleare, care a spart conceptele dogmatice ale științei naturii. Vechile sisteme s-au dezintegrat în întregime, nefiind posibil să se pună în locul lor un nou sistem exoteric. Subiectivismul consecvent duce la dezorientare completă în existență, arbitrariu suveran, lipsă de principii și iresponsabilitate.
+
+<sup>2.</sup>Deoarece concepția despre dreptate provine din concepția despre viață, care la rândul ei se bazează pe concepția despre lume, dezintegrarea generală a sistemelor a dus la dezintegrarea conceptelor de drept și dreptate și, astfel, la lipsă generală de lege. „Oamenii se simt adesea profund nesiguri în privința a ceea ce este drept și nedrept. Nici măcar nu sunt siguri dacă dreptul și nedreptul sunt altceva decât veche superstiție.” Teologii poartă multă vină pentru această stare de lucruri, deoarece s-au opus cu încăpățânare împăcării religiei cu știința. Par incapabili să se elibereze de iluziile și ficțiunile religiei dominante.
+
+<sup>3.</sup>Așa cum poate exista o singură religie (comună tuturor înțelepților tuturor epocilor, și anume religia iubirii și înțelepciunii), poate exista o singură filosofie (un singur sistem adevărat de gândire) și o singură concepție științifică adevărată despre realitatea fizică. Când cercetarea prin inducție va fi putut, în cele din urmă, construi acel sistem, își va fi atins țelul. Dar acesta este încă foarte îndepărtat.
+
+<sup>4.</sup>Încă din anul 600 î.e.n., Buddha a arătat limpede că rațiunea umană nu poate rezolva problemele existenței, nu poate rezolva problemele filosofiei.
+
+<sup>5.</sup>Ezoterica este rezumatul acelor fapte fundamentale despre realitate și despre sensul și scopul vieții, care au fost oferite de ierarhia planetară și au fost întotdeauna accesibile elitei din ordinele secrete de cunoaștere, dar a căror publicare este îngăduită astăzi. Fără această cunoaștere, oamenii vor disputa întotdeauna toate problemele fundamentale și fiecare om gânditor își va irosi timpul dobândindu-și cu trudă propria concepție fictivă despre existență. Numai ezoterica alcătuiește temelia comună a religiei, filosofiei și științei.
+
+<sup>6.</sup>Hylozoica obligă rațiunea să accepte singura „ipoteză de lucru” care este în acord cu realitatea și nu poate fi înlocuită niciodată în viitor cu ceva mai bun.
+
+<sup>7.</sup>Filosofii au căutat întotdeauna ceea ce este „universal valabil și necesar”, ceea ce este logic inevitabil. Hylozoica, înțeleasă corect, ne arată tocmai ceea ce este „logic necesar”, logic inevitabil.
+
+<sup>8.</sup>Nici religia, nici filosofia, nici știința nu pot oferi o temelie de nezdruncinat pe care să se clădească o concepție despre viață.
+
+### SUPLIMENT
+
+### 5.38 *Filosofia contemporană*
+
+<sup>1.</sup>De-a lungul epocilor, filosofii au căutat — deși bâjbâind, instinctiv — un fel de explicație a existenței, a sensului și scopului vieții, au căutat să răspundă la cele trei întrebări ale Sfinxului: De unde? Cum? și Încotro? Nu au putut vedea că aceasta este imposibil, deoarece le-a lipsit cunoașterea realității și condițiile prealabile ale acestei cunoașteri. Ei încă nu bănuiesc că realitatea vizibilă este o mică fracțiune a realității totale. Sunt încă tot atât de siguri de concepțiile lor greșite ca preoții și vracii tuturor epocilor.
+
+<sup>2.</sup>Filosofia este limitată la realitatea fizică și, prin urmare, fizic, orice filosofie rămâne fizicalism, iar superfizic, subiectivism: speculații fără conținut de realitate. Pentru a vorbi despre superfizic, trebuie să ai cunoaștere factuală a lumilor superfizice.
+
+<sup>3.</sup>Cunoașterea realității constă într-un sistem de concepte subiective despre realitate, întemeiat pe faptele realității materiale obiective și în acord cu ele. Când aceste fapte au fost constatate și așezate în contextele lor corecte (istoric, logic, psihologic și cauzal), omul va avea cunoaștere adevărată a realității.
+
+<sup>4.</sup>Filosofilor le lipsește conștiința obiectivă superfizică și, astfel, nu pot constata fapte în lumile superfizice. Filosofii încep să-și dea seama de aceasta, ceea ce este un mare pas înainte. Ei își dau seama că ceea ce nu este susceptibil de studiu obiectiv rămâne subiectivism. Istoria filosofiei demonstrează că toată filosofia a fost subiectivistă: construcții imaginative fără corespondent în realitate. Dar concluzia pe care filosofii moderni o trag din această pătrundere de bun-simț este falsă. Faptul că filosofii au eșuat nu dovedește, desigur, că nu poate exista altă cunoaștere decât cea a fizicului.
+
+<sup>5.</sup>Când gândirea fără fapte se ocupă cu lucruri superfizice, ea rămâne subiectivă și nu-și poate vedea propria subiectivitate. Demonstrațiile logice ale vechilor filosofi au rămas cu totul în cadrul subiectivității și nu aveau criteriile obiectivității, astfel că speculațiile lor nu au fost niciodată în acord cu realitatea. Nu este vina logicii dacă este folosită necorespunzător.
+
+<sup>6.</sup>Știința caută să exploreze realitatea fizică, nu pe cea superfizică. Ea încă nu știe că materia fizică este compusă din materie superfizică și că trebuie căutate cauzele proceselor în realitatea materială superfizică.
+
+<sup>7.</sup>Psihologii se ocupă de aspectul conștiinței. Lipsindu-le conștiința obiectivă superfizică, trebuie să se limiteze la conștiința așa cum se manifestă și poate fi sesizată în organism.
+
+<sup>8.</sup>Filosofii moderni au tras concluziile extreme din eșecul total al filosofiei sau, mai degrabă, al subiectivismului. Se întreabă dacă noțiunile tradiționale de realitate sunt abstracții subiectiviste fără corespondenți în realitate și au început de aceea să le lepede pe toate, neștiind că aceste noțiuni de realitate au fost dobândite din ordinele ezoterice de cunoaștere. Nu își dau seama că și noua lor speculație este subiectivism. Într-adevăr, încearcă să lepede conceptul de „realitate obiectivă”.
+
+<sup>9.</sup>Incapacitatea de a judeca corect afectează realitatea. Sau ce ar trebui spus despre această profunzime?
+
+<sup>10.</sup>„Este o idee naivă că realitatea este o cantitate obiectivă dată o dată pentru totdeauna. Trei oameni privesc un elefant și fiecare îl percepe având o mărime diferită. Prin urmare, în realitate ei văd trei elefanți diferiți.”
+
+<sup>11.</sup>Se pare că oamenii nu mai pot vedea că există o deosebire între percepția subiectivă și realitatea obiectivă. Filosofii s-au întors astfel la subiectivismul și individualismul sofistului Protagoras. Măsurarea va arăta că este vorba de trei percepții individuale greșite ale unuia și aceluiași elefant. Nu pot exista niciodată mai mulți elefanți.
+
+<sup>12.</sup>În toate epocile, bunul-simț a privit cu neîncredere speculațiile filosofilor, iar acest instinct înnăscut al realității (dobândit în încarnări anterioare) s-a dovedit întotdeauna corect. Ne întrebăm de ce filosofii au disprețuit în toate epocile bunul-simț, care este, la urma urmei, simțul cel mai înalt al omului.
+
+<sup>13.</sup>Faptul că este posibil să fie respinsă acea percepere obiectivă a realității, pe care monadele au dobândit-o în evoluția lor prin patru regnuri naturale, este dovadă suficientă a posibilității de eroare a rațiunii.
+
+<sup>14.</sup>Așa cum cultura (literatura, arta și muzica; deși nu orice fel de literatură, artă și muzică) vremurilor noastre a intrat în toate privințele pe căi ce duc la dezintegrare culturală, același lucru este adevărat despre filosofia modernă.
+
+<sup>15.</sup>Un gânditor precum Bertrand Russell a reușit să-și păstreze bunul-simț în privința concepției sale despre viață, dar același lucru nu se poate spune despre epigonii lui. (Nu este nicidecum de neimaginat că ei ar putea fi reîncarnări ale sofiștilor greci.) Ei nici măcar nu știu ce este bunul-simț, crezând că perceperea experienței umane universale este greșită și nebănuind raționalitatea existenței. Ei cred că pot construi un nou mod de a vedea (așa-numita semantică, un nou fel de iluzie), făcând astfel ultima eroare mai mare decât prima. Aceasta înseamnă declararea falimentului rațiunii filosofice. Filosofia a devenit mai mult ca oricând disciplina care se străduiește să explice prin absurdități ceea ce este de la sine înțeles (fiind rezultatul experienței adunate a omenirii). Filosofia, inițial sclava teologiei, a devenit acum sclava științei fizice. Sărmana omenire!
+
+### 5.39 *Bertrand Russell*
+
+<sup>1.</sup>Russell este fără îndoială cel mai bun obiect de studiu pentru ezotericianul care dorește să ilustreze concepția filosofico-științifică despre lume a vremurilor noastre, cu meritele și limitele ei. Este cel mai potrivit și din multe alte motive. A demonstrat caracterul fictiv al pretinsei cunoașteri a teologiei, filosofiei și științei, moștenită de omenire de la strămoșii ei de-a lungul secolelor. A încercat să-i elibereze pe oameni de povara enormă a dogmelor teologice în război cu rațiunea și a tabuurilor morale ostile vieții, care fac imposibilă conviețuirea fără fricțiuni. A scos la iveală defectele ideologiilor politice ale vremurilor noastre: capitalismul, socialismul, fascismul, marxismul. A demonstrat necesitatea găsirii unei noi temelii pentru concepția despre viață. Într-un cuvânt, a încercat să lucreze pentru o reformă în cele mai multe domenii ale vieții omenești.
+
+<sup>2.</sup>Influența lui Russell este lesne de înțeles. Bunul său simț, împreună cu libertatea față de dogmele tradiționale de gândire din toate domeniile vieții omenești, vasta sa cultură, orientarea sa istorică și sociopolitică, onestitatea sa intelectuală și iubirea pătimașă de adevăr i-au conferit autoritate în gândirea filosofică și științifică a vremurilor noastre.
+
+<sup>3.</sup>Încă din copilărie, lordul Russell a fost, firește, inoculat cu iluziile religioase și sociale ale societății britanice. Dar, odată ce un intelect ca al lui Russell este trezit să supună aceste dogme, adevăratul păcat originar al omenirii, analizei logice și factuale, nu mai rămâne mare lucru din tot ceea ce omenirea încă acceptă drept adevăr. Dar aceasta cere mai mult decât ascuțime și capacitate analitică. Cere mai presus de toate curaj: curajul de a gândi, curajul de a examina sustenabilitatea, curajul de a te îndoi chiar de ceea ce ai acceptat tu însuți, curajul de a comunica rezultatele muncii tale, curajul de a sta singur, părăsit de toți, în fața unei lumi întregi.
+
+<sup>4.</sup>Primele reacții ale mediului său social, ale opiniei academice, ale erudiților și prietenilor săi au fost violente. Mai târziu, când critica lui a lovit credințele politice ale mulțimii, au avut loc revolte de gloată.
+
+<sup>5.</sup>Ca toți deschizătorii de drumuri în jungla iluziilor și ficțiunilor ignoranței umane, Russell a fost socotit vinovat de sacrilegiu și persecutat de gloata tuturor claselor sociale.
+
+<sup>6.</sup>Nu este nicidecum adevărat, cum susțin brahmanii, că o castă socială mai înaltă este dovada unui stadiu de dezvoltare mai înalt. Indivizi aflați în toate stadiile de dezvoltare se pot întrupa în orice castă. Totul depinde de legea seceratului, de legea destinului sau de sarcina de viață aleasă de sine.
+
+<sup>7.</sup>În cele ce urmează vor fi tratate numai două aspecte ale operei lui Russell: Russell ca teoretician al cunoașterii și ca filosof social într-un sens mai larg.
+
+<sup>8.</sup>Această prezentare a concepțiilor lui Russell este făcută cu o rezervă. Este firesc ca un gânditor care, de-a lungul unei vieți îndelungate de cercetare, a publicat carte după carte să-și corecteze și opiniile susținute anterior. Pătrunderea în continuă creștere implică modificări continue. Russell nu s-a oprit niciodată să întrebe dacă ultima sa lucrare contrazice ceea ce scrisese înainte. Astfel, când sunt criticate afirmații făcute într-una dintre cărțile sale, aceasta nu înseamnă neapărat că ele reflectă concepțiile finale pe care Russell le-ar fi putut avea în această chestiune.
+
+<sup>9.</sup>Strădania lui Russell a fost să elibereze omenirea de nenumărate dogme care paralizează gândirea în cele mai multe domenii ale vieții, nu numai de cele consacrate istoric, ci și de ficțiunile contemporane proclamate mari descoperiri intelectuale.
+
+<sup>10.</sup>Mai întâi va fi discutată concepția despre lume a lui Russell în privința filosofiei și științei, cu critică specială a concepțiilor corespunzătoare.
+
+<sup>11.</sup>Într-o a doua parte vor fi cercetate concepțiile lui despre teologie, politică și filosofia socială generală.
+
+### 5.40 CONCEPȚIA DESPRE LUME
+
+<sup>1.</sup>Omul gânditor care dorește să dobândească o concepție despre existență dobândește o concepție despre lume în privința realității materiale exterioare, obiective, și o concepție despre viață în privința vieții emoționale și mentale care aparține conștiinței interioare, subiective.
+
+<sup>2.</sup>Însuși materialul cunoașterii este alcătuit din fapte constatate. Știința le reunește în teorii și le explică prin ipoteze. Teoriile pot fi împărțite în istorice, logice (factuale), psihologice și cauzale. O teorie este completă numai dacă au fost constatate toate faptele despre obiectul în discuție. În practică, aceasta nu este aproape niciodată situația. O ipoteză trebuie abandonată când nu poate explica și noi fapte care pot fi adăugate. Durata unei ipoteze a fost calculată statistic la o medie de zece ani.
+
+<sup>3.</sup>Cercetarea științifică a umplut deja biblioteci întregi cu fapte privitoare la cele trei aspecte ale existenței: realitatea materiei, mișcării și conștiinței. Chimia, geologia, astronomia și biologia sunt considerate științele de bază ale materiei; fizica, a mișcării; iar psihologia, a conștiinței. Disciplinele rămase pot fi așezate sub aceste rubrici, cu excepția istoriei, care oferă fapte despre trecutul domeniilor respective.
+
+<sup>4.</sup>Pentru ca un fapt să fie acceptat de știință ca fapt, trebuie să poată fi constatat de toți.
+
+<sup>5.</sup>Știința ca întreg, ca sistem de cunoaștere, este o reunire de fapte, teorii și ipoteze. Sistemul științific oferă o privire de ansamblu care orientează în rezultatele cercetării.
+
+<sup>6.</sup>S-ar putea spune că acesta este punctul de plecare al concepției savantului despre realitate și al cercetării naturii.
+
+### 5.41 *Filosofia*
+
+<sup>1.</sup>Russell a ajuns la logică prin matematică. Încă tânăr, s-a interesat de relația dintre matematică și logică, constatând că axiomele geometrice nu puteau fi demonstrate logic. A cercetat natura cunoașterii matematice, încercând să facă din matematică o știință sintetică și, în același timp, să dea logicii un caracter analog celui al matematicii. A încercat să arate că matematica este o dezvoltare ulterioară a logicii, că matematica este logică aplicată relațiilor cantitative. După ce a redus matematica la logică, a găsit contradicții nerezolvate în logica însăși. Socotea că le poate rezolva prin logică simbolică și tipuri logice (care pot induce în eroare). A ajuns la concluzia că, cu cât logica este mai dezvoltată, cu atât poate demonstra mai puțin. Cunoașterea oferită de logică constă în a afirma că „dacă ceva este adevărat, atunci și altceva este adevărat”. Aceasta este însă ceea ce s-a știut întotdeauna: dacă premisele sunt corecte, atunci și concluzia trasă din ele este corectă.
+
+<sup>2.</sup>Nici logica, nici matematica nu sunt științe autonome capabile să producă cunoaștere, ci auxiliare în tratarea relațiilor inepuizabile ale materiei și energiei și în rezolvarea problemelor corespunzătoare. Atât logica, cât și matematica au nevoie de material asupra căruia să lucreze. Fără fapte, rezultatele obținute sunt simplu joc cu simboluri. În legarea logicii de matematică există întotdeauna un risc considerabil de a confunda calitatea și cantitatea. Logica are de-a face cu calitatea, matematica cu cantitatea.
+
+<sup>3.</sup>La început a fost supraestimată logica, acum este supraestimată în mod analog importanța matematicii. Esențialul oricărei cunoașteri este constatarea faptelor și așezarea lor în relații corecte, în contexte corelate tot mai largi.
+
+<sup>4.</sup>De la logică, Russell a trecut la filosofie cu pseudo-problemele ei, pe care nimeni nu a putut să le rezolve, fiindcă nimeni nu a putut formula corect problemele. Introdus de Bradley în filosofia lui Hegel, Russell a găsit curând nesustenabile speculațiile acelui romantic.
+
+<sup>5.</sup>Russell a studiat temeinic istoria filosofiei europene, cu relatările ei despre ceea ce au ajuns istoricii să cunoască privind speculațiile grecilor și romanilor despre existență și fenomenele ei și rezultatele la care au ajuns, prin presupuneri, gânditorii Evului Mediu și ai epocii moderne.
+
+<sup>6.</sup>După ce a constatat că nicio speculație nu va oferi cunoașterea realității, Russell s-a confruntat cu inevitabila problemă fundamentală a tuturor subiectiviștilor: este oare posibilă cunoașterea existenței? I se părea că Hume formulase această întrebare cel mai limpede dintre toți. Russell nu a reușit mai mult decât Hume să găsească demonstrația logică (obiectivă sau factuală) a existenței lumii exterioare. A rămas un sceptic incurabil în privința teoriei cunoașterii.
+
+<sup>7.</sup>Cercetând elementele de conștiință din sesizarea omului a realității materiale, a descoperit, ca atâția subiectiviști înaintea lui, că ele constau în percepții senzoriale. Nu și-a dat seama că aceasta este o teorie psihologică ce ne îndepărtează de sesizarea logică a realității obiective. Dimpotrivă, își socotea propria concepție logicistă.
+
+<sup>8.</sup>Felul în care un obiect devine perceptibil prin procese în celulele nervoase și cerebrale poate fi o problemă fiziopsihologică, dar nu una logică. Afirmația că „nu vedem obiectul așa cum este” este nelegitimă logic. În întrebarea dacă obiectele sunt ceea ce par a fi, conceptul de aparență a fost introdus incorect. Simțul sesizează direct și nemijlocit obiectele fizice în materialitatea lor obiectivă. Atât subiectiviștii logiciști, cât și cei psihologiciști reinterpretează experiența prin teorii, ceea ce este incorect logic. În toate epocile, tendința principală a speculației filosofice pare să fi fost nu să „lase acest lucru să fie acesta”, ci să facă din „acesta” altceva (de preferință ceva foarte profund), iar prin aceasta au înlăturat legea identității.
+
+<sup>9.</sup>Concepția lui Russell că problemele filosofice sunt insolubile l-a făcut să presupună că folosim cuvinte fără corespondenți în realitate și că problemele filosofice erau provocate de folosirea defectuoasă a limbajului. Socotea, prin urmare, că sarcina lui era să scrie o nouă istorie a filosofiei.
+
+<sup>10.</sup>În aceasta se mulțumește în general să dea seamă de concepțiile diferiților filosofi în legătură cu modurile de a privi lucrurile ale epocii lor, deși destul de adesea străbate propriul său scepticism. În privința filosofilor presocratici, trebuia firește să se bazeze pe ceea ce spunea tradiția istorică despre ei.
+
+<sup>11.</sup>Critica lui Russell a speculațiilor moderne despre superfizic este o bună dovadă atât a bunului său simț, cât și a ascuțimii sale logice. Acelea erau presupuneri ale ignoranței, care nici nu merită să fie numite ipoteze. Asemenea lucruri nu pot fi criticate prea mult, căci aceste ciudățenii au o putere formidabilă de a supraviețui, împiedicând neîncetat bunul-simț și sesizarea corectă a realității.
+
+<sup>12.</sup>Istoria ne face adesea un deserviciu, păstrând erorile trecutului astfel încât lipsa de judecată ignorantă despre viață continuă să le accepte drept elemente esențiale ale cunoașterii. Ideile realității se îneacă în întreaga colecție de ficțiuni. Ca reprezentanți ai înțelepciunii, filosofii trebuie să se fi crezut competenți să-și exprime opinii despre orice și să explice totul. Soluțiile nesatisfăcătoare ale problemelor erau îmbunătățite cu noi ficțiuni, până când perspectiva ca omenirea să-și găsească vreodată ieșirea din labirint părea tot mai îndepărtată.
+
+<sup>13.</sup>Meritul lui Russell este că a ajutat la eliberarea omenirii de o serie de ficțiuni filosofice transmise de-a lungul istoriei filosofiei. O lucrare și mai mare a fost făcută în această privință, iar critica a fost formulată cu argumente de fond mai grele de filosofii din Uppsala, Hedvall, Hägerström și Phalén. Ei au demascat eroarea logică a gândirii subiectiviste. Au ajuns împreună la constatarea, formulată cel mai bine de Hedvall, că sesizarea nereflexivă de către simțul obiectiv a realității obiective (spre deosebire de realitatea rațiunii subiective) este cea corectă, că marele neajuns, regretabil, al simțului obiectiv este lipsa sa de apărare împotriva teoriilor rațiunii subiective, care încă domină gândirea filosofică. Dar, firește, au fost luați în râs de ceilalți filosofi contemporani, care doreau să-și păstreze credințele.
+
+<sup>14.</sup>Este regretabil că Russell însuși s-a îndepărtat de teza sa că sarcina filosofiei este să pună întrebări, nu să le răspundă. A căutat să rezolve problemele în felul său. A dat dovadă de mare ingeniozitate în înlocuirea ficțiunilor vechi cu altele noi. Ca toți ceilalți subiectiviști cărora le lipsesc pătrunderea și înțelegerea valabilității universale a sesizării de către simțul obiectiv a realității materiale, Russell socotea că experiența oferă numai certitudine subiectivă, nu obiectivă.
+
+<sup>15.</sup>Necunoscând că noțiunile fundamentale ale realității, care merg înapoi până în vremuri preistorice, fuseseră interpretate greșit de filosofi, el a tras concluzia că aceste concepte nu corespund realității.
+
+<sup>16.</sup>A încercat să înlocuiască aceste noțiuni vechi de când lumea, obiective, constatate științific, ale realității, cu concepte subiective determinate de percepții senzoriale. Conceptele ce nu puteau fi reduse la percepții senzoriale erau concepte nesustenabile. Aici a arătat că nu învățase să vadă deosebirea dintre realitatea subiectivă și cea obiectivă. Analiștii conceptelor încă nu au văzut că noțiunile de realitate cer cunoaștere obiectivă a realității obiective, materiale.
+
+<sup>17.</sup>Cu cunoașterea extrem de limitată a vremurilor noastre (știința a reușit să exploreze aproximativ a milioana parte din realitate), analiza conceptuală trebuie să ducă la dezintegrarea tuturor noțiunilor de realitate. Chiar și acelea care sunt doar concepte auxiliare temporare trebuie păstrate până când fapte stabilite definitiv de cercetare fac posibilă înlocuirea lor cu altele mai bune. Aceasta este însă o chestiune pentru cercetare, nu pentru analiza conceptuală.
+
+<sup>18.</sup>Deoarece el, ca Hume, nu a reușit să demonstreze logic existența lumii exterioare, a aderat (neștiind despre infirmarea logică a subiectivismului de către filosofii din Uppsala) la critica lui Hume a conceptului de substanță. Pe de altă parte, socotea că există temei pentru acceptarea conceptului de cauzalitate, că descoperirea legilor naturii este esențialul cercetării naturii, că legile probabilității sugerează existența unor legi încă nedescoperite. Nu ar fi surprinzător dacă un obiectivist cauzal (care are capacitatea de a studia încarnări anterioare, deci nu un așa-numit clarvăzător) ar constata că Protagoras, Hume și Russell au fost încarnări ale aceluiași individ.
+
+<sup>19.</sup>În privința cunoașterii realității superfizice, el a tras concluzia obișnuită că, fiindcă explicațiile filosofilor oferite până atunci erau toate vădit absurde, nu putem ști nimic despre ea. Logician ascuțit, își dădea seama că nu se poate, firește, nega existența a ceea ce nu se cunoaște deloc.
+
+<sup>20.</sup>În zadar a căutat să elibereze omenirea de povara filosofiei. Numai un ezoterician poate face aceasta.
+
+### 5.42 *Știința*
+
+<sup>1.</sup>Știința naturii caută să exploreze realitatea fizică vizibilă. Aceasta îi definește sarcina și, în același timp, limita inevitabilă. Știința este fizicalism.
+
+<sup>2.</sup>Toată cunoașterea trebuie să se bazeze pe fapte. La aprecierea valorii de realitate a opiniilor, trebuie să fie avute în vedere nu gradul lor de probabilitate, care depinde de acordul lor cu opinii existente anterior, ci faptele pe care se bazează aceste opinii. Fără fapte, toate opiniile sunt simplă născocire. Cu fapte insuficiente, toate opiniile induc în eroare. Nu vor fi de ajuns ascuțimea și profunzimea, imaginația și logica, credința în brevetul sfântului la omnisciență. Dar cu cât filosofia a putut fi făcută mai insondabil de profundă, cu atât absurditățile le-au părut mai corecte discipolilor filosofilor. S-au plecat reverențios în fața genialității de neînțeles și și-au negat astfel propriul bun-simț, dacă îl aveau.
+
+<sup>3.</sup>Știința își face drumul încet, înaintând pas cu pas prin constatarea faptelor. Acestea sunt rezumate în teorii și explicate prin ipoteze. Atât teoriile, cât și ipotezele sunt schimbate neîncetat prin fapte nou constatate. Faptele, teoriile și ipotezele sunt legate într-un sistem de gândire considerat adevăr științific. Aceste sisteme de orientare temporar dominante, care arată cât de departe a ajuns cercetarea, sunt neîncetat schimbate, datorită faptelor noi, prin teorii și ipoteze noi. Faptele care nu pot fi încadrate în sistemele dominante de teorii și ipoteze sunt socotite îndoielnice. Faptele care nu pot fi constatate prin metodele de cercetare folosite de savanți nu sunt socotite fapte. Rezultă de aici că însușirea cea mai importantă a unei ipoteze nu este să fie adevărată, ci să fie probabilă: acceptabilă pentru știință, cu capacitatea ei extrem de limitată de explicare.
+
+<sup>4.</sup>Există și câteva obstacole psihologice în calea cercetării. Unul este dificultatea aproape de netrecut de a abandona sisteme ficționale îndrăgite, dobândite cu multă muncă. Celălalt este că există întotdeauna un risc considerabil pentru savant ca, fiind prea mult înaintea epocii sale, să fie declarat un fantezist nesigur, necritic, neștiințific de opinia academică dominantă — acel sistem de breaslă iremediabil — rămasă în urma vremurilor, sceptică și, în cea mai mare parte, disprețuitoare față de tot ce este nou.
+
+<sup>5.</sup>Firește, savanții s-au dovedit capabili să fie tot atât de dogmatici, fanatici și intoleranți precum au fost teologii odinioară. Russell vede limpede, desigur, această năzuință spre putere inerentă naturii umane. Se teme și el că, după tirania politică ce i-a urmat celei teologice, vom trăi tirania științifică, ziua când știința va pretinde puterea de a reglementa totul. Știința medicală, nu în ultimul rând psihiatria, a început să manifeste o asemenea tendință. Medicii au deja puterea de a înlătura drepturile legale ale individului și de a închide pe viață o persoană indezirabilă sau de a elibera bandiți pentru a-și continua meseria. Sunt necesare măsuri energice împotriva tuturor acestor tendințe. Consiliul de sănătate nu trebuie să fie ultima instanță de apel. Am avut destul spirit de breaslă. Nu medicii trebuie să fie judecători. Știm oricum că infractorii sunt iresponsabili.
+
+<sup>6.</sup>Înainte ca fizica nucleară să spargă întregul dogmatism întemeiat pe ipotezele indestructibilității materiei și energiei, cele mai revoluționare descoperiri erau respinse din capul locului drept „în conflict cu legile naturii”. Odată cu înțelegerea că nu a fost explorat încă nici măcar un procent din legile naturii, acea expresie ar trebui să dispară.
+
+<sup>7.</sup>Din nefericire, fizicienii nucleari nu știu că instrumentele lor le-au îngăduit să pătrundă în lumea eterică fizică.
+
+<sup>8.</sup>Există toate motivele ca savanții, după cum văd acum cei mai mari dintre ei, să fie de acord cu înțeleptul Socrate, care și-a recunoscut ignoranța fără margini. Nu ar trebui să fie departe timpul când siguranța de sine, fie dogmatică, fie sceptică, va fi considerată o dovadă a lipsei de judecată. Știința este inutilizabilă ca o concepție despre lume sustenabilă.
+
+<sup>9.</sup>Russell a început ca matematician. Nu a adus vreo contribuție proprie la cercetarea naturii ca atare. De la matematică a trecut la logică și acolo a încercat să-i ajute să se orienteze pe savanții foarte dezorientați după ce fizica nucleară explodase dogmele fundamentale ale științei, iar ei începeau chiar să se îndoiască dacă există vreo lege a naturii. Fără legi, cosmosul ar fi un haos, ceea ce în chip vădit nu este. Și a demonstrat că „este teoretic imposibil, prin însăși natura lucrului, să se dovedească faptul că o serie de fenomene nu este supusă unor legi”. Susținea că sarcina cercetării naturii este să constate legi și că va lipsi cunoașterea necesară a fenomenelor până când nu vor fi găsite legile care le guvernează.
+
+<sup>10.</sup>Russell face tot ce poate pentru a combate dogmatismul științific și este de acord că viața scurtă a ipotezelor științifice este o dovadă suficientă a ignoranței noastre imense.
+
+<sup>11.</sup>Russell este fizicalist. Fiind astfel, nu poate vedea că ultimele cauze ale proceselor se află în superfizic. Socotea că nu se poate, firește, exprima o opinie despre neexplorat; doar că nu există încă fapte acceptabile pentru știință care să dovedească existența superfizicului. Pentru el, aceasta rezolva chestiunea pentru moment. Strădania sa ca logician științific a fost să formuleze o logică a factualității care se mulțumește să constate fapte și legi ale naturii. Fără ezoterică nu se dau explicații. În aceasta se arată bunul-simț și pătrunderea științifică superioară a lui Russell.
+
+<sup>12.</sup>Partea cea mai discutabilă a criticii lui Russell este că dorește să elimine acele noțiuni de realitate care au alcătuit baza concepției științifice. Aici logica îl părăsește. Dacă logica nu poate judeca natura realității, nu va putea aprecia nici conținutul de realitate al conceptelor fundamentale ale științei. Nu este un argument că aceste concepte au fost interpretate greșit de filosofi și savanți lipsiți de cunoașterea tocmai a acestei realități. Încercările lui Russell de a înlocui conceptele fundamentale cu propriile construcții pot duce doar și mai departe de realitate.
+
+<sup>13.</sup>Propoziția banală a lui Russell că materia nu este ceea ce pare a fi este „înțelepciune” foarte veche, dar tot un eșec. Materia este întotdeauna ceea ce pare a fi, dar, în plus, ceva cu totul diferit și incomensurabil mai mult decât pot visa filosofii și savanții.
+
+### 5.43 *Critica concepției despre lume*
+
+<sup>1.</sup>Faptul că teoria cunoașterii, problema posibilității cunoașterii, aceea dacă cineva știe ceea ce știe (ceea ce arată că nu știe), a fost problema centrală care i-a ocupat pe filosofii occidentali aproape trei secole este infinit de tipic pentru dezorientarea mentală a Occidentului.
+
+<sup>2.</sup>Așa se întâmplă când, timp de două mii de ani, oamenii acceptă drept adevăr sau cunoaștere a realității tot felul de superstiții și absurdități teologice. Drept urmare, chiar principiul rațiunii, capacitatea de a judeca, instinctul realității a fost atât de idiotizat (în privințele respective), încât a devenit inutilizabil. Dacă acest lucru este îngăduit să continue, chiar legea logică a identității va fi pusă la îndoială. Logica va fi folosită pentru a distruge logica.
+
+<sup>3.</sup>Russell își dă prea bine seama că nici teologia, nici filosofia, nici știința nu au oferit o explicație rațională a existenței. S-a îndoit adesea că omul va putea vreodată să rezolve această problemă.
+
+<sup>4.</sup>Pentru Russell, ca și pentru alți filosofi și savanți, realitatea „vizibilă” este singura existentă.
+
+<sup>5.</sup>Același lucru îl cred acum teologi precum Anders Nygren. Ei cred că „sufletul” (aparent același cu conștiința creierului) moare odată cu trupul și că, în ziua judecății, Dumnezeu va crea un nou pământ pe care să trăiască omenirea și va restabili tot ce a existat cândva. Astfel, occidentalii sunt fizicaliști.
+
+<sup>6.</sup>Russell, ca și toți ceilalți subiectiviști, trebuie să fie ceea ce sunt: ființe fizice în lumea fizică. Dar fac tot ce pot pentru a se îndoi de acest fapt, mobilizează toate argumentele logicii și psihologiei ca să demonstreze că realitatea nu este reală. Încercarea de a explica realitatea materială exterioară, obiectivă, prin percepții senzoriale este tipică subiectiviștilor moderni, fie că se numesc psihologiciști sau logiciști.
+
+<sup>7.</sup>Dacă îl lipsești pe om de concepte, îl lipsești de capacitatea de a cuprinde. Dacă îl lipsești de înțelegerea realității materiei, mișcării, energiei, dezvoltării etc., vei reuși să idiotizezi omenirea și mai mult, să-i distrugi definitiv capacitatea de a percepe realitatea.
+
+<sup>8.</sup>A te îndoi de existența lumii exterioare sau de faptul că o putem percepe exact așa cum este ea în realitatea ei fizică dată înseamnă să te îndoiești de propriul bun-simț și de orice sesizare corectă a realității.
+
+<sup>9.</sup>Faptul că există lumi materiale superfizice în care percepem realitatea materială în mod diferit, mai multe stări de agregare tot mai înalte ale materiei cosmice, nu infirmă nicidecum perceperea fizică a realității, singura corectă în lumea fizică.
+
+<sup>10.</sup>Pentru a putea judeca corectitudinea noțiunilor de realitate, trebuie să posezi cunoașterea realității și o cunoaștere a structurii materiei și naturii energiei cu totul diferită de cea a științei contemporane. Aceasta este temelia care le-a lipsit întotdeauna filosofilor și pe care par să încerce tot mai mult să evite a o dobândi. De aceea, strădania analiștilor moderni de concepte de a înlocui ficțiunile vechi cu ficțiuni noi și încă mai dezorientatoare este doar o nouă formă de ficționalism.
+
+<sup>11.</sup>Este foarte regretabil că Russell nu s-a familiarizat niciodată cu bogata literatură yoga indiană modernă, publicată în engleză. Aceasta este o lipsă nefericită în echipamentul oricui pornește să trateze critic problemele filosofiei.
+
+<sup>12.</sup>Dacă ar fi avut, în plus, prilejul să studieze vechile manuscrise pitagoreice, observațiile sale despre Pitagora ar fi fost foarte diferite. Din nefericire, a trebuit să se bazeze pe ceea ce spun manualele curente de istorie a filosofiei despre hylozoică și filosofii presocratici. Fără înțelegerea concepției despre lume a acelor gânditori, succesorii lor, Platon și Aristotel etc., vor fi inevitabil interpretați greșit, după cum dovedește felul în care îi tratează Russell.
+
+<sup>13.</sup>Lipsește foarte mult din educația celor mai erudiți exotericiști ai zilelor noastre. Să sperăm că literatura ezoterică extrem de vastă va deveni curând accesibilă și neinițiaților, firește numai acele părți care ar putea oferi baza unei concepții exacte despre realitate. Aceasta ar pune filosofia europeană de până acum în adevărata ei lumină și ar arăta-o drept ficționalismul care a fost întotdeauna și care altfel va continua să fie.
+
+<sup>14.</sup>Știința este cu totul ignorantă cu privire la alcătuirea reală a materiei. Ea nu știe că „cauzele ultime” ale proceselor fizice se află în superfizic.
+
+<sup>15.</sup>De fapt, cuvântul „superfizic” induce în eroare, deoarece materia fizică constă din șase feluri moleculare (stări de agregare), dintre care cele trei superioare sunt necunoscute științei.
+
+<sup>16.</sup>Există o slabă speranță că filosofii și savanții ar putea fi treziți să vadă nevoia de a dobândi capacitatea de a explora lumile superioare. Poate exemplele următoare îi vor face să se gândească puțin la aceasta.
+
+<sup>17.</sup>Fizica nucleară se ocupă de scindarea „atomului chimic”. Acesta este în realitate o moleculă eterică, care conține în sine patruzeci și nouă de straturi diferite de materie.
+
+<sup>18.</sup>Când meteorologii vor ajunge să vadă că felurile moleculare eterice fizice sunt adevăratele cauze ale fenomenelor meteorologice, vor avea cel puțin o perspectivă de a începe să caute factorii lipsă, necunoscuți.
+
+<sup>19.</sup>Când medicii vor vedea că cele mai multe cauze ale bolii trebuie căutate în învelișul material eteric fizic al organismului, cercetarea medicală va intra pe căi cu totul noi.
+
+<sup>20.</sup>Când filosofii vor fi dobândit cunoașterea celor trei aspecte ale realității, vor putea gândi în acord cu realitatea și vor găsi soluția unui număr de probleme altfel insolubile.
+
+<sup>21.</sup>Filosofii nu au reușit încă să rezolve problema fundamentală a existenței: trinitatea; cele trei aspecte echivalente, inseparabile ale existenței. De la sofiștii greci încoace, întreaga istorie a filosofiei a fost dominată de modul subiectivist de a privi lucrurile. Când vor învăța filosofii că „gândurile sunt lucruri”, „gândurile sunt energie”, fenomene materiale de energie, că toate manifestările conștiinței au corespondenții lor materiali? Până când nu pot constata aceasta, nu poate exista sfârșit pentru ficționalismul filosofic, mania nesfârșită de a specula a ignoranței despre viață.
+
+### 5.44 CONCEPȚIA DESPRE VIAȚĂ
+
+<sup>1.</sup>Deși concepția despre realitate a lui Russell este un eșec, la fel ca întreaga altă filosofie, concepția sa despre dreptate, cu nobila ei înțelegere a relațiilor cu adevărat omenești, concordă cu cunoașterea sensului și scopului vieții. Se vede neîncetat că aceia care au ajuns la stadiul umanității nu au nevoie de cunoașterea ezoterică a superfizicului pentru a duce vieți raționale, orientate spre scop și fericite. Instinctul lor subconștient le permite să străvadă iluziile emoționale care domină omenirea și ficțiunile mentale ce le însoțesc, să vadă că doctrinele care până acum au pretins că se întemeiază pe superfizic au fost, prin idiotizarea bunului-simț, cele mai mari obstacole în calea dezvoltării conștiinței. Cât timp va mai trece până când pătrunderea lor latentă se va face simțită și în concepția despre lume și vor vedea perversitatea oricărei speculații?
+
+<sup>2.</sup>Sarcina noastră este să explorăm lumea fizică (dar nu lumile superioare până când nu am dobândit simț superior), să avem experiențele și să dobândim calitățile și abilitățile posibile în lumea fizică, să scoatem ce este mai bun cu putință din viețile noastre fizice. Russell, ca și toți cei care au ajuns la stadiile culturii și umanității, a subliniat că, în atitudinea față de toți oamenii, bunăvoința universală și relațiile omenești juste sunt lucrurile esențiale. Trebuie să învățăm să înlăturăm orice pretext de fricțiune, nu numai să tolerăm, ci să ne bucurăm de concepțiile individuale (și independente!) ale tuturor, ca dovadă a propriei lor judecăți la nivelul lor. Aceasta este cu totul diferit de ceea ce a realizat sectarismul religios prin fanatismul, moralismul, intoleranța, critica și condamnarea sa, contribuind, dimpotrivă, în atâtea privințe la otrăvirea vieții individuale și colective a oamenilor.
+
+<sup>3.</sup>Indivizii au reușit să rezolve pentru ei înșiși cele mai importante probleme ale vieții, prin calități și abilități dobândite de ei înșiși. Dar omenirea are încă un drum lung de parcurs și, strict vorbind, nu a reușit să rezolve nici măcar una dintre numeroasele ei probleme de viață. Oamenii își moștenesc iluziile și ficțiunile și nu se gândesc niciodată să cerceteze conținutul lor de realitate și valoarea lor vitală (importanța pentru viață). Goethe a aruncat împotriva inerției aparent iremediabile o acuzație pe cât de teribilă, pe atât de îndreptățită: „Es erben sich Gesetz’ und Rechte wie eine ew’ge Krankheit fort” (Legile și drepturile se moștenesc ca o boală eternă). Iar Tegnér al Suediei putea adăuga: „Numai barbaria a fost odinioară patria noastră.” Acest lucru poate fi spus despre toate națiunile.
+
+<sup>4.</sup>Este evident că un reprezentant al culturii de talia lui Russell trebuie să descopere mult din barbaria reziduală din civilizația noastră atât de lăudată. Cu atât mai vehemente au fost, prin urmare, atacurile sale împotriva indolenței, inerției, lașității, aversiunii față de reforme a căror necesitate se vede limpede.
+
+<sup>5.</sup>Rezultatul regretabil al acestui egoism orb față de viață a fost că ideile de reformă ale idealiștilor au fost preluate de demagogi incompetenți care, apelând la veșnicele revendicări ale invidiei sociale pentru noi nedreptăți, nicidecum mai mici, au reușit, prin planificarea lor nechibzuită și reformele lor pripite, să ruineze tot ce era de valoare și ar fi putut altfel să fie salvat de la distrugere.
+
+<sup>6.</sup>Critica lui Russell la adresa atitudinilor tradiționale și condițiilor inumane, precum și a greșelilor dictaturilor și democrațiilor moderne, a stârnit, firește ca întotdeauna, proteste indignate. I-a adus închisoarea, îndepărtarea de la catedră și pierderea prietenilor. Gloata din toate clasele sociale a trebuit întotdeauna să-și exprime ura, fără să bănuiască felul în care se demască singură. Russell a ajuns în mare măsură să trăiască uimirea pe care mulți au simțit-o înaintea orbirii omului, a incapacității de a vedea, chiar a reticenței de a vedea, raționalitatea criticii legitime. Nietzsche socotea că ține de natura umană să-și ia obiceiurile (inclusiv obiceiurile de gândire) de o mie de ori mai în serios decât chiar propriile interese, lucru ce poate fi observat zilnic. Această chestiune ar trebui studiată mai îndeaproape de acei pedagogi care subliniază unilateral importanța „obiceiurilor bune”.
+
+<sup>7.</sup>Se pare că va mai trece ceva timp până când oamenii vor vedea că ideile sunt relative și că valoarea de realitate justă a unei idei apare limpede numai când ea este așezată în contextul corect.
+
+<sup>8.</sup>În cele mai multe idei există ceva rațional, dar acesta este înăbușit prin absolutizare. Există o îndreptățire relativă pentru ideologiile politice diferite, religiile diferite, concepțiile diferitelor colectivități. Există ceva corect în subiectivismul introspectiv, behaviorism, vitalism etc. în psihologie. Lipsește perspectiva care să arate îndreptățirea relativă a acestor concepții.
+
+<sup>9.</sup>Russell este unul dintre cei care au căutat perspectivele necesare pentru sintezele necesare.
+
+### 5.45 *Teologia*
+
+<sup>1.</sup>Teologia ține de domeniul conștiinței subiective, iar dogmele ei aparțin superfizicului. Religia este acel sentiment, acea atracție, care nu are nevoie de rațiune sau, cel puțin, este vătămată dacă este închisă în concepții raționale de nesusținut.
+
+<sup>2.</sup>De la cineva care, asemenea lui Russell, cunoaște din propria experiență caracterul înșelător al simplei subiectivități, a cercetat în istorie ceea ce a fost numit adevăruri religioase, a constatat că nu există absurditate care să nu fi fost acceptată cândva, că ceea ce noblețea și bunul-simț trebuie să considere satanic este încă predicat, nu ne putem aștepta la îngăduință în judecata sa finală asupra unor asemenea erori.
+
+<sup>3.</sup>Un lucru pe care istoria l-a făcut limpede în mod convingător și pe care l-au demonstrat și vremurile noastre este că puterea generală de judecată a omenirii nu depășește nivelul la care oamenii pot fi făcuți să creadă orice. Ce se mai prezintă încă drept „cuvântul adevărat, nealterat al lui Dumnezeu”? Acesta: Vechiul Testament evreiesc și papii de hârtie ai celor două secte evreiești: Noul Testament al creștinilor și Coranul musulmanilor. Buddha a spus limpede că nu există scrieri sacre, ci numai scrieri pe care ignoranța le numește sacre. Iar ierarhia planetară garantează că nu vor exista „scrieri sacre”: „Departe de gândurile noastre să fie vreodată să ridicăm o nouă ierarhie (guvernare prin autoritate) pentru viitoarea asuprire a unei lumi aservite preoților.”
+
+<sup>4.</sup>Russell spune despre sine că nu știe dacă ar trebui să se numească ateu sau agnostic. Dar ar trebui să poată subscrie la vorba lui Shaftesbury că „oamenii cu bun-simț au în realitate o singură religie”, unica religie adevărată, religia înțelepciunii și iubirii — religia bunului-simț. Deși această religie a avut întotdeauna reprezentanți în toate sectele, nu a existat niciodată o sectă care să fi avut dreptul să susțină același lucru.
+
+<sup>5.</sup>În vremurile istorice, aceste secte s-au remarcat prin intoleranța lor, fanatismul lor și mania lor de persecuție, prin războaie religioase, omoruri, tortură și ardere pe rug — toate spre slava lui Dumnezeu. Ele proclamă încă doctrine ostile vieții și cunoașterii, care se războiesc cu iubirea divină, bunul-simț și realitățile constatate definitiv de cercetare. Dacă Biserica ar redobândi puterea pe care a avut-o cândva, am retrăi asemenea vremuri cumplite.
+
+<sup>6.</sup>Este vădit că, atunci când a criticat dogmele teologiei, Russell și-a impus o reținere neobișnuită pentru el. S-a mulțumit în mare măsură să examineze unele dintre nenumăratele superstiții de care, odinioară, era socotit nelegiuit să te îndoiești.
+
+<sup>7.</sup>În ceea ce privește conceptul de păcat — pe care se întemeiază întregul sistem dogmatic teologic, temelia reală a puterii Bisericii, datorită căreia Biserica și-a putut păstra strânsoarea de fier asupra minților oamenilor — Russell s-a mulțumit să fie voios sarcastic. O fire deosebită de intelectul său rece ar fi dat poate expresie violentă indignării pe care orice minte nobilă trebuie să fie ispitită să o simtă în fața minciunii satanice a „păcatului ca o crimă împotriva unei ființe infinite, care cere o pedeapsă infinită într-un iad veșnic” — această blasfemie cumplită, născută din ura față de divinitatea întregii existențe. Mai mult, teologii au născocit o susținere pentru acest satanism sub forma unei dogme de ură la fel de blasfematoare, aceea a „dreptății punitive a lui Dumnezeu”.
+
+<sup>8.</sup>După aceste minciuni îngrozitoare, ne face bine să ne amintim învățătura lui Buddha și a lui Christos despre legea semănatului și seceratului. Aceasta înseamnă că greșelile pe care le-am făcut, din pricina ignoranței și incompetenței noastre față de legile naturii și ale vieții, sunt cauze ale căror efecte va trebui să le trăim, sunt căile prin care învățăm lecțiile necesare ale vieții.
+
+<sup>9.</sup>Russell arată că, în lupta care durează din zilele lui Copernic și Galilei, știința a triumfat întotdeauna, respingând una după alta absurditățile teologice. Nu are nicio îndoială că, în cele din urmă, Biserica va fi silită să abandoneze dogma autorității infailibile a Bibliei, acea carte de legende, învățături ale urii și absurdități. Este și un semn îmbucurător al vremurilor că tot mai mulți oameni dobândesc suficient discernământ independent încât să îndrăznească să se îndoiască de aceste complexe, inoculate aproape de neșters în copilărie, ale unui Dumnezeu îngrozitor, mânios, răutăcios, răzbunător, care, din acea calitate de ură, de îndreptățire de sine, nu poate ierta fără ca unicul său fiu să fie măcelărit. Acea faptă rea trebuie să fie, desigur, cea mai rea dintre toate.
+
+<sup>10.</sup>Russell a examinat un număr de superstiții pe care teologii le-au predicat timp de secole și pe care, deși după o lungă luptă împotriva rațiunii și științei, au fost siliți să le păstreze pentru ei.
+
+<sup>11.</sup>Pare însă că Russell este mult prea optimist în privința rezultatului criticii și luptei științei și bunului-simț. Numai informația va avea puțin efect dacă oamenii nu cred că pot profita personal de ea. În plus, este o realitate constatată că, la actualul stadiu de dezvoltare, omenirea se află încă, în viața sa emoțională, în sferele emoțiilor repulsive. La acest stadiu, rațiunea are importanță secundară, fiind într-adevăr adesea un element tulburător de neliniște. Acești oameni își iau emoțiile drept ființa lor adevărată. Iar lumea emoțională, cu ura ei (48:5–7) și iubirea ei (48:2–4), este lumea religiei. Emoționalitatea vitalizează, dă viață și putere. Ura este elixirul vieții omenirii.
+
+<sup>12.</sup>Probabil optimismul lui Russell se baza pe experiența istorică potrivit căreia nevoia și dorința mereu crescânde ale omului pentru „mai multă lumină” vor fi întotdeauna satisfăcute.
+
+### 5.46 *Moralitatea*
+
+<sup>1.</sup>Russell a arătat, de asemenea, că termenii „moralitate” (din latină) și „etică” (din greacă), prin abuzul de cuvinte al ignoranței, și-au pierdut sensul adevărat de concepție despre dreptate și despre problemele vieții sociale.
+
+<sup>2.</sup>Schopenhauer a fost primul care a demonstrat că, până atunci, niciun filosof nu reușise să facă din moralitate o știință sau să stabilească vreun temei susținibil pentru afirmația că există norme absolute sau obiective. Discipolul său, Nietzsche, a mers mai departe, susținând că atitudinile morale tradiționale erau inutile în viață, ca să nu spunem ostile vieții.
+
+<sup>3.</sup>Aceasta a fost emanciparea definitivă a moralității de teologia morală și, în cele din urmă, ea a devenit un subiect ce putea fi discutat public. O serie de gânditori au explicat atunci subiectivitatea moralității (concepția despre dreptate este determinată de nivelul de dezvoltare), nu caracterul ei iluzoriu, așa cum au expus chestiunea profeții platitudinilor. Hägerström a demonstrat că nu se poate vorbi despre o știință a eticii, ci numai despre o istorie a eticii.
+
+<sup>4.</sup>Nimeni nu a contestat realitatea că anumite reguli (legi sociale) sunt necesare dacă oamenii urmează să trăiască împreună fără fricțiune și că fără acestea ar exista un război al tuturor împotriva tuturor, iar o societate ordonată ar fi imposibilă; reguli precum să nu ucizi, să nu furi, să nu înșeli, să nu calomniezi etc. Cea mai simplă rezumare a lor este vechea regulă a reciprocității: poartă-te cu ceilalți așa cum vrei ca ei să se poarte cu tine. Ezotericianul constată greșeli fatale în privința legilor libertății și unității.
+
+<sup>5.</sup>Nu împotriva acestor pătrunderi evidente a fost îndreptată critica. Există filosofi morali care nici măcar nu au văzut aceasta! Ea era îndreptată împotriva mulțimii de tabuuri și convenții arbitrare, lipsite de sens rațional, care au sporit dezorientarea generală, au îngreunat conviețuirea oamenilor și au crescut ura aparent de neeradicat, cu veșnica ei blamare și condamnare. Orbi față de sine în chip neajutorat, moraliștii nu observă nici ipocrizia, nici ura.
+
+<sup>6.</sup>Cercetarea temeiurilor concepției despre drept și nedrept arată că ele depind de concepția individului despre sensul și scopul vieții. Rămâne întotdeauna la alegerea individului dacă va adera la una dintre numeroasele concepții colective sau își va păstra poziția proprie. Nu putem spera la o concepție unitară despre cea mai bună cale de a realiza sensul vieții până când omenirea nu va fi reușit să rezolve problemele existenței. Până atunci, vor exista întotdeauna concepții diferite despre ce este drept și nedrept în chestiuni politice, sociale și culturale și în sensul general al vieții, precum și un pericol considerabil ca antagonismele rezultate să otrăvească mințile oamenilor, să împiedice înțelegerea și să contracareze relațiile omenești raționale.
+
+<sup>7.</sup>Rezultatul tuturor acestor interdicții tradiționale și lipsite de scop este un cult universal acceptat al aparențelor, a cărui ostilitate față de viață moraliștii par cu totul incapabili să o înțeleagă. Ei participă la ipocrizie și îi condamnă cinic pe cei care refuză să facă un fetiș din așa-numita decență. Împotriva întregii acestei ipocrizii, a acestui cult iremediabil al minciunii, pe care îl considera cauza răului cel mai greu de atins, Russell și-a îndreptat satira nimicitoare. Merită subliniat că singurele lucruri pe care Jeshu le-a condamnat au fost ipocrizia, fariseismul și moralismul. Onestitatea absolută în atitudinea sa față de convențiile ipocriziei era pentru Russell o chestiune de conștiință și l-a costat majoritatea prietenilor. Nu se putea altfel dacă avea „întreaga lume împotriva lui”. Tocmai la aceasta trebuie să se aștepte orice pionier. Zicala lui Schopenhauer că ceea ce individul știe el însuși că este are o importanță mai mare pentru fericirea sa decât ceea ce este socotit a fi se aplică firilor independente. Că aceasta i-a supărat pe unii oameni era vina lor. Pe lângă aceasta, la actualul stadiu de dezvoltare al omenirii, o evaluare justă a altor oameni este absolut exclusă. Iar oamenii ignoră chiar și cele mai simple condiții prealabile ale evaluării.
+
+<sup>8.</sup>În privința atitudinii individului față de sine însuși, Russell a văzut că depinde în mare măsură de educație dacă va reuși să dizolve toate complexele de valori negative, inhibitoare, complexele de opinii, complexele de obiceiuri (ca să menționăm doar câteva) pe care viața ni le impune. Complexele pozitive, favorabile vieții, nu implică probleme la fel de dificile.
+
+<sup>9.</sup>Ceea ce spune Russell în chestiunile respective este dovada bunului său simț, a lipsei sale de prejudecăți, a bunăvoinței, toleranței, umanității și umorului său — un grup de calități întâlnit rareori. Tot rareori a fost ilustrat atât de strălucit dreptul divin al individului la libertate: dreptul său de a gândi, simți, spune și face ceea ce socotește potrivit, în cadrul dreptului egal al tuturor la aceeași libertate inviolabilă. Acea libertate are o însemnătate fundamentală pentru o viață personală fericită și, astfel, și pentru o societate fericită. Ea este opusul acelei primitivități care înțelege prin libertate dreptul la voință proprie și arbitrar, la lipsă de scrupule și dispreț față de dreptul celorlalți.
+
+<sup>10.</sup>Ca ființe sociale, trebuie să alegem între a respecta dreptul egal al tuturor sau a accepta războiul tuturor împotriva tuturor.
+
+### 5.47 *Problemele creșterii și educației*
+
+<sup>1.</sup>Printre numeroasele probleme ale vieții pe care Russell a încercat să le elucideze cu idei extrem de judicioase, întotdeauna demne de atenție, se numără problemele politice, sociale și educaționale.
+
+<sup>2.</sup>Opiniile sale în chestiuni de căsătorie, sex, control al nașterilor etc. vădesc o lipsă de prejudecăți care, venind de la un profesor, lord etc., trebuie să-i șocheze pe moraliști.
+
+<sup>3.</sup>În administrația statului, numirea în cele mai înalte posturi urmează în general ingeniosul principiu potrivit căruia celui căruia Dumnezeu îi dă o funcție îi va da și competența de a o îndeplini. Iar noi știm cum stau lucrurile.
+
+<sup>4.</sup>În ce privește aducerea copiilor pe lume, opinia publică, nechibzuită ca de obicei, pare să creadă că acelora cărora Dumnezeu le dă copii le va da și competența de a-i îngriji și crește. Nu pare drept să punem toată vina pe seama divinității; este cu totul prea comod să-i cerem lui Dumnezeu să facă ceea ce ar trebui să fim în stare să facem noi înșine.
+
+<sup>5.</sup>Când oamenii preiau o idee nouă, ea devine foarte curând de nerecunoscut. Un profesor a scris ceva despre complexe și, îndată, toți „psihologii” au știut despre ce este vorba. Era complexul de inferioritate și cel mai periculos dintre toate lucrurile periculoase. Niciun profesor nu spusese ceva despre cultivarea unui complex de superioritate, a complexului voinței proprii, a complexului arbitrariului, a complexului lipsei de scrupule, a complexului lipsei de lege, astfel că niciunul dintre experții ageri nu ar ști despre acestea.
+
+<sup>6.</sup>Din propria experiență, Russell este de acord cu opinia că educația copilului ar trebui să fie încheiată înainte de vârsta de un an și, în orice caz, înainte de trei ani. În această perioadă copilul nu poate dezvolta alte complexe decât cel al autoafirmării. Tratamentul este incredibil de simplu, dar impracticabil pentru sentimentalismul lipsit de discernământ: copilul nu trebuie să-și facă niciodată voia în nicio privință. Pe lângă această fermitate neclintită, copilul are nevoie de bunătate, tandrețe și îngrijire. Totuși, copilul nu trebuie făcut niciodată să simtă că este obiectul interesului general datorită propriei sale importanțe.
+
+<sup>7.</sup>Scopul educației este de a da cunoaștere și abilități. Cunoașterea dezirabilă include ceea ce face posibilă înțelegerea lumii fizice și a vieții fizice așa cum sunt astăzi: natura și felul în care funcționează, omenirea cu rasele și națiunile ei, societatea cu instituțiile și funcțiile ei, tot ce este necesar pentru ca oamenii să trăiască împreună fără fricțiune. Cunoașterea care trece în revistă felul în care s-au ivit toate acestea oferă perspective asupra dezvoltării, înțelegerea realității că toată viața este schimbare.
+
+<sup>8.</sup>Cercetarea constată realități și le așază în sisteme științifice. Metoda potrivită de educație este opusul acesteia. Ea pornește de la trecerea în revistă orientatoare a sistemului, arătând astfel importanța realităților constatate. Supraîncărcarea memoriei cu date care pot fi găsite cu ușurință în cărți de referință contracarează privirea de ansamblu, claritatea, sensul și, prin urmare, comprehensiunea; căci comprehensiunea merge de la universal la particular. Sarcina școlii este să predea principii, metode și sisteme și numai atâtea date câte sunt necesare pentru a le cuprinde. Aceasta înlesnește dobândirea conștiinței perspectiviste.
+
+<sup>9.</sup>Este regretabil că învățământul superior a neglijat problemele psihologice ale vieții. Totuși, ele au o importanță uriașă. Cei mai mulți oameni sunt lăsați în chip neajutorat să-și rezolve singuri problemele de viață, cu conflicte între instinctele de viață înnăscute, subconștiente, și strădania conștiinței treze de a se orienta. În vremurile noastre, acest conflict a mărit numărul nevrozelor. Nu oricine poate rezolva aceste probleme și să-și găsească propria ieșire din labirint, așa cum a făcut-o Russell în chip suveran. Conflictul este adesea agravat de „lupta pentru suflete” a ideologiilor concurente, mai ales când aceasta duce la tensiune în relațiile cu rudele și prietenii. Indivizii care, deși poate nu știu aceasta, au ajuns la stadiile culturii și umanității, socotesc perversă cea mai mare parte din toate acestea, sunt priviți de alții și, în cele din urmă, de ei înșiși ca ciudați și nepotriviți pentru viață, iar vina pentru aceasta și-o pun lor înșiși.
+
+<sup>10.</sup>Abilitățile dezirabile includ și cunoașterea unei limbi culturale internaționale. În cele mai multe cazuri, aceasta este de ajuns pentru toți cei care nu se ocupă de filologie sau cercetare istorică. Russell împărtășește pe deplin pătrunderea tot mai răspândită că latina și greaca nu sunt nicidecum atât de importante cum s-a crezut până acum. Studierea lor implică nu numai supraîncărcarea memoriei, ci și o risipă uriașă a celor mai importanți ani ai vieții. Studierea acestor limbi nu duce la înțelegerea reală a literaturilor respective. Cea mai mare parte este uitată după câțiva ani. Mai mult, toată această literatură a fost deja tradusă în toate limbile culturale de traducători mai buni decât cei formați în școală. Și, în cele din urmă, înțelegerea vieții pe care ne-a dat-o această literatură a fost absorbită de culturile ulterioare de-a lungul câtorva secole. Este mai bine să gândești singur decât să citezi. Metaforele „clasice” întâlnite în literatură pot fi adunate și explicate într-o carte specială, un fel de „latină vie”.
+
+<sup>11.</sup>Același lucru este, în linii mari, adevărat despre studiul obligatoriu al altor limbi moarte. Cât sunt de capabili clericii să citească textul nepunctuat al Vechiului Testament? Este cu totul de ajuns să li se dea o descriere a limbii scrise fără vocale și să fie informați că erudiții se vor certa întotdeauna în privința vocalelor corecte. Este istoricul religiilor mai capabil să interpreteze simbolismul textelor sanscrite decât orientaliștii pricepuți, cu traducerile lor încercate, în afară de interpretarea asupra căreia cei mai erudiți indieni se ceartă și la care ezotericienii ce cunosc sanscrita nu pot decât să zâmbească? Cu o asemenea erudiție se va dobândi cunoașterea aparentă a îngâmfării și prilejul de a-i impresiona pe cei lipsiți de discernământ.
+
+<sup>12.</sup>Cărțile lui Russell abundă în enunțuri care aruncă într-o clipă lumină asupra unor probleme de acest fel. Ne dorim doar să fie citite de toți cei care vor să-și lărgească orizontul și să-și adâncească înțelegerea vieții. Fără exagerare, se poate spune că ele fac parte din cultura generală de astăzi în chestiuni de concepție despre viață.
+
+### 5.48 *Problema democrației*
+
+<sup>1.</sup>Așa cum dictatura este o problemă de putere, democrația este o problemă de libertate.
+
+<sup>2.</sup>Nimeni nu a reușit încă să elucideze în mod satisfăcător ce se înțelege prin libertate, cum este posibilă libertatea, cum poate fi dobândită, cum poate fi păstrată. Încă nu s-a văzut limpede că libertatea și puterea sunt același lucru. Ceea ce le deosebește sunt limitele libertății și puterii. Libertatea a fost concepută ca dreptul de a fi stăpân pe sine, iar puterea ca dreptul de a fi stăpân pe alții.
+
+<sup>3.</sup>Libertatea cere nu numai dreptul de a fi el însuși, ci și capacitatea de a fi astfel. „Cunoașterea este putere” dacă oferă capacitate. Din nefericire, există capacitate fără cunoaștere și tocmai această capacitate abuzează de putere.
+
+<sup>4.</sup>Libertatea este dreptul individului de a gândi, simți, spune și face ceea ce socotește potrivit, în limitele dreptului egal al tuturor. Abuzul de libertate a atras adesea dictatura. Libertatea cere ca fiecare să recunoască aceste limite, ca fiecare să le cunoască, ca fiecare să fie în stare să le respecte. Le cunosc oamenii? Pot ei fără putere asupra lor înșiși?
+
+<sup>5.</sup>Libertatea este încă o problemă nerezolvată. Întrebarea este dacă poate fi rezolvată la actualul stadiu de dezvoltare al omenirii.
+
+<sup>6.</sup>Sunt multe probleme legate de problema democrației, toate nerezolvate, unele insolubile. Printre problemele nerezolvate se numără dreptul minorității, limitarea abuzurilor de putere, prevenirea legislației fără minte.
+
+<sup>7.</sup>În cele ce urmează se va arăta pe scurt că democrația este o pseudo-problemă, deoarece nu poate exista o societate fără clase și nici dreptate perfectă. Iar aceasta fiindcă nedreptățile aparente ale naturii fac acest lucru imposibil.
+
+<sup>8.</sup>Problema dreptății și problema claselor sociale sunt strâns legate.
+
+<sup>9.</sup>Egalitatea și principiul plății egale fac parte din dreptate. Din principiul plății egale (plată egală pentru muncă echivalentă) urmează: plată diferită pentru muncă diferită, plată mai mare pentru mai multă muncă, mai multe avantaje pentru o capacitate mai mare de a servi comunitatea, mai multe drepturi pentru mai multe îndatoriri. Care este atitudinea invidiei sociale față de aceasta?
+
+<sup>10.</sup>Cerința de „egalitate” din timpul Revoluției Franceze însemna numai desființarea tuturor privilegiilor de clasă (celor sociale și politice predominante, socotite de obicei nedrepte), egalitate în fața legii, dreptul de a fi judecat numai după capacitate.
+
+<sup>11.</sup>Dar nu s-a pus niciodată problema ca toți să aibă aceeași influență socială, politică etc.
+
+<sup>12.</sup>Inegalitățile naturii constau în diferențe ale capacității de a cuprinde, a vedea, a înțelege, a dobândi cunoaștere, în diferențe de talent și capacitate de muncă. Nicio educație nu poate înlocui aptitudinea înnăscută, talentul, geniul.
+
+<sup>13.</sup>Maximumul ce poate fi atins este ca fiecare să fie respectat ca ființă umană. Mai avem un drum lung până să fi realizat condițiile fraternității universale. Va trebui să ne mulțumim dacă reușim să realizăm bunăvoința universală față de toți, fără excepție, și relații omenești juste.
+
+<sup>14.</sup>Abuzul general de cuvântul „dreptate” arată limpede că oamenii nu știu despre ce vorbesc. Oamenii nu vor putea niciodată să-l cuprindă, pur și simplu. Acest lucru reiese și din afirmația că viața este nedreaptă.
+
+<sup>15.</sup>Nu poate exista o societate fără clase. Cel mai simplu intelect ar trebui să fie de ajuns pentru a vedea aceasta. Rusia și Iugoslavia au trebuit chiar să admită în practică atât.
+
+<sup>16.</sup>Apartenența la o clasă este ordinea firească a lucrurilor, fiind determinată de calitățile și abilitățile individului, de calitatea, capacitatea și talia sa, cu totul independent de posibilitățile sale de creștere și educație.
+
+<sup>17.</sup>La această inegalitate făcea aluzie Platon, până acum cu totul neînțeles, când și-a schițat republica ideală cu clasele ei sociale. Această inegalitate o vedea limpede Rousseau când spunea că o democrație adevărată nu poate exista cu putință.
+
+<sup>18.</sup>În stat și societate, cu toate organizațiile lor, trebuie să existe superiori și inferiori grupați după capacitate, iar aici se află distincțiile de clasă.
+
+<sup>19.</sup>Într-un stat guvernat rațional, toți cei care au cunoaștere și înțelegere egale ale problemelor de stat, societate, economie și chestiuni supranaționale ar trebui să aibă influență politică egală.
+
+<sup>20.</sup>A fost un dezastru că, de la început, dreptul de vot a fost făcut dependent de economie. Acea nedreptate trebuia desființată. În locul ei ar fi trebuit introduse examene speciale pentru dreptul de vot (cu o școală a alegătorilor) și pentru eligibilitate. Este absurd ca până și cei mai ignoranți, care nu pot vota decât după cum și când sunt convinși, să aibă aceeași putere ca alții. Rezultatul este demagogie, nu democrație.
+
+<sup>21.</sup>Este evident că Russell era pe deplin conștient de aceste probleme.
+
+<sup>22.</sup>Cu democrația se întâmplă ca și cu celelalte ideologii politice. În fiecare există ceva rațional. Iar sinteza ideilor respective va face posibilă o ideologie reală, care, cândva în viitor, va produce statul rațional.
+
+### 5.49 *Problema dictaturii*
+
+<sup>1.</sup>Problema dictaturii este o problemă de putere. Cartea lui Russell, *Puterea*, este un studiu strălucit de istorie, politică, sociologie și psihologie, care vădește lecturi întinse, înțelegere psihologică și capacitate analitică.
+
+<sup>2.</sup>Destul de ciudat, problema puterii, atât de vitală pentru omenire, a atras puțină atenție. Russell, cu pătrunderea sa ascuțită, a dat în vileag abuzurile impulsului spre putere în cele mai multe relații omenești.
+
+<sup>3.</sup>El susține pe bună dreptate că „dintre dorințele infinite ale omului, cele principale sunt dorințele de putere și glorie”. De asemenea, vede limpede că „numai înțelegând că iubirea de putere este cauza activităților importante în treburile sociale, istoria, veche sau modernă, poate fi interpretată corect”. Se străduiește să demonstreze că „conceptul fundamental în știința socială este Puterea, în același sens în care Energia este conceptul fundamental în fizică. Ca și energia, puterea are multe forme ...” și că „legile dinamicii sociale sunt legi care pot fi enunțate numai în termeni de putere, nu în termeni de această sau acea formă de putere”.
+
+<sup>4.</sup>Problema puterii cuprinde nu numai impulsul fundamental din indivizi, ci și diferitele feluri de organizații (stat, societate, partide politice și asociații în nesfârșita lor varietate) și, nu în ultimul rând, puterea iluziilor și ficțiunilor.
+
+<sup>5.</sup>În optsprezece capitole, Russell analizează diferitele forme ale puterii, filosofiile puterii, etica puterii, normele morale și, în cele din urmă, diferitele măsuri care pot fi concepute pentru a preveni abuzul de putere. După citirea acestei cărți, nimeni nu ar mai putea avea vreo îndoială că asemenea măsuri sunt necesare, dacă nu văzuse aceasta înainte.
+
+<sup>6.</sup>„A presupune că puterea iresponsabilă, doar pentru că este numită socialistă sau comunistă, va fi eliberată în chip miraculos de calitățile rele ale oricărei puteri arbitrare din trecut este simplă psihologie copilărească de grădiniță.”
+
+<sup>7.</sup>În capitolul final, încearcă să rezolve problema „de a asigura că guvernarea va fi mai puțin cumplită decât tigrii”. Examinează problema în patru secțiuni consacrate condițiilor politice, economice, propagandistice și psihologice și educaționale.
+
+<sup>8.</sup>Nu este limpede dacă Russell crede cu adevărat în posibilitatea de a preveni abuzul de putere. Timpul va arăta dacă aceasta este o problemă ce poate fi rezolvată înainte ca măcar o minoritate considerabilă, decisivă a omenirii să fi ajuns la stadiul culturii. Majoritatea este încă la stadiul barbariei sau în apropierea lui.
+
+<sup>9.</sup>Orice putere implică abuz de putere, în cel mai bun caz prin ignoranță despre viață. Prin urmare, idealul nu va fi niciodată atins. Dar gradul de abuz va fi cel mai mic când oamenii își vor da seama că puterea coincide atât cu libertatea, cât și cu legea (fără lege nu există libertate), când puterea este folosită în primul rând pentru a apăra libertatea.
+
+### 5.50 *Socialismul*
+
+<sup>1.</sup>Russell nu este un susținător al socialismului de stat nerealist, care, chiar în forma lui cea mai bună, trebuie să împiedice inițiativa privată. Individul nu va avea niciodată un cuvânt de spus. Când statul este angajatorul, el nu poate fi silit prin greve etc. să facă concesii, așa cum se întâmplă cu angajatorul privat.
+
+<sup>2.</sup>În statul socialist, niciun scriitor care exprimă opinii ce nu le plac conducătorilor nu își va avea lucrările publicate. Un inventator cu o idee aparent imposibilă, așa cum sunt toate ideile revoluționare, nu va primi sprijin.
+
+<sup>3.</sup>Statul socialist nu va tolera opoziția, libertatea de exprimare, presa liberă. Și cine va decide ce poate gândi individul?
+
+<sup>4.</sup>Discutând politica în general, Russell face remarca demnă de atenție, firește fără speranță, că problemele politice sunt prea importante pentru a fi rezolvate pe linii de partid.
+
+<sup>5.</sup>Dintre toate sistemele politico-economice, Russell preferă sindicalismul: toți cei care lucrează într-o întreprindere ar trebui să o dețină împreună, atât lucrătorii intelectuali, cât și muncitorii.
+
+<sup>6.</sup>Multe aparțin tainelor sofisticei socialiste:
+
+<sup>7.</sup>De pildă, că numai muncitorii, cu muncă bine plătită și ore scurte, au dreptul la titlul onorific de lucrător, nu și lucrătorii intelectuali care studiază și muncesc un număr nelimitat de ore neplătite. Când oamenii văd că este mai avantajos să fie muncitori, va apărea curând o lipsă de cercetători, savanți, profesori etc. Când profesorii de școală nu au niciun drept împotriva bandelor de tineri, nimeni nu va mai dori să predea în școli. Aceasta este deja o problemă în S.U.A., dar nu în Rusia.
+
+<sup>8.</sup>De pildă, că oamenii nu văd că revendicările salariale nejustificate vor face curând imposibilă orice întreprindere privată.
+
+<sup>9.</sup>De pildă, că sunt numiți „sugători de sânge” aceia care, cu riscuri mari, cu îngrijorare și fiind impozitați până la ruină, ajută totuși la întreținerea țării lor și la menținerea culturii ei.
+
+<sup>10.</sup>De pildă, că ei tolerează tot felul de incorigibilitate, arbitrar, voință proprie și lipsă de lege, dar împiedică oamenii cinstiți în cele mai multe chestiuni.
+
+<sup>11.</sup>Îi înțelegem pe cei care se întreabă dacă flagelul dictaturii este singura cale de a-i aduce pe oameni la rațiune.
+
+<sup>12.</sup>Socialiștii cred că proprietatea deține cheia tuturor problemelor, trecând cu vederea lucrul esențial, puterea de a dispune de bunuri, care oferă o putere și mai mare. Dacă aceia care conduc Rusia ar deține lucrurile, puterea lor ar fi în realitate mult mai mică decât este acum.
+
+<sup>13.</sup>Social-democrații poartă o etichetă falsă. Un democrat nu poate fi socialist, iar un socialist nu este democrat.
+
+### 5.51 *Marxismul*
+
+<sup>1.</sup>Pe profetul comunismului rus, germanul Karl Marx, Russell îl respinge destul de sumar. Nu a socotit că merită să piardă vremea combatând această concepție fizicalistă primitivă despre istorie, sociologia absurdă și teoria economico-politică grotescă. A văzut limpede perversitatea întregii acestei propagande a urii, care corespunde gândirii emoționale de la stadiul emoțional inferior, satisfăcând nevoile de iluzii corespunzătoare: invidia și alte manifestări ale urii.
+
+<sup>2.</sup>Întrebarea este însă dacă nu ar merita să fie studiate psihologic iluzionismul și ficționalismul aferente. În orice caz, aceasta confirmă spusa lui Platon că „ideile guvernează lumea”.
+
+<sup>3.</sup>Faptul evident că aceasta nu a fost recunoscut în general este un indiciu la fel de bun ca oricare altul asupra nivelului intelectual actual. Ce suferințe de nespus a trebuit să îndure omenirea din pricina ideilor religioase și morale! Cât ne costă astăzi ideile naționalismului nebun! Când ideile pun în mișcare forța motrice a emoției, ele duc la acțiune. Când emoțiile sunt stârnite la stadiul emoțional inferior (stadiul repulsiv), rezultatul sunt faptele urii. Dar lucrul esențial este să ne dăm seama că nebunia constă în ideile nebune, că ideea este impulsul inițial. Și de aceea ignoranța este rădăcina răului.
+
+<sup>4.</sup>Succesele marxismului infirmă ipoteza lui Marx însuși că singurele nevoi ale omului sunt cele fizice. Chiar la cel mai de jos stadiu de dezvoltare, el are nevoie de iluzii emoționale și ficțiuni mentale. Puterea lor este adesea mai mare decât a nevoilor fizice. Poporul rus, printre altele, este una dintre dovezile acestui lucru.
+
+<sup>5.</sup>În ce privește iluzia „dictaturii proletariatului sovietic”, Russell se mulțumește cu remarca lapidară că prin aceasta se înțelege, evident, Partidul Comunist. Este fantastic că muncitori din multe țări se lasă înșelați de minciunile evidente ale agitației bolșevice, orbi la noua sclavie care i-a lipsit pe muncitori de drepturile lor omenești. Omenirea nu a progresat mai departe decât să fie atât Rusia, cât și China conduse de bandiți.
+
+<sup>6.</sup>Ceea ce condamnă sistemul sovietic este, pe de o parte, inumanitatea lui, disprețul său barbar față de dreptul divin al individului la integritate, iar pe de altă parte, tirania opiniei. Este o parodie pură că acestei puteri i se îngăduie să participe la lucrarea Națiunilor Unite pentru omenire, tocmai pentru a distruge această lucrare, această putere mai cumplită decât cea a Bisericii Catolice în Evul Mediu, această putere al cărei țel este să șteargă toate națiunile, să-i facă pe toți oamenii sclavi fizic și spiritual și, prin metodele ei satanice, să încerce să înăbușe orice strădanie de a găsi și proclama adevărul.
+
+---
+
+## 6 ANTROPOSOFIA – ȘTIINȚA SPIRITUALĂ A LUI STEINER
+
+### 6.1 *Prefață*
+
+<sup>1.</sup>Această expunere nu urmărește în primul rând să critice antroposofia lui Steiner, ci să ofere o orientare generală în problemele cunoașterii superfizice, de care este mai mare nevoie. Literatura care poate fi cuprinsă sub denumirea de misticism este lipsită de un fundament epistemologic și nu va fi examinată aici. Emoția nu este o sursă de cunoaștere, nici un temei pe care să se poată construi în problemele concepției despre lume. Emoționalitatea are însemnătate pentru concepția despre viață. Cât de puțin au învățat însă oamenii din misticism se vede din aceea că nu pot nici măcar să deosebească iubirea de ură în diversele lor manifestări în viață.
+
+### 6.2 *Rudolf Steiner*
+
+<sup>1.</sup>Cel care a formulat sistemul de gândire numit antroposofie sau știință spirituală s-a născut în Austria. A studiat științele naturii și disciplinele umaniste și și-a însușit esențialul cunoștințelor vremii sale. Le-a folosit pe toate, așa cum făcuse la vremea lui filosoful atotștiutor Hegel, cu care Steiner poate fi comparat în privința imaginației constructive.
+
+<sup>2.</sup>Dr. Steiner (1861–1925) era un om de o inteligență excepțională, superior și dominator, președintele firesc al numeroaselor societăți intelectuale din care făcea parte atât la Viena, cât și la Berlin.
+
+<sup>3.</sup>Așa cum se întâmplă cu mulți oameni aflați la granița dintre stadiul misticismului și cel al umanității (48:3 și 47:5), a rămas un căutător neobosit până când a regăsit concepția despre realitate a stadiului de dezvoltare la care ajunsese în ultima sa încarnare.
+
+<sup>4.</sup>În studiile sale intense și aprofundate, era mereu convins că savantul sau gânditorul de seamă pe care îl studia în acel moment găsise „piatra filosofală”, ajunsese la concepția corectă despre realitate în domeniul său.
+
+<sup>5.</sup>De regulă se întâmplă contrariul: la început, cei care studiază, simțindu-se superiori, critică tot ce citesc chiar înainte de a ști despre ce este vorba. Împiedică astfel acea pătrundere a subiectului care este posibilă numai prin intensitatea și dăruirea interesului.
+
+<sup>6.</sup>Cei care, asemenea lui Steiner, se conving mereu că autorul are dreptate văd numai în ce privință are dreptate. Ceilalți văd numai în ce privință greșește. În general, entuziaștii sunt considerați lipsiți de spirit critic și neștiințifici de către cei din jur. Când, în cele din urmă, se vede că abandonează o poziție intelectuală după alta și sunt la fel de intens convinși că o altă autoritate are dreptate, li se reproșează nestatornicia intelectuală.
+
+<sup>7.</sup>Detractorii lor nu sunt în stare să vadă că intensitatea și convingerea temporară sporesc înțelegerea și înlesnesc orientarea. Aprofundarea cunoștințelor îl conduce pe cel care studiază dincolo de gândirea prin principii din discipline și de idiologiile dominante, eliberându-l astfel de gândirea dogmatică, acel obstacol în calea continuării cercetării și a unei perspective mai largi asupra existenței. Întregul drum de dezvoltare al omenirii de-a lungul veacurilor este marcat de mii de sisteme de gândire, formulate și abandonate. Cine se oprește la un sistem rămâne la nivelul de dezvoltare atins.
+
+<sup>8.</sup>De aceea, Steiner, care abandona necontenit o poziție intelectuală după alta, era acuzat de criticii mărunți ai vremii sale (gânditori dogmatici tipici) că își schimbă mereu părerea. În autobiografia scrisă după vârsta de șaizeci de ani, Steiner a decăzut în acea vădită gândire deziderativă a raționalizării care caută să descopere un fir conducător în ceea ce pare lipsit de plan. Negarea rătăcirilor este un semn de slăbiciune. Rătăcirile fac parte din formarea capacității de cercetare la cei care vor urma în viitor calea cercetării. În noua lor încarnare, trebuie să-și caute drumul prin labirint spre ceea ce au căutat instinctiv. Cu cât cercetătorul a pătruns mai intens în sistemele de ficțiuni, cu atât îi va fi mai ușor mai târziu să le vadă caracterul fictiv.
+
+<sup>9.</sup>Dr. Bruno Wille, scriitorul și gânditorul german (un vechi gnostic autentic), a purtat multe discuții cu Steiner, care îl apăra cu înflăcărare pe biologul Ernst Haeckel, autoritatea sa de atunci. Lui Wille i s-a părut cu atât mai ciudat că Steiner a încercat ulterior să se dezvinovățească pentru că avusese asemenea opinii. Wille i-a mărturisit autorului acestor rânduri uimirea sa că un om care ridiculizase atât de mult tot ce era superfizic putea susține mai târziu că avusese întotdeauna un simț aparte pentru așa ceva. Autobiografia lui Steiner este o operă foarte puțin demnă de încredere.
+
+<sup>10.</sup>Este caracteristic celor superiori intelectual să dobândească lesne o încredere nemărginită în propria capacitate de judecată, vecină cu înfumurarea. Se pronunță asupra unor chestiuni despre care nu știu nimic, uitând că judecata presupune cunoașterea datelor. Din această cauză, elita intelectuală a avut rareori vreo perspectivă de a fi inițiată în ordinele ezoterice de cunoaștere. Ascuțimea și profunzimea minții îi ispitesc să înlocuiască datele lipsă cu propriile ficțiuni. Sunt apoi pătimaș convinși că interpretarea pe care o dau simbolurilor este singura corectă.
+
+<sup>11.</sup>În cele ce urmează va fi examinat însuși fundamentul cunoașterii pe care se sprijină sistemul de gândire al lui Steiner. Examinarea amănunțită a științei sale spirituale trebuie lăsată în seama cercetării ezoterice viitoare, dacă vreun ezoterician va considera că merită osteneala.
+
+<sup>12.</sup>Critica nu ar fi fost necesară dacă antroposofii, în frunte cu văduva lui Steiner, nu ar fi profitat de orice prilej pentru a-și înălța apostolul în detrimentul teosofiei. Intenția este de a impune o examinare obiectivă a întregului complex al cunoașterii ezoterice. Repetarea papagalicească, nesigură și iresponsabilă a ignoranței trebuie să înceteze. Autorul nu este „teosof”, ci ezoterician, mai exact hylozoician sau pitagoreic, și nu are niciun interes să apere „teosofia” ca atare. Dar dreptatea este dreptate.
+
+### 6.3 *Steiner ca teosof*
+
+<sup>1.</sup>În anii 1902–1912, Steiner a fost secretarul general al secțiunii germane a Societății Teosofice. Înainte de aceasta studiase temeinic cărțile de teosofie existente, scrise de Blavatsky, Sinnett, Judge și Hartmann. Respingerea disprețuitoare de mai târziu a lui Blavatsky arată cât de puțin înțelesese.
+
+<sup>2.</sup>Acest capitol ar trebui de fapt să se intituleze „Steiner și teosofii”, fiindcă Steiner nu a fost niciodată un teosof adevărat. Nu știa că teosofii primiseră datele de la ierarhia planetară, ci credea că le obținuseră de la „yoghini indieni”. Nu și-a dat niciodată seama că nicio ființă omenească nu are vreo posibilitate de a constata aceste realități. Nu își dau seama nici numeroșii autori de pseudo-cunoaștere superfizică, ale căror produse inundă tot mai mult piața cărții.
+
+<sup>3.</sup>Ceea ce a provocat ruptura dintre Steiner și Besant, președinta Societății Teosofice, și a dus la destituirea lui Steiner a fost atitudinea sa față de Biblie ca autoritate divină și interpretarea fantezistă a simbolului Golgotei. Ai dreptul la propria opinie, dar nu și la a o numi teosofie.
+
+<sup>4.</sup>În mod straniu, Steiner nu și-a recunoscut niciodată datoria față de teosofie, deși aceasta îi furnizase toate datele corecte despre superfizic care se găsesc în cărțile sale. În schimb, pretindea că le obținuse de la Ordinul Rozacrucian. Vom reveni mai departe asupra acestei chestiuni. Nici nu a pomenit vreodată toate ideile pe care le preluase de la teosofi, poate pentru că le prelucrase până deveniseră de nerecunoscut.
+
+<sup>5.</sup>Odată separat de Societatea Teosofică, măsură necesară, Steiner a redus la insignifianță tot ce primise de la teosofi. Din fericire, și-a numit teosofia greșit înțeleasă antroposofie, astfel încât posteritatea să o poată evita mai ușor. În cele din urmă au fost formulate o serie de acuzații care cer îndreptare. Criticile suplimentare aduse de văduva lui Steiner proveneau, evident, în cea mai mare parte de la soțul și idolul ei.
+
+<sup>6.</sup>Ce l-a făcut pe Steiner să denatureze atât de mult concepția conducătorilor teosofici este o enigmă pe care trebuie s-o rezolve psihologii. Procedând astfel, a contribuit la discreditarea teosofiei înseși, care fusese deja condamnată de autoritățile religioase, filosofice și științifice și de papagalii de tot felul, precum și de autorii de pseudo-ocultism. Este deosebit de caracteristic că toți sunt în dezacord asupra tuturor lucrurilor, mai puțin asupra acestei chestiuni. Această propagandă mincinoasă a fost lăsată prea mult timp fără replică. Este, probabil, inevitabil ca jurnaliștii, care formează opinia publică, să repete fără să gândească spusele autorităților zilei, fără să cerceteze ei înșiși. Dar este alarmant că scriitorii proclamați cu mare zgomot autorități în materie de superfizic sunt la fel de iresponsabili. De exemplu, René Guénon, invocat drept autoritate supremă de dr. Kurt Almqvist (în lucrarea sa *Den glömda dimensionen*), numește teosofia pseudo-religie, arătându-și astfel adevăratul nivel. Împotriva unei asemenea prostii, până și zeii luptă în zadar.
+
+<sup>7.</sup>Criticii lui Steiner i se va răspunde aici în aspectele sale esențiale.
+
+<sup>8.</sup>Afirmația că teosofii nu își întemeiază concepția pe fapte obiective este vădit absurdă. Dimpotrivă, teosofii au fost cei care au încercat să-l facă pe Steiner să înțeleagă că orice cercetare, fizică și superfizică, constă în constatarea faptelor. Ei insistau și asupra faptului că niciun om nu poate rezolva problemele existenței prin propria gândire. Dar Steiner pretindea că știe mai bine. Avea cu siguranță dreptate când spunea că „abordarea realității spirituale” de către teosofi era „cu totul diferită” de a sa.
+
+<sup>9.</sup>Nu este adevărat că fruntașii teosofici erau interesați de spiritism și își obțineau cunoașterea prin „spirite”. În această privință, poziția tranșant formulată a lui Blavatsky a fost decisivă. Pe de altă parte însă, examinarea conținutului de realitate al spiritismului, așa cum au făcut unii teosofi, este datoria oricui vrea să fie cercetător.
+
+<sup>10.</sup>Nu este adevărat că teosofia se identifică cu „misticismul indian”, deși, potrivit programului său, examinează conținutul de realitate al tuturor religiilor, filosofiilor, concepțiilor despre lume și despre viață.
+
+<sup>11.</sup>Nu este adevărat că teosofii neagă existența cunoașterii ezoterice în Europa în vremurile vechi. Ei știau mult mai multe decât Steiner despre Pitagora, Platon, gnostici și autenticele ordine Rozacrucian și Maltez.
+
+<sup>12.</sup>Nu este adevărat că teosofii consideră metoda yoga singura cale corectă de activare a tipurilor superioare de conștiință. Dimpotrivă, o consideră nepotrivită pentru occidentali.
+
+<sup>13.</sup>Nu este adevărat că teosofii sunt ostili perspectivei științifice. Dimpotrivă, urmăresc cu însuflețire toate noile descoperiri și se bucură de felul în care acestea confirmă datele teosofilor.
+
+<sup>14.</sup>Nu este adevărat că teosofii consideră toate religiile în esență egale. Le consideră adaptate diferitelor stadii de dezvoltare ale omenirii.
+
+<sup>15.</sup>Dintre autorii teosofici, Sinnett, Judge și Hartmann dispuneau de mult prea puține date pentru a putea face o prezentare satisfăcătoare a cunoașterii ezoterice. Cea mai mare capacitate și cel mai mult succes în sistematizarea datelor disponibile înainte de 1920 și în a face posibilă interpretarea simbolurilor ezoterice le-a avut C. W. Leadbeater. Firește, moraliștii l-au „neutralizat” cum se cuvine. Cea mai bună sinteză a datelor teosofiei a fost realizată de A. E. Powell în cinci volume.
+
+<sup>16.</sup>Teosofia este o sinteză a datelor care se transmiteau în ordinele ezoterice de cunoaștere. Termenul „teosofie” a apărut când a fost schimbată denumirea „gnoză”, deoarece pseudo-gnosticii din secolul al III-lea e.n. începuseră să-și prezinte în mod mincinos pseudo-gnoza drept gnoză ezoterică.
+
+<sup>17.</sup>Aceste date sunt cele care constituie teosofia. Dincolo de ele, opiniile diferiților autori teosofici nu sunt teosofie. Este timpul ca oamenii să învețe să deosebească teosofia de mulțimea teosofilor lipsiți de inteligență, care, din păcate, nu au fost obligați la un jurământ de tăcere până când ar fi învățat să înțeleagă ce era teosofia.
+
+<sup>18.</sup>Misiunea inițială a Societății Teosofice era proclamarea fraternității universale. Omenirea nu este însă încă matură pentru a realiza principiile toleranței și ale libertății de opinie și de exprimare. Societatea s-a scindat în mai multe secte, toate disputându-se asupra a ceea ce cred că este teosofia și asupra întrebării care „date” sunt ipoteze și care sunt date de la ierarhie. Dependența lor de autoritate arată că nu au înțeles, ci doar au crezut că înțeleg.
+
+<sup>19.</sup>Datele ezoterice făcute publice după 1920 nu au fost comunicate prin Societatea Teosofică.
+
+### 6.4 *Steiner ca rozacrucian*
+
+<sup>1.</sup>Steiner pretindea că fusese inițiat în Ordinul Rozacrucian și că obținuse de la acest ordin toate datele despre superfizic pe care nu reușise să le constate singur.
+
+<sup>2.</sup>Există, așadar, motive să risipim o dată pentru totdeauna întunericul din jurul acestui ordin, al cărui nume a fost folosit pentru mult prea multe abuzuri. Se poate renunța la această denumire fără nicio pierdere.
+
+<sup>3.</sup>Ordinul Rozacrucian a fost întemeiat în 1375 de Christian Rosencreutz, la însărcinarea ierarhiei planetare. Tuturor acestor ordine le este comun faptul că nimeni nu poate fi inițiat în ele decât de întemeietorul inițial, care rămâne întotdeauna conducătorul suprem al Ordinului. Niciun inițiat nu le dezvăluie celor din afară că aparține Ordinului. Poate admite că a auzit de existența lui, dar nu poate mărturisi el însuși despre aceasta. Numai sinelor esențiale (sine-46) le este îngăduit să întemeieze ordine, dar timp de încă 200 de ani nu vor fi întemeiate altele noi.
+
+<sup>4.</sup>O altă regulă a acestor ordine este că nu pot fi desființate cât timp vreun inițiat mai rămâne în al patrulea regn natural. Odată inițiat, rămâi întotdeauna inițiat (monada este inițiată, nu învelișurile pieritoare), cu dreptul de a ți se reactualiza această cunoaștere (lucru inutil în zilele noastre). Din 1875 nu au mai fost acceptați noi neofiți (tot ce este îngăduit să se facă cunoscut este deja public), cu excepția situației în care cunoașterea este interzisă de autorități, iar ezotericienii sunt persecutați. În stadiul actual de dezvoltare al omenirii, orice este posibil.
+
+<sup>5.</sup>La început, învățătura în Ordin se transmitea oral, până când Saint Germain a dispus elaborarea sistemului de cunoaștere, ale cărui trei exemplare erau împrumutate numai membrilor Ordinului.
+
+<sup>6.</sup>Existența Ordinului a devenit public cunoscută printr-o lucrare publicată din dispoziția lui Saint Germain, lucrare care conținea simbolurile rozacrucienilor. O nouă ediție a acestei cărți a fost publicată mulți ani mai târziu de teosoful dr. Franz Hartmann.
+
+<sup>7.</sup>Cel care a contribuit cel mai mult la atragerea atenției asupra existenței Ordinului a fost cel mai mare romancier pe care l-a cunoscut vreodată lumea (astăzi, firește, uitat), Bulwer-Lytton (1803–1873), el însuși inițiat, care în anii 1850 a adunat la Londra în jurul său mai mulți rozacrucieni, între care Regazzoni (ale cărui experiențe magice autentice le-au dat bătăi de cap savanților din întreaga Europă și l-au încântat pe filosoful german Schopenhauer) și Eliphas Levi, autorul mai multor cărți despre „alchimia cabalistică”. Aceasta era tot ce trebuia făcut public pe atunci.
+
+<sup>8.</sup>Printr-o asemenea publicitate bună pentru această „fraternitate sacră”, numele ei a dobândit o „rezonanță plăcută”. Nu este deci de mirare că tot felul de fanteziști s-au pretins rozacrucieni. Tot mai multe societăți care se ocupau de probleme oculte au adoptat denumirea. Pentru a-și susține pretențiile, au fabricat scrieri menite să demonstreze că numai ele erau autentice.
+
+<sup>9.</sup>O broșură despre Ordinul Rozacrucian Amorc (Malmö, Suedia, 1938) oferă o imagine destul de bună a felului în care se proceda. În această broșură nu există nicio informație adevărată în afara datelor deja cunoscute din istoria profană.
+
+<sup>10.</sup>Dacă urmăriți dezvoltarea acestor pseudo-ordine, veți constata că afirmațiile inițiale sunt astăzi schimbate fără alte formalități, pe măsură ce este îngăduită publicarea mai multor date ezoterice prin intermediul ierarhiei planetare.
+
+<sup>11.</sup>Ceea ce predau aceste secte pseudo-ezoterice era, în ansamblu, un amestec de cabalism, pseudo-gnosticism, neoplatonism și misticism de tot felul, la care se adăuga o filosofie yoga greșit înțeleasă. Jargonul abil era bine calculat pentru a-i impresiona pe neștiutori.
+
+<sup>12.</sup>Steiner fusese într-adevăr inițiat, dar într-una dintre aceste secte, nu în autenticul Ordin Rozacrucian. Nu a avut niciodată legătură cu încarnarea actuală a conducătorului Ordinului. În acest ordin se preda că unui individ din al patrulea regn natural îi este imposibil să rezolve problemele existenței, că prin clarviziunea emoțională (cel mai înalt tip posibil pentru om) nu se dobândește cunoașterea realității, că așa-numitele cronici akashice nu conțin istoria planetei, că indivizii din lumea emoțională nu pot cerceta acea lume și nici dobândi cunoașterea realității. Cât de strictă era instruirea reiese din faptul că întreaga cunoaștere corectă pe care individul nu o putea verifica singur trebuia considerată ipotetică.
+
+### 6.5 *Steiner și filosofia yoga*
+
+<sup>1.</sup>Metodele yoga originare au fost elaborate de „rishi” în Lemuria și Atlantida. Din afirmațiile lui Steiner reiese că nu avea înțelegerea necesară a însemnătății lor; de aceea va fi prezentată o scurtă expunere despre yoga.
+
+<sup>2.</sup>Dintre cele cinci metode de dezvoltare cel mai larg cunoscute, două sunt directe: hatha yoga fizică (o metodă riscantă de dezvoltare forțată, care a făcut nenumărate victime) și raja yoga mentală. Trei sunt indirecte: gnana yoga (dezvoltarea rațiunii), bhakti yoga (înnobilarea emoției) și karma yoga (slujirea devotată).
+
+<sup>3.</sup>Hatha yoga era metoda lemuriană de perfecționare a organismului și de automatizare a sistemului nervos simpatic. Hatha modernă este un fenomen atavic cu efect exact opus: toate organele corpului cer supraveghere necontenită pentru a nu înceta să funcționeze.
+
+<sup>4.</sup>Bhakti yoga era metoda atlantă.
+
+<sup>5.</sup>Karma yoga urmărește să învingă pasivitatea, rezultat al doctrinei karmei greșit interpretate. Oamenii nu îndrăzneau să acționeze, iar în cele din urmă nici să simtă ori să gândească, de teamă să nu greșească. Nu vedeau că neactivarea conștiinței fizice, emoționale și mentale este o greșeală și mai mare și că motivul (egoist sau altruist) este esențial în activitate.
+
+<sup>6.</sup>Lemurienii duceau o viață a conștiinței pe jumătate onirică, la granița dintre lumea fizică și cea emoțională. Mentalizarea creierului a durat milioane de ani. Pe măsură ce simțurile se ascuțeau treptat pentru realitatea fizică, atenția emoțională scădea și, odată cu ea, capacitatea de a trăi simultan în două lumi.
+
+<sup>7.</sup>Atlanții erau fizicaliști cu o emoționalitate de tip repulsiv și li s-au oferit prilejuri de a cultiva atracția.
+
+<sup>8.</sup>Steiner credea că yoga indiană era o încercare de a înlocui artificial clarviziunea naturală a atlanților, care „se pierduse în urma Căderii”. Dar această „pierdere” însemna un pas înainte, fiindcă însușirile necesare pot fi dobândite numai în lumea fizică, iar clarviziunea ar fi o piedică în acest sens.
+
+<sup>9.</sup>Există șapte tipuri de conștiință emoțională subiectivă și obiectivă. Omenirea de astăzi are cele patru tipuri subiective inferioare, iar misticii le au pe cele cinci inferioare.
+
+<sup>10.</sup>Specialiștii nu trebuie să facă greșeala lui Steiner de a-l confunda pe Krishna din *Bhagavad-Gita* (legenda din Atlantida) cu Maitreya–Krishna (care a murit la 4 aprilie 3102 î.e.n.).
+
+<sup>11.</sup>Steiner credea că această clarviziune emoțională era de un tip cu totul diferit de cea a yoghinilor raja. Dar atât el, cât și yoghinii raja au conștiință obiectivă în cele patru tipuri moleculare inferioare (48:4-7), deși au dobândit-o pe căi diferite.
+
+### 6.6 *Steiner ca filosof*
+
+<sup>1.</sup>Este interesantă discuția pe care Steiner a avut-o cu filosoful Eduard von Hartmann. Acesta considera că „cunoașterea realului este îngropată în inconștientul de nepătruns al omului și rămâne pentru totdeauna inaccesibilă conceptelor sale”.
+
+<sup>2.</sup>Potrivit ezotericii, inconștientul este în parte subconștiință, în parte supraconștiință. Subconștientul este memoria latentă a experiențelor trecute. Supraconștientul constă într-o lungă serie de domenii ale conștiinței încă necucerite. Dacă se poate vorbi despre o cunoaștere „îngropată”, aceasta nu poate fi decât o cunoaștere pe care omul a avut-o cândva și a pierdut-o, dar pe care are posibilitatea să și-o amintească din nou. Este uimitor cum pot filosofii să atingă realitatea fără să-și dea seama.
+
+<sup>3.</sup>Steiner a început ca filosof, dar și-a dat curând seama că filosofii nu pot rezolva problemele realității. A văzut că datele cercetării naturii oferă cunoștințe despre compoziția materiei fizice, dar nu pot explica natura materiei sau originea mișcării (a forțelor naturii).
+
+<sup>4.</sup>În teosofie a găsit confirmarea că această înțelegere era corectă. Orice cunoaștere constă din date așezate în contextele lor corecte. Există o realitate superfizică și există posibilitatea de a constata fapte în ea.
+
+<sup>5.</sup>Principiul este corect. Dar Steiner nu a înțeles niciodată cât de mult se cere pentru a putea constata fapte într-un tip de materie total diferit de cel fizic.
+
+<sup>6.</sup>Vechea filosofie este condamnată. Ea era speculația imaginativă a ascuțimii și profunzimii minții. Aceeași soartă o va avea noua filosofie à la Bertrand Russell și toate sistemele care nu se întemeiază pe date de la ierarhia planetară.
+
+### 6.7 *Propria teorie a cunoașterii a lui Steiner*
+
+<sup>1.</sup>Teosofii pe care i-a studiat Steiner menționaseră existența a șapte lumi succesiv superioare și a șapte învelișuri ale individului. Dar ideile despre natura lor erau încă vagi pe atunci. Besant, în special, evita discutarea aspectului de materie al existenței, nu în ultimul rând din considerație pentru subiectivismul filosofic dominant atât în India (advaita), cât și în Occident (așa-numitul idealism).
+
+<sup>2.</sup>Steiner credea că lumea fizică era singura materială și că toate lumile superioare erau de natură „spirituală”. Printre teosofi circula formula că materia era cea mai joasă formă a spiritului, iar spiritul cea mai înaltă formă a materiei. Steiner nu a înțeles niciodată că era vorba despre tipuri de materie tot mai fine, datorate unei densități tot mai mici de atomi primordiali.
+
+<sup>3.</sup>Steiner interpreta vechea antiteză aparentă dintre spirit și materie în sensul că spiritul trebuia să fie ceva de felul unei materii imateriale, orice ar fi putut însemna aceasta. În realitate, cei vechi înțelegeau prin „spirit” același lucru ca prin conștiință și susțineau că întreaga materie are conștiință.
+
+<sup>4.</sup>În privința cercetării lumii fizice și a celei emoționale, Steiner înțelegea că cercetarea constă în constatarea faptelor. Dar când venea vorba despre lumile supraemoționale, la care nu avea acces, fiindcă îi lipsea capacitatea tipurilor superioare de conștiință obiectivă, se abătea de la acest unic principiu corect și posibil și revenea la speculația subiectivistă.
+
+<sup>5.</sup>Pe când studia scrierile lui Goethe despre științele naturii, lui Steiner i-a venit ideea care avea să-i influențeze decisiv speculațiile ulterioare asupra teoriei cunoașterii. Credea că observase că Goethe, studiind natura, nu ajunsese la concluziile sale prin reflecție, ci că „ideile se ridicau în el în timpul observațiilor sale concentrate, de parcă ar fi fost imaginile sufletului despre realitățile din spatele naturii”. Faptul că Goethe nu continuase pe această cale se datora, credea Steiner, împrejurării că „Goethe se temea să nu se piardă în abstracțiuni”.
+
+<sup>6.</sup>Această greșeală, atât de nefericită pentru Steiner însuși, arată că nu știa că Goethe era inițiat în Ordinul Rozacrucian (autentic) și se amuza aplicând în propriile cercetări ceea ce învățase acolo. Goethe nu era nicidecum un fantezist.
+
+<sup>7.</sup>Când întâmpina obstacole de netrecut în încercarea de a cerceta realitatea prin constatarea faptelor, Steiner își amintea ipoteza sa preferată despre Goethe. La aceasta se adăuga admirația pe care o avusese întotdeauna pentru contemporanii lui Goethe, Fichte, Schelling și Hegel, cu romantismul lor conceptual.
+
+<sup>8.</sup>Și-a alcătuit astfel propria teorie a cunoașterii, în felul ei la fel de absurdă ca aceea a transcendentaliștilor:
+
+<sup>9.</sup>„Dacă trăiești în gânduri și idei și le consideri realități, această viață în gândire se transformă curând în acea trăire spirituală directă a realității spirituale în care gândirea și trăirea sunt una. Gândurile sunt mijloacele prin care realitățile lumii spirituale se fac simțite conștiinței omenești. Conceptele omului apar ca reflectări ale realităților spirituale.”
+
+<sup>10.</sup>În acest raționament recunoaștem o nouă versiune a vechiului romantism conceptual și subiectivism german. Firește, nu este vorba de tipul obișnuit de gândire nefilosofică, ci de un tip deosebit de rafinat de gândire filosofică. Recunoaștem prestidigitația „apercepției pure” a lui Kant, a „intuiției intelectuale” a lui Fichte și a „gândirii absolute” a lui Hegel.
+
+<sup>11.</sup>Încă un exemplu excelent pentru ceea ce se întâmplă când conștiința se aventurează singură în lumea imaginației, fără obiectivitatea și corectivul logic al aspectului de materie.
+
+<sup>12.</sup>La fel cum nu se poate cerceta realitatea prin gândire sau rezolva problemele existenței prin meditație, nu se poate nici reactualiza ceea ce este latent în subconștient prin cufundare în sine, așa cum își închipuie uneori cei lipsiți de cunoaștere ezoterică. Cunoașterea dobândită anterior se redobândește prin studierea din nou a aceluiași domeniu în noi încarnări. Noul creier nu știe nimic din ce știa vechiul creier, ci trebuie impregnat din nou cu molecule mentale. Creierul nu poate sesiza idei dintr-un domeniu cu totul necunoscut fără studiu prealabil. Pentru a primi atomii de idei, celulele creierului trebuie pregătite prin vibrații mentale, care se volatilizează ușor dacă celulele nu încorporează moleculele și nu le păstrează. Pe de altă parte, este o realitate constatată că cei care au cunoaștere latentă o dobândesc tot mai ușor în noile încarnări.
+
+<sup>13.</sup>Potrivit lui Steiner, „gândirea este poarta către contemplarea lumii spirituale”; omul poate dobândi prin gândire „pură” o „cunoaștere care depășește gândirea, dar izvorăște din ea”; omul poate cerceta el însuși universul și „își poate transforma gândirea pământească, ridicând-o la nivelul superior al înțelepciunii divine”.
+
+<sup>14.</sup>Dacă ar fi atât de simplu, omenirea și-ar fi rezolvat de mult toate problemele.
+
+### 6.8 *Clarviziunea lui Steiner*
+
+<sup>1.</sup>Clarviziunea este denumirea populară pentru tipurile superioare de simț: capacitatea de a observa realități obiective într-o lume invizibilă individului normal (majorității oamenilor).
+
+<sup>2.</sup>Rațiunea este conștiință subiectivă, simțul este conștiință obiectivă.
+
+<sup>3.</sup>Simțul fizic este capacitatea de a percepe obiectiv realitățile materiale obiective ale lumii fizice „vizibile”. În timpul încarnării sale fizice, omul trăiește în cinci lumi materiale diferite, fiindcă are învelișuri materiale în toate cinci. Individului normal îi rămâne să dobândească, în cursul dezvoltării și de-a lungul a mii de încarnări, conștiință obiectivă în toate cele cinci învelișuri ale sale, adică, pe lângă simțul fizic, să dobândească și simț fizic eteric, emoțional, mental și cauzal. Există deci patru tipuri principale de simț „superfizic”. Fiecare lume este alcătuită dintr-o serie de tipuri moleculare diferite (stări de agregare). Fiecare tip molecular are propriul tip caracteristic de conștiință, care în învelișurile omului este perceptibil prin organe speciale de percepție (chakre). Organele de simț fizice își au corespondentele în centrii de percepție și activitate (atomi de tipuri speciale, în sanscrită: chakre) din învelișurile agregate ale omului.
+
+<sup>4.</sup>Prin intermediul chakrelor, omul poate percepe subiectiv în organismul său vibrațiile din învelișurile sale superioare și trăi astfel sentimente și gânduri etc. Pentru dobândirea conștiinței obiective prin aceste chakre sunt necesare metode speciale de activare. Unele dintre aceste metode sunt cunoscute.
+
+<sup>5.</sup>Yoghinii raja pot dobândi prin metodele lor conștiință obiectivă în învelișul eteric al organismului, precum și în învelișul emoțional, dar nu în învelișul mental sau cauzal. Nici Steiner nu a reușit aceasta. El a dobândit simț (conștiință obiectivă) în cel mai de jos tip fizic eteric (49:4) și în cele patru tipuri moleculare emoționale inferioare (48:4-7).
+
+<sup>6.</sup>Există diverse metode de activare și obiectivare, unele mai potrivite pentru indieni, altele mai potrivite pentru occidentali. Instrucțiunile generale trebuie însă individualizate, astfel încât fiecare clarvăzător are propria metodă. Metodele ezoterice care conduc rapid și fără riscuri la conștiința obiectivă cauzală rămân proprietatea ierarhiei planetare. Cunoașterea metodelor respective era dată numai celor care dobândiseră conștiința cauzală subiectivă – după 1925: conștiința esențială (46) – și ajunseseră astfel la limita a ceea ce poate realiza omul. Ei știu atunci că simțul emoțional și cel mental nu oferă o cunoaștere reală, ci intensifică caracterul iluzoriu al emoționalului și caracterul fictiv al mentalului. În lumile moleculare ale omului nu se ajunge la cunoașterea lumilor ierarhiei planetare sau a lumilor atomice care pătrund totul și nici nu se dobândesc acele concepte ale realității care fac posibilă înțelegerea realităților din sistemul solar.
+
+<sup>7.</sup>Pentru a înțelege dificultățile filosofilor și misticilor, trebuie să cunoști cel puțin interdependența învelișului emoțional și a celui mental și relația dintre cele șase conștiințe moleculare emoționale și cele patru mentale.
+
+<sup>8.</sup>În timpul încarnării, învelișul emoțional și cel mental se contopesc, formând, ca să spunem așa, un singur înveliș din punct de vedere funcțional. Deoarece emoționalitatea este incomparabil mai dezvoltată, ea domină complet mentalitatea. O condiție a eliberării mentalității de dependența de emoționalitate este desfacerea acestei contopiri. Aceasta duce și la conștiință obiectivă mentală. Metoda va rămâne ezoterică până când omenirea se va fi umanizat. Până atunci, cel mai de jos tip de conștiință mentală (47:7) poate domina, în cel mai bun caz, cele două tipuri inferioare de conștiință emoțională (48:6,7), iar cele două tipuri mentale inferioare (47:6,7), cele patru tipuri emoționale inferioare (48:4-7).
+
+<sup>9.</sup>În stadiul actual de dezvoltare al omenirii, filosofii nu au ajuns la conștiința mentală imediat inferioară celei mai înalte: conștiința de perspectivă (47:5), care relativizează gândirea contradictorie prin principii. În schimb, misticul, în încarnarea sa ca sfânt, ajunge într-adevăr la cea mai înaltă conștiință emoțională (48:2,3).
+
+<sup>10.</sup>De aici rezultă că cea mai înaltă conștiință emoțională este inaccesibilă conștiinței mentale, că imaginația devine suverană și se eliberează de logica bunului-simț. De regulă, acest lucru este nefericit, fiindcă de aici încep excesele necontrolabile ale imaginației. Fără cunoașterea realității, individul își închipuie atunci că pricepe totul, înțelege totul, știe totul, poate totul. Misticul se contopește cu cosmosul, cu dumnezeu, cu absolutul etc. sau cu nirvana, cu Brahman etc., intră în legătură cu ființe superioare de tot felul etc. Credința în toate acestea se întărește când misticul reușește, în stările sale de extaz, să atingă lumea esențială (46), fără a pătrunde în ea, și să-i preguste beatitudinea cu un sentiment de realitate absolută.
+
+<sup>11.</sup>Din cele ce urmează ar trebui să reiasă că Steiner era atât filosof, cât și mistic; că era obiectivist în privința lumii fizice și a celei emoționale, dar subiectivist în privința lumilor supraemoționale.
+
+<sup>12.</sup>Conștiința emoțională obiectivă pe care Steiner a dobândit-o nu i-a oferit nicio cunoaștere a realității și a vieții, nici măcar a naturii lumii emoționale. Ce s-ar putea spune despre cineva care, fără cunoștințe de chimie, fizică, geologie etc., s-ar pronunța asupra alcătuirii fizice a planetei noastre? Cercetarea în lumea emoțională cere cunoștințe pe care Steiner nu le avea, despre a căror existență nici măcar nu știa. Nu își dădea seama nici măcar că lumea emoțională este o lume materială, cu alcătuiri ale materiei de tipuri caracteristice proprii.
+
+<sup>13.</sup>Cei neinstruiți văd organisme și forme materiale fizice, fără să știe prin aceasta că organismele constau din celule, iar mineralele din molecule. Nu este suficient să vezi forma materiei pentru a înțelege din ce constă materia.
+
+<sup>14.</sup>Este lipsit de sens să-i avertizezi pe alți clarvăzători, așa cum făcea Steiner, să nu se încreadă în „revelațiile” lor. Toți cei care nu au înțeles imposibilitatea teoretică se încred în ele. Cât înțelegea el însuși se vede din următoarea afirmație: „Că sinele, care este el însuși spirit, trăiește într-o lume a spiritelor era un lucru pe care îl puteam observa.” Steiner numea conștiința de sine din învelișul emoțional în lumea emoțională „sinele ca spirit în lumea spirituală”.
+
+<sup>15.</sup>Există mai multe căi de dobândire a clarviziunii. Dacă sunt îndeplinite condițiile prealabile, fiecare își va dezvolta propria metodă. Ca toți ceilalți, Steiner își considera metoda singura corectă. Metoda folosită de el era una dintre cele mai vechi. Observi, să spunem, o floare până când ți-o poți reprezenta în imaginație la fel de limpede ca atunci când o privești. Dacă exercițiile respective sunt continuate perseverent și sistematic, se poate întâmpla să devii conștient mai întâi de învelișul eteric al florii și, mai târziu, și de învelișul ei emoțional.
+
+<sup>16.</sup>Considerabil mai simplă, dar și mai riscantă, este metoda activării conștiinței în chakrele învelișului eteric și ale celui emoțional. Metoda corectă nu este însă predată, iar încercările neștiutorilor duc de obicei la formarea unor tumori în organism. Dar, ca de obicei, avertismentele nu ajută: „Proștii se năpustesc acolo unde îngerii se tem să pășească.”
+
+<sup>17.</sup>Steiner este unul dintre nenumăratele exemple (Swedenborg este un alt exemplu bine cunoscut) ale adevărului axiomei ezoterice: „Niciun clarvăzător autodidact nu a văzut vreodată corect.” Steiner și-a fost propriul îndrumător. Mai trebuie spus că îndrumătorul trebuie să fie din ierarhia planetară?
+
+<sup>18.</sup>Prima lecție de chimie emoțională este să înveți să deosebești două tipuri fundamental diferite de materie: materia primară de involvare (produsul procesului de compunere a atomilor primordiali, de la cel mai înalt tip atomic până la cel mai de jos tip molecular) și materia secundară de involuție. Nimeni nu poate face aceasta fără un profesor competent. Ceea ce vedea Steiner erau fenomenele formate din materie de involuție, iar acele forme materiale (cu excepția învelișurilor ființelor vii) sunt produsele conștiinței emoționale formatoare a omului. Materia emoțională se modelează imediat la cel mai mic impuls al conștiinței. Cei neinstruiți iau aceste forme drept realități durabile. Întreaga materie emoțională de involuție este remodelată veșnic potrivit gândirii deziderative a locuitorilor ei. Aceasta este sursa tuturor greșelilor celor neinstruiți, care a făcut posibile legendele despre raiul și iadul creștinilor, Hadesul și Câmpiile Elizee ale grecilor, fericitele ținuturi de vânătoare ale indienilor americani, ținutul verii al spiritiștilor etc.
+
+### 6.9 *Cronicile akashice ale lui Steiner*
+
+<sup>1.</sup>Lumea emoțională a planetei noastre, care se întinde până la jumătatea distanței spre Lună, constă din șase tipuri moleculare (stări de agregare) tot mai compuse, care formează șase regiuni cu raze diferite față de centrul Pământului. Celor aflați în lumea emoțională, diferitele regiuni le apar ca tot atâtea lumi diferite, lumi „spirituale” tot mai înalte. Lumea atomică emoțională, care a furnizat materia originară pentru diferitele lumi moleculare, există în toate, dar nu poate fi percepută de conștiința umană.
+
+<sup>2.</sup>Întreaga materie are conștiință și memorie. În plus, fiecare atom din molecule are o conștiință colectivă comună cu atomii din tipul său molecular. În această conștiință colectivă își au diferitele lumi memoriile colective respective, care pot fi citite de cei care au dobândit conștiință obiectivă în tipurile moleculare respective. În lumea emoțională există, pe lângă unica memorie colectivă exactă (inaccesibilă omului) a lumii atomice, șase tipuri diferite de memorii colective moleculare.
+
+<sup>3.</sup>Steiner avea conștiință obiectivă în cele patru tipuri moleculare inferioare și, prin urmare, posibilitatea de a studia patru memorii colective diferite. Steiner îi avertizează pe neștiutori să nu creadă ceea ce li s-ar putea întâmpla să vadă în lumea emoțională. Aceasta arată că percepea mai multe memorii colective. Cu cât tipul este mai jos, cu atât sunt mai puțin demne de încredere în toate privințele. Dar chiar și cea mai înaltă memorie colectivă pe care Steiner o putea studia nu oferă cunoașterea trecutului, ci numai a ceea ce oamenii au crezut despre trecut, așa cum istoria noastră universală este alcătuită din opiniile istoricilor despre trecut.
+
+<sup>4.</sup>Numai memoria colectivă atomică a lumii emoționale nu poate fi falsificată, ci reproduce exact evenimentele trecute ale lumii emoționale și ale celei fizice, dar nu și pe cele ale lumilor superioare.
+
+<sup>5.</sup>Nu se știe sigur la ce memorie colectivă s-a oprit Steiner, numind-o „cronicile akashice”, fiindcă multe indicii arată că uneori confunda memoriile din al treilea și al patrulea tip numărate de jos (adică 48:5 și 4). De altfel, „cronicile akashice” este o denumire foarte nefericită, preluată prin intermediul terminologiei alchimice a lui Eliphas Levi. Potrivit ierarhiei planetare, akasha este lumea 44 (lumea submanifestală sau paranirvana), nu lumea 48. Ca de obicei, ignoranța a folosit cuvântul „akasha” în multe contexte, mai puțin în singurul corect.
+
+<sup>6.</sup>Ierarhia planetară a avertizat în repetate rânduri împotriva folosirii clarviziunii emoționale sau mentale. Ceea ce ajungi să cunoști în lumea emoțională nu este cunoașterea existenței, a realității și a vieții. Ca și lumea mentală, ea este menită să fie un loc de odihnă în așteptarea unei noi încarnări. Numai în lumea fizică și în cea cauzală poate omul constata fapte reale, nu în lumea emoțională și în cea mentală. În acele lumi nu poți ști dacă ceea ce vezi este sau nu realitatea durabilă a naturii.
+
+<sup>7.</sup>În lumea emoțională îți sunt confirmate toate iluziile și ficțiunile, ipotezele și teoriile și toate celelalte închipuiri.
+
+<sup>8.</sup>În lumea emoțională, hindușii îi întâlnesc pe Brahma, Vishnu și Shiva; budiștii, pe Buddha al lor, iar creștinii, pe Isus din Evanghelii. Potrivit sinelui-45 D.K., există o replică emoțională a sa formată de adepți emoționali; avertismentul este explicit. Întreaga Biblie se află acolo ca și cum ar fi înregistrată pe un film. Cei care au iubit *Don Quijote* al lui Cervantes, *Cei trei muschetari* ai lui Dumas, *Divina Comedie* a lui Dante sau vreo altă capodoperă literară se pot bucura de ele în diverse versiuni.
+
+<sup>9.</sup>„Cronicile akashice” oferă cunoașterea a ceea ce oamenii au gândit, au crezut, au iubit și au venerat. Dacă ar oferi cunoașterea realității, Steiner ar fi recunoscut structura atomică a lumilor superfizice. Dacă ar oferi cunoașterea trecutului, Steiner nu ar fi făcut greșeli atât de dezastruoase în materie de istorie.
+
+<sup>10.</sup>De regulă, memoria colectivă a fiecărei regiuni corespunde mai mult sau mai puțin concepției medii despre realitate a locuitorilor săi (determinată de nivelurile lor de dezvoltare). Dacă există în lumea emoțională oameni care au o cunoaștere adevărată a realității, aceștia sunt cei care trăiesc acolo pentru a încerca să-i ajute pe ceilalți să se orienteze, să priceapă și să înțeleagă, cu foarte puține șanse de succes. La fel ca în lumea fizică, fiecare este convins că tocmai propria concepție greșită este singura corectă și că „nimeni nu trebuie să vină aici și să pretindă că vede și înțelege mai mult”. Nu există posibilitatea de a dobândi de unul singur cunoașterea unei lumi sau regiuni. Rareori învață cineva ceva nou în această lume; se conduce după iluziile și ficțiunile dobândite în existența fizică. Deoarece materia lumii emoționale nu opune rezistență, „vezi ceea ce știi deja” și nu ai niciun motiv să-ți schimbi părerea. Memoria colectivă atomică a lumii emoționale rămâne inaccesibilă indivizilor din al patrulea regn natural.
+
+### 6.10 *Antroposofia lui Steiner*
+
+<sup>1.</sup>Steiner și-a formulat propria teorie a cunoașterii, propria filosofie, propriul sistem superfizic, propria istorie a religiilor.
+
+<sup>2.</sup>Își apăra opiniile invocând următoarele patru surse de cunoaștere care îi erau accesibile:
+
+- metoda obișnuită de cercetare științifică
+- imaginația
+- inspirația
+- intuiția
+
+<sup>3.</sup>Prin imaginație, Steiner înțelegea clarviziunea sa emoțională, necunoscând axioma ezoterică potrivit căreia „niciun clarvăzător autodidact nu a văzut vreodată corect”.
+
+<sup>4.</sup>Inspirația este metoda cea mai înșelătoare, după cum arată limpede zicala ezoterică: „Îngerii nu șoptesc decât minciuni”; iluzii și ficțiuni captate telepatic.
+
+<sup>5.</sup>Definiția intuiției arată că Steiner nu știa că intuiția este conștiința cauzală, accesul la lumea ideilor platonice. Nu este nicidecum, așa cum susține Steiner, „identificarea cu o ființă superioară”. Nimeni din întregul cosmos nu se poate identifica cu o ființă superioară, ci numai cu una inferioară, ceea ce nu a fost întotdeauna foarte fericit.
+
+<sup>6.</sup>Așa cum s-a arătat deja, nimeni nu poate cerceta vreo lume prin gândire „pură”, termen lipsit de sens (împrumutat de la Kant, care a construit o rațiune pură lipsită de conținut).
+
+<sup>7.</sup>Potrivit lui Steiner, omul trăiește în trei lumi („fizică, eterică și astrală”) și constă din „organism, corp eteric, corp astral și nucleul nemuritor al existenței sale, sinele său, care aparține lumii spirituale eterne”.
+
+<sup>8.</sup>„Sinele însuși are cea mai strânsă legătură cu corpul astral sau sufletesc, sediul conștiinței.” Aceste corpuri nu sunt materiale, ci constau din „forță vitală eterică” și „forță de conștiință astrală”.
+
+<sup>9.</sup>„Când gândirea este concentrată, în conștiința golită de imagini fizice se ridică o lume de ființe și evenimente suprasensibile. Orice posibilitate de autoamăgire este exclusă.”
+
+<sup>10.</sup>Steiner, evident, nu știa că omul în încarnare are cinci învelișuri, că învelișul cel mai înalt (al cincilea), învelișul cauzal, este numit corpul sufletesc, că toate aceste cinci învelișuri au propriile tipuri de conștiință, că toate învelișurile constau din tipuri de materie tot mai fine, că forța este un tip de materie mai fină, că individul din regnul uman nu poate atribui propria conștiință de sine acelei monade din învelișul cauzal care este adevăratul sine. „Cele trei lumi” pe care le menționează sunt cele pe care le cunoaște din experiență proprie. Dar fără învelișul său mental din lumea mentală, omul nu poate gândi. Aceasta ar fi trebuit s-o știe.
+
+<sup>11.</sup>Steiner vorbește despre „cosmic-planetar”, fără să știe că planeta nu se află în cosmos, ci într-un sistem solar, și că sistemele solare sunt considerate globuri de sine stătătoare în cosmos, așa cum planeta este un glob în sistemul solar.
+
+<sup>12.</sup>Critica lui Steiner la adresa misticismului tradițional, corectă în sine, nu se întemeia deloc pe propriile sale constatări. Cu mult înaintea lui Steiner se arătase că rațiunea este singurul corectiv al exceselor imaginației emoționale și că disprețul misticului pentru mentalitate (ca obstacol în calea unirii cu dumnezeu) se datorează lipsei de înțelegere.
+
+<sup>13.</sup>Potrivit lui Steiner, învățăturile sale erau „întemeiate pe observarea nemijlocită și directă a realităților superfizice”; numai sistemul său este „un sistem logic care face posibilă gândirea rațională”.
+
+<sup>14.</sup>În cărțile sale întâlnești necontenit afirmația că ajunsese la opiniile sale prin propriile observații și că aceste opinii sunt singurele corecte. Prin afirmațiile sale îndrăznețe le-a insuflat adepților săi (orientați unilateral) credința că el fusese cel care făcuse toate aceste „descoperiri spirituale”. Ni se spune necontenit că „Steiner a dezvăluit un fapt important” (un fapt ezoteric cunoscut din vremuri imemoriale) sau că „știința spirituală aruncă o lumină nouă asupra ...”, ori „doctrina reîncarnării a lui Steiner ...”, „revelațiilor sale despre realitatea obiectivă a lumii suprasensibile ... Steiner le-a dat numele de antroposofie”.
+
+<sup>15.</sup>Faptul că discipolii lui Steiner insistă asupra priorității lui nu surprinde pe nimeni care i-a urmărit dezvoltarea. Avea acea facultate, întâlnită adesea la cei care suferă de un complex al supraomului, de a-și aminti tot ce învățase, dar de a uita cum învățase. Iar dacă cineva se miră că oameni cu pregătire științifică înghit necritic totul, fără o examinare temeinică a literaturii despre superfizic, deja de proporții vaste, aceasta arată doar că nu cunoaște credulitatea științifică, existentă și ea. Datele care se susțin din scrierile lui Steiner existau „înainte de Steiner”.
+
+<sup>16.</sup>Greșeala lui Steiner a fost că nu a vrut să se mulțumească cu datele ezoterice existente pe atunci și să încerce să alcătuiască un sistem din ele, ci a completat datele cu propriile fantazări subiectiviste. Meritul lui Steiner a fost că, într-o vreme când toate autoritățile acceptate de majoritatea din Occident negau posibilitatea cunoașterii superfizice, a îndrăznit să se ridice și să susțină că exista o cunoaștere a unei „lumi superioare”. În plus, a adus contribuții lăudabile în diverse domenii de cercetare.
+
+### 6.11 *Steiner ca ezoterician*
+
+<sup>1.</sup>Dacă prin ezoterician se înțelege cineva care, într-o încarnare anterioară, a fost inițiat într-un ordin ezoteric de cunoaștere, întemeiat de un membru al ierarhiei planetare, care are astfel în stare latentă cunoașterea realității și care în încarnările ulterioare nu va accepta nicio concepție despre lume și despre viață care nu concordă cu cunoașterea ezoterică, atunci Steiner nu era ezoterician.
+
+<sup>2.</sup>Dar dacă prin ezoterician se înțelege cineva care acceptă un sistem de cunoaștere superfizică de orice fel, atunci Steiner poate fi numit ezoterician.
+
+<sup>3.</sup>Pentru că aproape toate încercările de sisteme superfizice sunt numite astăzi „ezoterice”, termen tot mai degradat, trebuie făcută o distincție clară între cei care, asemenea lui Steiner, completează datele realității cu propriile construcții și cei care își întemeiază sistemele exclusiv pe date de la ierarhia planetară.
+
+<sup>4.</sup>Sistemele ezoterice sunt, așadar, acele sisteme de cunoaștere care au fost elaborate în formă simbolică în diferitele ordine de cunoaștere. Ele au fost adaptate capacității diferitelor popoare de a pricepe realitatea în ultimii 45.000 de ani. Unele dintre aceste sisteme au fost sintetizate de Blavatsky în lucrarea sa *Doctrina secretă*. Interpretarea acestor simboluri cere date ezoterice. Din 1875 (când s-a îngăduit publicarea anumitor părți ale sistemului) până în 1920, datele ierarhiei planetare au fost transmise prin Societatea Teosofică, iar după acea perioadă, prin alte organisme (printre acestea nu se numără „rozacrucienii” sau antroposofii).
+
+<sup>5.</sup>Un ezoterician nu are nicio dificultate să stabilească dacă presupusele fapte sunt și fapte reale. Numai cei care nu au înțeles niciodată se ceartă în privința lor și întreabă „cine a spus asta?”. Se mulțumesc să se bizuie orbește pe o autoritate.
+
+<sup>6.</sup>Steiner nu a fost niciodată inițiat în vreun ordin de cunoaștere recunoscut de ierarhia planetară. Aceasta se vede cel mai bine din felul în care a tratat datele primite. Puținele date ezoterice existente în antroposofia sa au fost preluate toate de la teosofi.
+
+<sup>7.</sup>Steiner nu cunoștea următoarele date fundamentale, necesare unei concepții corecte despre realitate:
+
+- cele trei aspecte ale existenței
+- structura atomică a cosmosului
+- cele 49 de lumi atomice cosmice
+- cele 42 de tipuri moleculare din sistemul solar
+- al cincilea regn natural
+- ierarhia planetară
+- guvernarea planetară
+- guvernarea sistemului solar
+- organizarea cosmică
+- cele șapte regnuri divine succesiv superioare
+
+### 6.12 *Steiner ca istoric*
+
+<sup>1.</sup>Steiner însuși indica drept sursă a cunoașterii sale istorice cronicile akashice, pe care le considera singura sursă demnă de încredere. Eșecul era, așadar, inevitabil. În ele nu vei găsi (așa cum au găsit Swedenborg și atâția alții) decât o confirmare a propriilor opinii preconcepute.
+
+<sup>2.</sup>Datele istorice corecte care se găsesc în istoriografia steineriană erau cunoscute „înainte de Steiner”.
+
+<sup>3.</sup>La Hamburg, între 18 și 31 mai 1908, Steiner a ținut douăsprezece conferințe despre Evanghelia după Ioan; la Basel, între 15 și 24 septembrie 1909, zece conferințe despre Evanghelia după Luca; la Berna, între 1 și 12 septembrie 1910, douăsprezece conferințe despre Evanghelia după Matei; iar la Basel, între 15 și 24 septembrie 1912, zece conferințe despre Evanghelia după Marcu. Dacă Besant ar fi cunoscut conținutul acestor conferințe, Steiner ar fi fost destituit imediat.
+
+<sup>4.</sup>Aceste conferințe nu tratau atât Evangheliile, cât ficționalismul istoric, exegeza biblică în general și filosofia istoriei potrivit cronicilor akashice ale lui Steiner.
+
+<sup>5.</sup>S-a dovedit ușor ca asemenea lucruri să fie tipărite și traduse în mai multe limbi.
+
+<sup>6.</sup>Nu se poate contesta că Steiner a acționat cu bună-credință. Așa fac întotdeauna oamenii cu o putere de imaginație suficient de mare. Este, de asemenea, inevitabil ca antroposofii, care se bizuie cu totul pe infailibilitatea profetului lor, să creadă la fel ca el. Va fi sarcina cercetării viitoare să aducă dovezi covârșitoare despre cine a avut dreptate și să compare diferitele versiuni și afirmații. Dacă nu știi, în asemenea chestiuni este mai bine să te îndoiești decât să crezi.
+
+<sup>7.</sup>Când Steiner a constatat că fruntașii teosofici refuzau să considere Biblia o autoritate divină, și-a pierdut încrederea în capacitatea lor. Teosofii înțeleseseră justețea avertismentului lui Buddha: „Să nu crezi un lucru spus numai pentru că este spus; nici în tradiții pentru că au fost transmise din vechime; nici în scrierile înțelepților pentru că le-au scris înțelepții;” etc. Omenirea nu a înțeles încă înțelepciunea acestui sfat.
+
+<sup>8.</sup>Firește, nu se pune problema de a intra în amănuntele tuturor absurdităților interpretării istoriei la Steiner. Ar trebui să fie suficiente câteva exemple despre ceea ce poate realiza imaginația neînfrânată. Pentru ezotericieni, aceste exemple sunt în orice caz suficient de edificatoare, dovezi descurajante ale lipsei de fiabilitate a celor care consemnează cronicile akashice.
+
+<sup>9.</sup>Despre atlanți ni se spune: „În vremurile vechii dezvoltări atlante, se putea privi, printr-o anumită clarviziune astral-eterică, în temeiurile spirituale divine ale existenței.” A privi în sus, în lumile divine, prin clarviziune fizică eterică și prin cea mai joasă clarviziune emoțională ar putea fi numit, pe bună dreptate, un miracol.
+
+<sup>10.</sup>În privința egiptenilor, Steiner susținea că aceștia „îmbălsămau trupurile morților lor pentru ca oamenii din epoca a cincea (a noastră) să aibă o conștiință a personalității cât mai puternică”. Chiar a scris așa ceva!
+
+<sup>11.</sup>Steiner își desfășura cercetările asupra Bibliei după principii diferite. După cum îi convenea imaginației sale constructive, interpreta scripturile literal, istoric sau simbolic. În *Faust* al lui Goethe se găsește expresia: „Sângele este o sevă de un soi aparte.” Steiner a făcut din aceasta o problemă pe care a rezolvat-o în chip profund. Dar fără datele realității, rezultatul a fost, cum va fi întotdeauna: o construcție imaginativă.
+
+<sup>12.</sup>Istoria evreilor a devenit în mare măsură o „lecție despre însemnătatea sângelui, transmiterea lui ereditară de-a lungul generațiilor și specializarea lui pentru a face posibil spiritualul”.
+
+<sup>13.</sup>„Trezirea la o perspectivă istorică își are originea în vechea concepție ebraică despre lume; primul impuls către o viziune istorică.”
+
+<sup>14.</sup>La Steiner întâlnim în repetate rânduri expresia „esenienii au fost primii care au predat”.
+
+<sup>15.</sup>Potrivit ezotericii, esenienii nu au fost primii în nicio privință. Întreaga lor învățătură era fie împrumutată, fie fictivă. Biblia esenienilor era Cabala iudaică, versiunea revizuită de ei a Cabalei caldeene, aceasta din urmă fiind cu circa 30.000 de ani mai veche. Revizuirea consta în înlocuirea simbolurilor ezoterice pe care nu le înțelegeau cu propriile încercări de simboluri, corespunzătoare ficțiunilor lor.
+
+<sup>16.</sup>Următoarele citate din Steiner – care ar putea fi înmulțite – nu au nevoie de comentarii. Ele sunt suficient de edificatoare pentru cei orientați în ezoterică.
+
+<sup>17.</sup>„În timp ce oamenii din epoca atlantă găseau pretutindeni divinul în lumea din afară, evreii îl găseau în ei înșiși.”
+
+<sup>18.</sup>Poporul evreu era capabil „să dea formă trupească în ființa sa divinului-spiritual al atlanților”.
+
+<sup>19.</sup>„Marele dumnezeu al lumii devenise acum Dumnezeul poporului evreu.” Aceasta este corect. Evreii au fost cei care au făcut din divinitatea cosmică o persoană și dumnezeul lor particular.
+
+<sup>20.</sup>Când citești acestea și altele asemenea, nu ai nicio dificultate să înțelegi că Besant nu-l mai putea considera pe Steiner teosof. Ezoterica este pe deplin de acord cu teosofia în acceptarea afirmației lui Buddha că nu există și nu se va îngădui vreodată să existe scripturi atât de sacre încât individul să nu-și folosească bunul-simț când le interpretează.
+
+<sup>21.</sup>În literatura teosofică, Steiner a găsit termenul „inițiere”. Deoarece se încredea în intuiția sa pentru a interpreta întotdeauna corect orice lucru, ca de obicei nu s-a interesat de sensul corect al acestui cuvânt. Evident, nu știa că și intuiția are nevoie de date.
+
+<sup>22.</sup>Într-un sens, inițierea este ceremonia prin care treci când intri într-un ordin ezoteric.
+
+<sup>23.</sup>În alt sens, inițierea înseamnă conștiință obiectivă dobândită prin efort propriu într-o lume superioară (lumea fizică eterică, emoțională, mentală, cauzală, esențială etc.).
+
+<sup>24.</sup>În literatura teosofică, Steiner a găsit o descriere a unei inițieri egiptene (în primul sens, în piramida lui Keops) și a crezut că așa se întâmpla întotdeauna. Dar neofitul nu este nicidecum întotdeauna inconștient fizic timp de trei zile și trei nopți. Uneori nu este deloc inconștient. Alteori poate rămâne în acea stare câteva săptămâni. Cei vechi țineau inițierile (în primul sens) cu prilejul marilor sărbători religioase, la care participa întregul popor și la care erau astfel adunați toți frații ordinului. Era un prilej potrivit pentru a-l instrui temeinic pe neofit în noua sa lume, pentru a-l învăța să deosebească numeroasele tipuri diferite de materie, regiuni, fenomene etc.
+
+<sup>25.</sup>Apoi Steiner a întâlnit expresia „cele șapte” inițieri. Nebănuind că expresia avea un înțeles special, a crezut că însemna trăirile subiective ale misticilor creștini din cele șapte regiuni ale lumii emoționale. Ezoteric, ea desemna dobândirea prin efort propriu a conștiinței obiective în cele șapte lumi atomice (atomice, spre deosebire de moleculare) ale sistemului solar.
+
+<sup>26.</sup>Steiner considera clarviziunea o condiție prealabilă pentru pătrunderea și înțelegerea științei sale spirituale antroposofice. Nu știa că lumile superioare nu sunt mai spirituale decât lumea fizică, că prin clarviziunea emoțională și cea mentală nu se dobândește nicio cunoaștere a existenței, a sensului și scopului vieții ori a trecutului planetei, că iluziile și ficțiunile ignoranței în privința vieții sunt doar întărite de clarviziunea umană.
+
+<sup>27.</sup>Astfel, Steiner putea susține că „vechea metodă indiană de inițiere” (care nu a existat niciodată) „era un rezultat al dorului strămoșilor noștri după puterea pierdută a clarviziunii”. Neofitul unui ordin ezoteric de cunoaștere era avertizat expres împotriva oricărui tip de clarviziune până când dobândea conștiință deplină în învelișul său cauzal și reușea astfel să activeze conștiința în centrii creștetului din învelișul eteric, emoțional și mental.
+
+<sup>28.</sup>Pentru că Steiner nu fusese niciodată admis într-un ordin ezoteric de cunoaștere, ci numai în mai multe pseudo-ordine de-a lungul veacurilor, devenea în cele din urmă destul de stânjenitor să știe cu atât de mult mai mult decât teosofii despre lucruri despre care, firește, nu putea ști nimic. Pentru a face toate inițierile de prisos, a recurs la misterul Golgotei, care avea să explice totul.
+
+<sup>29.</sup>Potrivit lui Steiner, sinele, odată inițiat (la ce mai folosește acum aceasta?), poate în timpul somnului nu numai „să cuprindă cu privirea Pământul nostru”, ci și „să plutească în cosmos”. Steiner, în orice caz, nu putea. (Lumea emoțională se întinde numai până la jumătatea distanței spre Lună.)
+
+<sup>30.</sup>Steiner considera că, după misterul Golgotei, inițierile deveniseră cu totul de prisos. Până atunci, cunoașterea realității fusese predată în ordine secrete. „Prin misterul Golgotei, ceea ce fusese predat în aceste ordine a fost dezvăluit omenirii.” „Prin misterul Golgotei au devenit îndeobște accesibile puteri care înainte puteau fi obținute numai în legătură cu puterile inițierii în clarviziunea spirituală.” Prin misterul Golgotei, „inițierea ca eveniment istoric a încetat astfel ... s-a săvârșit acum, ca eveniment irepetabil, în fața întregii omeniri ... s-a pus capăt lumii vechi ... venise începutul unei epoci noi”. Misterul Golgotei nu este „nimic altceva decât ieșirea inițierii din adâncurile misteriilor pe planul istoriei universale. Firește, există o foarte mare deosebire între orice fel de inițiere și Misterul Golgotei.”
+
+<sup>31.</sup>Dacă misterul Golgotei a făcut toate ordinele de cunoaștere de prisos, ne putem întreba de ce Ordinul Rozacrucian și Ordinul Maltez au fost întemeiate după misterul Golgotei.
+
+<sup>32.</sup>Steiner nu cunoștea existența ierarhiei planetare, a guvernării planetare, a guvernării sistemului solar și a organizării cosmice. De altfel, puținele date izolate pe care le primise despre bodhisattva al indienilor erau de natură să stimuleze puternic anumite laturi ale caracterului său: înclinația spre misticism, spre imaginație constructivă, tendința de a accepta fantazări drept inspirații superioare etc. Nu este de mirare că niciuna dintre afirmațiile sale despre bodhisattva, buddha etc. nu avea corespondent în realitate.
+
+<sup>33.</sup>Așa cum știu toți ezotericienii, cuvântul bodhisattva este termenul indian pentru „învățătorul lumii”, conducătorul celui de-al doilea departament (departamentul educației) al ierarhiei planetare. Actualul învățător al lumii este Christos–Maitreya, care a preluat funcția când Gautama a devenit Buddha (și astfel, ca sine-42, a trecut în al doilea regn divin). Gautama fusese atunci învățătorul lumii timp de circa 50.000 de ani, perioadă în care întemeiase ordine ezoterice de cunoaștere în India ca Vyasa (cu circa 45.000 de ani în urmă), în Egipt ca Hermes Trismegistos (cu circa 40.000 de ani în urmă), în Persia ca Zoroastru sau Zarathustra (29.700 î.e.n.) și în Grecia ca Orfeu (7000 î.e.n.).
+
+<sup>34.</sup>Hermes a trăit, așadar, cu mai bine de zece mii de ani înaintea primului Zoroastru și, prin urmare, nu putea primi nimic de la el. Steiner spune că, „pentru a ajuta omenirea”, Zarathustra i-a dat corpul său eteric lui Moise, pe când acesta zăcea în stuf, iar corpul său astral lui Hermes Trismegistos. Aceasta este însă imposibil. Învelișul eteric aparține organismului și nu poate fi transferat decât împreună cu organismul.
+
+<sup>35.</sup>Cele ce urmează îi vor interesa poate pe ezotericienii care nu cunosc povestea steineriană despre Buddha.
+
+<sup>36.</sup>„Bodhisattva Gautama a putut deveni un Buddha fiindcă exista acum pentru prima dată un asemenea corp.” Evident, Steiner nu știa că înainte de Gautama existaseră trei buddha.
+
+<sup>37.</sup>„Dacă s-ar fi observat prin clarviziune un corp însuflețit de Bodhisattva, s-ar fi văzut că Bodhisattva trăia simultan într-un corp spiritual și într-un corp fizic.” Steiner nu ne spune ce înțelege prin „corp spiritual”. Potrivit ezotericienilor, bodhisattva are, când apare în lumea fizică, în total șapte tipuri de învelișuri materiale din tipurile atomice 43–49. Steiner adăuga informația oarecum uimitoare: „Astfel, Bodhisattva nu părăsea niciodată cu totul lumea spirituală.”
+
+<sup>38.</sup>Buddha „plutește în lumile spirituale”, iar sarcina sa este de acolo „să intervină în tot ce se întâmplă pe Pământ”. Se pare că Steiner nu știa cum altfel să scape de el. De altfel, faptul că, după misterul Golgotei, Buddha ar mai trebui să intervină pare fără îndoială cam de prisos.
+
+<sup>39.</sup>Această poveste despre Buddha se poate încheia potrivit cu informația lui Steiner că Buddha era cel pe care păstorii din Betleem l-au văzut sub înfățișarea îngerului înconjurat de oști cerești.
+
+<sup>40.</sup>A văzut Steiner toate acestea în cronicile akashice sau era „inspirația” ori „intuiția” sa?
+
+<sup>41.</sup>În sfârșit, ni se spune că „trebuie acum să ne dezvoltăm astfel încât să cultivăm facultățile ... care s-au manifestat în Buddha”.
+
+<sup>42.</sup>Când vom fi reușit aceasta, vom fi intrat în al doilea regn divin (lumile 36–42), iar din sine-47 vom fi devenit cel puțin sine-42.
+
+<sup>43.</sup>Interpretarea istoriei la Steiner arată cât de riscant este să te apuci să interpretezi simbolurile misteriilor antice fără să cunoști datele. Steiner credea că putea face acest lucru. Iar rezultatul a fost grotesc.
+
+<sup>44.</sup>De exemplu, literatura teosofică menționează „marele sacrificiu cosmic”. Steiner știa pe loc că aceasta desemna marele mister al Golgotei. Înseamnă însă altceva. Se referă la marele sacrificiu (într-adevăr cosmic) pe care îl face o colectivitate divină supremă când hotărăște să formeze un nou cosmos pentru a le da atomilor primordiali din haosul materiei primordiale posibilitatea de a dobândi omnisciență și omnipotență. Aceasta este lucrarea cosmică de mântuire.
+
+<sup>45.</sup>Cele patru Evanghelii au fost alese dintre vreo cincizeci scrise de călugări gnostici în Alexandria. În consecință, pot fi interpretate corect numai de cei inițiați în gnoza ezoterică. Steiner lua aceste relatări drept descrieri ale unor evenimente istorice, fiindcă le găsea reproduse în cronicile akashice.
+
+<sup>46.</sup>Steiner nu știa nici măcar că „răstignirea” este un termen simbolic pentru încarnare: învelișurile de încarnare (eteric, emoțional, mental, cauzal inferior) pironite pe cele patru spițe ale roții învârtitoare a existenței. Organismul aparține regnului animal.
+
+<sup>47.</sup>Că Steiner era un mistic tipic reiese limpede din interpretarea pe care o dă Bibliei și Evangheliilor în general și misterului Golgotei în special. Pe acest mister și-a construit fabula fantastică despre întreaga istorie a planetei noastre. Spunea că „a crezut întotdeauna că adevărata cunoaștere trebuie să fie în armonie cu religia”. Ceea ce cred oamenii duce întotdeauna la subiectivizarea unor idei aparent obiective. Ce anume înțelegi apoi prin religie (eventual o anumită formă a ei) este altă chestiune.
+
+<sup>48.</sup>„Medita cu cea mai adâncă uimire și venerație în fața marelui mister central al Golgotei. Moartea lui Christos pe cruce explica întreaga istorie de dinainte și de după”, spunea unul dintre discipolii săi.
+
+<sup>49.</sup>Steiner însuși: „A sta spiritual în fața misterului Golgotei era solemnitatea cea mai profund resimțită, cea mai gravă, și a devenit hotărâtoare pentru dezvoltarea sufletului meu.”
+
+<sup>50.</sup>„Viața, moartea și învierea lui Isus Christos sunt evenimentul central al istoriei, atât cosmice, cât și pământești. Puterea morală eliberată prin această întâmplare avea să dăinuie de-a lungul întregii istorii ulterioare a Pământului și a dezvoltării omenirii.”
+
+<sup>51.</sup>„Când sângele a curs din rănile lui Christos pe cruce, toate condițiile de pe Pământ s-au schimbat.”
+
+<sup>52.</sup>„Prin acțiunea sa divină de pe Golgota a semănat o sămânță de viață care a salvat viitorul spiritual al omenirii.”
+
+<sup>53.</sup>„... până când a venit timpul Misterului Golgotei, sufletul omului nu era deloc adaptat pentru a lăsa împărăția cerurilor, lumile suprasensibile, să pătrundă în sinele său ... să se unească cu sinele.”
+
+<sup>54.</sup>„Numai după Golgota au devenit oamenii conștienți de sine. Înainte gândeau colectiv, după aceea, individual, cum va deveni tot mai evident.”
+
+<sup>55.</sup>Citatele referitoare la „marele mister cosmic al Golgotei” ar putea fi înmulțite. Pe acesta și-a întemeiat Steiner întreaga interpretare a istoriei. Văduva lui Steiner a sintetizat astfel filosofia religiei a soțului său: „Punctul de cotitură hotărâtor dintre coborârea spiritualului în materie și reînălțarea lui, cel mai mare act de eliberare, punctul central al devenirii istorice, este atunci când Divinitatea Solară (Ahura Mazdao) coboară într-un corp omenesc și trece prin moarte în misterul Golgotei.”
+
+<sup>56.</sup>Steiner nu știa că acest mister era un simbol gnostic, creat cu circa trei secole înaintea erei noastre. Ca toate simbolurile gnostice autentice, a rămas un mister de nedezlegat pentru neinițiați.
+
+<sup>57.</sup>După toate abuzurile comise cu acest simbol al evoluției umane, ierarhia planetară a considerat oportun să-i facă publică interpretarea corectă.
+
+<sup>58.</sup>Cele trei cruci de pe altarul gnosticilor erau menite să simbolizeze:
+
+- guvernarea planetară (crucea din mijloc, cu mântuitorul lumii)
+- ierarhia planetară (tâlharul pocăit)
+- omenirea (tâlharul nepocăit)
+
+<sup>59.</sup>Un alt simbol gnostic era „fiul risipitor”. El simboliza acea parte a omenirii care „tânjea să se întoarcă în casa tatălui” (să devină conștientă de sine în învelișul cauzal din lumea cauzală).
+
+<sup>60.</sup>Următoarele extrase, alese la întâmplare din conferințele lui Steiner despre cele patru Evanghelii, sunt menite să-i informeze pe ezotericieni asupra fiabilității cronicilor akashice ale lui Steiner.
+
+<sup>61.</sup>În Evanghelia după Matei a sa ni se spune că „Zoroastru era protejat de Ahura Mazdao, marele spirit solar, care avea să se unească cu Pământul și să apară în istoria omenirii drept Christos”, că „Isus era o încarnare a lui Zarathustra” și că „viața lui Isus este cel mai mare eveniment din existența Pământului”.
+
+<sup>62.</sup>În Evanghelia după Marcu a sa, Steiner dezvăluie că tânărul care a fugit (Marcu 14:51,52) nu era un om, ci „elementul cosmic al lui Christos, care din acel punct de cotitură a fost încorporat ca impuls în evoluția Pământului”. Același tânăr ședea mai târziu lângă mormânt (Marcu 16:5,6), ceea ce arată „că avem de-a face cu o întâmplare cosmică”.
+
+<sup>63.</sup>„Evanghelia după Luca conține adevărata substanță spirituală” a budismului, dar „într-o formă mai sublimă”. Budismul apare într-o nouă înfățișare, „într-o formă ușor de înțeles pentru intelectul cel mai simplu”.
+
+<sup>64.</sup>„Blestemarea smochinului de către Christos simbolizează înlocuirea vechiului pom al cunoașterii cu unul nou, al cărui rod s-a copt din misterul Golgotei.”
+
+<sup>65.</sup>Datorită lui Christos cercetează omul abia acum lumea fizică.
+
+<sup>66.</sup>Pentru Steiner, apariția lui Christos în fața discipolilor săi după moarte este „dovada adevărului învierii”. Evident, nu știa că „înviere” era termenul celor vechi pentru reîncarnare. Te naști din nou când vechile învelișuri de încarnare s-au dezintegrat, iar sinele are nevoie de învelișuri noi pentru a-și activa din nou conștiința în învelișurile sale inferioare, până când dobândește capacitatea de a activa conștiința în învelișuri și mai înalte.
+
+<sup>67.</sup>Neștiind că ierarhia planetară se ocupă de pregătirea apariției în formă vizibilă a învățătorului lumii (bodhisattva), Christos, Steiner declara că „este supărător să se vorbească despre Christos în același fel ca despre cei care sunt bodhisattva ...” „Ar trebui să fie de la sine înțeles că orice vorbire despre reîncarnarea lui Christos trebuie să apară drept absurdă.” „Christos este spiritul Pământului, iar Pământul este corpul sau veșmântul lui Christos.” „Creștinismul nu emană de la un învățător personal, ci din însuși misterul Golgotei, dintr-un fapt al istoriei universale, din moarte și înviere.”
+
+<sup>68.</sup>Și, în sfârșit:
+
+<sup>69.</sup>Omul va găsi „marea înțelepciune când va fi devenit conștient de spiritualitatea Soarelui, de marea aură solară”.
+
+### 6.13 COSMOSUL POTRIVIT DATELOR OFERITE DE IERARHIA PLANETARĂ
+
+<sup>1.</sup>Următoarele date sunt oferite celor care nu au cunoștințe prealabile despre diferitele lumi materiale care alcătuiesc cosmosul.
+
+<sup>2.</sup>1–49 lumile atomice cosmice  
+43–49 lumile atomice ale sistemelor solare  
+46–49 lumile atomice ale planetelor
+
+<sup>3.</sup>Sistemele solare sunt formate din cele șapte lumi atomice cosmice inferioare, iar planetele din cele patru inferioare. Toate lumile atomice superioare pătrund toate lumile inferioare.
+
+<sup>4.</sup>1–42 constituie o serie de 6 regnuri divine tot mai înalte
+
+<table>
+<tbody>
+<tr><td>43 și 44 sunt lumile celui de-al șaselea regn natural</td><td rowspan="2">lumile ierarhiei planetare</td></tr>
+<tr><td>45 și 46 sunt lumile celui de-al cincilea regn natural</td></tr>
+</tbody>
+</table>
+
+47–49 sunt lumile celor patru regnuri naturale inferioare (lumile omului).
+
+<sup>5.</sup>În sistemul solar și în planete, tipurile atomice sunt materia originară pentru 42 de lumi moleculare (stări de agregare), câte 6 în fiecare lume atomică. Numerele puse după tipurile atomice indică lumi moleculare.
+
+<sup>6.</sup>Tabelul următor se referă la lumile oamenilor. În fiecare lume, omul are în timpul încarnării câte un înveliș din tipul de materie respectiv:
+
+49:5-7 lumea fizică „vizibilă” (organismul)  
+49:2-4 lumea fizică eterică (învelișul eteric al organismului)  
+48:2-7 lumea emoțională sau „astrală” (învelișul emoțional)  
+47:4-7 lumea mentală (învelișul mental)  
+47:1-3 lumea cauzală sau lumea ideilor platonice (învelișul cauzal cu monada umană)
+
+<sup>8.</sup>Învelișul cauzal este singurul înveliș permanent al omului, care păstrează întotdeauna monada închisă în el. Învelișul cauzal este cel care se încarnează. Când încarnarea se încheie și învelișurile inferioare s-au dezintegrat, monada, adormită în învelișul său cauzal, așteaptă prilejul unei noi încarnări. Când omul a dobândit cea mai înaltă conștiință cauzală (47:1), intră în al cincilea regn natural și dobândește învelișuri din tipurile de materie ale acelor lumi.
+
+<sup>9.</sup>Întreaga materie are conștiință (spirit). Fiecare tip molecular și atomic are propriul tip caracteristic de conștiință. Sensul existenței este dezvoltarea conștiinței monadelor în conștiința tipurilor de materie tot mai înalte din regnuri naturale tot mai înalte.
+
+## 7 YOGA ÎN LUMINA EZOTERICII
+
+### 7.1 *Ignoranța Occidentului*
+
+<sup>1.</sup>Occidentul este tot mai bine informat despre mișcările politice și sociale din India. Dar în privința vieții „spirituale” a indienilor domnește o ignoranță deplorabilă. Abia de curând propaganda pentru yoga din S.U.A. i-a făcut pe unii psihologi americani să înceapă să se întrebe dacă n-ar trebui să cerceteze dacă indienii au într-adevăr o „viață spirituală luminată” care ar merita studiată.
+
+<sup>2.</sup>Ceea ce știu cei mai mulți oameni despre India este probabil, în cea mai mare parte, ceea ce au învățat la școala duminicală, unde copiii află ce cred misionarii creștini despre acești păgâni care nu cunosc viața. Este evident că îi confundă pe yoghini cu fachirii, nebănuind imensa distanță dintre aceștia în privința dezvoltării.
+
+<sup>3.</sup>Așa-numiții fachiri (cuvântul „fachir” este de fapt un termen arab pentru ascet), care se află cu toții la stadiul barbariei sau în apropierea lui, pot fi împărțiți în două categorii, care ar putea fi numite iluzioniști și, respectiv, quietiști. Iluzioniștii își prezintă trucurile psihologice foarte specializate (de pildă, îndrăgitul „truc al frânghiei”), care, de regulă, se transmit în familie. Quietiștii sunt, pe de o parte, cei care își chinuiesc organismele, iar pe de altă parte, cei care încearcă să-și „ucidă sufletele”, suprimând toate percepțiile senzoriale, sentimentele și gândurile. Ei cred că pot astfel să atingă nirvana, adică stingerea, nemaiproducând nicio karmă nouă și nedorind de la viață nimic care i-ar putea sili să renască.
+
+<sup>4.</sup>Misionarii îi acuză pe bieții păgâni că se închină unor idoli îngrozitori în templele lor, dar uită că unii creștini se închină Fecioarei Maria și nenumăratelor imagini ale sfinților, precum și icoanelor din propriile lăcașuri. Ei nu bănuiesc că statuile indiene sunt puternic „magnetizate”, astfel încât adoratorii emoționali care contemplă cu evlavie simbolurile diferitelor energii cosmice primesc stimularea fizic-eterică și emoțională după care tânjesc.
+
+<sup>5.</sup>În Occident există un cerc foarte restrâns de erudiți, „orientaliști” și sanscritiști care, asemenea lui Max Müller, se ocupă de traducerea și interpretarea literaturii sanscrite. Ei nu știu că această literatură străveche este în întregime simbolică și că simbolismul ei nu poate fi interpretat corect nici de cei mai învățați brahmani sau yoghini.
+
+<sup>6.</sup>Nicăieri altundeva, ceea ce pentru individul normal (majoritatea oamenilor) este incognoscibil nu a făcut obiectul unor speculații atât de nesfârșite precum în India. Nicăieri altundeva oamenii cugetători nu au fost mai dispuși să se orienteze în realitate și să caute soluții la problemele naturii existenței și sensului vieții.
+
+<sup>7.</sup>India prezintă un spectru al tuturor concepțiilor religioase și filozofice existente. Majoritatea sunt hinduși care, pe lângă nenumărate zeități minore, au simbolurile încă neelucidate, cu totul greșit interpretate, ale celor trei aspecte ale existenței: materia (Brahma), conștiința (Vishnu) și mișcarea (Shiva).
+
+<sup>8.</sup>Groaza hindușilor este „metempsihoza” superstiției populare, pe care mileniile le-au întipărit-o adânc. Să devii când un culi, când o vacă, când un crocodil, când să locuiești într-o nucă, așa cum se crede, nu poate avea prea multe atracții, cu atât mai puțin pentru un brahman. La toți cei căzuți pradă acestei ficțiuni, dorința de a evita cu orice preț o asemenea soartă va ajunge să domine. Și, fiindcă destinul (karma) este rezultatul manifestărilor conștiinței individului, eliberarea de metempsihoză și stingerea în nirvana nu pot fi obținute decât prin suprimarea tuturor tipurilor de manifestări ale conștiinței, mai ales prin eliberarea de orice fel de dorință pentru ceva din viață.
+
+<sup>9.</sup>Există variații nesfârșite ale acestei idei de bază, de la concepțiile cele mai primitive ale castei celei mai de jos până la cele mai elaborate și complicate sisteme speculative logice ale brahmanilor. O concepție larg răspândită este că oricine a izbutit să fie „născut de două ori” în casta brahmanilor are nirvana la îndemână.
+
+<sup>10.</sup>Speculația indiană inepuizabilă, neastâmpărată (mai ales în casta brahmanilor), care trebuie mereu să elaboreze sisteme logice cuprinzătoare pornind de la orice năzărire și are mereu nevoie de ficțiuni noi asupra cărora să lucreze, nu se mulțumește niciodată cu un sistem elucidat o dată pentru totdeauna, ci continuă să-și țeasă pânza din cele mai eterice abstracții. Un logician occidental ar fi uimit de subtilitatea acestor concluzii, ceea ce confirmă că logica nu rezolvă nicio problemă a cunoașterii.
+
+<sup>11.</sup>O dovadă a înțelegerii mentalității indiene de către Hermann Keyserling este observația sa corectă că motivul eșecului budismului în India a fost și va fi acela că împiedică, pentru a nu spune exclude, continuarea maniei speculative.
+
+### 7.2 *Filozofia yoga*
+
+<sup>1.</sup>Cele ce urmează constituie o comparație între concepția ezoterică (hylozoică) despre realitate și cea a filozofiei yoga. O asemenea comparație s-a dovedit tot mai necesară. Yoghinii care au încercat să prezinte yoga Occidentului nu cunoșteau ezoterica. Iar occidentalii care au tratat despre yoga nu au fost în măsură să elucideze problemele respective.
+
+<sup>2.</sup>Îndeosebi două dintre numeroasele sisteme filozofice ale Indiei le-au oferit yoghinilor baza de la care să pornească. Unul este sistemul de gândire folosit de Patanjali când și-a scris sutrele, și anume sankhya. Celălalt este forma de vedanta căreia Shankara i-a dat caracterul său.
+
+<sup>3.</sup>Sankhya este un sistem dualist, așa cum era și vedanta înainte de a fi remaniată de Shankara.
+
+<sup>4.</sup>Sankhya pornește de la materie (prakriti) și conștiință (purusha), vedanta de la materie (akasha) și energie (prana). Energia lipsește din sankhya, conștiința din vedanta; aceste aspecte îi sunt atribuite în schimb individului, corespondențele cele mai apropiate fiind calitățile.
+
+<sup>5.</sup>Cele trei calități (gunas) atribuite lui prakriti (sattva, rajas, tamas) sunt, potrivit ezotericii, energii materiale ale celor trei tipuri atomice 45, 47, 49.
+
+<sup>6.</sup>Nici în Orient, nici în Occident filozofii nu au reușit să rezolve problema fundamentală a existenței: trinitatea, cele trei aspecte ale existenței.
+
+<sup>7.</sup>Filozofii yoga care au studiat filozofia europeană s-au oprit la Schopenhauer, considerându-l cel mai apropiat de filozofia lor. Iar Schopenhauer însuși a pornit de la Upanișade. Ei citează „spațiul, timpul și cauzalitatea” ale sale, dar uită să menționeze cele două noțiuni fundamentale, „voința și reprezentarea (conștiința)”. Subiectiviști cum sunt cu toții, au omis aspectul materie.
+
+<sup>8.</sup>Forma pe care Shankara a dat-o vedantei prin prelucrarea sa se numește „advaita”, deși termenul „vedanta” este folosit la fel de des în mod incorect.
+
+<sup>9.</sup>Shankara a eliminat aspectul materie din vedanta, rezultatul fiind subiectivismul absolut. Advaita neagă existența materiei, neagă că există vreo realitate în afara noastră, că există altceva decât sinele, atman, nirvana. Orice altceva este doar „nume și formă”, amăgirea simțurilor, realitate înșelătoare, iluzie, maya. Indivizii nu au existență proprie, sunt emanații înșelătoare sau reflexe ale sinelui cosmic.
+
+<sup>10.</sup>Unul dintre motivele concepției greșite a yoghinilor despre realitate este necunoașterea celor trei aspecte ale existenței. Fiecare lume materială este diferită de toate celelalte din cauza diferențelor de densitate a atomilor primordiali. Prin urmare, perceperea realității trebuie să fie diferită în diferitele lumi.
+
+<sup>11.</sup>În esență, există trei tipuri cu totul diferite de așa-numită teorie a cunoașterii: cea a ignoranței occidentale despre viață, cea a filozofiei iluzioniste indiene (advaita) și, respectiv, cea a hylozoicii.
+
+<sup>12.</sup>Teoria occidentală este fie fizicalismul agnostic sau sceptic obișnuit, care neagă existența a tot ceea ce nu poate fi constatat de oricine și privește conștiința drept o calitate a materiei organice; fie subiectivismul filozofic, care atribuie diferitele tipuri de conștiință ale omului unei lumi fictive, „imateriale” sau „spirituale”, a conștiinței.
+
+<sup>13.</sup>Filozofia advaita comite greșeala fundamentală de a judeca realitatea dintr-o lume pornind de la percepția realității din altă lume, ajungând astfel numai la absurdități. Percepția realității din lumea 45, de exemplu, este logic imposibilă atât pentru sinele-47, cât și pentru sinele-43. Filozofii trebuie să învețe să lase „acest lucru să fie acest lucru” în fiecare lume.
+
+<sup>14.</sup>Filozofia iluzionistă poate fi explicată psihologic astfel: când materia se dezintegrează, atomii involvați în tipuri atomice inferioare se transformă în tipul imediat superior. Când atomul-45 este „scindat”, el se dezintegrează în atomi-44.
+
+<sup>15.</sup>Hylozoica susține că fiecare lume este propria sa realitate inevitabilă, la fel de reală precum realitatea tuturor celorlalte lumi pentru cei care se află în ea. Cele trei aspecte ale realității nu doar par diferite, ci sunt diferite în diferitele lumi.
+
+<sup>16.</sup>Vedanta a fost concepută drept o reacție împotriva fizicalismului și presupunea accentuarea aspectului conștiință, fără a elimina însă, în forma sa inițială, aspectul materie. Aceasta a fost greșeala (prin advaita) făcută de acel Shankara care a trăit în secolul al IX-lea e.n. Primul Shankara a apărut la scurt timp după Buddha.
+
+<sup>17.</sup>Conștiința nu poate exista fără o bază materială. Importanța aspectului conștiință crește cu fiecare lume materială superioară, iar importanța aspectului materie scade. Dar este o greșeală să negi existența absolută a aspectului materie și una și mai mare să-i nesocotești însemnătatea în lumile omului. Filozofia iluzionistă a lui Shankara este o ficțiune mentală în lumea iluziilor emoționale.
+
+<sup>18.</sup>Ezoterica explică felul în care Shankara a putut ajunge la ideea sa, oricât de bizară ar părea.
+
+<sup>19.</sup>Există o singură conștiință: conștiința cosmică totală, la care fiecare atom primordial participă într-o măsură pe care nu o poate pierde, iar orice conștiință este atât colectivă, cât și individuală. Dacă aspectele materie și mișcare ale existenței sunt nesocotite, aspectul conștiință va căpăta o importanță cu totul dominantă. Atunci nu mai trebuie decât să deduci consecințele următoarelor date. Atomul fizic (49:1) conține 48 de tipuri de atomi tot mai înalte și miliarde de atomi primordiali. Atomul fizic care aparține materiei de involuție posedă deja conștiință actualizată, pasivă, și are astfel tot atâtea puncte de conștiință câți atomi primordiali conține. Întregul cosmos este o singură conștiință, în mare parte activă, în orice caz activată.
+
+<sup>20.</sup>Speculația advaita arată atotputernicia imaginației odată ce a izbutit să se sustragă controlului logic și a evitat soarta lui Icar de a fi expus unui contact mult prea palpabil cu realitatea.
+
+<sup>21.</sup>Este caracteristic mentalității indiene că atât sankhya, cât și advaita par să poată prospera sub același acoperiș. După folosirea sankhya (a aspectului materie) pentru a explica realitățile existenței, nimic nu împiedică încununarea operei prin trecerea la filozofia iluzionistă advaita și pierderea în cele mai eterice abstracții. Dacă, din vreun motiv, trebuie să dai o explicație rațională supărătoarelor realități materiale, faci din nou un salt în jos, în dualism, putând, evident, să repeți asemenea acrobații ori de câte ori dorești.
+
+<sup>22.</sup>Această versatilitate mentală și caracterul vag al definițiilor fluide înlesnesc formulările personale și subiective ale unor noi sisteme de gândire. Nu există o concepție unică, stabilită, ci fiecare sfânt yoghin are propria formulare a dogmelor fundamentale comune. De aceea, după cum spunea Vivekananda, în India se formează secte noi în fiecare an. Pentru cineva din afară, critica este așadar dificilă, deoarece, orice ar spune, filozofii yoga pot întotdeauna să invoce o altă autoritate.
+
+<sup>23.</sup>Yoghinul folosește filozofia sankhya până când „a atins realizarea de sine” și prin aceasta a devenit „una cu dumnezeu”, a devenit dumnezeu. După aceea, numai advaita mai este potrivită, fiind considerată concepția atotștiinței despre existență. Este o atotștiință ciudată, care nu știe de existența:
+
+- celor 49 de lumi atomice cosmice
+- celor 42 de lumi moleculare ale sistemului solar
+- celor 6 regnuri naturale tot mai înalte din sistemul solar (în lumile 43–49)
+- celor 6 regnuri divine tot mai înalte (în lumile 1–42)
+- guvernului sistemului solar
+- guvernului planetar
+- ierarhiei planetare
+
+și care, pe deasupra, nu cunoaște:
+
+- cele trei aspecte ale existenței
+- materia primordială
+- materia de involuție
+- materia de evoluție
+- monada umană din învelișul cauzal
+- reîncarnarea, deosebită de metempsihoză, pentru a menționa doar câteva date.
+
+<sup>24.</sup>Deosebirea fundamentală dintre hylozoica lui Pitagora și panteismul lui Shankara este că advaita presupune posibilitatea existenței conștiinței fără o bază materială, pe când, potrivit hylozoicii, conștiința nu poate avea o existență separată, independentă de materie, ci este întotdeauna și în mod necesar legată de materie.
+
+<sup>25.</sup>Potrivit panteismului, viața trebuie să fie lipsită de un scop rațional. Sufletul universal desprinde din sine sufletul individual, care, după o rătăcire fără sens (metempsihoză) prin cele patru regnuri naturale, izbutește în cele din urmă să atingă nirvana și este anihilat prin reabsorbția într-un suflet universal veșnic neschimbător, care lucrează orbește și automat, fără scop. Este ușor de înțeles că despre conștiința de sine, dacă este concepută fără un punct ferm pentru propria existență, trebuie să se presupună că se contopește cu sufletul primordial de îndată ce este eliberată de materie.
+
+<sup>26.</sup>Potrivit hylozoicii, cosmosul este alcătuit din atomi primordiali (monade) cu conștiință potențială, care sunt treziți la viață în procesul de manifestare și apoi, din regnul mineral, prin regnuri naturale tot mai înalte, în lumi materiale tot mai înalte, dobândesc o participare din ce în ce mai mare la conștiința cosmică totală, alcătuită din conștiința colectivă a tuturor monadelor. Individul este astfel veșnic nemuritor, iar sensul vieții este dezvoltarea și expansiunea conștiinței individuale până la atotștiința și atotputernicia cosmică. Revenirea dintr-un regn natural superior într-unul inferior este, desigur, exclusă.
+
+<sup>27.</sup>Fiecare sistem solar, planetă, lume dintr-o planetă formează un colectiv de conștiință la care fiecare monadă (atom primordial) participă într-o măsură pe care nu o poate pierde. Cu cât participarea conștientă a monadei crește, cu atât îi crește și răspunderea. Destinul sistemului solar este rezultatul activității tuturor monadelor. Toate le influențează pe toate. Și omenirea formează un colectiv în cadrul colectivului.
+
+<sup>28.</sup>Din cele spuse ar trebui să fie limpede că yoga este exoterică, nu ezoterică
+
+### 7.3 FICȚIUNILE YOGA
+
+<sup>1.</sup>„Rishii”, învățătorii școlilor din templele Atlantidei, predau elitei intelectuale cunoașterea realității.
+
+<sup>2.</sup>Cei care au tras un folos real din acea învățătură (ființe cauzale considerabil mai vechi decât restul omenirii) au depășit de mult al cincilea regn natural.
+
+<sup>3.</sup>Dintre ceilalți, celor cu destulă înțelegere pentru a nu abuza de cunoaștere li s-a dat posibilitatea de a și-o reaminti în ordine ezoterice de cunoaștere.
+
+<sup>4.</sup>Cei care au aparținut preoțimii negre sau au urmat-o au reușit să distrugă într-atât „principiul mental” (simțul realității al organului de percepție mentală), încât au fost necesari vreo cincizeci de mii de ani de încarnări pentru a-l „repara”. Se pare că, pentru mulți, nici atât nu a fost de ajuns. Ei continuă să-și idiotizeze rațiunea.
+
+<sup>5.</sup>Faptul că, dintre toate popoarele, indienii au devenit principalii păstrători ai cunoașterii s-a datorat „manu”-ului, care a îngăduit celei mai vechi rase ariene să formeze o castă proprie (brahmanii), și „bodhisattva”-ului, care a încredințat acestei caste suficientă cunoaștere spre păstrare, cu respectarea a tot felul de măsuri de precauție, încât să poată ocupa o poziție aparte în privință „spirituală”.
+
+<sup>6.</sup>În întreaga Indie au fost întemeiate centre spirituale cu mănăstiri. Măsurile de precauție luate au dus în cele din urmă la situația în care numai hierofanții mai puteau interpreta corect „scrierile sacre”, iar ei aveau să se stingă înainte de a găsi succesori vrednici.
+
+<sup>7.</sup>Ceea ce a mai rămas astăzi din cunoașterea originară este, în linii mari, o denaturare iremediabilă. Dar, în ciuda acestui lucru, ezotericianul nu are nicio dificultate în a recunoaște cunoașterea pierdută în ficțiunile care predomină astăzi. Cât de adânc întipărite și încă imposibil de dezrădăcinat din mentalitatea populară sunt aceste ficțiuni se poate vedea din încercarea nereușită a acelui bodhisattva (mai târziu buddha) de a întipări prioritatea și suveranitatea bunului-simț. Este tipic că brahmanii încă păzesc cu gelozie ceea ce cred ei că este doctrina originară.
+
+<sup>8.</sup>Filozofia yoga este suma filozofiei indiene despre viață. În această privință este incomparabil superioară celor realizate de alte popoare, inclusiv din punct de vedere psihologic. Ar putea fi numită știința emoționalității. Se poate vedea însă, așa cum a arătat limpede Buddha cu mult timp în urmă, că rațiunea umană nu poate rezolva problemele existenței, că omul lăsat în seama propriilor resurse nu poate, la stadiul actual de dezvoltare al omenirii, nici măcar să ridice vălul lui Isis. Nimeni nu poate face acest lucru fără a fi dobândit conștiință de sine în învelișul său cauzal, fără a fi pătruns în lumea ideilor platonice.
+
+<sup>9.</sup>Termenii sanscriți transmiși din vremea când rishii predau în Atlantida sunt încă înțeleși greșit. Ei nu pot fi interpretați corect fără cunoaștere ezoterică. Explicațiile pe care yoghinii le dau pentru manas, buddhi, nirvana, atma sunt incorecte. Ei nu au reușit nici măcar să înțeleagă corect semnificația reîncarnării și a karmei.
+
+<sup>10.</sup>Scrierile rishilor au fost redactate inițial în senzar și au fost traduse ulterior în sanscrită. În orice caz, ceea ce a rămas din aceste texte, adesea corupte (Upanișadele și Vedele), nu poate fi înțeles decât de ezotericieni. Că termenii sanscriți sunt înțeleși greșit reiese chiar din sensurile diferite care le sunt atribuite în diferitele școli yoga.
+
+<sup>11.</sup>Yoghinii numesc manas când facultatea gândirii, când puterea sufletului, când o funcție a lui antahkarana.
+
+<sup>12.</sup>Ei numesc buddhi când rațiunea, când intuiția, când ahamkara, când antahkarana.
+
+<sup>13.</sup>Ei numesc atma când sinele, când sufletul, când Brahman, când absolutul.
+
+<sup>14.</sup>O autoritate în yoga numește antahkarana „acel instrument interior prin care subiectul recunoaște obiectul prin identificare”. „«Antahkarana» se află între sine și obiect.”
+
+<sup>15.</sup>Potrivit ezotericii, antahkarana este veriga de legătură dintre diferitele învelișuri și diferitele lor tipuri de conștiință.
+
+<sup>16.</sup>Câteva alte citate din yoga ar trebui să prezinte interes în această privință:
+
+<sup>17.</sup>„Sufletul, sau antahkarana, își are puterea prin unirea cu Sinele, sau Atma, care este același lucru cu Brahman, sau Absolutul.”
+
+<sup>18.</sup>„Atma al hindușilor este Realitatea imuabilă, Marele Martor, Conștiința însăși.”
+
+<sup>19.</sup>„Buddhi este acea stare hotărâtă care decide că acesta este un copac, nu un om.”
+
+<sup>20.</sup>Vor fi prezentate acum câteva date despre concepțiile generale: lumile yoghinilor, intuiția, voința, renașterea, karma și cele trei noțiuni cele mai caracteristice perspectivei indiene: dharma, realizarea de sine și samadhi.
+
+### 7.4 *Lumile yoghinilor*
+
+<sup>1.</sup>Potrivit ezotericii, indivizii care au atins al cincilea regn natural și s-au alăturat ierarhiei planetare au la dispoziție cele patru lumi atomice planetare, 46-49. Indivizii din al patrulea regn natural trăiesc în trei lumi atomice (47–49), împărțite în cinci lumi moleculare.
+
+<sup>2.</sup>Unele școli yoga vorbesc despre cinci lumi cosmice. Altele se mulțumesc cu trei lumi în univers.
+
+<sup>3.</sup>Cei care cred că există cinci lumi în cosmos îi atribuie și sinelui cinci învelișuri sau cel puțin patru, dacă al cincilea și cel mai înalt este sufletul universal atotcuprinzător, Brahman. Unii socotesc că trei sunt de ajuns, iar definițiile lor amintesc, prin caracterul lor vag, de trupul, sufletul și spiritul teologilor.
+
+<sup>4.</sup>Unii autori care scriu despre yoga îl invocă pe Patanjali și spun că individul are cinci tipuri diferite de conștiință. Dar se vede că cele două tipuri cele mai înalte aparțin indivizilor din al cincilea regn natural, fiindcă corespund conștiinței sinelui-46 și celei a sinelui-45.
+
+<sup>5.</sup>Asemenea speculații teoretice nu au nicio însemnătate. Ceea ce contează însă este despre care lumi pot vorbi din experiență proprie. Prin metodele lor, yoghinii pot dobândi simț fizic-eteric și emoțional (clarviziune, adică o conștiință obiectivă a realităților materiale din acele lumi). Ceea ce depășește acest domeniu aparține presupunerilor. Ei nu pot dobândi conștiință obiectivă în lumea mentală și în lumile superioare.
+
+<sup>6.</sup>În cel mai bun caz, lumea pe care ei o numesc nirvana (în care își pierd conștiința), țelul final comun atât hindușilor, cât și budiștilor, corespunde aproximativ cu ceea ce ezotericienii numesc lumea cauzală, sau lumea ideilor platonice. Dar despre aceasta ei încă nu știu nimic.
+
+### 7.5 *Intuiția*
+
+<sup>1.</sup>Intuiția oferă cunoaștere prin dezvăluirea temeiurilor și cauzelor.
+
+<sup>2.</sup>Pentru că intuiția și voința sunt puteri aflate dincolo de sfera experienței umane, este evident că, fără cunoaștere ezoterică, yoghinii nu pot avea decât noțiuni neclare despre sensul acestor termeni, lucru care reiese și din caracterul vag al definițiilor lor.
+
+<sup>3.</sup>Inițial, prin cuvântul „intuiție” se înțelegea perceperea nemijlocită și multilaterală a realității și a evenimentelor de către divinitate. Plotin, de pildă, folosea acest cuvânt pentru a desemna cunoașterea absolută a divinității. La yoghini, intuiția este, de regulă, rezultatul perceperii rapide a vibrațiilor emoționale, care conțin întotdeauna un anumit tip de vibrații mentale. Psihologii vorbesc despre o cuprindere instantanee, o funcție sintetică rapidă a unui intelect dezvoltat. Adesea este vorba despre o înțelegere nemijlocită, bazată pe reamintire și pe recunoaștere de către subconștient. Unii înțeleg prin „intuiție” dobândirea unor idei dintr-una dintre supraconștiințele emoționale sau mentale ale omului. Au mai fost propuse impulsurile, inspirația și revelația. Acestea se reduc însă la influențe conștiente sau inconștiente din partea altui individ. În uzul obișnuit, termenul „intuiție” a fost degradat prin folosire greșită, ajungând să însemne capriciu, năzărire, tot felul de fantasmagorii.
+
+<sup>4.</sup>În privința tipurilor superioare de materie și a lumilor cu tipurile lor de conștiință și energie, limbajul cotidian nu are termeni care să le desemneze. Neputând găsi termeni noi pentru lucruri noi, autorii ezoterici au folosit cuvinte deja existente în limbă, pe care „neinițiații” le-au idiotizat fără speranță. Până și termenii sanscriți folosiți de Vyasa și Patanjali s-au dovedit nepotriviți, mai ales fiindcă au fost interpretați greșit de autoritățile în yoga și de brahmanii învățați. Pentru a remedia confuzia de idei prevalentă, ar trebui să se recurgă la notația matematică.
+
+<sup>5.</sup>Această neputință i-a făcut însă pe autorii ezoterici să folosească termenul „intuiție” pentru două tipuri cu totul diferite de conștiință: conștiința cauzală (47:1-3) și conștiința esențială (46:1-7).
+
+<sup>6.</sup>Conștiința mentală era numită ezoteric „al șaselea simț”, iar intuiția, „al șaptelea simț”.
+
+<sup>7.</sup>Conștiința mentală are trei funcții principale în timpul încarnării. Ea îi permite sinelui să constate realități fizice folosind așa-numitele cinci simțuri ale organismului. Prelucrează aceste date în creier, în sisteme inteligibile. Servește drept intermediar pentru subconștiință și supraconștiință.
+
+### 7.6 *Voința*
+
+<sup>1.</sup>Omul nu cunoaște voința, esența ei și legile care guvernează folosirea ei. Dar ignoranța știe, desigur, totul despre acest subiect, astfel încât termenul „voință” a ajuns să fie folosit pentru orice are legătură cu dorința, intenția, străduința, capacitatea de a acționa etc.
+
+<sup>2.</sup>Inițial, cuvântul „voință” era termenul simbolic pentru aspectul mișcare (aspectul voință).
+
+<sup>3.</sup>Dynamis acționează în două moduri: indirect, în aspectul materie, ca impuls inițial al energiei materiale, și direct, prin conștiința activă.
+
+<sup>4.</sup>Termenul „voință” desemna capacitatea conștiinței de a lăsa dynamis să acționeze prin ea. Cu cât tipul de conștiință este mai înalt, cu atât potențialul lui dynamis este mai mare. Conștiința cea mai înaltă este și „puterea” cea mai înaltă.
+
+<sup>5.</sup>Confruntați cu o lipsă de termeni aparent iremediabilă, autorii ezoterici au folosit termenul „voință” pentru tipul cel mai înalt de conștiință atât din al cincilea, cât și din al șaselea regn natural, așadar atât pentru conștiința-45, cât și pentru conștiința-43. Acest lucru nu a contribuit nici la sporirea clarității, nici la reducerea confuziei de idei.
+
+<sup>6.</sup>Fizic, „voința” omului este vitalitate și capacitate de activitate; emoțional, atracție și repulsie; mental, motivul de care se ține (de obicei, motivul acțiunii).
+
+<sup>7.</sup>Acel măr al discordiei teologice, voința „liberă” a omului, s-a datorat necunoașterii faptului că „voința” este „determinată” de motive și că motivul cel mai puternic va învinge.
+
+<sup>8.</sup>Alte probleme privesc imposibilitatea de a pune cunoașterea sau intenția în acțiune înainte de dobândirea capacității necesare de acțiune, precum și lupta dintre tipuri opuse de dorințe. Afirmația lui Coué că, atunci când „voința” și imaginația intră în conflict, imaginația va învinge întotdeauna s-a datorat faptului că el nu a văzut că este vorba, în realitate, despre dorințe diferite, el numind-o imaginație pe cea mai sugestivă.
+
+### 7.7 *Renașterea*
+
+<sup>1.</sup>Cea mai nefericită dovadă a necunoașterii realității de către yoghini este credința lor în metempsihoză. Ei nu știu nici măcar că revenirea dintr-un regn natural superior într-unul inferior este exclusă, că un om nu poate renaște ca animal.
+
+<sup>2.</sup>Cea mai mare autoritate pentru yoghinii Ramakrishna, după întemeietorul școlii însuși, este Vivekananda. El susținea cu toată seriozitatea că propriul câine era încarnarea unui prieten decedat.
+
+<sup>3.</sup>Este timpul să renunțe la această eroare extrem de compromițătoare și să le explice adepților lor deosebirea fundamentală dintre credința în metempsihoză, care ține de superstiția populară, și cunoașterea ezoterică a reîncarnării.
+
+<sup>4.</sup>Această ignoranță este cea mai bună dovadă că yoghinii nu își pot studia încarnările anterioare și că niciunul dintre ei nu a putut deveni un sine cauzal. Dacă vreunul a reușit acest lucru, a încetat să mai fie yoghin. Când individul a dobândit conștiință de sine obiectivă în învelișul său cauzal, învelișul necesar trecerii din regnul animal în cel uman, el poate studia toate încarnările prin care a trecut acest înveliș permanent. Învelișul cauzal nu se poate încarna într-un corp animal.
+
+<sup>5.</sup>La trecerea din regnul uman în al cincilea regn natural, monada din învelișul cauzal dobândește un înveliș nou în acea lume superioară (46), devenind astfel un sine esențial, un sine-46.
+
+<sup>6.</sup>Din cauza concepțiilor greșite predominante, nu se poate sublinia îndeajuns că învelișul cauzal din lumea cauzală este acel înveliș care face din individ (monadă, sine) o ființă umană, că învelișul cauzal este „sufletul” omului, în același fel în care învelișul submanifestal din lumea 44 va fi cândva „spiritul” individului. Fenomenul cunoscut drept „posesie” este rezultatul încercării învelișului emoțional al altcuiva de a-l împinge afară pe cel al posesorului de drept. Nu are nimic de-a face cu reîncarnarea.
+
+<sup>7.</sup>Termenul extrem de nefericit al teozofilor, „nemurire”, trebuie explicat în acest context. Erau numiți „nemuritori” cei care nu își mai pot pierde niciodată continuitatea conștiinței, nici când se reîncarnează, nici când sistemul solar se dizolvă.
+
+### 7.8 *Karma*
+
+<sup>1.</sup>Doctrina karmei (legea semănatului și seceratului, legea cauzei și efectului) este, la fel ca doctrina metempsihozei, comună majorității indienilor. Era inevitabil ca ambele doctrine (inițial ezoterice) să fie denaturate de ignoranță, fiindcă omul pare să aibă o tendință incurabilă de a înlocui datele lipsă cu speculații și de a crede orbește, cu o îngâmfare aparent incorigibilă, că năzărările sale izvorâte din necunoașterea vieții concordă cu realitatea.
+
+<sup>2.</sup>Potrivit ezotericii, cosmosul este un întreg guvernat de legi. Procesul manifestării cosmice se desfășoară conform unor legi inflexibile ale materiei și energiei (legile naturii). Legile vieții care se aplică aspectului conștiință rămân, de asemenea, inflexibil valabile. A vorbi despre „suspendarea legilor” este o dovadă de ignoranță. Te poți elibera de efectul unui tip inferior de energie printr-un tip superior de energie, dar nu poți suspenda legile, care exprimă forțe cu acțiune neschimbătoare.
+
+<sup>3.</sup>Nimeni nu poate suspenda legile vieții care se aplică dezvoltării conștiinței. Dar, în propria sa mică sferă de putere, fiecare ființă posedă, potrivit legii libertății, o anumită măsură de libertate de care poate abuza.
+
+<sup>4.</sup>Dacă omul trăiește conform legilor vieții, dezvoltarea sa va înainta cât mai repede posibil, fără fricțiuni, armonios, cu cel mai înalt grad posibil de fericire. Dar fiecare greșeală în privința legilor vieții (cunoscute sau necunoscute) atrage consecințe menite să-l învețe în cele din urmă pe individ (numărul încarnărilor depinde de el) să descopere legile și să le aplice corect. Dacă a provocat suferință altor ființe, el însuși trebuie să trăiască aceeași măsură de suferință. Aceasta este legea dreptății neînduplecate, de care nicio grație arbitrară nu îl poate elibera.
+
+<sup>5.</sup>Ține de dharma omului să facă tot ce poate pentru a reduce suferința din lume, pentru toate ființele și în toate împrejurările. Cei care refuză să ajute atunci când pot se fac vinovați de o omisiune care are consecințe, și nicidecum dintre cele mai mici.
+
+<sup>6.</sup>Concepția brahmanilor despre karmă drept destin inevitabil, potrivit căreia „stai în calea karmei” încercând să alini suferința și nenorocirea, este dovada unei ignoranțe fatale despre viață. Nimeni nu poate „sta în calea” unei legi. Dacă cineva trebuie să sufere, nicio putere din lume nu poate împiedica acest lucru. Suferința pe care le-am provocat-o altora poate fi reparată prin „sacrificiu” voluntar în viețile viitoare.
+
+<sup>7.</sup>Ierarhia planetară a declarat în mod expres că niciun om nu poate înțelege corect legea karmei. Dar aceasta nu înseamnă că nu ar trebui să încerci s-o înțelegi.
+
+<sup>8.</sup>Problemele vieții pe care individul trebuie să le rezolve singur pentru a se dezvolta revin viață după viață, până când au fost rezolvate corect. Legea realizării de sine este o lege inflexibilă, potrivit căreia individul trebuie, în toate regnurile, fie planetare, fie cosmice, să dobândească singur toate calitățile și capacitățile necesare continuării dezvoltării în regnul imediat superior.
+
+### 7.9 *Dharma*
+
+<sup>1.</sup>Rishii propovăduiau finalitatea existenței, învățau că scopul vieții este evoluția a tot ceea ce există și că țelul vieții este perfecțiunea cosmică. Din învățătura lor, dharma este poate ceea ce și-a păstrat cel mai bine conținutul rațional sau conținutul de realitate originar.
+
+<sup>2.</sup>Deși legea destinului și dharma nu au chiar același înțeles, este mai ușor să înțelegi lucrurile dacă privești karma drept legea seceratului și dharma drept legea destinului. Este greșit să le consideri pe amândouă aceeași lege, mai ales și în sens fatalist.
+
+<sup>3.</sup>Dharma este natura cea mai lăuntrică a fiecărui individ, ceea ce constituie adevărata sa ființă. Dharma este ceea ce este dat în rânduielile interdependente ale lucrurilor. Dharma focului este să ardă. Dharma copacului este să prindă rădăcini, să crească, să dea frunze, flori și roade. Dharma animalelor este să trăiască potrivit caracterelor lor individuale și străduinței instinctului lor înnăscut de a-și îndeplini misiunea. Dharma este sensul vieții pentru fiecare individ.
+
+<sup>4.</sup>Dharma omului diferă la diferitele stadii de dezvoltare, în diferitele împrejurări ale vieții. Fiecare are dharma sa aparte, problemele vieții de rezolvat, îndatoririle de îndeplinit. Omul trăiește într-o stare de nesiguranță și incertitudine când nu acționează cât poate de bine, potrivit dharmei sale. Dharma omenirii este umanitatea.
+
+<sup>5.</sup>Suntem în parte liberi, în parte neliberi. Devenim liberi în măsura în care am dobândit cunoașterea Legii și capacitatea de a aplica această cunoaștere. Cu cât suntem mai jos pe scara dezvoltării, cu atât suntem mai puțin liberi. Ne eliberăm de ceea ce este inferior prin absorbirea în ceea ce este superior. Vom deveni pe deplin liberi abia după ce vom fi atins divinitatea cea mai înaltă. Iar aceasta o vom face descoperind și aplicând Legea, tot mai mult, în lumi tot mai înalte.
+
+<sup>6.</sup>Credem că suntem liberi când acționăm potrivit caracterelor noastre individuale. Dar, câtă vreme ne lipsesc cunoașterea Legii și capacitatea de a o aplica corect, nu vom face decât greșeli care ne vor duce în robia constrângerii și a obsesiei, până când ne vom fi înțeles greșelile trăindu-le. Nu suntem liberi când ne răzvrătim împotriva destinului nostru, a dharmei noastre, a sensului încarnării noastre, când acționăm împotriva unității, când suntem stăpâniți de ficțiunile și iluziile ignoranței noastre despre viață și de concepțiile corespunzătoare despre bine și rău, cât timp caracterul nostru individual nu și-a însușit acea Lege pe care am ajuns s-o cunoaștem și nu o aplică automat și instinctiv.
+
+<sup>7.</sup>Nu dobândim libertatea prin quietism, prin neînfăptuire. Inactivitatea, trândăvia, rugămințile adresate divinității de a face ceea ce ține de dharma noastră nu aduc nicio dezvoltare. Ne eliberăm acționând, adoptând o atitudine pozitivă față de tot ceea ce întâlnim, lăsând puterile divine să lucreze în noi și prin noi, ceea ce vor face negreșit de îndată ce îndepărtăm obstacolele din calea primirii lor.
+
+<sup>8.</sup>Viața ne așază pe fiecare în locul cel mai bun pentru noi, care nu este nicidecum întotdeauna cel pe care îl socotim noi cel mai bun. Dacă nu înțelegem aceasta, ci privim îndatoririle asumate de noi sau impuse de viață drept o povară pe care o luăm asupra noastră fără voie și cu un sentiment de constrângere, atunci nu înțelegem viața și ne lipsește atitudinea pozitivă corectă. Dacă ne vine greu să acceptăm că suntem supracalificați pentru munca pe care ne-a repartizat-o viața, că nu ne este apreciată cum se cuvine capacitatea, că trebuie să trecem prin viață drept niște anonimi aparent neînsemnați, aceasta arată doar că trebuie să ne eliberăm de multe calități care, deși poate dezirabile la niveluri inferioare, sunt cât se poate de nepotrivite la cele superioare. Dobândim multe calități necesare în poziții subordonate, neînsemnate și în condiții grele. Contribuția noastră va fi cu totul alta, mai folositoare, dacă am învățat să lăsăm competența dobândită să fie un instrument de bunăvoie acolo unde ne-a așezat destinul, dacă am învățat să acceptăm că suntem anonimi în aparență, simple instrumente. Onorurile și distincțiile, asemenea puterii și bogăției, au posibilități neașteptate de a influența vibrațiile tipurilor noastre moleculare emoționale inferioare, regiunile iluziilor și ale falselor valori. Fiind instrumente de bunăvoie ale puterilor superioare, dobândim premisele de a deveni instrumente ale unor puteri și mai înalte.
+
+<sup>9.</sup>Nu ne vedem adevărata constrângere. Ne putem elibera de cea pe care o vedem. O condiție importantă pentru a deveni liberi este să trăim cu sentimentul că suntem liberi și fericiți, iar aceasta depinde de atitudinea noastră față de viață. Întreaga viață se schimbă pentru oricine își lămurește că atitudinea obișnuită, negativă, este pervertită, că sensul vieții este fericirea, că totul este menit binelui tuturor, că o concepție pozitivă despre viață ne va duce cel mai repede înainte și în sus. Tot ce este negativ, orice constrângere, are un efect inhibitor, debilitant, face munca anevoioasă și neplăcută. Robii datoriei eșuează din cauza constrângerii, a virtuților lor și a tiraniei morale a răspunderii. Yoghinul lasă puterile divine să acționeze prin el, eliberându-se astfel de răspunderea pentru rezultat.
+
+### 7.10 *Realizarea de sine*
+
+<sup>1.</sup>Ficțiunea yoghină a „realizării de sine” este un exemplu tipic al felului în care conceptele ezoterice și-au pierdut treptat sensul propriu. În uzul limbii, acestuia îi corespunde folosirea greșită de către cei neinstruiți a unui cuvânt pe care l-au auzit și pe care își închipuie că îl înțeleg. După aproximativ o generație, adesea numai filologii mai știu ce înseamnă cu adevărat cuvântul.
+
+<sup>2.</sup>În cărțile occidentale despre yoga se poate citi că yoghinii urmăresc „să atingă realizarea de sine”. Dacă se dă o explicație a acestui cuvânt, ea este pe cât de vagă, pe atât de înșelătoare. Uneori auzi occidentali declarând că, pentru yoghini, realizarea de sine înseamnă că au dobândit încredere în sine, eliberarea de frică și neliniște, o nobilă indiferență față de orice s-ar putea întâmpla (opusul acelui „nu contează” al ignoranței despre viață), eliberarea de propriile dorințe. Gândind astfel, acești autori au confundat în mod evident mijloacele cu scopurile.
+
+<sup>3.</sup>Yoghinii consideră că „au atins realizarea de sine” când au realizat Sinele, prin care înțeleg că sunt absorbiți în Sinele cosmic, Sufletul universal, Brahman, Absolutul. Ei cred că acest lucru devine posibil după ce au devenit „spirit pur”, eliberându-se de tot ce este material.
+
+<sup>4.</sup>„Atman este identic cu Brahman, este în om Brahman individualizat, care, prin amăgirea simțurilor, a pierdut legătura cu originea sa. Prin yoga, Dumnezeu (Brahman), pierdut în individuație și încarnat, găsește calea înapoi spre sine.”
+
+<sup>5.</sup>„Yoga încearcă metodic să unească omul (atman) cu adevărata sa ființă (brahman).”
+
+<sup>6.</sup>Comună tuturor speculațiilor indiene despre suprafizic este credința că dezvoltarea și-a atins țelul final odată cu omul, că omul este produsul final al „evoluției creatoare”, că sarcina supremă a omului este să atingă stadiul divinității.
+
+<sup>7.</sup>Yoghinii cred că omul poate deveni dumnezeu și că toți marii lor conducători spirituali au făcut acest lucru. Istoria lor religioasă este povestea tuturor oamenilor care au devenit dumnezei. Și mitologia lor abundă în asemenea ființe.
+
+<sup>8.</sup>Desigur, cei care cred că dumnezeii au existență independentă și nu sunt absorbiți în sufletul universal susțin concepții diferite despre ierarhizarea diferiților dumnezei și despre sferele care le constituie lăcașurile.
+
+### 7.11 *Samadhi*
+
+<sup>1.</sup>Potrivit autorităților în yoga, cea mai simplă traducere a termenului „samadhi” este supraconștiința individului. După ele, samadhi este o stare de transă în care individul devine spirit pur, dumnezeu, Brahman sau Absolutul.
+
+<sup>2.</sup>Există diferite tipuri de samadhi, definite diferit de diferitele școli yoga.
+
+<sup>3.</sup>Diferitele tipuri de samadhi ale lui Patanjali au fost împărțite în două categorii principale: samadhi conștient și inconștient. În stările conștiente se disting diferite tipuri de obiecte de studiu pentru meditație. În starea inconștientă se presupune că individul se pierde în supraconștient și devine „spirit pur”.
+
+<sup>4.</sup>Alții consideră că, în samadhi inconștient, individul își pierde continuitatea conștiinței și, când se trezește, nu își amintește nimic din ce s-a întâmplat, dar trăiește de obicei un sentiment de beatitudine inefabilă.
+
+<sup>5.</sup>Desigur, ceea ce se petrece sub acoperirea inconștientului și, prin urmare, a incognoscibilului a făcut obiectul multor speculații. Concepția general răspândită pare să fie că, în această stare, „sufletul” este activ, în timp ce „corpul” se odihnește.
+
+<sup>6.</sup>Unii susțin că starea de transă numită samadhi de yoghini se produce când omul absorbit în cea mai profundă contemplație reușește să-și concentreze conștiința într-un singur punct, astfel încât conștiința sa de veghe dispare. Apoi, pe măsură ce problema care a făcut obiectul analizei meditative este eliberată treptat de tot ce este neesențial și astfel izolată ca idee, semnificația ei, până atunci simbolică, se dezvăluie. Iar aceasta ar depinde de contactul sinelui cu ideea din lumea ideilor. Se presupune că încordarea este atât de mare, încât sinele pierde contactul cu creierul, rezultatul fiind transa.
+
+<sup>7.</sup>Au fost constatate și stări de transă care, fiziologic, sunt mai apropiate de „somnul magnetic”, o stare cataleptică în care activitatea organelor motorii, senzoriale și vegetative, precum și respirația și pulsul sunt reduse la minimum. În această stare, individul nu își amintește ce s-a întâmplat după ce și-a pierdut conștiința de veghe.
+
+<sup>8.</sup>Ca multe alte lucruri la Patanjali, mai multe dintre tipurile de samadhi la care a făcut aluzie sunt încă ezoterice și au fost interpretate cu totul greșit de yoghini. Unele nici măcar nu se aplică ființelor umane, ci indivizilor din al cincilea regn natural. Ca exemplu de interpretare greșită, este suficient să arătăm că starea menționată în secțiunea 1, sutra 16 nu poate fi atinsă de sine decât în cele mai înalte trei lumi ale sistemului solar (43–45).
+
+<sup>9.</sup>Starea supraconștientă din samadhi nu este o singură stare sau una și aceeași pentru toți. Există o lungă serie de supraconștiințe care trebuie stăpânite progresiv de-a lungul întregii evoluții ulterioare, și anume diferitele tipuri de conștiință pasivă din tipurile moleculare și atomice încă neactivate de sine.
+
+<sup>10.</sup>Prin urmare, cuvântul „samadhi” este termenul comun pentru numeroase tipuri diferite de stări de conștiință. Sensul său originar s-a pierdut chiar și pentru cei mai avansați filozofi yoga și nu poate fi definit decât de sinele cauzale și de sine încă mai înalte.
+
+<sup>11.</sup>Adevăratul samadhi cere, în primul rând, capacitatea de a centra monada–sinele în chakra cea mai lăuntrică a creștetului. În samadhi autentic, organismul este pe deplin activ, dirijat de triada cea mai de jos, în timp ce monada, centrată într-una dintre cele trei unități ale triadei a doua, este activă în altă parte, eventual într-una dintre cele trei lumi ale acestei triade.
+
+<sup>12.</sup>Somnul obișnuit se produce când învelișul emoțional, împreună cu învelișurile superioare, părăsește organismul și învelișul său eteric. Din punct de vedere tehnic, samadhi este metoda de a putea face acest lucru în orice moment.
+
+### 7.12 DIFERITE TIPURI DE YOGA
+
+<sup>1.</sup>Cele mai vechi trei metode yoga sunt hatha, bhakti și raja yoga. Hatha yoga are o vechime de aproximativ cincisprezece milioane de ani, bhakti yoga de aproximativ patru milioane de ani, iar raja yoga de aproximativ cincizeci de mii de ani.
+
+<sup>2.</sup>Hatha yoga era metoda lemurienilor, bhakti cea a atlanților, iar raja cea a arienilor. Hatha urmărea perfecționarea organismului, bhakti dezvoltarea conștiinței emoționale, iar raja a conștiinței mentale. Ierarhia planetară a elaborat o metodă nouă, agni yoga, care este încă ezoterică, dar este destinată publicării exoterice atunci când condițiile vor permite (cu siguranță nu înainte de încă o sută de ani). Această yoga urmărește dezvoltarea conștiinței cauzale. Agni yoga a rusoaicei Roerich nu este cea adevărată.
+
+<sup>3.</sup>Indienii, după cum știm, nu sunt interesați de cronologie. Datele pe care au început să le folosească în ultima vreme au fost preluate în mare parte din istoriografia și arheologia occidentale, cu datările lor cu totul greșite, influențate evident din vechime de cronologia evreiască, potrivit căreia lumea a fost creată în anul 4004 î.e.n.
+
+<sup>4.</sup>Se spune că inițiatorul filozofiei raja yoga a fost Patanjali. O autoritate modernă în yoga consideră că el a trăit în jurul anului 150 î.e.n. Aceasta ar fi mult după Buddha, care s-a născut în 643 î.e.n. În realitate, Patanjali a trăit cu vreo nouă mii de ani înaintea erei noastre, al cărei punct de plecare este ceea ce se presupune a fi anul nașterii lui Jeshu.
+
+<sup>5.</sup>Într-o broșură care cuprinde 192 de aforisme în patru secțiuni, Patanjali consemnează ceea ce până atunci fusese transmis oral inițiaților ordinului ezoteric de cunoaștere instituit de Vyasa cu vreo 35.000 de ani mai înainte. Expunerea se baza pe filozofia exoterică sankhya, pe care ierarhia planetară o elaborase cu mult timp înainte pentru elita de atunci a școlilor din templele Atlantidei.
+
+<sup>6.</sup>Există multe la Patanjali care sunt încă înțelese greșit de filozofii yoga. Cunoașterea ezoterică de care se poate abuza trebuie rezervată celor care au renunțat la dorința de a avea ceva pentru ei înșiși în toate încarnările viitoare și și-au consacrat viața slujirii evoluției. Motivul propriei dezvoltări este de a deveni din ce în ce mai competenți pentru această slujire a vieții. Cunoașterea ezoterică oferită într-o măsură tot mai mare căutătorilor eterni începând din 1875 este astfel alcătuită, încât abuzul să fie prevenit pe cât posibil. Ea oferă o cunoaștere generală a existenței, realității și vieții, menită să-i elibereze pe oameni de iluzoriul emoțional și de fictivitatea mentală predominante.
+
+<sup>7.</sup>Cele mai cunoscute metode yoga, care vor fi discutate mai târziu, sunt departe de a fi singurele. Tot mai multe forme de yoga sunt subdivizate în ramuri speciale și nu se întrevede nicio limită a subdivizării ulterioare. Numeroase forme de yoga nu sunt deloc cunoscute în Occident sau sunt cunoscute doar fragmentar, de exemplu mantra, laya, shakti, yantra, dhyana și kundalini yoga. Pentru a putea înțelege însemnătatea acestor metode este necesară o familiarizare aparte cu mentalitatea indiană.
+
+<sup>8.</sup>Mantra yoga se baza inițial pe cunoașterea ezoterică a efectului sunetului. Majoritatea mantrelor (combinații de cuvinte) au devenit inutile acum, când cunoașterea intonației corecte s-a pierdut, din fericire pentru omenire. Potrivit ezotericii, sunetul și energia sunt concepte sinonime în lumile superioare. De aceea puterea supremă era numită „Logos” (cuvântul), iar cursurile de putere ale planetelor și soarelui erau numite „armonia sferelor”. În zilele noastre, yoghinii mantra se ocupă mai ales de ritual, dans de templu și artă.
+
+<sup>9.</sup>Dintre celelalte forme de yoga enumerate, laya yoga se ocupă de vitalizarea chakrelor învelișului fizic-eteric, iar kundalini yoga de experimente pentru trezirea energiei care provine din centrul bazal. Multe autorități în yoga confundă această energie cu cea care provine din chakra sacrală. Metodele respective au făcut nenumărate victime („neghiobii dau buzna acolo unde îngerii se tem să pășească”), în ciuda avertismentelor energice împotriva „jocului cu focul”.
+
+### 7.13 *Diferite tipuri de yoghini*
+
+<sup>1.</sup>Denumirea populară de „yoghin”, dată tuturor indienilor care studiază sanscrita și filozofia indiană, este înșelătoare.
+
+<sup>2.</sup>Yoghinii pot fi împărțiți după numeroase criterii diferite. Împărțirea obișnuită este: yoghini hatha, raja, gnana, bhakti și karma. Dar aceasta este înșelătoare, deoarece mulți practică sistemele unul după altul, până când le-au parcurs pe toate. Alții se specializează într-un singur sistem.
+
+<sup>3.</sup>Ei pot fi împărțiți după motivul lor principal, scopul exercițiilor sau meditațiilor lor. Unii caută să atingă ceea ce ei numesc stadiul divin. Alții năzuiesc la puterea asupra naturii, căutând să devină magicieni.
+
+<sup>4.</sup>În general, yoghinii hatha sunt considerați printre cei care doresc să devină magicieni. Yoghinii raja nu îi consideră yoghini adevărați nici pe aceștia, nici pe cei care predau deopotrivă hatha și raja.
+
+<sup>5.</sup>Trebuie să fie limpede că și yoghinii se află la stadii diferite de dezvoltare și că, mai ales în cazul yoghinilor raja, există numeroase niveluri de dezvoltare în cadrul fiecărui stadiu.
+
+<sup>6.</sup>O categorie aparte de yoghini raja o constituie cei care aparțin așa-numitei Misiuni Ramakrishna, cei mai cunoscuți în Occident și îndeosebi în S.U.A. Mai multe despre aceasta în capitolul următor.
+
+<sup>7.</sup>Pe lângă yoghinii cunoscuți, există și unii necunoscuți chiar și indienilor, care își predau sistemele câtorva aleși, sub cel mai strict jurământ de păstrare a secretului. Nu există nicio perspectivă ca cineva, și cu atât mai puțin „barbarii” occidentali, să intre în legătură cu aceștia.
+
+<sup>8.</sup>De altfel, yoga nu este pentru occidentali. Ei riscă să devină caricaturi.
+
+### 7.14 *Raja yoga a lui Ramakrishna*
+
+<sup>1.</sup>Ramakrishna (mort în 1886) a ajuns să ocupe o poziție de asemenea autoritate ca exponent al yogăi indiene, datorită activității misionare a discipolilor săi în Occident, încât concepția sa despre viață merită tratată într-un capitol separat.
+
+<sup>2.</sup>Ramakrishna le-a transmis numeroșilor săi discipoli propria concepție personală despre viață, propria interpretare a „scrierilor sacre”, propria experiență a diferitelor metode yoga. A înlăturat secretul predominant și și-a încurajat discipolii să-i răspândească învățătura la toate popoarele.
+
+<sup>3.</sup>În ochii discipolilor săi, Ramakrishna era o încarnare a ființei supreme. Ei i-au acordat chiar titlul onorific de Bhagavan (=Domnul Lumii). Acest titlu nu i-a fost acordat nici măcar lui Buddha sau lui Maitreya.
+
+<sup>4.</sup>Subiectiv (din perspectiva aspectului conștiință), el era în multe privințe mai avansat decât au fost majoritatea misticilor creștini. Mulți yoghini raja se remarcă prin faptul că au dobândit, în conștiința lor mentală, capacitatea de a folosi energii mentale despre care occidentalii nu știu nimic și pe care discipolii yoghinului le cred parte a atotștiinței și atotputerniciei cosmice.
+
+<sup>5.</sup>Obiectiv (din perspectiva aspectului materie), Ramakrishna era cu totul neinteresat de asemenea fenomene. El considera că puterile magice ale yoghinilor hatha îl rețin pe individ în fizic și devin obstacole în calea dezvoltării conștiinței sale. Credea că drumul cel mai scurt prin care omul poate ajunge la stadiul divinității este să se concentreze în întregime și exclusiv asupra conștiinței. Pornea de la presupunerea că, stăpânindu-și „forța sufletului”, omul își poate „realiza divinitatea”. Conștiința obiectivă fizic-eterică și emoțională (clarviziunea) pe care a dobândit-o a apărut cu totul automat.
+
+<sup>6.</sup>Ramakrishna a atins stadiul cel mai înalt al atracției emoționale și a intrat în contact cu lumea esențială (46). Dar nu a devenit niciodată un sine cauzal. Pentru a putea pătrunde în lumea esențială și a o percepe este necesară cea mai înaltă conștiință obiectivă cauzală. Nimeni nu poate sări peste vreo lume în dezvoltarea sa. Fiecare lume este menită să facă posibilă dobândirea capacităților necesare evoluției ulterioare. „Natura nu face niciodată salturi.” Dezvoltarea aparent rapidă este, în realitate, redobândirea unui nivel de dezvoltare atins anterior, iar în asemenea cazuri baza corectă a explicației nu este supraconștientul, ci subconștientul.
+
+<sup>7.</sup>Credința yoghinilor că individul intră în samadhi prost și iese înțelept, intră om și iese dumnezeu este, așadar, incorectă.
+
+<sup>8.</sup>Acea stare a lui Ramakrishna pe care discipolii săi o numeau samadhi era capacitatea sa, dobândită prin exercițiu, de a-și părăsi după voie organismul cu învelișul său eteric și de a se mișca liber prin numeroasele regiuni diferite ale lumii emoționale. Se ajunsese chiar până acolo încât adesea îi era greu să rămână în organism. Învelișul său emoțional aluneca spontan în afară, din pură neatenție.
+
+<sup>9.</sup>Așa cum s-a arătat deja, individul aflat la acel stadiu de dezvoltare nu are nicio posibilitate de a judeca în mod corect ceea ce vede în lumea emoțională. Este o axiomă ezoterică aceea că „niciun clarvăzător autodidact nu a văzut vreodată corect”. Iar Ramakrishna era autodidact. El credea că poate explora și judeca totul singur. A respins chiar și oferta unui sine-45 de a i se permite să studieze cunoașterea ezoterică.
+
+<sup>10.</sup>În regiunile cele mai înalte ale lumii emoționale, omul duce o viață imaginativă de o intensitate extraordinară, astfel încât este de înțeles că individul crede că este atotștiutor și atotputernic, că „sufletul său s-a identificat complet cu Brahman”. Yoghinul care a atins stadiul cel mai înalt de samadhi în lumea emoțională va spune atunci despre sine, cu bună-credință: „Eu sunt Brahman”.
+
+<sup>11.</sup>Ceea ce imaginația va lua drept realitate în această stare eliberată de toate criteriile realității se poate vedea din următoarea relatare a lui Ramakrishna.
+
+<sup>12.</sup>„Într-o zi am simțit că spiritul meu zbura spre înălțimile samadhi pe o cale de lumină strălucitoare. Curând a lăsat în urmă lumea stelelor și a ajuns în regiunile mai subtile ale ideilor. Când m-am înălțat și mai sus, am văzut de o parte și de alta a căii formele zeilor și zeițelor. Spiritul meu a ajuns la hotarele cele mai îndepărtate ale acestui ținut, bariera strălucitoare care despărțea sfera existenței relative de sfera absolutului. A trecut de această barieră și a intrat în tărâmul transcendent, unde nu se vedea nicio ființă corporală. Nici măcar zeii nu îndrăzneau să arunce o privire acolo, ci se mulțumeau să locuiască mult mai jos. Dar, o clipă mai târziu, am găsit acolo șapte înțelepți venerabili absorbiți în samadhi...” Totul, o imagine din sferele cele mai înalte ale lumii emoționale!
+
+<sup>13.</sup>Excursia emoțională a lui Ramakrishna amintește de „revelațiile din lumea spirituală” atât ale lui Swedenborg, cât și ale lui Steiner. Toți erau oameni chibzuiți, de mare intelectualitate, cu o vastă orientare și minți pătrunzătoare. Ei și nenumărați alți clarvăzători emoționali confirmă axioma ezoterică potrivit căreia, fără conștiință obiectivă cauzală, nu există posibilitatea de a judeca în mod corect fenomenele lumii emoționale. Toți trebuie să cadă inevitabil pradă iluziilor și ficțiunilor emoționale ale acelei lumi.
+
+<sup>14.</sup>După exemplul dat despre „atotștiința” lui Ramakrishna, se poate da un altul despre „atotputernicia” sa. El suferea de cancer la gât. Un „mare yoghin” venit să-l vadă l-a întrebat de ce nu se vindecă singur, așa cum făceau alți yoghini raja. Ramakrishna a răspuns: „Aceasta este o putere pe care nu i-am cerut-o niciodată mamei mele divine (Kali).”
+
+<sup>15.</sup>Nu încape îndoială că mesajul lui Ramakrishna este superior oricărui lucru produs de Occident în psihologia religioasă. El poate fi numit o sinteză a înțelepciunii indiene despre viață, acumulate în câteva mii de ani. Dar nu este ezoterică. Yoghinii se înșală crezând că pot interpreta ceea ce este ezoteric în Upanișade. Ceea ce este ezoteric nu încetează să fie ezoteric fiindcă a fost publicat. Limbajul simbolic al rishilor rămâne nedescifrat.
+
+### 7.15 *Metodele yoga*
+
+<sup>1.</sup>Occidentalii explorează aspectul materie al existenței în lumea fizică. Yoghinii au explorat aspectul conștiință în lumile fizică și emoțională, iar acest lucru le conferă enorma superioritate în privință „psihologică”.
+
+<sup>2.</sup>În descrierea sa cea mai simplă, yoga este străduința de a activa conștiința fizică, emoțională și mentală. Metodele de activare existente sunt rezultatele a mii de ani de experimente întreprinse de exploratori devotați ai aspectului conștiință, în măsura în care acesta poate fi constatat în conștiința umană. Expunerea următoare a diferitelor metode yoga se bazează în principal pe relatările yoghinilor înșiși și concordă cu concepțiile predominante. Ar trebui să fie evident că aceste metode nu sunt direct potrivite occidentalilor. Dar cercetarea psihologică occidentală are multe de învățat din ele și mai are un drum lung de parcurs înainte de a putea asimila esențialul acestor metode de activare a conștiinței. Și misticii au multe de învățat, deoarece nicio mistică occidentală nu a oferit asemenea material de meditație celor care cred că au găsit în devoțiune calea contopirii cu unitatea vieții.
+
+<sup>3.</sup>La stadiul actual de dezvoltare al omenirii, omul nu este în măsură să dobândească cunoașterea vreunei alte realități decât cea fizică. Drept dovadă stau chiar și cei mai avansați filozofi yoga. Dar, prin experiența lor obiectivă a lumilor eterică și emoțională și, mai ales, prin înțelegerea lor subiectivă a aspectului conștiință în lumile omului, ei au o concepție incomparabil mai corectă despre aceste realități decât teologia, filozofia și psihologia occidentale.
+
+<sup>4.</sup>Superioritatea „spirituală” de până acum a Indiei se va fi încheiat în aproximativ o sută de ani și va veni rândul așa-numiților occidentali să-i învețe pe „orientali” și despre aspectul conștiință. „Ex oriente lux” (lumina vine de la Răsărit) va rămâne întotdeauna valabil, deoarece pentru oamenii din Orient, Occidentul va fi la Răsărit.
+
+<sup>5.</sup>Când filozofii și psihologii occidentali vor fi dobândit în sfârșit „înțelepciunea Orientului”, metodele științifice pe care le-au elaborat își vor dovedi valoarea de realitate mai mare (importanța pentru concepția despre realitate). Ne apropiem de o epocă în care atât de mulți occidentali vor dobândi conștiință cauzală, încât partea noastră de lume va fi eliberată de majoritatea vechilor iluzii emoționale și ficțiuni mentale. Atunci vor vedea și inconsistența ficțiunilor yoga. În India, progresul va fi lent, deoarece se va dovedi considerabil mai dificilă renunțarea la atitudinile mentale moștenite și la atașamentul față de dogmele tradiționale, în multe privințe comune. Până acum, Occidentul nu a avut o concepție despre lume sau despre viață de care să se țină, așa cum au avut indienii timp de mii de ani. Astfel, Occidentul este mai deschis mesajului ierarhiei planetare.
+
+<sup>6.</sup>Ezoterica va înlătura concepțiile predominante în religie, filozofie și știință, în sistemele juridice și financiare. Nu va fi nevoie de niciun „suprastat” când toate popoarele vor accepta Legea drept principiu călăuzitor. Reapariția lui Christos în formă fizică va însemna că ierarhia planetară își reia conducerea spirituală din care a fost înlăturată în Atlantida. Până atunci, destui oameni vor fi dobândit bun-simț și vor fi înțeles inconsistența idiologiilor dominante.
+
+<sup>7.</sup>Prin metodele lor de activare, yoghinii reușesc să stăpânească atât conștiința de veghe emoțională, cât și pe cea mentală. Această putere de stăpânire o numesc ei „voință”, care este, așadar, capacitatea conștiinței de a fi activă în general și de a influența materia învelișurilor sale. Cei care își stăpânesc conștiința mentală au dobândit „voință mentală”, în care motivul constituie elementul de voință al activității mentale. Cu cât tipul molecular este mai înalt, cu atât tipul de conștiință este mai înalt, efectul lui dynamis mai puternic și „voința” mai puternică.
+
+<sup>8.</sup>Ceea ce se numește „cultivarea voinței” presupune dobândirea încrederii în sine și a autodeterminării, întemeiate pe o concepție elaborată și integrată despre lume și despre viață, precum și controlul conștient al conștiinței emoționale și mentale.
+
+<sup>9.</sup>Yoghinii doresc să dobândească „eliberarea”. Cuvântul „eliberare” poate desemna lucruri diferite: eliberarea de frică, neliniște și incertitudine, de renaștere și, în cazul yoghinilor de tipul cel mai înalt, eliberarea de dependența sinelui față de învelișurile sale de încarnare, cu iluziile și ficțiunile lor. Hotărârile bune ale sinelui trezesc numai o opoziție categorică în învelișurile sale, cu obiceiurile și tendințele lor înrădăcinate, moștenite din numeroase încarnări, amplificate de vibrațiile opiniei publice care străbat în masă învelișurile. Eliberarea începe când sinele înțelege că învelișurile sale nu sunt el însuși, că învelișurile, prin obiceiurile lor organizate în „natură”, se opun înțelegerilor nou dobândite ale sinelui. Noile învelișuri emoțional și mental nu sunt cu totul noi. Vibrațiile constante („obiceiuri, tendințe”) din învelișuri rețin în jurul primei triade anumiți atomi („skandhas”) care o însoțesc într-o nouă încarnare.
+
+<sup>10.</sup>Ezoteric, evoluția sinelui este un proces continuu de identificare și eliberare. Copilul nu mai este atras de jucăriile sale de îndată ce capătă alte interese. Trăind experiențe și prelucrându-le viață după viață, omul învață să exploreze și să stăpânească, unul după altul, domeniile realității în privință fizică, emoțională și mentală. Când s-a dezvoltat până într-atât încât începe să se preocupe de sensul și țelul vieții și dobândește cunoașterea lor, viața sa ia în cele din urmă o altă direcție, o străduință conștientă de dezvoltare a conștiinței. În India, atunci devine yoghin.
+
+<sup>11.</sup>Yoga este tipică pentru hotărârea concentrată într-o singură direcție a celor care au început să lucreze la realizarea de sine. Prin aceste metode, ei își accelerează considerabil dezvoltarea personală. Cât de repede va ajunge individul la stadii superioare depinde, desigur, de nivelul de dezvoltare atins. Nimeni nu poate omite vreun stadiu de dezvoltare, fiindcă fiecare stadiu este necesar dobândirii calităților cerute pentru atingerea stadiului imediat superior și a înțelegerii vieții corespunzătoare acestuia.
+
+<sup>12.</sup>Popularizarea domeniilor de cunoaștere explorate metodic și sistematic implică riscuri. Când lipsa obișnuită de judecată primește o orientare superficială și, astfel, o noțiune vagă despre subiect, se crede pe dată în stare să priceapă, să înțeleagă și să judece. Așa s-a întâmplat, desigur, cu yoga indiană și cu tot ce este ezoteric. Acest lucru s-a văzut și la scriitorii care au tratat aceste chestiuni fără a avea înțelegerea necesară. Prin popularizarea lor au reușit să idiotizeze totul, transformându-l într-o concepție greșită iremediabilă, care se răspândește în cercuri tot mai largi. Dificultatea constă în găsirea unei căi de mijloc între abordările prea superficiale și cele prea specializate, astfel încât oamenii să-și facă o idee despre subiect, dar să vadă totuși că știu prea puțin pentru a putea judeca sau a-și exprima o părere.
+
+<sup>13.</sup>Metodele yoga pot fi împărțite în fizice, emoționale și mentale.
+
+<sup>14.</sup>În cele ce urmează vor fi discutate cele mai vechi și mai cunoscute metode de activare: hatha și raja yoga, gnana, bhakti și karma yoga.
+
+<sup>15.</sup>Hatha yoga este metoda pronunțat fizică, bhakti cea emoțională, iar raja și gnana yoga sunt metodele mentale. Karma yoga (yoga acțiunii), odată înțeleasă corect în India, îl va face pe individ să uite de propria neînsemnătate comică, de propria „dezvoltare” etc. și să trăiască exclusiv pentru a sluji evoluția. Astfel, toate calitățile și capacitățile necesare se dezvoltă automat și în modul cel mai rapid. A trăi pentru propria dezvoltare întărește iluzoriul.
+
+### 7.16 *Hatha yoga*
+
+<sup>1.</sup>Hatha yoga se caracterizează prin orientarea mai degrabă spre aspectul materie decât spre aspectul conștiință al existenței și prin interesul exclusiv pentru viața fizică. Conștiința este privită drept un mijloc de a stăpâni organismul cu energiile sale eterice.
+
+<sup>2.</sup>Mulți yoghini practică hatha alături de raja pentru a da organismelor lor cea mai mare vigoare posibilă și a practica astfel raja yoga mai eficient. Aceștia nu sunt însă socotiți printre yoghinii hatha propriu-ziși, al căror scop este controlul materiei fizice (magia).
+
+<sup>3.</sup>Aici se poate arăta că expresia yoghinilor „a suspenda legile naturii” este înșelătoare. Nicio lege a naturii (care exprimă energii cu acțiune imuabilă și constantă) nu poate fi vreodată „suspendată”. Forța de propulsie mai mare a avionului suspendă temporar efectul atracției terestre, nu însă legea gravitației însăși.
+
+<sup>4.</sup>Metoda hatha yoga include exerciții de respirație pentru dobândirea controlului asupra funcțiilor sistemului nervos simpatic (care necesită apoi o supraveghere constantă), precum și asupra mușchilor și organelor organismului. Acest tip de yoga s-a dovedit catastrofal pentru occidentali, cu condițiile lor fiziologice și psihologice cu totul diferite.
+
+<sup>5.</sup>Yoghinii raja au deplină dreptate când arată că yoghinii hatha nu numai că își neglijează dezvoltarea emoțională și mentală, ci și ajung într-un impas, devenind tot mai mult victimele iluziei lor emoționale că viața fizică este ceva demn de urmărit în sine. Țelul omului este dobândirea conștiinței în învelișul său cauzal. Odată cu aceasta vine și stăpânirea materiei din lumile omului.
+
+<sup>6.</sup>Yoghinul hatha lucrează indirect asupra conștiinței, prin organismul său. Yoghinul raja pornește direct de la conștiință.
+
+<sup>7.</sup>Yoghinul hatha dobândește stăpânirea conștiinței învățând să controleze vibrațiile corpului său fizic. Metodic, pas cu pas, el dobândește controlul asupra diferitelor funcții corporale, una după alta. Desigur, își îngrijește rațional corpul în toate privințele, urmând un regim vegetarian strict și fiind atent la curățenie și somn. Se folosește multă apă atât în interior, cât și în exterior.
+
+<sup>8.</sup>Mai întâi, corpul este antrenat astfel încât yoghinul să poată domina toți mușchii corpului, să influențeze circulația sângelui, să reducă percepția corpului etc. Aceasta se face în parte prin adoptarea mai multor poziții șezânde diferite, în parte prin obligarea corpului, chiar și a ochilor, să rămână absolut nemișcat; nu sunt îngăduite nici măcar mișcări involuntare, precum clipitul. Se consideră că neliniștea ochilor este suficientă pentru a provoca neliniștea minții. Chiar și fachirul cel mai obișnuit se va fi antrenat să fie cu totul insensibil la durerea fizică și neclintit în fața suferinței emoționale.
+
+<sup>9.</sup>Fiecare mișcare, fiecare manifestare a conștiinței consumă putere. Practic, nu suntem niciodată nemișcați, nici fizic, nici emoțional, nici mental. Împiedicând această imensă risipă de energie, yoghinul acumulează rezerve de energie pe care le poate folosi în felurite moduri, nu în ultimul rând pentru a trezi germeni latenți ai capacităților și a dezvolta puteri necunoscute individului normal.
+
+<sup>10.</sup>Statuile egiptene arată poziția șezândă cea mai bună pentru occidentalii care doresc să folosească ceea ce le este valoros în yoga: spatele liber și drept, pieptul ridicat, palmele așezate pe genunchi, coatele trase înapoi, călcâiele lipite, degetele picioarelor îndreptate în afară. Un exercițiu pregătitor sănătos este următorul. Așază-te într-o poziție șezândă cât mai comodă și rămâi astfel, să zicem, o jumătate de oră în fiecare zi. Atenția este folosită pentru a verifica dacă totul rămâne nemișcat. Poți gândi rar cuvântul „calm” până când simți calmul răspândindu-se prin corp și simți că nu ești afectat de nicio impresie.
+
+<sup>11.</sup>Din punct de vedere vibratoriu, totul constă din vibrații. Întreaga viață este alcătuită din diferite tipuri de ritm. Tot ce există în natură are propria frecvență de vibrație. Yoghinul aplică această înțelegere organelor și funcțiilor corpului său, gândurilor, sentimentelor și celorlalte manifestări ale vieții sale. Yoghinul învață să controleze lucrurile descoperindu-le ritmurile. În această privință, el pornește de la respirație, din care s-a făcut o știință de sine stătătoare. Prin exerciții de respirație, yoghinul aduce sistemul nervos simpatic sub controlul atenției, extinzându-și treptat controlul asupra proceselor din alte organe și nervi, inclusiv asupra celor care funcționează automat. Funcționarea lor va depinde apoi de atenție, revenirea la activitatea automată fiind imposibilă. El descrie acest lucru potrivit concepției sale particulare: prin prana care se află în respirație, se poate învăța controlul pranei în general (energia universală a tot ceea ce există) și, prin aceasta, controlul asupra akashei („materia primordială”) și a oricărei alte materii.
+
+<sup>12.</sup>Următoarele observații despre respirație ar trebui să-i intereseze pe occidentali. Abia un procent dintre oameni respiră în mod cu totul natural. Ritmul s-a pierdut.
+
+<sup>13.</sup>Mușchiul de la baza plămânilor (diafragma) ar trebui tras în sus în timpul inspirației, însă la majoritatea oamenilor acest mușchi este inactiv. Mulți îl împing în jos, comprimând și mai mult organele deja prea înghesuite. În inspirația corectă, întregul piept se ridică și, odată cu el, toate organele interne, fiind astfel exersate și organele digestive, ceea ce este foarte necesar.
+
+<sup>14.</sup>În mod normal, respirăm de 16–18 ori pe minut, bătăile pulsului fiind de patru ori mai numeroase. La zece respirații pe minut, creierul este limpede, iar munca intelectuală devine mai ușoară. La trei respirații, toate vibrațiile corpului se armonizează. Yoghinul își reduce respirația la o singură respirație pe minut, ceea ce face posibilă concentrarea intensă.
+
+<sup>15.</sup>Efectul respirației poate fi constatat cu ușurință în diferite privințe. Muzica marțială, culoarea roșie etc. accelerează respirația. După un interval de respirație rapidă (aproximativ 26 de respirații pe minut), senzația de durere se reduce. Când respiri lent (10 respirații pe minut), nu te poți agita, irita sau enerva.
+
+<sup>16.</sup>Nimeni nu ar trebui să înceapă vreun fel de exerciții de respirație decât sub îndrumarea unui învățător cu adevărat competent. Cea mai mică greșeală într-o tehnică extrem de complicată poate fi dezastruoasă, după cum mărturisesc nenumăratele victime din India și din alte părți. De altfel, pentru întreaga practică yoga este valabil că nimeni care nu este perfect sănătos în toate privințele nu ar trebui s-o înceapă. Solicitarea este enormă (un joc cu forțe necunoscute), iar cei cu o constituție fizică slabă sau cu nervii slabi vor deveni curând inapți pentru viață.
+
+### 7.17 *Raja yoga*
+
+<sup>1.</sup>Raja yoga se ocupă de aspectul conștiință al existenței, întinzându-se, în partea sa ezoterică, mult dincolo de conștiința din lumile omului. Ar exista o anumită justificare pentru a o numi „știința atenției”.
+
+<sup>2.</sup>Ca în tot ceea ce privește conștiința și dezvoltarea ei, individului îi revine să-și găsească propria metodă. El poate studia metodele altora pentru a se orienta, dar trebuie să-și elaboreze propria metodă potrivit caracterului său individual, capacităților dobândite anterior la nivelul său de dezvoltare. Nevoia aceasta apare rareori înainte ca individul să se apropie rapid de stadiul culturii.
+
+<sup>3.</sup>Raja yoga presupune o activare a conștiinței practicată sistematic într-un proces continuu de gândire. Rezultatele obținute în mod normal sunt: controlul conștiinței, autodeterminarea, dobândirea unei personalități, înnobilarea emoționalității până la stadiul sfântului.
+
+<sup>4.</sup>Procesul gândirii însuși a fost împărțit în patru stadii: concentrare, meditație, contemplație și iluminare. Se poate spune că al patrulea stadiu se învecinează cu metodele ezoterice, dar există riscul ca atingerea iluminării să nu însemne o cunoaștere sporită a realității, ci numai găsirea unui simbol interpretat greșit.
+
+<sup>5.</sup>Controlul conștiinței se dobândește prin supravegherea conținutului conștiinței de către atenție.
+
+<sup>6.</sup>Omul obișnuit, neantrenat, trăiește într-un haos al conștiinței alcătuit din impresii senzoriale, sentimente, gânduri, dorințe, năzuințe, dispoziții, manifestări ale voinței. Cea mai mare parte a conținutului acestui haos curge din depozitul memoriei, care a acumulat toate iluziile și ficțiunile cu care individul a fost hrănit. Acest haos al conștiinței necontrolate înseamnă o enormă risipă de energie fizică, emoțională și mentală.
+
+<sup>7.</sup>Yoghinul a ajuns la acel stadiu de dezvoltare în care vede cât de lipsită de sens, de irațională este o asemenea „viață interioară”. El a putut constata că cea mai mare parte a suferinței umane se datorează simțirii și gândirii necontrolate ale imaginației. În el se trezește nevoia de control al conștiinței și, de asemenea, dorința de a decide singur ce să se afle în conștiința sa, ce tipuri moleculare și vibrații să existe în învelișurile sale.
+
+<sup>8.</sup>Controlul conștiinței începe prin îndreptarea atenției asupra conținutului conștiinței. Atenția urmărește întregul joc al asociațiilor, relaxat și impersonal, până când, într-o zi, această supraveghere a devenit automată și rătăcirea conștiinței a încetat. El își poate menține atenția asupra oricărui lucru dorește, atât timp cât hotărăște singur, și va putea în cele din urmă să decidă ce va percepe, vedea, auzi, simți, gândi. Asemenea spartanului, devine insensibil la durerea fizică; asemenea stoicului, rămâne neclintit în fața oricărui motiv de mâhnire în viață, a oricărui atac al urii și moralismului. Prin analiză, elimină toate complexele inutile vieții care se află în subconștientul său și le formează pe cele care promovează viața, care fac posibile reacții automate de tipurile pe care le va decide singur. Se transformă în idealul pe care și l-a fixat.
+
+<sup>9.</sup>Concentrarea este menținerea atenției asupra unui anumit lucru. Meditația presupune o analiză concentrată a tuturor relațiilor legate de acest subiect. Contemplația implică izolarea problemei până când începi să vezi ideea și poți concentra atenția asupra acelui singur punct. Dacă activitatea încetează atunci, există riscul de a adormi sau de a cădea într-o transă obișnuită. Dacă activitatea poate fi menținută suficient de mult, vine iluminarea, iar individul va găsi ceea ce a căutat.
+
+<sup>10.</sup>Meditația este necesară pentru transformarea subconștientului și integrarea învelișurilor; contemplația, pentru activarea conștiinței pasive din tipurile moleculare supraconștiente și pentru încorporarea lor de către conștiința de sine în capacitatea conștiinței.
+
+<sup>11.</sup>Prin metoda raja yoga crește capacitatea vibratorie a diferitelor tipuri moleculare – conștiente sau supraconștiente – ale diferitelor învelișuri și se dobândesc capacități emoționale și mentale superioare.
+
+<sup>12.</sup>Activarea conștiinței în tipurile moleculare emoționale superioare se realizează în modul cel mai firesc și mai puțin periculos prin meditație asupra tuturor calităților nobile, una după alta. Individul dobândește aceste calități nobile fiind influențat, la rândul său, de vibrațiile tipurilor moleculare emoționale superioare. Când conștiința de sine se poate menține în aceste conștiințe, ea dobândește automat capacitatea impulsului atractiv și înlătură toate tipurile de manifestări de ură ale impulsului repulsiv, care au dominat până atunci viața emoțională. Când sinele se poate menține în conștiința emoțională cea mai înaltă (48:2), individul este ceea ce mistica creștină numește un sfânt.
+
+### 7.18 *Gnana yoga*
+
+<sup>1.</sup>Gnana yoga urmărește activarea conștiinței mentale. Yoghinul gnana ar putea fi numit un psiholog și filozof indian într-o singură persoană. A fi yoghin nu înseamnă însă că metoda a produs rezultatul dorit sau că ai rezolvat problemele respective. Pentru orice succes real este necesar, în orice caz, ca yoghinul să fi atins anterior stadiul emoțional superior (48:2) prin raja yoga și să fi trecut astfel automat la stadiul mental superior (47:5).
+
+<sup>2.</sup>La acest stadiu, individul se apropie de sfârșitul șederii sale în regnul uman. În viețile trecute, el a văzut dincolo de iluziile emoționale ale omenirii și a putut vedea cum ficțiunile ei mentale au fost înlăturate într-un șir neîntrerupt. Ipotezele cu care încă trebuie să se mulțumească, în lipsa datelor ezoterice, sunt cârjele cu ajutorul cărora se târăște înainte. El este pe deplin conștient de enorma ignoranță a omenirii în privința vieții. „Instinctul” său subconștient înnăscut l-a ajutat să înlăture cea mai mare parte a ceea ce oamenii cred că știu.
+
+<sup>3.</sup>Fără date ezoterice însă, nici măcar yoghinul nu poate scăpa de ficțiunile devenite „axiome” în gândirea indiană. Aceste „axiome” includ metempsihoza, o concepție greșită despre karmă, omul ca produs final al evoluției și posibilitatea omului de a deveni dumnezeu.
+
+<sup>4.</sup>Capacitatea sa de conștiință de perspectivă îi permite să încorporeze celelalte sisteme speculative în sistemul său mental, într-o sinteză superioară, dar aceasta nu îi este de ajuns pentru a atinge gândirea sistemică dobândită prin concretizarea ideilor cauzale.
+
+<sup>5.</sup>Yoghinul gnana începe adesea prin a învăța să deosebească „sinele de non-sine”. Filozoful german Fichte folosea această expresie pentru a subiectiviza opoziția dintre conștiință și lumea exterioară. Construcția yoghinului se referă la opoziția dintre sine și învelișurile sale, mai exact dintre sine și percepțiile senzoriale, sentimente, gânduri. El va sublinia că percepțiile sale senzoriale nu sunt sinele său, că sentimentele sale nu sunt adevărata sa ființă, că gândurile sale, deși sunt tipul său cel mai înalt de conștiință, nu sunt sinele său, ci sinele este ceea ce poate observa și folosi aceste conștiințe.
+
+<sup>6.</sup>Pentru că țelul yoghinului este întotdeauna „Absolutul”, el folosește orice cale posibilă pentru a-l atinge. Poate lăsa sentimentul său de sine să cuprindă treptat tot mai mult: familia, rudele, casta, națiunea, omenirea, întregul cosmos. Astfel ajunge într-o stare în care se crede identic cu Brahman. Și yoghinul bhakti folosește o metodă asemănătoare. Dar, în timp ce bhakta urmează calea extazului, yoghinul gnana folosește adesea un sistem de ficțiuni.
+
+<sup>7.</sup>Tipică indianului este încrederea instinctivă în viață. Ca pentru mistic, adevărul este o stare în care este convins că știe, fără a putea explica în ce fel sau de ce știe. Pentru gnani, a cunoaște devine același lucru cu a fi. Dar termeni simbolici ca aceștia devin inteligibili abia la stadiul sinelui-45.
+
+<sup>8.</sup>Gnani se orientează spre „Absolut”, pe care crede că îl va atinge eliberându-se, în contemplația supremă, de toate atributele aspectului materie (formă, timp, spațiu, cauzalitate etc.). Dacă reușește, ajunge într-o stare în care imaginația sa „emancipată” este atotputernică și îl face spirit pur, Brahman, Absolutul, orice dorește.
+
+<sup>9.</sup>În toate cele 49 de lumi atomice ale cosmosului există spațiu, timp, materie, energie, conștiință, conformitate cu legea. Dar acestea sunt cu totul diferite în diferitele lumi, astfel încât noul venit într-o lume superioară crede că lipsesc până când a învățat să înțeleagă modurile cu totul noi în care există și acționează. Ezotericianul trebuie să învețe să nu folosească concepțiile aduse cu sine, să nu-și imagineze lucrurile dinainte, fiindcă aceasta face imposibilă dobândirea percepției corecte.
+
+<sup>10.</sup>Relatările yoghinilor arată că nu au fost în contact cu realitatea, ci au trăit în întregime în conștiința lor subiectivă.
+
+<sup>11.</sup>În încheiere, yoghinii înșiși vor vorbi și își vor prezenta concepția. Limbajul lor este unul pe care îl va înțelege și misticul.
+
+<sup>12.</sup>Unitatea este realitatea, este puterea, armonia, activitatea concertată. În afara unității, puterea este scindată și se contracarează singură prin autoamăgire și afirmare de sine în toate nenumăratele forme ale sinelui. Când sinele încetează să fie o parte a unității, intră în opoziție cu unitatea și se afirmă în detrimentul unității, ruinându-se.
+
+<sup>13.</sup>Unirea conștiinței individuale cu conștiința unității se desfășoară treptat, prin expansiunea sinelui până la a cuprinde tot mai mult. Yoghinul este martorul unui proces prin care individul asimilează universalul în sine. Separarea încetează pentru oricine intră în unitate și orice opoziție dintre mine și tine, sine și non-sine, sine și acel lucru încetează. Gnani renunță la toate dorințele pentru sine, la toate gândurile care ar duce la separare și se uită pe sine ca individ. Se eliberează de dogme și de concepțiile tradiționale. Rămâne neatins de bucurie și durere, fericire și suferință, bine și rău, viață și moarte. Toate stările personale care conțin vreun element de egocentrism sau de posesiune sunt anihilate.
+
+<sup>14.</sup>Înainte de aceasta, el va fi dobândit calitățile pe care le-a considerat dezirabile, luându-le pe rând, examinându-le toate aspectele în orice legătură imaginabilă, trăind necontenit în imaginație perfecțiunea lor, până când au prins formă în conștiința sa, au devenit expresia naturii sale, factori hotărâtori în complexele subconștiente, pur și simplu există și se fac simțite spontan ca factori dominanți în viața sa activă, fără să le mai acorde atenție.
+
+<sup>15.</sup>Nu poți deveni ceea ce nu ești. Pentru yoghin, realizarea de sine este o străduință metodică de a-și transforma posibilitățile divine în realități. Dar el face acest lucru drept sacrificiu adus divinității, ca expresie a înțelepciunii divine, ca semn că voința divină a fost pusă să lucreze în el. Posibilitățile individului nu au limite. Viața răspunde încrederii noastre în ea, fiindcă nu poate înșela niciodată. Caută să devii perfect și vei deveni.
+
+<sup>16.</sup>Cunoașterea spre care yoghinul năzuiește instinctiv este o identificare a conștiinței, astfel încât el devine realitatea în același fel în care este propria sa conștiință. Asemănătorul nu este cunoscut decât de asemănător. Omul este în esență divin. A te cunoaște pe tine însuți înseamnă să devii tot mai conștient de posibilitățile tale divine. Așa cum viața este eternă și își schimbă numai forma, tot astfel și individul este nepieritor. Cea mai mare greșeală pe care o putem face este să ne numim păcătoși și iremediabil răi. Suntem imperfecți, fiindcă ne aflăm încă pe drumul spre perfecțiune, țelul pe care toți îl vor atinge în cele din urmă. Omul se limitează afirmând că nu înțelege nimic, că nu poate face nimic. Prin aceasta își taie singur legătura cu divinul.
+
+<sup>17.</sup>Yoghinul gnana învață să descopere superiorul în inferior, divinul în uman, învață să spiritualizeze banalul. Adevărata natură a existenței i se dezvăluie oricui caută să descopere unitatea în toate lucrurile. Ea se dezvăluie în conștiința noastră, dacă îi folosim puterile în modul corect. Vizibilul își are corespondentul superior. Pieritorul este un simbol, o parabolă, trecătorul o asemănare a eternului. Urmând pas cu pas această analogie universală (precum jos, așa și sus), individul învață să vadă dincolo de aparență, să dea deoparte văl după văl de pe arhetipul ascuns în spate.
+
+### 7.19 *Bhakti yoga*
+
+<sup>1.</sup>Bhakti yoga este una dintre metodele de activare a conștiinței emoționale superioare. Este metoda cea mai potrivită celor care aparțin departamentului al șaselea și cea care corespunde cel mai îndeaproape concepției despre viață a misticilor occidentali. Bhakta atinge stadiul emoțional cel mai înalt și, astfel, pe cel al sfântului.
+
+<sup>2.</sup>Concepția despre viață a acestei forme de yoga cu greu poate fi exprimată mai bine decât prin concepțiile tipic indiene care au devenit dragi și multor mistici occidentali.
+
+<sup>3.</sup>Bhakti yoga este calea devoțiunii. Toate formele de viață, vii sau aparent moarte, sunt revelații ale divinului. Învățând să le iubească și să le venereze pe toate, yoghinul caută să se contopească cu unitatea și cu divinitatea.
+
+<sup>4.</sup>Găsim ceea ce căutăm. Vedem în lume ceea ce ne umple mintea. Cei lipsiți de iubire nu văd în lume decât răul și faptul că oamenii sunt răi. Cei care urăsc descoperă ura pretutindeni și găsesc necontenit motive noi de ură. Se tem de tot, se mânie pe tot, disprețuiesc totul. Descoperă numai greșeli și neajunsuri în tot și în toți. Nu pot vedea binele.
+
+<sup>5.</sup>Asemănătorul este cunoscut de asemănător. Potrivit lui bhakta, omul bun nu poate descoperi nimic rău, fiindcă în el nu există rău. Pentru omul care devine bun, tot răul dispare și lumea este ca transfigurată. El este înălțat în sfere unde va vedea numai ce este mai bun în oameni, unde nu îl vor mai atinge vibrațiile lor negative. Un asemenea om știe că totul este bun.
+
+<sup>6.</sup>Iubirea omenească este întotdeauna întinată de un anumit fel de egoism, de dorința de a poseda. „Iubirea divină” este trăirea unității inseparabile a întregii vieți, care nu poate fi pierdută niciodată. Oricine a perceput unitatea a trăit un alt fel de fericire decât cea omenească: a putea dărui și numai dărui și a se uita pe sine dăruind și slujind. După aceea nu mai poate face altceva. Vrea, trebuie să iubească. Trăiește pentru a iubi.
+
+<sup>7.</sup>Iubirea nu cunoaște limite. Nu are nevoie de un motiv pentru a iubi. Găsește iubirea revelată pretutindeni. Puterea iubirii inepuizabile umple mintea care este dispusă să se lase umplută. Iubirea nu are nevoie de o dovadă a existenței lui dumnezeu, căci vede dumnezeirea iubirii în toate. Cum ar putea dumnezeu să fie altceva decât iubire? Orice nu ar fi iubire ar fi incompatibil cu natura sa.
+
+<sup>8.</sup>Iubirea nu cunoaște târguiala. Nu dorește, nu invidiază, nu se mânie, nu își urmărește propriile scopuri. Nu simte repulsie față de nimic. Este atrasă de tot și atrage ea însăși totul. Iubirea nu încetează niciodată.
+
+<sup>9.</sup>Oricine a trăit această iubire nu iubește de dragul său sau al altcuiva, ci fiindcă totul este cuprins în unitate, totul este unitate. În tot ce ne trezește dorul și ne bucură se revelează unitatea. În tot ceea ce ne atrage – fie lucruri, animale sau oameni – unitatea a fost adevărata cauză a atracției, acționând în noi și în toate, astfel încât să putem iubi și să fim iubiți.
+
+<sup>10.</sup>Calea spre unitate trece prin atracția sentimentului, prin simpatie, afecțiune, dor, devoțiune, venerație. Oricine îngrijește cu atenție și tandrețe aceste sentimente care încolțesc încet va descoperi cu bucurie cum îi dau o înțelegere tot mai mare, îndemn la acțiune și capacitatea de a ajuta în modul corect. Învățând să vadă și să admire ceea ce este măreț în om, nu doar descoperind, ci și făcând să iasă la iveală binele din oameni, îndreptându-le atenția spre ceea ce este mai bun în ei înșiși, cel devotat intră în contact cu acele puteri ale unității care îl atrag spre unitate și trezesc divinul din el pentru a adora divinul din afara lui, fiindcă natura divinității este adorația. Nu mai are nevoie să caute obiecte ale iubirii sale în lucrurile care îl înconjoară și în cele care i se întâmplă. Trăiește unitatea direct și spontan.
+
+<sup>11.</sup>Yoghinul bhakti are o atitudine pozitivă față de tot. Pentru el, toate lucrurile sunt divine. Nu are nevoie să speculeze asupra naturii divinului când totul manifestă divinul și el însuși trăiește divinul, nu poate adăposti altceva decât divinitatea, nu poate fi altceva decât divinitatea.
+
+<sup>12.</sup>Yoghinul îi învață pe alții că se poate ajunge la divinitate venerând-o în formă personală sau fără nume și formă, dar că majorității oamenilor le este mai greu să înțeleagă impersonalul.
+
+<sup>13.</sup>Dacă yoghinul își imaginează calitățile divinului sub forma unei personalități, înzestrează divinitatea cu cele mai înalte calități pe care le poate concepe, cu tot ce poate fi admirat, adorat și venerat. El trăiește această divinitate în imaginație, o vizualizează până când o vede în formă vie într-un acces de clarviziune emoțională spontană. De regulă, imaginile zeilor din temple sunt puternic magnetizate. Vibrațiile rugăciunii arzătoare, ale meditației evlavioase, ale dorului extatic impregnează imaginile atât cu materie eterică, cât și cu materie emoțională. Mulțimile de adoratori zilnici vitalizează tot mai puternic acest elemental puternic, aflat la limita vizibilității. Dorința intensă de a ajunge „să-l vezi pe dumnezeu” este de ajuns pentru a vedea elementalul. Zeul sau zeița îi zâmbește binevoitor adoratorului. „Sentimentul prezenței lui dumnezeu” al misticilor este provocat tocmai de această acțiune reciprocă dintre un elemental emoțional format de ei înșiși, intens viu, și misticul însuși. Elementalul devine un însoțitor inseparabil. Acesta este, desigur, numai un avantaj pentru cei care au nevoie de acest sentiment. El ridică vibrațiile emoționale în sfera vibrațiilor atractive.
+
+<sup>14.</sup>Oricine „a intrat în unitate” și a fost umplut de divin pierde în cele din urmă nevoia de limitare care constă în restrângerea acestor calități divine la o singură persoană, oricât de puternică ar fi ea. Forma pe care a venerat-o se destramă sau el își transferă venerația asupra tot mai multor forme, până când toate revelează aceleași calități și emoția nu mai depinde de formă. Atunci va fi dispărut și elementul personal-egoist din adorator.
+
+<sup>15.</sup>Adesea, yoghinul păstrează forma pentru a avea cu atât mai multe prilejuri de venerație și în exterior și de a trăi divinitatea în orice relație imaginabilă a vieții. Îl concepe pe dumnezeu drept tată și mamă, frate și soră, fiu și fiică etc. Intră în toate aceste relații de iubire pentru a-și îngădui mai multă iubire față de mai multe lucruri. Unitatea se manifestă și în prietenie. Simpatia, siguranța, încrederea pe care le simte față de un prieten îi dau noi prilejuri de comparație, noi posibilități de asociații și trăiri emoționale. În respectul și deferența subordonatului față de superiorul său, în grija și răspunderea acestuia din urmă față de subordonatul său se găsesc alte posibilități de a descoperi unitatea. Orice fel de iubire, dorință, dor este pentru yoghin o manifestare a atracției divine a individului spre unitate. Această stare poate fi descrisă uneori drept nebunie divină, devoțiune și venerație nemărginite față de divinul din toate. Astfel, Ramakrishna cădea în genunchi înaintea unei prostituate pe stradă, adorând-o asemenea unei zeițe. Divinul se revelează și în nenorociri, pierderi și suferință, iar cel lovit le privește pe toate drept prilejuri binevenite de a aduce acest sacrificiu de adorație.
+
+<sup>16.</sup>Pentru cel devotat, fiecare formă nouă este o nouă posibilitate de a descoperi și adora divinitatea care se află în toate și fără de care nimic nu ar exista.
+
+### 7.20 *Karma yoga*
+
+<sup>1.</sup>Karma yoga poate fi descrisă cel mai bine drept „yoga acțiunii”; cunoaștere, înțelegere și pătrundere puse în practică într-o viață de slujire. Ceea ce din vechime a fost numit „karma yoga” ar trebui, de fapt, numit „dharma yoga”, calea îndeplinirii datoriei. Slujirea cu uitare de sine este calea dobândirii întregii cunoașteri necesare.
+
+<sup>2.</sup>Unele autorități consideră că odinioară karma yoga includea hatha yoga și laya yoga (știința chakrelor). Concepții divergente, ca de obicei.
+
+<sup>3.</sup>Potrivit ierarhiei planetare, atitudinea de slujire față de viață este calea cea mai ușoară, mai sigură și mai rapidă spre al cincilea regn natural. Toate regnurile capabile de aceasta au drept sarcină primordială a vieții slujirea celor aflați la stadii inferioare de dezvoltare, astfel încât aceștia să poată ajunge la unele superioare. Fără un asemenea ajutor nu ar exista evoluție sau evoluția ar dura enorm de mult. „Cel care dă va primi.” Cei care slujesc dezinteresat omenirea primesc tot mai multe prilejuri de a o face. Slujirea însăși dezvoltă toate calitățile și capacitățile necesare, eliberează de iluziile emoționale și de ficțiunile mentale.
+
+<sup>4.</sup>Yoghinul karma nu adună bani, asemenea celor lacomi, numai pentru a-i lăsa prin testament unor „cauze caritabile” mai mult sau mai puțin vrednice de acest nume, când nu se mai poate bucura de avere. Totuși, el nu disprețuiește bogăția și puterea. Dimpotrivă, le recunoaște importanța cât timp omenirea este dominată de asemenea iluzii. Va folosi acești factori de putere pentru a sluji evoluția în modul cel mai eficient.
+
+<sup>5.</sup>Karma yoga este probabil forma de yoga care îi atrage cel mai puțin pe indieni, care au în mare parte o atitudine pasivă față de viață, dar cea mai potrivită occidentalilor.
+
+<sup>6.</sup>Karma yoga este, așadar, yoga acțiunii, acțiunea ca expresie a voinței. Acțiunea include tot ceea ce întreprinde individul, orice expresie vizibilă a gândului și sentimentului. Gândul și sentimentul care nu sunt puse în acțiune devin obstacole pe cale. Exemplul este învățătura cea mai puternică.
+
+<sup>7.</sup>Pentru yoghinul gnana, cunoașterea este binele, iar ignoranța răul. Pentru yoghinul bhakti, iubirea este binele, iar ura răul. Pentru yoghinul karma, problema binelui și răului coincide cu problema libertății și robiei. Pentru divinitate, totul este bun. Înainte de acel stadiu, o asemenea absolutizare duce prea ușor la o confuzie de idei din care rezultă un haos al binelui și răului și ar fi folosită de ignoranță drept apărare a propriei imperfecțiuni. Răul este ceea ce ne este inferior și atrage suferință. Binele este ceea ce ne este superior, ceea ce căutăm pe dibuite, inconștient, și de care devenim conștienți abia când încercăm să-l realizăm, mai mult sau mai puțin fără să știm. Atunci îl recunoaștem imediat prin faptul că ne umple de fericire. Omul descoperă mereu din nou că ceea ce a recunoscut acum drept rău a fost atunci un mijloc de a găsi binele, că experiența răului i-a explicat ce era binele. În cele din urmă vede că tot ceea ce a dorit pentru sine l-a despărțit de unitate. Cei ignoranți văd răul în materie și cred că omul a căzut în păcat, a devenit rău și incapabil să facă binele prin faptul că s-a născut în această lume. Pentru yoghin, aceasta este aproape o blasfemie, perversitatea urii de viață. Pentru el, întreaga existență, vizibilă și invizibilă, este o revelație a divinului, cu nenumărate prilejuri de a îndeplini voința divinității prin acte de slujire.
+
+<sup>8.</sup>Totul alcătuiește o unitate. Părțile aparent izolate sunt toate manifestări ale unității unice, indivizibile. Oricine trăiește în aparență vede numai părțile și crede că este un sine independent, pe când oricine trăiește în realitate știe că este o parte a unității, este una cu întregul. Yoghinul năzuiește spre unitate și astfel se ridică deasupra binelui și răului și a schimbărilor neîncetate ale vieții.
+
+<sup>9.</sup>Puterea pe care o luăm cu toții drept voința noastră se manifestă pentru yoghin atât de puternic în întreaga sa natură, când urmează Legea atât cât o poate vedea, încât înțelege că nu este propria sa putere, ci ceva pus la dispoziția sa și care va deveni al său când va intra în unitate. Astfel, el devine un instrument al divinității, iar voința sa coincide cu voința destinului. Oricine vede divinul în toate trebuie să recunoască, să iubească și să venereze prezența acestei voințe divine în sine și, astfel, să renunțe la toate motivele proprii în favoarea voinței unității din el.
+
+<sup>10.</sup>Aceasta înseamnă că yoghinul se oferă pe sine drept sacrificiu divinității. Astfel, înlătură orice gând de răsplată, orice frică sau temere privind rezultatele acțiunii, precum și orice interes egoist, chiar și satisfacția de a fi acționat dezinteresat. Se abține și de la orice evaluare a acțiunii sale, dacă a fost bună sau rea. Totul este sacrificat, și totuși sacrificiul nu este o ștergere de sine, nu este negativ, ci pozitiv. Nu are nimic în comun cu resemnarea fatalistului, care va degenera ușor în quietism, în lipsa oricărei acțiuni. Sacrificiul cuprinde totul, fiecare acțiune, ba chiar fiecare respirație; totul devine o ofrandă adusă unității divine. El acționează pentru a da o cale de manifestare puterilor divinității care curg prin el. Rezultatul însuși este o ofrandă care devine perfectă când lucrarea este îndeplinită perfect. Dovada că yoghinul a sacrificat totul este indiferența sa („indiferența divină”) față de orice i se întâmplă. Nu se preocupă niciodată de ceea ce va aduce rezultatul: fericire sau nenorocire, onoare sau dezonoare, viață sau moarte.
+
+<sup>11.</sup>În Bhagavad-Gita, care poate fi numită evanghelia practicii karma yoga, necesitatea acțiunii capătă cea mai puternică expresie simbolică posibilă prin descrierea vieții interioare drept o luptă între două armate aliniate și pregătite de bătălie. Poemul era o reacție împotriva tendinței spre delăsare, trândăvie, quietism, un protest împotriva indolenței și pasivității. Această apatie a fost încurajată și de superstiția că poți „sta în calea karmei” (cam cum ai sta în calea legii gravitației).
+
+<sup>12.</sup>Yoga acțiunii a fost întotdeauna considerată de ierarhia planetară drept cea esențială, deoarece înțelegerea care nu este pusă în acțiune devine un obstacol în viitor, potrivit legii karmei. De aceea, se poate afirma despre karma yoga că este la fel de veche ca hatha. Numai că ea presupune înțelegerea necesității acțiunii. Ca activitate pornită din proprie inițiativă și orientată spre un scop, poate că se va generaliza abia când omenirea va fi ajuns la stadiul culturii. La stadii inferioare sunt uneori necesare îndemnurile constrângerii, de exemplu în situații de urgență sau, în cazul popoarelor apatice, din când în când, o așa-numită dictatură.
+
+### 7.21 VALOAREA DE REALITATE A YOGĂI
+
+<sup>1.</sup>Dacă în India ar putea cineva să-l înțeleagă pe Buddha, nu printre yoghini s-ar afla, fiindcă aceștia nu cunosc ezoterica. Faptul că încă este înțeles greșit este, desigur, inevitabil la stadiul actual de dezvoltare al omenirii. Buddha le-a arătat limpede celor care puteau pricepe și înțelege că omul nu este în măsură să rezolve problemele existenței, că soluția nu poate fi citită în „scrierile sacre” ale vreunui popor.
+
+<sup>2.</sup>Acesta nu este scepticism à la Protagoras, Hume sau Bertrand Russell. Nu este nici agnosticism à la Kant sau Herbert Spencer. Era o explicație extrem de bine întemeiată a cunoașterii, dată de conducătorul de atunci al departamentului educației din ierarhia planetară. Dacă acest lucru ar fi fost înțeles, am fi fost scutiți de mai bine de 2500 de ani de speculații imaginative despre realitate. Un indiciu despre discernământul istoricilor creștini ai religiilor este că au îndrăznit să-l numească pe Buddha ateu.
+
+<sup>3.</sup>Yoga face din om o personalitate de mare valoare și un sfânt. Iar aceasta nu este o realizare mică la stadiul actual de dezvoltare al omenirii. Oricine a ajuns până aici poate atinge stadiul idealității, dobândind conștiință cauzală, în câteva încarnări, când altfel ar fi poate necesare mii. Dar yoga nu oferă nicio concepție viabilă despre lume. Nu este potrivită drept ipoteză de lucru pentru cei care au o educație științifică. Pe de altă parte, poate fi potrivită pentru acei emoționaliști care urmează calea misticului (prin departamentele 6,4,2), care nu sunt interesați de natura existenței (departamentele 7,5,3,1).
+
+<sup>4.</sup>Când rishii care predau în Atlantida (și care încă aparțin ierarhiei planetare) au scris Upanișadele etc., văzuseră deja necesitatea de a face cunoașterea inaccesibilă celor nevrednici. Au folosit simbolismul care, din timpuri imemoriale, este limbajul simbolic al tuturor ierarhiilor, dar au elaborat și simboluri noi, ingenioase. Cheia acestora nu a fost niciodată dezvăluită.
+
+<sup>5.</sup>În anii 1875–1950 s-a îngăduit treptat publicarea unor date ezoterice prin intermediul mesagerilor ierarhiei planetare. Aceste date au fost respinse fără examinare de toate școlile yoga.
+
+<sup>6.</sup>Biserica Catolică le-a interzis cu înțelepciune laicilor să citească Biblia. Existența sutelor de secte protestante diferite este dovada acestei înțelepciuni. Toate au înțeles greșit Biblia. Desigur, și Biserica Catolică a făcut la fel.
+
+<sup>7.</sup>Odinioară, citirea „scrierilor sacre” ale Indiei era rezervată învățaților din casta brahmanilor. Ei măcar își țineau secrete interpretările greșite.
+
+<sup>8.</sup>În Upanișade se spune că omul poate deveni dumnezeu, poate ajunge să cunoască Sinele și să dobândească cunoașterea întregului univers. Este adevărat că omul poate deveni dumnezeu, dar nu ca om. Fiecare piatră, plantă și animal va deveni, de asemenea, dumnezeu. Dar aceasta se va întâmpla când, în cursul evoluției, monadele vor fi atins regnul divin.
+
+<sup>9.</sup>Ei citesc despre Sine și cred că înțeleg ce este, neștiind că niciun om fără cunoaștere ezoterică nu poate interpreta corect acel simbol.
+
+<sup>10.</sup>Monada individuală (atomul primordial, sinele ultim) poate fi numită, poate, Sinele, sau Brahman, sau Absolutul, când, în al șaptelea regn divin, a dobândit ea însăși conștiința cosmică totală și, odată cu aceasta, atotștiința și atotputernicia cosmică, trăindu-se în sfârșit ca sinele ultim care a fost întotdeauna.
+
+<sup>11.</sup>Ei cred că sinele, după ce s-a eliberat de învelișurile sale cunoscute, devine „spirit pur”, este absorbit în sufletul universal și devine astfel dumnezeu. Dar monada își continuă dezvoltarea în lumi superioare, dobândind învelișuri în acestea. Fără înveliș, monada ar pierde posibilitatea de a fi activă pentru a-și continua evoluția.
+
+<sup>12.</sup>Este adevărat că omul, asemenea tuturor celorlalte ființe, participă la conștiința cosmică totală, fiindcă există o singură conștiință, iar orice conștiință este atât individuală, cât și colectivă. Dar greșeala fundamentală a yoghinului constă în ficțiunea că omul se poate identifica cu conștiința cosmică totală. Participarea omului la aceasta, chiar și în cazul cel mai bun, este limitată la numai câteva procente (ca sine cauzal, aproximativ șase procente).
+
+<sup>13.</sup>Multe dintre calitățile și capacitățile despre care vorbește Patanjali nu pot fi dobândite decât în al cincilea și al șaselea regn natural. Când citesc aceste sutre, yoghinii cred că el se referea la posibilitățile individului din al patrulea regn natural. Facultățile superioare ale conștiinței își au întotdeauna corespondentele în regnurile inferioare. Ei cred că el vorbește despre corespondentele inferioare pe care le găsesc în ei înșiși. Nu au înțeles nici măcar metoda lui Patanjali de dobândire a conștiinței în tipurile de materie mentale superioare (47:4,5) și cauzale (47:1-3).
+
+<sup>14.</sup>Este o greșeală să crezi că filozofia yoghinilor se bazează pe date pe care le pot constata singuri. Concepția yoga despre lume este la fel de speculativă precum cea occidentală, dar există o deosebire considerabilă. Căci yoghinii pot constata realități în lumea fizic-eterică și în lumea emoțională, iar aceasta le dă un avantaj enorm. Este, desigur, adevărat că aceste tipuri de simț nu pot explora lumile încă mai înalte. Și este de asemenea adevărat că yoghinii nu pot judeca în mod corect conținutul de realitate al celor constatate de ei. Acesta a fost motivul pentru care Swedenborg și Steiner s-au înșelat în toate privințele esențiale. Dar yoghinii știu că există lumi suprafizice.
+
+<sup>15.</sup>Nicio psihologie nu poate ajunge la o concepție clară despre conștiința umană fără a cunoaște diferitele învelișuri ale omului, diferitele tipuri de conștiință ale acestor învelișuri, natura acestor învelișuri, interdependența lor și diferitele tipuri de energii din diferitele tipuri moleculare ale diferitelor învelișuri.
+
+<sup>16.</sup>Un yoghin raja care a obținut rezultatul pe care l-a urmărit în mod conștient seamănă în multe privințe cu cei care au atins stadiul umanității și au dobândit conștiință de perspectivă. Dar îi lipsește cunoașterea datelor (pentru el încă ezoterice) care aparțin acestui stadiu de dezvoltare și nici nu se poate elibera de ficțiunile fundamentale ale yogăi, care blochează calea spre o înțelegere clară a naturii existenței.
+
+<sup>17.</sup>La stadiul umanității, învelișul mental se desprinde din contopirea cu învelișul emoțional și este atras spre învelișul cauzal. Când învelișul mental și învelișul cauzal s-au contopit, omul este un sine cauzal și nu va mai deveni niciodată victima iluziilor și ficțiunilor.
+
+<sup>18.</sup>Prin metodele lor, yoghinii dobândesc controlul vibrațiilor conștiinței fizice, emoționale și mentale, precum și conștiință obiectivă fizic-eterică (49:3,4) și emoțională (48:3, în cazuri foarte rare 48:2). Dar prin metodele lor nu dobândesc nici conștiință obiectivă mentală, nici cauzală. Nu pot stabili dacă ideile lor concordă sau nu cu realitatea.
+
+<sup>19.</sup>Yoghinul realizează integrarea învelișurilor sale de încarnare, astfel încât conștiința sa mentală îi controlează emoționalitatea, iar conștiința sa emoțională pe cea fizică. Odată îndeplinit acest lucru, omul a devenit ceea ce ierarhia planetară numește o personalitate, un termen altminteri foarte vag. Nu este suficient să fii sfânt pentru a fi o „personalitate”, după cum numai ezotericienii vor înțelege.
+
+### 7.22 METODE EZOTERICE DE ACTIVARE
+
+<sup>1.</sup>Poate că pot fi numiți ezotericieni cei care și-au însușit sistemul mental hylozoic pitagoreic și au văzut că acesta concordă cu realitatea. Dar atunci trebuie inventată o altă denumire pentru cei care posedă, în plus, cunoaștere căreia încă nu i s-a îngăduit să devină exoterică, fiindcă aceștia vor exista întotdeauna, până când întreaga omenire va fi atins stadiul idealității.
+
+<sup>2.</sup>Yoga este o dovadă că multe dintre metodele posibile de activare au fost lăsate să devină public cunoscute. Chiar și procedeul tehnic al metodelor ezoterice corecte de activare poate fi comunicat în zilele noastre. Dar „cheia” însăși rămâne ezoterică. Cei neștiutori sunt avertizați împotriva oricărei încercări de a interveni pe cont propriu în această privință. Din păcate, avertismentele nu sunt de ajuns, căci „neghiobii dau buzna acolo unde îngerii se tem să pășească”. Încercările de vitalizare a centrelor din învelișuri și de meditație asupra lor duc inevitabil la catastrofă (de regulă, apar tumori în organism), fără ca acești neînfricați să aibă vreo perspectivă de a-și atinge scopul. „Îngerul cu sabia de foc păzește intrarea în Paradis.”
+
+<sup>3.</sup>Spre deosebire de metodele de activare ale yoghinilor, metoda ezoterică este o activare metodică și sistematică a conștiinței pasive din tipurile moleculare până atunci supraconștiente, unul după altul. Aceasta se face prin vitalizarea diferitelor centre ale diferitelor învelișuri. Conștiința din fiecare tip molecular este legată de centrul său particular. Când un centru este vitalizat, apare conștiința subiectivă în acel tip molecular. Conștiința obiectivă se obține prin activarea acelui tip molecular din înveliș de către conștiința subiectivă din centru. După cum s-a arătat deja, numai sinele cauzal poate folosi corect conștiința obiectivă emoțională și mentală. Până atunci, individul va fi victima propriei ignoranțe și își va întârzia dezvoltarea superioară.
+
+<sup>4.</sup>Toate învelișurile agregate, cu excepția celui cauzal, se formează pornind de la organism, iar centrele corespunzătoare ale diferitelor învelișuri sunt legate între ele. De aceea, pozițiile centrelor pot fi indicate în raport cu organismul.
+
+<sup>5.</sup>Cele șapte centre mai importante din învelișurile eteric, emoțional și mental, care își primesc energiile de la cele șapte departamente, sunt:
+
+<table>
+<thead><tr><th colspan="2">centru</th><th>număr de petale</th><th>departament</th></tr></thead>
+<tbody>
+<tr><td rowspan="4">deasupra diafragmei:</td><td>al creștetului</td><td>960</td><td>primul</td></tr>
+<tr><td>al sprâncenelor</td><td>96</td><td>al patrulea</td></tr>
+<tr><td>al gâtului</td><td>16</td><td>al treilea</td></tr>
+<tr><td>al inimii</td><td>12</td><td>al doilea</td></tr>
+<tr><td rowspan="3">sub diafragmă:</td><td>al plexului solar</td><td>10</td><td>al șaselea</td></tr>
+<tr><td>sacral</td><td>6</td><td>al cincilea</td></tr>
+<tr><td>bazal</td><td>4</td><td>al șaptelea</td></tr>
+</tbody>
+</table>
+
+<sup>6.</sup>Relațiile cu departamentele indicate mai sus sunt cele ale individului normal. Sunt posibile și alte relații. La yoghinii raja, de exemplu, centrul sprâncenelor aparține departamentului al cincilea, centrul sacral celui de-al șaptelea, iar centrul bazal celui de-al patrulea.
+
+<sup>7.</sup>Centrele de sub diafragmă erau deja dezvoltate la lemurieni și își îndeplinesc acum automat toate funcțiile necesare, ca organe de percepție și activitate. În schimb, centrele de deasupra diafragmei sunt puțin dezvoltate la stadiul actual de dezvoltare al omenirii și, în cea mai mare parte, doar slab active.
+
+<sup>8.</sup>Dintre centrele din învelișul cauzal al „individului normal”, care formează un organ asemănător unui lotus, sunt slab dezvoltate numai cele trei care, în timpul încarnărilor, sunt legate de centrele inimii și creștetului din învelișurile eteric, emoțional și mental.
+
+<sup>9.</sup>În mod normal, centrul gâtului se dezvoltă la stadiul civilizației, centrul inimii la stadiul culturii, centrul sprâncenelor la stadiul umanității, iar centrul creștetului la stadiul idealității. Dar capacitatea funcțională deplină este atinsă abia când sinele cauzal reușește să devină un sine-46. Până atunci sunt active doar puține petale.
+
+<sup>10.</sup>În fiecare încarnare nouă, individul trebuie să repete, în noile sale învelișuri, întregul proces de activare. Dacă individul a primit cândva cunoașterea și nu a abuzat de ea, i se vor oferi prilejuri de a-și reaminti vechea cunoaștere în vieți noi.
+
+<sup>11.</sup>Individul care a atins conștiința cauzală deplină o păstrează prin toate încarnările sale. Dar aceasta nu înseamnă că știe ceva despre ea în noul său creier. De îndată ce își părăsește organismul în somn, el trăiește în învelișul său cauzal, dar trec cel puțin cincisprezece ani înainte de a-și putea percepe conștiința cauzală în creier. Chiar și la 35 de ani poate să nu fie încă conștient de statutul său, dacă nu a intrat în contact cu ezoterica.
+
+<sup>12.</sup>Dacă individul nu vrea să facă nimic pentru dezvoltarea sa, el va dobândi, asemenea restului omenirii, automat și în cursul a milioane de ani, conștiință subiectivă și obiectivă în diferitele tipuri moleculare ale tuturor învelișurilor sale. Dar, dacă nu dorește să rămână în al patrulea regn natural mai mult decât este necesar, trebuie să activeze metodic supraconștiința pasivă din învelișurile sale. La stadiul actual de dezvoltare al omenirii însă, nici măcar yoghinul raja nu poate rezolva toate problemele care apar în această privință. Pentru a atinge al cincilea regn natural în numai câteva încarnări, aspirantul trebuie să năzuiască la discipolat sub îndrumarea ierarhiei planetare. Numai cei care au dobândit premisele fizice, emoționale și mentale pot fi acceptați ca discipoli. Fizic și dietetic, atletul care se pregătește pentru Jocurile Olimpice poate sluji drept exemplu. Emoțional, ei trebuie să înlăture toate manifestările de repulsie (ură) și să dobândească acele calități ale atracției. Mental, trebuie să dobândească o conștiință de perspectivă și o capacitate bine dezvoltată de a medita în modul corect. Toate calitățile și capacitățile trebuie puse exclusiv în slujba evoluției, fiindcă folosirea lor egoistă contracarează evoluția.
+
+### 7.23 *Concluzie*
+
+<sup>1.</sup>Omul are toate calitățile și capacitățile pe care le-a dobândit de-a lungul tuturor încarnărilor sale. Dar acestea rămân latente (îngropate) în subconștient până când sunt actualizate și activate din nou într-o încarnare nouă. Încă din stadiul barbariei, omul a dobândit toate calitățile bune și rele ale omenirii, pe toate într-un anumit procent. Calitățile nivelurilor inferioare sunt numite rele, cele ale nivelurilor superioare, bune. Procentele lor le determină eficacitatea. Prilejurile de actualizare și activare într-o încarnare nouă aduc calitățile la viață. Adesea este suficientă reamintirea. Aici se află răspunderea tuturor educatorilor și apostolilor culturii. (Răspunderea poate însemna că, într-o viață viitoare, nu vei avea prilejul să te dezvolți sau vei fi împiedicat în dezvoltare ori chiar idiotizat.)
+
+<sup>2.</sup>Meditând zilnic asupra calităților dezirabile, omul le poate dobândi în orice procent. El se va elibera de calitățile indezirabile neacordându-le atenție și meditând asupra contrariilor lor. Va atinge niveluri superioare meditând asupra calităților acestor niveluri superioare. Fără meditație, dezvoltarea este atât de lentă, încât chiar și după o sută de încarnări abia dacă există vreun progres vizibil.
+
+<sup>3.</sup>Niciun stadiu al dezvoltării conștiinței nu poate fi omis, deoarece toate calitățile fiecărui nivel sunt necesare dezvoltării ulterioare. În zeci de mii de vieți, fiecare individ trebuie să-și parcurgă scara dezvoltării de jos în sus, până când a dobândit în proporție de sută la sută toate calitățile și capacitățile necesare. Cele superioare le cuprind pe cele inferioare și toate sunt cuprinse în cele douăsprezece calități esențiale care fac posibilă existența în continuare în al cincilea regn natural. Care sunt aceste douăsprezece calități trebuie să descopere individul singur, odată ce a dobândit conștiință cauzală. Înainte de aceasta, ele nu pot fi înțelese și nici nu există cuvinte în limbajul uman prin care să fie numite. Putem fi încredințați că cele mai nobile calități emoționale (așa-numitul caracter!) intră în ele: admirație, afecțiune, simpatie, înțelegere, spontaneitate, toleranță, bunătate, recunoștință, încredere în viață, curaj, statornicie în scop, hotărâre, perseverență, invulnerabilitate, respectarea legii, dreptate, corectitudine, seriozitate, mărinimie, loialitate, onestitate etc. Fiecare poate completa singur lista. Printre capacitățile mentale cele mai necesare se numără bunul-simț, pătrunderea și discernământul. Bunul-simț nu va accepta arbitrariul și absurditățile, va deosebi realul de ireal, va vedea imensele limitări ale omului în toate privințele (adevărata smerenie).
+
+<sup>4.</sup>Stadiul culturii este stadiul atracției emoționale (48:4-2). Individul dobândește conștiință activă în cele mai înalte tipuri moleculare emoționale. Pentru a atinge tipul emoțional cel mai înalt (48:2), el trebuie să fi ajuns la mentalitatea cea mai înaltă a stadiului civilizației (47:6), căci un sfânt uman nu poate fi niciodată o persoană neînsemnată mental.
+
+<sup>5.</sup>Stadiul umanității (47:5) nu este atins înainte de parcurgerea stadiului sfântului. Umaniștii își folosesc timpul liber pentru a activa conștiința de perspectivă (47:5) și de sinteză (47:4). Dacă nu au prilejul să-și activeze calitățile sfinte latente, pot să nu pară prea sfinți, fapt pe care moraliștii nu îl pot înțelege niciodată. Umanistul consideră cultul aparențelor ostil vieții, dar participă totuși la viața socială pentru a studia diferitele niveluri de dezvoltare ale omenirii și pentru a avea unele prilejuri să spună ceva cu sens.
+
+<sup>6.</sup>Diferitele concepții despre lume sunt ipoteze diferite, încercări de a explica realitatea și viața. Fiecare acceptă concepția care corespunde cel mai bine nivelului său de cunoaștere.
+
+<sup>7.</sup>Omenirea constituie un regn natural care, asemenea tuturor celorlalte regnuri naturale, prezintă mai multe niveluri de dezvoltare. Cei aflați la nivelurile superioare au sarcina de a-i ajuta pe cei de la nivelurile inferioare să simtă mai nobil și să gândească mai rațional, să-i ajute să-și dezvolte conștiința emoțională și mentală.
+
+<sup>8.</sup>Pentru a atinge regnul imediat superior, acel regn al unității (iubire și înțelepciune) despre care au mărturisit atât Christos, cât și Buddha, trebuie să fi dobândit cel mai înalt tip de conștiință emoțională și mentală și să ne arătăm voința de a sluji evoluția.
+
+<sup>9.</sup>Potrivit Legii, ceea ce omenirea poate face trebuie și să facă. Singura garanție că oricine a atins într-o încarnare culmea înțelegerii și capacității umane va avea prilejul să le dobândească din nou într-o viață nouă este ca întregii omeniri să i se ofere același prilej favorabil. Oricine nu a făcut totul pentru a combate neadevărul și ura nu are dreptul la posibilități deosebite. Și nici nu ar trebui să-și plângă de milă în viitor.
+
+## Note de publicare
+
+### 1
+
+Textul de mai sus constituie eseul *Problemele realității, partea întâi* de Henry T. Laurency. Eseul este prima secțiune a cărții *Cunoașterea realității* de Henry T. Laurency. Textul este o traducere din suedeză de Lars Adelskogh. Traducerea originală, realizată în 1979, a fost revizuită de Lars Adelskogh în 2017. Textul de față este cel revizuit. Drepturi de autor © 1979 și 2017, Henry T. Laurency Publishing Foundation. Toate drepturile rezervate.
+
+Ultimele corecturi introduse la 15 ianuarie 2021.
+
+<!-- Section 2; source: 1_sources/kr2.pdf -->
+
+### 2
+
+Textul de mai sus constituie eseul *Problemele realității, partea a doua*. Eseul este a doua secțiune a cărții *Cunoașterea realității* de Henry T. Laurency. Textul este o traducere din suedeză de Lars Adelskogh. Traducerea originală, realizată în 1979, a fost revizuită de Lars Adelskogh în 2014. Textul de față este cel revizuit. Drepturi de autor © 1979 și 2014 Henry T. Laurency Publishing Foundation. Toate drepturile rezervate.
+
+Ultimele corecturi introduse la 21 ianuarie 2021.
+
+<!-- Section 3; source: 1_sources/kr3.pdf -->
+
+### 3
+
+Textul de mai sus constituie eseul *Originea cunoașterii și a ficțiunilor* de Henry T. Laurency. Eseul este a treia secțiune a cărții *Cunoașterea realității* de Henry T. Laurency. Textul este o traducere din suedeză de Lars Adelskogh. Traducerea originală, realizată în 1979, a fost revizuită de Lars Adelskogh în 2014. Textul de față este cel revizuit. Drepturi de autor © 1979 și 2014 Henry T. Laurency Publishing Foundation. Toate drepturile rezervate.
+
+Ultimele corecturi introduse la 23 ianuarie 2021.
+
+<!-- Section 4; source: 1_sources/kr4.pdf -->
+
+### 4
+
+Textul de mai sus constituie eseul *Cele trei întrebări ale Sfinxului: De unde? Cum? Încotro?* de Henry T. Laurency. Eseul este a patra secțiune a cărții *Cunoașterea realității* de Henry T. Laurency. Textul este o traducere din suedeză de Lars Adelskogh. Traducerea originală, realizată în 1979, a fost revizuită de Lars Adelskogh în 2014. Textul de față este cel revizuit. Drepturi de autor © 1979 și 2014 Henry T. Laurency Publishing Foundation. Toate drepturile rezervate.
+
+Ultimele corecturi introduse la 24 octombrie 2014.
+
+<!-- Section 5; source: 1_sources/kr5.pdf -->
+
+### 5
+
+Textul de mai sus constituie eseul *O privire ezoterică asupra istoriei filosofiei europene* de Henry T. Laurency. Eseul este a cincea secțiune a cărții *Cunoașterea realității* de Henry T. Laurency. Textul este o traducere din suedeză de Lars Adelskogh. Traducerea originală, realizată în 1979, a fost revizuită de Lars Adelskogh în 2014. Textul de față este cel revizuit. Drepturi de autor © 1979 și 2014 Henry T. Laurency Publishing Foundation. Toate drepturile rezervate.
+
+Ultimele corecturi introduse la 6 februarie 2021.
+
+<!-- Section 6; source: 1_sources/kr6.pdf -->
+
+### 6
+
+Textul de mai sus constituie eseul *Antroposofia: Știința spirituală a lui Rudolf Steiner* de Henry T. Laurency. Eseul este a șasea secțiune a cărții *Cunoașterea realității* de Henry T. Laurency. Textul este o traducere din suedeză realizată de Lars Adelskogh. Traducerea inițială, realizată în 1979, a fost revizuită de Lars Adelskogh în 2014. Textul de față este cel revizuit. Copyright © 1979 și 2014 Henry T. Laurency Publishing Foundation. Toate drepturile rezervate.
+
+Ultimele corecturi au fost introduse la 25 februarie 2021.
+
+<!-- Section 7; source: 1_sources/kr7.pdf -->
+
+### 7
+
+Textul de mai sus constituie eseul *Yoga în lumina ezotericii* de Henry T. Laurency. Eseul este a șaptea secțiune a cărții *Cunoașterea realității* de Henry T. Laurency. Textul este o traducere din suedeză realizată de Lars Adelskogh. Traducerea inițială, făcută în 1979, a fost revizuită de Lars Adelskogh în 2014. Textul de față este cel revizuit. Copyright © 1979 și 2014 Henry T. Laurency Publishing Foundation. Toate drepturile rezervate.
+
+Ultimele corecturi au fost introduse la 8 martie 2021.

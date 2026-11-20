@@ -1,0 +1,24 @@
+# macOS cruft
+.DS_Store
+
+# Editor settings
+.vscode/
+.idea/
+
+# Dependency and build outputs
+node_modules/
+dist/
+build/
+__pycache__/
+to-be-imported/
+
+# Logs and environment files
+npm-debug.log*
+yarn-error.log*
+.env
+.env.*
+.pyc
+*.FCBak
+
+# Firecrawl local artifacts
+.firecrawl/

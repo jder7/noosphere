@@ -1,177 +1,2701 @@
 [
   {
-    "id": "tao",
+    "id": "tao-te-ching",
     "title": "Tao Te Ching",
+    "author": "Laozi (traditional attribution)",
     "original": "道德經",
     "lang": "zh-Hant",
-    "dir": "ltr",
     "tradition": "DAOIST THOUGHT",
     "source": "Classical Chinese",
     "era": "Ancient China",
     "glow": "#8bede9",
     "glyph": "vesica",
+    "summary": "An inquiry into the Way, naturalness, receptivity, and the relationship between opposites.",
+    "dir": "ltr",
+    "editions": [
+      {
+        "language": "en",
+        "variant": "annotated",
+        "label": "Annotated edition",
+        "url": "books/en/tao-te-ching-annotated.html",
+        "downloads": {
+          "md": "content/tao-te-ching/book-en-annotated.md"
+        }
+      },
+      {
+        "language": "en",
+        "variant": null,
+        "label": "Standard edition",
+        "url": "books/en/tao-te-ching.html",
+        "downloads": {
+          "md": "content/tao-te-ching/book-en.md"
+        }
+      },
+      {
+        "language": "ro",
+        "variant": null,
+        "label": "Standard edition",
+        "url": "books/ro/tao-te-ching.html",
+        "downloads": {
+          "md": "content/tao-te-ching/book-ro.md"
+        }
+      },
+      {
+        "language": "zh",
+        "variant": null,
+        "label": "Standard edition",
+        "url": "books/zh/tao-te-ching.html",
+        "downloads": {
+          "md": "content/tao-te-ching/book-zh.md"
+        }
+      }
+    ],
     "chapters": [
-      "The Unnamed Source",
-      "The Way of Opposites",
-      "The Quiet Center",
-      "Returning"
+      {
+        "id": "道經",
+        "title": "道經",
+        "level": 2
+      },
+      {
+        "id": "section1-1",
+        "title": "1 · 第1章",
+        "level": 3
+      },
+      {
+        "id": "section1-2",
+        "title": "2 · 第2章",
+        "level": 3
+      },
+      {
+        "id": "section1-3",
+        "title": "3 · 第3章",
+        "level": 3
+      },
+      {
+        "id": "section1-4",
+        "title": "4 · 第4章",
+        "level": 3
+      },
+      {
+        "id": "section1-5",
+        "title": "5 · 第5章",
+        "level": 3
+      },
+      {
+        "id": "section1-6",
+        "title": "6 · 第6章",
+        "level": 3
+      },
+      {
+        "id": "section1-7",
+        "title": "7 · 第7章",
+        "level": 3
+      },
+      {
+        "id": "section1-8",
+        "title": "8 · 第8章",
+        "level": 3
+      },
+      {
+        "id": "section1-9",
+        "title": "9 · 第9章",
+        "level": 3
+      },
+      {
+        "id": "section1-10",
+        "title": "10 · 第10章",
+        "level": 3
+      },
+      {
+        "id": "section1-11",
+        "title": "11 · 第11章",
+        "level": 3
+      },
+      {
+        "id": "section1-12",
+        "title": "12 · 第12章",
+        "level": 3
+      },
+      {
+        "id": "section1-13",
+        "title": "13 · 第13章",
+        "level": 3
+      },
+      {
+        "id": "section1-14",
+        "title": "14 · 第14章",
+        "level": 3
+      },
+      {
+        "id": "section1-15",
+        "title": "15 · 第15章",
+        "level": 3
+      },
+      {
+        "id": "section1-16",
+        "title": "16 · 第16章",
+        "level": 3
+      },
+      {
+        "id": "section1-17",
+        "title": "17 · 第17章",
+        "level": 3
+      },
+      {
+        "id": "section1-18",
+        "title": "18 · 第18章",
+        "level": 3
+      },
+      {
+        "id": "section1-19",
+        "title": "19 · 第19章",
+        "level": 3
+      },
+      {
+        "id": "section1-20",
+        "title": "20 · 第20章",
+        "level": 3
+      },
+      {
+        "id": "section1-21",
+        "title": "21 · 第21章",
+        "level": 3
+      },
+      {
+        "id": "section1-22",
+        "title": "22 · 第22章",
+        "level": 3
+      },
+      {
+        "id": "section1-23",
+        "title": "23 · 第23章",
+        "level": 3
+      },
+      {
+        "id": "section1-24",
+        "title": "24 · 第24章",
+        "level": 3
+      },
+      {
+        "id": "section1-25",
+        "title": "25 · 第25章",
+        "level": 3
+      },
+      {
+        "id": "section1-26",
+        "title": "26 · 第26章",
+        "level": 3
+      },
+      {
+        "id": "section1-27",
+        "title": "27 · 第27章",
+        "level": 3
+      },
+      {
+        "id": "section1-28",
+        "title": "28 · 第28章",
+        "level": 3
+      },
+      {
+        "id": "section1-29",
+        "title": "29 · 第29章",
+        "level": 3
+      },
+      {
+        "id": "section1-30",
+        "title": "30 · 第30章",
+        "level": 3
+      },
+      {
+        "id": "section1-31",
+        "title": "31 · 第31章",
+        "level": 3
+      },
+      {
+        "id": "section1-32",
+        "title": "32 · 第32章",
+        "level": 3
+      },
+      {
+        "id": "section1-33",
+        "title": "33 · 第33章",
+        "level": 3
+      },
+      {
+        "id": "section1-34",
+        "title": "34 · 第34章",
+        "level": 3
+      },
+      {
+        "id": "section1-35",
+        "title": "35 · 第35章",
+        "level": 3
+      },
+      {
+        "id": "section1-36",
+        "title": "36 · 第36章",
+        "level": 3
+      },
+      {
+        "id": "section1-37",
+        "title": "37 · 第37章",
+        "level": 3
+      },
+      {
+        "id": "德經",
+        "title": "德經",
+        "level": 2
+      },
+      {
+        "id": "section2-38",
+        "title": "38 · 第38章",
+        "level": 3
+      },
+      {
+        "id": "section2-39",
+        "title": "39 · 第39章",
+        "level": 3
+      },
+      {
+        "id": "section2-40",
+        "title": "40 · 第40章",
+        "level": 3
+      },
+      {
+        "id": "section2-41",
+        "title": "41 · 第41章",
+        "level": 3
+      },
+      {
+        "id": "section2-42",
+        "title": "42 · 第42章",
+        "level": 3
+      },
+      {
+        "id": "section2-43",
+        "title": "43 · 第43章",
+        "level": 3
+      },
+      {
+        "id": "section2-44",
+        "title": "44 · 第44章",
+        "level": 3
+      },
+      {
+        "id": "section2-45",
+        "title": "45 · 第45章",
+        "level": 3
+      },
+      {
+        "id": "section2-46",
+        "title": "46 · 第46章",
+        "level": 3
+      },
+      {
+        "id": "section2-47",
+        "title": "47 · 第47章",
+        "level": 3
+      },
+      {
+        "id": "section2-48",
+        "title": "48 · 第48章",
+        "level": 3
+      },
+      {
+        "id": "section2-49",
+        "title": "49 · 第49章",
+        "level": 3
+      },
+      {
+        "id": "section2-50",
+        "title": "50 · 第50章",
+        "level": 3
+      },
+      {
+        "id": "section2-51",
+        "title": "51 · 第51章",
+        "level": 3
+      },
+      {
+        "id": "section2-52",
+        "title": "52 · 第52章",
+        "level": 3
+      },
+      {
+        "id": "section2-53",
+        "title": "53 · 第53章",
+        "level": 3
+      },
+      {
+        "id": "section2-54",
+        "title": "54 · 第54章",
+        "level": 3
+      },
+      {
+        "id": "section2-55",
+        "title": "55 · 第55章",
+        "level": 3
+      },
+      {
+        "id": "section2-56",
+        "title": "56 · 第56章",
+        "level": 3
+      },
+      {
+        "id": "section2-57",
+        "title": "57 · 第57章",
+        "level": 3
+      },
+      {
+        "id": "section2-58",
+        "title": "58 · 第58章",
+        "level": 3
+      },
+      {
+        "id": "section2-59",
+        "title": "59 · 第59章",
+        "level": 3
+      },
+      {
+        "id": "section2-60",
+        "title": "60 · 第60章",
+        "level": 3
+      },
+      {
+        "id": "section2-61",
+        "title": "61 · 第61章",
+        "level": 3
+      },
+      {
+        "id": "section2-62",
+        "title": "62 · 第62章",
+        "level": 3
+      },
+      {
+        "id": "section2-63",
+        "title": "63 · 第63章",
+        "level": 3
+      },
+      {
+        "id": "section2-64",
+        "title": "64 · 第64章",
+        "level": 3
+      },
+      {
+        "id": "section2-65",
+        "title": "65 · 第65章",
+        "level": 3
+      },
+      {
+        "id": "section2-66",
+        "title": "66 · 第66章",
+        "level": 3
+      },
+      {
+        "id": "section2-67",
+        "title": "67 · 第67章",
+        "level": 3
+      },
+      {
+        "id": "section2-68",
+        "title": "68 · 第68章",
+        "level": 3
+      },
+      {
+        "id": "section2-69",
+        "title": "69 · 第69章",
+        "level": 3
+      },
+      {
+        "id": "section2-70",
+        "title": "70 · 第70章",
+        "level": 3
+      },
+      {
+        "id": "section2-71",
+        "title": "71 · 第71章",
+        "level": 3
+      },
+      {
+        "id": "section2-72",
+        "title": "72 · 第72章",
+        "level": 3
+      },
+      {
+        "id": "section2-73",
+        "title": "73 · 第73章",
+        "level": 3
+      },
+      {
+        "id": "section2-74",
+        "title": "74 · 第74章",
+        "level": 3
+      },
+      {
+        "id": "section2-75",
+        "title": "75 · 第75章",
+        "level": 3
+      },
+      {
+        "id": "section2-76",
+        "title": "76 · 第76章",
+        "level": 3
+      },
+      {
+        "id": "section2-77",
+        "title": "77 · 第77章",
+        "level": 3
+      },
+      {
+        "id": "section2-78",
+        "title": "78 · 第78章",
+        "level": 3
+      },
+      {
+        "id": "section2-79",
+        "title": "79 · 第79章",
+        "level": 3
+      },
+      {
+        "id": "section2-80",
+        "title": "80 · 第80章",
+        "level": 3
+      },
+      {
+        "id": "section2-81",
+        "title": "81 · 第81章",
+        "level": 3
+      },
+      {
+        "id": "publication-notes",
+        "title": "Publication notes",
+        "level": 2
+      },
+      {
+        "id": "text",
+        "title": "text",
+        "level": 3
+      }
     ],
-    "ideas": [
-      "the elusive character of the unnameable source",
-      "mutual emergence and polarity",
-      "the disposition of attentive stillness",
-      "the movement of return"
-    ],
-    "summary": "A spare, enduring inquiry into the Way, naturalness, receptivity, and the relationship between opposites."
+    "url": "books/en/tao-te-ching.html",
+    "downloads": {
+      "md": "content/tao-te-ching/book-en.md"
+    }
   },
   {
-    "id": "gita",
-    "title": "Bhagavad Gītā",
-    "original": "भगवद्गीता",
-    "lang": "sa",
-    "dir": "ltr",
-    "tradition": "VEDIC / HINDU",
-    "source": "Sanskrit",
-    "era": "Ancient India",
-    "glow": "#f1cca0",
-    "glyph": "lotus",
-    "chapters": [
-      "The Question of Action",
-      "Knowledge",
-      "Action without Attachment",
-      "The Inner Discipline"
-    ],
-    "ideas": [
-      "the tension between responsibility and uncertainty",
-      "the pursuit of understanding",
-      "action freed from attachment to reward",
-      "discipline in the life of thought"
-    ],
-    "summary": "A dialogue exploring duty, knowledge, devotion, and inner freedom on the eve of a momentous battle."
-  },
-  {
-    "id": "dhammapada",
-    "title": "Dhammapada",
-    "original": "धम्मपद",
-    "lang": "pi",
-    "dir": "ltr",
-    "tradition": "BUDDHIST",
-    "source": "Pāli (Devanagari title)",
-    "era": "Early Buddhist literature",
+    "id": "esoteric-christianity",
+    "title": "Esoteric Christianity",
+    "author": "Annie Besant",
+    "original": "The Lesser Mysteries",
+    "lang": "en",
+    "tradition": "ESOTERIC CHRISTIANITY",
+    "source": "English",
+    "era": "1901",
     "glow": "#d9c1f3",
-    "glyph": "wheel",
-    "chapters": [
-      "Twin Verses",
-      "Wakefulness",
-      "The Mind",
-      "The Way"
-    ],
-    "ideas": [
-      "the shaping influence of thought",
-      "the practice of alertness",
-      "the training of attention",
-      "a life of discernment"
-    ],
-    "summary": "Compact teachings on mind, conduct, impermanence, and the disciplined path of awakening."
-  },
-  {
-    "id": "quran",
-    "title": "The Qurʾān",
-    "original": "القرآن الكريم",
-    "lang": "ar",
-    "dir": "rtl",
-    "tradition": "ISLAMIC",
-    "source": "Arabic",
-    "era": "7th century CE",
-    "glow": "#97e6ce",
-    "glyph": "star",
-    "chapters": [
-      "Al-Fātiḥah",
-      "Al-Baqarah",
-      "Āl ʿImrān",
-      "An-Nisāʾ"
-    ],
-    "ideas": [
-      "the opening request for guidance",
-      "covenant and human conduct",
-      "faith and endurance",
-      "justice and community"
-    ],
-    "summary": "The foundational scripture of Islam, transmitted through recitation and studied in its Arabic language and many translations."
-  },
-  {
-    "id": "sefer",
-    "title": "Sefer Yetzirah",
-    "original": "ספר יצירה",
-    "lang": "he",
-    "dir": "rtl",
-    "tradition": "JEWISH MYSTICAL",
-    "source": "Hebrew",
-    "era": "Late antiquity / early medieval",
-    "glow": "#d3b8ff",
-    "glyph": "rings",
-    "chapters": [
-      "Ten Sefirot",
-      "The Letters",
-      "The Three Mothers",
-      "The Seven Doubles"
-    ],
-    "ideas": [
-      "number and the imagination of order",
-      "letters as instruments of symbolic thought",
-      "the family of elemental forms",
-      "correspondence in a structured cosmos"
-    ],
-    "summary": "A brief yet influential work exploring the symbolic relationships between letters, numbers, and creation."
-  },
-  {
-    "id": "enneads",
-    "title": "The Enneads",
-    "original": "Ἐννεάδες",
-    "lang": "grc",
-    "dir": "ltr",
-    "tradition": "NEOPLATONIC",
-    "source": "Ancient Greek",
-    "era": "3rd century CE",
-    "glow": "#b7c5ff",
-    "glyph": "orbits",
-    "chapters": [
-      "On Beauty",
-      "On the Virtues",
-      "On Dialectic",
-      "On Intellect"
-    ],
-    "ideas": [
-      "the idea of intelligible beauty",
-      "qualities of character and the soul",
-      "the disciplined pursuit of truth",
-      "intellect and the question of unity"
-    ],
-    "summary": "Plotinus’s philosophical investigations of soul, intellect, beauty, and the highest source of being."
-  },
-  {
-    "id": "upanishads",
-    "title": "The Upanishads",
-    "original": "उपनिषद्",
-    "lang": "sa",
-    "dir": "ltr",
-    "tradition": "VEDIC",
-    "source": "Sanskrit",
-    "era": "Ancient India",
-    "glow": "#ffdab4",
     "glyph": "triad",
+    "summary": "Annie Besant explores the hidden traditions, symbolism, and mysteries underlying Christianity.",
+    "dir": "ltr",
+    "editions": [
+      {
+        "language": "en",
+        "variant": null,
+        "label": "Standard edition",
+        "url": "books/en/esoteric-christianity.html",
+        "downloads": {
+          "md": "content/esoteric-christianity/book-en.md"
+        }
+      },
+      {
+        "language": "ro",
+        "variant": null,
+        "label": "Standard edition",
+        "url": "books/ro/esoteric-christianity.html",
+        "downloads": {
+          "md": "content/esoteric-christianity/book-ro.md",
+          "pdf": "content/esoteric-christianity/book-ro.pdf"
+        }
+      }
+    ],
     "chapters": [
-      "Īśa",
-      "Kena",
-      "Kaṭha",
-      "Muṇḍaka"
+      {
+        "id": "foreword",
+        "title": "FOREWORD",
+        "level": 2
+      },
+      {
+        "id": "section1",
+        "title": "CHAPTER I — THE HIDDEN SIDE OF RELIGIONS.",
+        "level": 2
+      },
+      {
+        "id": "section2",
+        "title": "CHAPTER II — THE HIDDEN SIDE OF CHRISTIANITY.",
+        "level": 2
+      },
+      {
+        "id": "a-the-testimony-of-the-scriptures.",
+        "title": "(a) THE TESTIMONY OF THE SCRIPTURES.",
+        "level": 3
+      },
+      {
+        "id": "section3",
+        "title": "CHAPTER III — THE HIDDEN SIDE OF CHRISTIANITY(concluded).",
+        "level": 2
+      },
+      {
+        "id": "b-the-testimony-of-the-church.",
+        "title": "((b)) THE TESTIMONY OF THE CHURCH.",
+        "level": 3
+      },
+      {
+        "id": "section4",
+        "title": "CHAPTER IV — THE HISTORICAL CHRIST.",
+        "level": 2
+      },
+      {
+        "id": "the-historical-christ-or-jesus-the-healer-and-teacher.",
+        "title": "THE HISTORICAL CHRIST, OR JESUS THE HEALER AND TEACHER.",
+        "level": 3
+      },
+      {
+        "id": "section5",
+        "title": "CHAPTER V — THE MYTHIC CHRIST.",
+        "level": 2
+      },
+      {
+        "id": "section6",
+        "title": "CHAPTER VI — THE MYSTIC CHRIST.",
+        "level": 2
+      },
+      {
+        "id": "section7",
+        "title": "CHAPTER VII — THE ATONEMENT.",
+        "level": 2
+      },
+      {
+        "id": "section8",
+        "title": "CHAPTER VIII — RESURRECTION AND ASCENSION",
+        "level": 2
+      },
+      {
+        "id": "section9",
+        "title": "CHAPTER IX — THE TRINITY.",
+        "level": 2
+      },
+      {
+        "id": "section10",
+        "title": "CHAPTER X — PRAYER.294",
+        "level": 2
+      },
+      {
+        "id": "section11",
+        "title": "CHAPTER XI — THE FORGIVENESS OF SINS.",
+        "level": 2
+      },
+      {
+        "id": "section12",
+        "title": "CHAPTER XII — SACRAMENTS.",
+        "level": 2
+      },
+      {
+        "id": "section13",
+        "title": "CHAPTER XIII — SACRAMENTS (continued).",
+        "level": 2
+      },
+      {
+        "id": "section14",
+        "title": "CHAPTER XIV — REVELATION.",
+        "level": 2
+      },
+      {
+        "id": "afterword",
+        "title": "AFTERWORD",
+        "level": 2
+      },
+      {
+        "id": "authors-notes",
+        "title": "Author’s Notes",
+        "level": 2
+      },
+      {
+        "id": "analytical-index",
+        "title": "Analytical Index",
+        "level": 2
+      },
+      {
+        "id": "contents",
+        "title": "Contents",
+        "level": 2
+      },
+      {
+        "id": "publication-notes",
+        "title": "Publication notes",
+        "level": 2
+      },
+      {
+        "id": "annie-besant-1905",
+        "title": "Annie Besant — 1905",
+        "level": 3
+      },
+      {
+        "id": "source-contents-facsimile-original-pagination",
+        "title": "Source Contents facsimile — original pagination",
+        "level": 4
+      }
     ],
-    "ideas": [
-      "participation in the world and understanding",
-      "the ground of mind and perception",
-      "wisdom and mortality",
-      "different avenues of knowledge"
+    "url": "books/en/esoteric-christianity.html",
+    "downloads": {
+      "md": "content/esoteric-christianity/book-en.md"
+    }
+  },
+  {
+    "id": "knowledge-of-reality",
+    "title": "The Knowledge of Reality",
+    "author": "Henry T. Laurency",
+    "original": "Kunskapen om verkligheten",
+    "lang": "sv",
+    "tradition": "HYLOZOICS",
+    "source": "Henry T. Laurency",
+    "era": "Philosophy",
+    "glow": "#97e6ce",
+    "glyph": "orbits",
+    "summary": "An exploration of reality, consciousness, and the esoteric foundations of a world view.",
+    "dir": "ltr",
+    "editions": [
+      {
+        "language": "en",
+        "variant": null,
+        "label": "Standard edition",
+        "url": "books/en/knowledge-of-reality.html",
+        "downloads": {
+          "md": "content/knowledge-of-reality/book-en.md"
+        }
+      },
+      {
+        "language": "ro",
+        "variant": null,
+        "label": "Standard edition",
+        "url": "books/ro/knowledge-of-reality.html",
+        "downloads": {
+          "md": "content/knowledge-of-reality/book-ro.md"
+        }
+      }
     ],
-    "summary": "A collection of dialogues and reflections on consciousness, self, knowledge, and ultimate reality."
+    "chapters": [
+      {
+        "id": "section1",
+        "title": "1 THE PROBLEMS OF REALITY, PART ONE",
+        "level": 2
+      },
+      {
+        "id": "section1-1",
+        "title": "1.1 What Most People Do Not Know",
+        "level": 3
+      },
+      {
+        "id": "section1-2",
+        "title": "1.2 The Esoteric Knowledge Orders",
+        "level": 3
+      },
+      {
+        "id": "section1-3",
+        "title": "1.3 The Proofs of Hylozoics",
+        "level": 3
+      },
+      {
+        "id": "section1-4",
+        "title": "1.4 THE BASIC FACTORS OF EXISTENCE",
+        "level": 3
+      },
+      {
+        "id": "the-matter-aspect",
+        "title": "THE MATTER ASPECT",
+        "level": 3
+      },
+      {
+        "id": "section1-5",
+        "title": "1.5 Primordial matter",
+        "level": 3
+      },
+      {
+        "id": "section1-6",
+        "title": "1.6 The Cosmos",
+        "level": 3
+      },
+      {
+        "id": "section1-7",
+        "title": "1.7 Atomic Matter",
+        "level": 3
+      },
+      {
+        "id": "section1-8",
+        "title": "1.8 Space and Time",
+        "level": 3
+      },
+      {
+        "id": "section1-9",
+        "title": "1.9 Solar Systems",
+        "level": 3
+      },
+      {
+        "id": "section1-10",
+        "title": "1.10 Molecular Matter",
+        "level": 3
+      },
+      {
+        "id": "section1-11",
+        "title": "1.11 The Planets",
+        "level": 3
+      },
+      {
+        "id": "section1-12",
+        "title": "1.12 The Monads",
+        "level": 3
+      },
+      {
+        "id": "section1-13",
+        "title": "1.13 The Monads’ Envelopes",
+        "level": 3
+      },
+      {
+        "id": "section1-14",
+        "title": "1.14 Man’s Five Envelopes",
+        "level": 3
+      },
+      {
+        "id": "the-consciousness-aspect",
+        "title": "THE CONSCIOUSNESS ASPECT",
+        "level": 3
+      },
+      {
+        "id": "section1-15",
+        "title": "1.15 The Monad Consciousness",
+        "level": 3
+      },
+      {
+        "id": "section1-16",
+        "title": "1.16 Different Kinds of Consciousness",
+        "level": 3
+      },
+      {
+        "id": "section1-17",
+        "title": "1.17 Subjective and Objective Consciousness",
+        "level": 3
+      },
+      {
+        "id": "section1-18",
+        "title": "1.18 Physical Consciousness",
+        "level": 3
+      },
+      {
+        "id": "section1-19",
+        "title": "1.19 Emotional Consciousness",
+        "level": 3
+      },
+      {
+        "id": "section1-20",
+        "title": "1.20 Mental-Causal Consciousness",
+        "level": 3
+      },
+      {
+        "id": "section1-21",
+        "title": "1.21 Higher Kinds of Consciousness",
+        "level": 3
+      },
+      {
+        "id": "section1-22",
+        "title": "1.22 The Self’s Unconscious",
+        "level": 3
+      },
+      {
+        "id": "section1-23",
+        "title": "1.23 The Individual’s Memories",
+        "level": 3
+      },
+      {
+        "id": "the-motion-aspect",
+        "title": "THE MOTION ASPECT",
+        "level": 3
+      },
+      {
+        "id": "section1-24",
+        "title": "1.24 Motion Defined",
+        "level": 3
+      },
+      {
+        "id": "section1-25",
+        "title": "1.25 Dynamis",
+        "level": 3
+      },
+      {
+        "id": "section1-26",
+        "title": "1.26 Material Energy",
+        "level": 3
+      },
+      {
+        "id": "section1-27",
+        "title": "1.27 The Cosmic Motion",
+        "level": 3
+      },
+      {
+        "id": "section1-28",
+        "title": "1.28 Will",
+        "level": 3
+      },
+      {
+        "id": "section1-29",
+        "title": "1.29 Different Kinds of Energy and Will",
+        "level": 3
+      },
+      {
+        "id": "section1-30",
+        "title": "1.30 THE MEANING AND GOAL OF EXISTENCE",
+        "level": 3
+      },
+      {
+        "id": "section1-31",
+        "title": "1.31 The “Rebirth” of Everything",
+        "level": 3
+      },
+      {
+        "id": "section1-32",
+        "title": "1.32 THE NATURAL KINGDOMS",
+        "level": 3
+      },
+      {
+        "id": "section1-33",
+        "title": "1.33 The Lowest Three Natural Kingdoms",
+        "level": 3
+      },
+      {
+        "id": "section1-34",
+        "title": "1.34 The Fourth Natural Kingdom",
+        "level": 3
+      },
+      {
+        "id": "section1-35",
+        "title": "1.35 The Fifth Natural Kingdom",
+        "level": 3
+      },
+      {
+        "id": "section1-36",
+        "title": "1.36 The Sixth Natural Kingdom, or The First Divine Kingdom",
+        "level": 3
+      },
+      {
+        "id": "section1-37",
+        "title": "1.37 The Cosmic Kingdoms",
+        "level": 3
+      },
+      {
+        "id": "section1-38",
+        "title": "1.38 The Planetary Hierarchy",
+        "level": 3
+      },
+      {
+        "id": "section1-39",
+        "title": "1.39 The Planetary Government",
+        "level": 3
+      },
+      {
+        "id": "section1-40",
+        "title": "1.40 The Solar Systemic Government",
+        "level": 3
+      },
+      {
+        "id": "section1-41",
+        "title": "1.41 THE LAW",
+        "level": 3
+      },
+      {
+        "id": "section1-42",
+        "title": "1.42 THE SCIENCE OF THE FUTURE",
+        "level": 3
+      },
+      {
+        "id": "section1-43",
+        "title": "1.43 Conclusion",
+        "level": 3
+      },
+      {
+        "id": "section2",
+        "title": "2 THE PROBLEMS OF REALITY, PART TWO",
+        "level": 2
+      },
+      {
+        "id": "section2-1",
+        "title": "2.1 Introduction",
+        "level": 3
+      },
+      {
+        "id": "section2-2",
+        "title": "2.2 THE MATTER ASPECT OF EXISTENCE",
+        "level": 3
+      },
+      {
+        "id": "section2-3",
+        "title": "2.3 THE CONSCIOUSNESS ASPECT OF EXISTENCE",
+        "level": 3
+      },
+      {
+        "id": "section2-4",
+        "title": "2.4 The Collective Consciousness",
+        "level": 3
+      },
+      {
+        "id": "section2-5",
+        "title": "2.5 The Seven Fundamental Types",
+        "level": 3
+      },
+      {
+        "id": "section2-6",
+        "title": "2.6 The Seven Departments of the Planetary Hierarchy",
+        "level": 3
+      },
+      {
+        "id": "section2-7",
+        "title": "2.7 The Human Types of Consciousness",
+        "level": 3
+      },
+      {
+        "id": "section2-8",
+        "title": "2.8 Some Problems for the Future Psychology",
+        "level": 3
+      },
+      {
+        "id": "section2-9",
+        "title": "2.9 Telepathy",
+        "level": 3
+      },
+      {
+        "id": "section2-10",
+        "title": "2.10 THE MOTION ASPECT OF EXISTENCE",
+        "level": 3
+      },
+      {
+        "id": "section2-11",
+        "title": "2.11 The Process of Manifestation",
+        "level": 3
+      },
+      {
+        "id": "section2-12",
+        "title": "2.12 The Seven Fundamental Energies",
+        "level": 3
+      },
+      {
+        "id": "section2-13",
+        "title": "2.13 The Solar Systemic and Planetary Energies",
+        "level": 3
+      },
+      {
+        "id": "section2-14",
+        "title": "2.14 “IDEAS RULE THE WORLD”",
+        "level": 3
+      },
+      {
+        "id": "section2-15",
+        "title": "2.15 “Ideas Rule the World”",
+        "level": 3
+      },
+      {
+        "id": "section2-16",
+        "title": "2.16 Cosmic Ideas",
+        "level": 3
+      },
+      {
+        "id": "section2-17",
+        "title": "2.17 Hierarchic Ideas",
+        "level": 3
+      },
+      {
+        "id": "section2-18",
+        "title": "2.18 The Ideas in Mankind",
+        "level": 3
+      },
+      {
+        "id": "section3",
+        "title": "3 THE ORIGIN OF THE KNOWLEDGE AND THE FICTIONS",
+        "level": 2
+      },
+      {
+        "id": "section3-1",
+        "title": "3.1 From the Esoteric History",
+        "level": 3
+      },
+      {
+        "id": "section3-2",
+        "title": "3.2 The Publication of the Esoteric Knowledge",
+        "level": 3
+      },
+      {
+        "id": "section3-3",
+        "title": "3.3 H. P. Blavatsky (1831–1891)",
+        "level": 3
+      },
+      {
+        "id": "section3-4",
+        "title": "3.4 Sinnett",
+        "level": 3
+      },
+      {
+        "id": "section3-5",
+        "title": "3.5 Judge",
+        "level": 3
+      },
+      {
+        "id": "section3-6",
+        "title": "3.6 Hartmann",
+        "level": 3
+      },
+      {
+        "id": "section3-7",
+        "title": "3.7 The Theosophical Movement",
+        "level": 3
+      },
+      {
+        "id": "section3-8",
+        "title": "3.8 Disorienting Sects",
+        "level": 3
+      },
+      {
+        "id": "section3-9",
+        "title": "3.9 Conclusion",
+        "level": 3
+      },
+      {
+        "id": "section4",
+        "title": "4 THE THREE QUESTIONS OF THE SPHINX: WHENCE? HOW? WHITHER?",
+        "level": 2
+      },
+      {
+        "id": "section4-1",
+        "title": "4.1 The Trinity of Existence",
+        "level": 3
+      },
+      {
+        "id": "section4-2",
+        "title": "4.2 The Cosmos",
+        "level": 3
+      },
+      {
+        "id": "section4-3",
+        "title": "4.3 Involution",
+        "level": 3
+      },
+      {
+        "id": "section4-4",
+        "title": "4.4 The Forms of Life",
+        "level": 3
+      },
+      {
+        "id": "section4-5",
+        "title": "4.5 Evolution",
+        "level": 3
+      },
+      {
+        "id": "section4-6",
+        "title": "4.6 The Process of Manifestation",
+        "level": 3
+      },
+      {
+        "id": "section4-7",
+        "title": "4.7 Consciousness",
+        "level": 3
+      },
+      {
+        "id": "section4-8",
+        "title": "4.8 The Natural Kingdoms",
+        "level": 3
+      },
+      {
+        "id": "section4-9",
+        "title": "4.9 The Envelopes and Worlds of Man",
+        "level": 3
+      },
+      {
+        "id": "section4-10",
+        "title": "4.10 The Consciousness of Man",
+        "level": 3
+      },
+      {
+        "id": "section4-11",
+        "title": "4.11 Man’s Stages of Development, etc.",
+        "level": 3
+      },
+      {
+        "id": "section5",
+        "title": "5 AN ESOTERICIAN’S VIEW OF THE HISTORY OF EUROPEAN PHILOSOPHY",
+        "level": 2
+      },
+      {
+        "id": "section5-1",
+        "title": "5.1 Introduction",
+        "level": 3
+      },
+      {
+        "id": "section5-2",
+        "title": "5.2 The Basic Problems of Philosophy",
+        "level": 3
+      },
+      {
+        "id": "the-hylozoic-period",
+        "title": "THE HYLOZOIC PERIOD",
+        "level": 3
+      },
+      {
+        "id": "section5-3",
+        "title": "5.3 Pythagoras",
+        "level": 3
+      },
+      {
+        "id": "section5-4",
+        "title": "5.4 Other Esotericians",
+        "level": 3
+      },
+      {
+        "id": "section5-5",
+        "title": "5.5 THE FIRST SUBJECTIVIST PERIOD",
+        "level": 3
+      },
+      {
+        "id": "section5-6",
+        "title": "5.6 THE REACTION AGAINST SUBJECTIVISM",
+        "level": 3
+      },
+      {
+        "id": "section5-7",
+        "title": "5.7 Sokrates",
+        "level": 3
+      },
+      {
+        "id": "section5-8",
+        "title": "5.8 Platon",
+        "level": 3
+      },
+      {
+        "id": "section5-9",
+        "title": "5.9 Aristoteles",
+        "level": 3
+      },
+      {
+        "id": "section5-10",
+        "title": "5.10 PHYSICALISM",
+        "level": 3
+      },
+      {
+        "id": "section5-11",
+        "title": "5.11 Epikuros",
+        "level": 3
+      },
+      {
+        "id": "section5-12",
+        "title": "5.12 Chrysippos",
+        "level": 3
+      },
+      {
+        "id": "section5-13",
+        "title": "5.13 GNOSTICS",
+        "level": 3
+      },
+      {
+        "id": "section5-14",
+        "title": "5.14 Plotinos",
+        "level": 3
+      },
+      {
+        "id": "section5-15",
+        "title": "5.15 SCHOLASTICISM",
+        "level": 3
+      },
+      {
+        "id": "section5-16",
+        "title": "5.16 THE BREAK WITH SCHOLASTICISM",
+        "level": 3
+      },
+      {
+        "id": "section5-17",
+        "title": "5.17 Bacon",
+        "level": 3
+      },
+      {
+        "id": "section5-18",
+        "title": "5.18 Descartes",
+        "level": 3
+      },
+      {
+        "id": "section5-19",
+        "title": "5.19 Hobbes",
+        "level": 3
+      },
+      {
+        "id": "section5-20",
+        "title": "5.20 Spinoza",
+        "level": 3
+      },
+      {
+        "id": "section5-21",
+        "title": "5.21 Leibniz",
+        "level": 3
+      },
+      {
+        "id": "section5-22",
+        "title": "5.22 THE SECOND SUBJECTIVIST PERIOD",
+        "level": 3
+      },
+      {
+        "id": "section5-23",
+        "title": "5.23 Locke",
+        "level": 3
+      },
+      {
+        "id": "section5-24",
+        "title": "5.24 Berkeley",
+        "level": 3
+      },
+      {
+        "id": "section5-25",
+        "title": "5.25 Hume",
+        "level": 3
+      },
+      {
+        "id": "section5-26",
+        "title": "5.26 THE PHILOSOPHY OF REVOLUTION",
+        "level": 3
+      },
+      {
+        "id": "section5-27",
+        "title": "5.27 THE PHILOSOPHY OF ROMANTICISM",
+        "level": 3
+      },
+      {
+        "id": "section5-28",
+        "title": "5.28 Kant",
+        "level": 3
+      },
+      {
+        "id": "section5-29",
+        "title": "5.29 Fichte",
+        "level": 3
+      },
+      {
+        "id": "section5-30",
+        "title": "5.30 Schelling",
+        "level": 3
+      },
+      {
+        "id": "section5-31",
+        "title": "5.31 Hegel",
+        "level": 3
+      },
+      {
+        "id": "section5-32",
+        "title": "5.32 THE REACTION AGAINST FICTIONALISM",
+        "level": 3
+      },
+      {
+        "id": "section5-33",
+        "title": "5.33 Schopenhauer",
+        "level": 3
+      },
+      {
+        "id": "section5-34",
+        "title": "5.34 Hartmann",
+        "level": 3
+      },
+      {
+        "id": "section5-35",
+        "title": "5.35 Spencer",
+        "level": 3
+      },
+      {
+        "id": "section5-36",
+        "title": "5.36 Bergson",
+        "level": 3
+      },
+      {
+        "id": "section5-37",
+        "title": "5.37 Conclusion",
+        "level": 3
+      },
+      {
+        "id": "supplement",
+        "title": "SUPPLEMENT",
+        "level": 3
+      },
+      {
+        "id": "section5-38",
+        "title": "5.38 Contemporary Philosophy",
+        "level": 3
+      },
+      {
+        "id": "section5-39",
+        "title": "5.39 Bertrand Russell",
+        "level": 3
+      },
+      {
+        "id": "section5-40",
+        "title": "5.40 WORLD VIEW",
+        "level": 3
+      },
+      {
+        "id": "section5-41",
+        "title": "5.41 Philosophy",
+        "level": 3
+      },
+      {
+        "id": "section5-42",
+        "title": "5.42 Science",
+        "level": 3
+      },
+      {
+        "id": "section5-43",
+        "title": "5.43 Criticism of the World View",
+        "level": 3
+      },
+      {
+        "id": "section5-44",
+        "title": "5.44 LIFE VIEW",
+        "level": 3
+      },
+      {
+        "id": "section5-45",
+        "title": "5.45 Theology",
+        "level": 3
+      },
+      {
+        "id": "section5-46",
+        "title": "5.46 Morality",
+        "level": 3
+      },
+      {
+        "id": "section5-47",
+        "title": "5.47 The Problems of Upbringing and Education",
+        "level": 3
+      },
+      {
+        "id": "section5-48",
+        "title": "5.48 The Problem of Democracy",
+        "level": 3
+      },
+      {
+        "id": "section5-49",
+        "title": "5.49 The Problem of Dictatorship",
+        "level": 3
+      },
+      {
+        "id": "section5-50",
+        "title": "5.50 Socialism",
+        "level": 3
+      },
+      {
+        "id": "section5-51",
+        "title": "5.51 Marxism",
+        "level": 3
+      },
+      {
+        "id": "section6",
+        "title": "6 ANTHROPOSOPHY – STEINER’S SPIRITUAL SCIENCE",
+        "level": 2
+      },
+      {
+        "id": "section6-1",
+        "title": "6.1 Preface",
+        "level": 3
+      },
+      {
+        "id": "section6-2",
+        "title": "6.2 Rudolf Steiner",
+        "level": 3
+      },
+      {
+        "id": "section6-3",
+        "title": "6.3 Steiner as a Theosophist",
+        "level": 3
+      },
+      {
+        "id": "section6-4",
+        "title": "6.4 Steiner as Rosicrucian",
+        "level": 3
+      },
+      {
+        "id": "section6-5",
+        "title": "6.5 Steiner and the Yoga Philosophy",
+        "level": 3
+      },
+      {
+        "id": "section6-6",
+        "title": "6.6 Steiner as a Philosopher",
+        "level": 3
+      },
+      {
+        "id": "section6-7",
+        "title": "6.7 Steiner’s Own Theory of Knowledge",
+        "level": 3
+      },
+      {
+        "id": "section6-8",
+        "title": "6.8 Steiner’s Clairvoyance",
+        "level": 3
+      },
+      {
+        "id": "section6-9",
+        "title": "6.9 Steiner’s Akashic Records",
+        "level": 3
+      },
+      {
+        "id": "section6-10",
+        "title": "6.10 Steiner’s Anthroposophy",
+        "level": 3
+      },
+      {
+        "id": "section6-11",
+        "title": "6.11 Steiner as an Esoterician",
+        "level": 3
+      },
+      {
+        "id": "section6-12",
+        "title": "6.12 Steiner as a Historian",
+        "level": 3
+      },
+      {
+        "id": "section6-13",
+        "title": "6.13 THE COSMOS ACCORDING TO FACTS GIVEN BY THE PLANETARY HIERARCHY",
+        "level": 3
+      },
+      {
+        "id": "section7",
+        "title": "7 YOGA IN THE LIGHT OF ESOTERICS",
+        "level": 2
+      },
+      {
+        "id": "section7-1",
+        "title": "7.1 Western Ignorance",
+        "level": 3
+      },
+      {
+        "id": "section7-2",
+        "title": "7.2 The Yoga Philosophy",
+        "level": 3
+      },
+      {
+        "id": "section7-3",
+        "title": "7.3 THE FICTIONS OF YOGA",
+        "level": 3
+      },
+      {
+        "id": "section7-4",
+        "title": "7.4 The Worlds of the Yogis",
+        "level": 3
+      },
+      {
+        "id": "section7-5",
+        "title": "7.5 Intuition",
+        "level": 3
+      },
+      {
+        "id": "section7-6",
+        "title": "7.6 Will",
+        "level": 3
+      },
+      {
+        "id": "section7-7",
+        "title": "7.7 Rebirth",
+        "level": 3
+      },
+      {
+        "id": "section7-8",
+        "title": "7.8 Karma",
+        "level": 3
+      },
+      {
+        "id": "section7-9",
+        "title": "7.9 Dharma",
+        "level": 3
+      },
+      {
+        "id": "section7-10",
+        "title": "7.10 Self-Realization",
+        "level": 3
+      },
+      {
+        "id": "section7-11",
+        "title": "7.11 Samadhi",
+        "level": 3
+      },
+      {
+        "id": "section7-12",
+        "title": "7.12 DIFFERENT KINDS OF YOGA",
+        "level": 3
+      },
+      {
+        "id": "section7-13",
+        "title": "7.13 Different Kinds of Yogis",
+        "level": 3
+      },
+      {
+        "id": "section7-14",
+        "title": "7.14 Ramakrishna’s Raja Yoga",
+        "level": 3
+      },
+      {
+        "id": "section7-15",
+        "title": "7.15 The Yoga Methods",
+        "level": 3
+      },
+      {
+        "id": "section7-16",
+        "title": "7.16 Hatha Yoga",
+        "level": 3
+      },
+      {
+        "id": "section7-17",
+        "title": "7.17 Raja Yoga",
+        "level": 3
+      },
+      {
+        "id": "section7-18",
+        "title": "7.18 Gnana Yoga",
+        "level": 3
+      },
+      {
+        "id": "section7-19",
+        "title": "7.19 Bhakti Yoga",
+        "level": 3
+      },
+      {
+        "id": "section7-20",
+        "title": "7.20 Karma Yoga",
+        "level": 3
+      },
+      {
+        "id": "section7-21",
+        "title": "7.21 THE REALITY VALUE OF YOGA",
+        "level": 3
+      },
+      {
+        "id": "section7-22",
+        "title": "7.22 ESOTERIC METHODS OF ACTIVATION",
+        "level": 3
+      },
+      {
+        "id": "section7-23",
+        "title": "7.23 Conclusion",
+        "level": 3
+      },
+      {
+        "id": "publication-notes",
+        "title": "Publication notes",
+        "level": 2
+      },
+      {
+        "id": "publication-note1",
+        "title": "1",
+        "level": 3
+      },
+      {
+        "id": "publication-note2",
+        "title": "2",
+        "level": 3
+      },
+      {
+        "id": "publication-note3",
+        "title": "3",
+        "level": 3
+      },
+      {
+        "id": "publication-note4",
+        "title": "4",
+        "level": 3
+      },
+      {
+        "id": "publication-note5",
+        "title": "5",
+        "level": 3
+      },
+      {
+        "id": "publication-note6",
+        "title": "6",
+        "level": 3
+      },
+      {
+        "id": "publication-note7",
+        "title": "7",
+        "level": 3
+      }
+    ],
+    "url": "books/en/knowledge-of-reality.html",
+    "downloads": {
+      "md": "content/knowledge-of-reality/book-en.md"
+    }
+  },
+  {
+    "id": "philosophers-stone",
+    "title": "The Philosopher’s Stone",
+    "author": "Henry T. Laurency",
+    "original": "De vises sten",
+    "lang": "sv",
+    "tradition": "HYLOZOICS",
+    "source": "Henry T. Laurency",
+    "era": "Philosophy",
+    "glow": "#b7c5ff",
+    "glyph": "rings",
+    "summary": "Reflections on world views, life views, knowledge, and the development of consciousness.",
+    "dir": "ltr",
+    "editions": [
+      {
+        "language": "en",
+        "variant": null,
+        "label": "Standard edition",
+        "url": "books/en/philosophers-stone.html",
+        "downloads": {
+          "md": "content/philosophers-stone/book-en.md"
+        }
+      },
+      {
+        "language": "ro",
+        "variant": null,
+        "label": "Standard edition",
+        "url": "books/ro/philosophers-stone.html",
+        "downloads": {
+          "md": "content/philosophers-stone/book-ro.md"
+        }
+      }
+    ],
+    "chapters": [
+      {
+        "id": "section1",
+        "title": "1 EXOTERIC WORLD VIEW AND LIFE VIEW",
+        "level": 2
+      },
+      {
+        "id": "section1-1",
+        "title": "1.1 THE WILL TO UNITY",
+        "level": 3
+      },
+      {
+        "id": "emotional-culture",
+        "title": "EMOTIONAL CULTURE",
+        "level": 3
+      },
+      {
+        "id": "section1-2",
+        "title": "1.2 MAN AS AN EMOTIONAL BEING",
+        "level": 3
+      },
+      {
+        "id": "section1-3",
+        "title": "1.3 RELIGION",
+        "level": 3
+      },
+      {
+        "id": "section1-4",
+        "title": "1.4 The Essence of Religion",
+        "level": 3
+      },
+      {
+        "id": "section1-5",
+        "title": "1.5 Religious Mysticism",
+        "level": 3
+      },
+      {
+        "id": "section1-6",
+        "title": "1.6 Religious Intellectual Constructions",
+        "level": 3
+      },
+      {
+        "id": "section1-7",
+        "title": "1.7 MORALITY",
+        "level": 3
+      },
+      {
+        "id": "section1-8",
+        "title": "1.8 Conventions",
+        "level": 3
+      },
+      {
+        "id": "section1-9",
+        "title": "1.9 Rules of Conduct",
+        "level": 3
+      },
+      {
+        "id": "section1-10",
+        "title": "1.10 Motives",
+        "level": 3
+      },
+      {
+        "id": "section1-11",
+        "title": "1.11 Moral Valuations",
+        "level": 3
+      },
+      {
+        "id": "section1-12",
+        "title": "1.12 The Voice of Conscience",
+        "level": 3
+      },
+      {
+        "id": "section1-13",
+        "title": "1.13 Religious Morality",
+        "level": 3
+      },
+      {
+        "id": "section1-14",
+        "title": "1.14 Sexual Morality",
+        "level": 3
+      },
+      {
+        "id": "section1-15",
+        "title": "1.15 Honour",
+        "level": 3
+      },
+      {
+        "id": "section1-16",
+        "title": "1.16 Right and Wrong, or Good and Evil",
+        "level": 3
+      },
+      {
+        "id": "section1-17",
+        "title": "1.17 The Art of Living",
+        "level": 3
+      },
+      {
+        "id": "politics",
+        "title": "POLITICS",
+        "level": 3
+      },
+      {
+        "id": "section1-18",
+        "title": "1.18 Introduction",
+        "level": 3
+      },
+      {
+        "id": "section1-19",
+        "title": "1.19 Political problems",
+        "level": 3
+      },
+      {
+        "id": "section1-20",
+        "title": "1.20 Political Systems",
+        "level": 3
+      },
+      {
+        "id": "section1-21",
+        "title": "1.21 Freedom, Equality, and Brotherhood",
+        "level": 3
+      },
+      {
+        "id": "section1-22",
+        "title": "1.22 Political Unity",
+        "level": 3
+      },
+      {
+        "id": "section1-23",
+        "title": "1.23 Practical Politics",
+        "level": 3
+      },
+      {
+        "id": "section1-24",
+        "title": "1.24 ESTHETICS",
+        "level": 3
+      },
+      {
+        "id": "mental-culture",
+        "title": "MENTAL CULTURE",
+        "level": 3
+      },
+      {
+        "id": "section1-25",
+        "title": "1.25 PHILOSOPHY",
+        "level": 3
+      },
+      {
+        "id": "section1-26",
+        "title": "1.26 Ideas",
+        "level": 3
+      },
+      {
+        "id": "section1-27",
+        "title": "1.27 Clear Concepts",
+        "level": 3
+      },
+      {
+        "id": "section1-28",
+        "title": "1.28 Logic",
+        "level": 3
+      },
+      {
+        "id": "section1-29",
+        "title": "1.29 Criticism",
+        "level": 3
+      },
+      {
+        "id": "section1-30",
+        "title": "1.30 What Is Truth?",
+        "level": 3
+      },
+      {
+        "id": "section1-31",
+        "title": "1.31 Sense and Reason",
+        "level": 3
+      },
+      {
+        "id": "section1-32",
+        "title": "1.32 Reality",
+        "level": 3
+      },
+      {
+        "id": "section1-33",
+        "title": "1.33 The Limits of Knowledge",
+        "level": 3
+      },
+      {
+        "id": "section1-34",
+        "title": "1.34 World View and Life View",
+        "level": 3
+      },
+      {
+        "id": "section1-35",
+        "title": "1.35 SCIENCE",
+        "level": 3
+      },
+      {
+        "id": "section1-36",
+        "title": "1.36 HISTORY",
+        "level": 3
+      },
+      {
+        "id": "section1-37",
+        "title": "1.37 Historical Facts",
+        "level": 3
+      },
+      {
+        "id": "section1-38",
+        "title": "1.38 Historical Factors",
+        "level": 3
+      },
+      {
+        "id": "section1-39",
+        "title": "1.39 Historical Views",
+        "level": 3
+      },
+      {
+        "id": "section1-40",
+        "title": "1.40 Culture of History",
+        "level": 3
+      },
+      {
+        "id": "section2",
+        "title": "2 THE ESOTERIC WORLD VIEW",
+        "level": 2
+      },
+      {
+        "id": "introduction-to",
+        "title": "INTRODUCTION TO",
+        "level": 3
+      },
+      {
+        "id": "the-esoteric-knowledge-of-reality",
+        "title": "THE ESOTERIC KNOWLEDGE OF REALITY",
+        "level": 3
+      },
+      {
+        "id": "section2-1",
+        "title": "2.1 Introduction",
+        "level": 3
+      },
+      {
+        "id": "section2-2",
+        "title": "2.2 Matter",
+        "level": 3
+      },
+      {
+        "id": "section2-3",
+        "title": "2.3 Matter and Energy",
+        "level": 3
+      },
+      {
+        "id": "section2-4",
+        "title": "2.4 Matter and Consciousness",
+        "level": 3
+      },
+      {
+        "id": "section2-5",
+        "title": "2.5 Visible and Invisible Material Reality",
+        "level": 3
+      },
+      {
+        "id": "section2-6",
+        "title": "2.6 Biological Evolution and Finality",
+        "level": 3
+      },
+      {
+        "id": "the-matter-aspect-of-reality",
+        "title": "THE MATTER ASPECT OF REALITY",
+        "level": 3
+      },
+      {
+        "id": "the-septenary",
+        "title": "THE SEPTENARY",
+        "level": 4
+      },
+      {
+        "id": "section2-7",
+        "title": "2.7 Introduction",
+        "level": 3
+      },
+      {
+        "id": "section2-8",
+        "title": "2.8 Involvation",
+        "level": 3
+      },
+      {
+        "id": "section2-9",
+        "title": "2.9 Involution",
+        "level": 3
+      },
+      {
+        "id": "section2-10",
+        "title": "2.10 The Solar System",
+        "level": 3
+      },
+      {
+        "id": "section2-11",
+        "title": "2.11 Elementals",
+        "level": 3
+      },
+      {
+        "id": "section2-12",
+        "title": "2.12 Evolution",
+        "level": 3
+      },
+      {
+        "id": "section2-13",
+        "title": "2.13 Evolutionary Beings",
+        "level": 3
+      },
+      {
+        "id": "section2-14",
+        "title": "2.14 The Natural Kingdoms",
+        "level": 3
+      },
+      {
+        "id": "section2-15",
+        "title": "2.15 The Chain of Triads",
+        "level": 3
+      },
+      {
+        "id": "section2-16",
+        "title": "2.16 The Monad",
+        "level": 3
+      },
+      {
+        "id": "section2-17",
+        "title": "2.17 Group-Souls and Transmigration",
+        "level": 3
+      },
+      {
+        "id": "section2-18",
+        "title": "2.18 Causalization",
+        "level": 3
+      },
+      {
+        "id": "section2-19",
+        "title": "2.19 The Envelopes of Man",
+        "level": 3
+      },
+      {
+        "id": "section2-20",
+        "title": "2.20 Man’s Etheric Envelope",
+        "level": 3
+      },
+      {
+        "id": "section2-21",
+        "title": "2.21 Man’s Emotional Envelope",
+        "level": 3
+      },
+      {
+        "id": "section2-22",
+        "title": "2.22 Man’s Mental Envelope",
+        "level": 3
+      },
+      {
+        "id": "section2-23",
+        "title": "2.23 Man’s Causal Envelope",
+        "level": 3
+      },
+      {
+        "id": "the-consciousness-aspect-of-reality",
+        "title": "THE CONSCIOUSNESS ASPECT OF REALITY",
+        "level": 3
+      },
+      {
+        "id": "section2-24",
+        "title": "2.24 Consciousness",
+        "level": 3
+      },
+      {
+        "id": "section2-25",
+        "title": "2.25 The Unity of Consciousness",
+        "level": 3
+      },
+      {
+        "id": "section2-26",
+        "title": "2.26 Active and Passive Consciousness",
+        "level": 3
+      },
+      {
+        "id": "section2-27",
+        "title": "2.27 Objective and Subjective Consciousness",
+        "level": 3
+      },
+      {
+        "id": "section2-28",
+        "title": "2.28 Group Consciousness",
+        "level": 3
+      },
+      {
+        "id": "section2-29",
+        "title": "2.29 Self-Consciousness",
+        "level": 3
+      },
+      {
+        "id": "section2-30",
+        "title": "2.30 Man’s Consciousness",
+        "level": 3
+      },
+      {
+        "id": "section2-31",
+        "title": "2.31 Man’s Emotional Consciousness",
+        "level": 3
+      },
+      {
+        "id": "section2-32",
+        "title": "2.32 Man’s Mental Consciousness",
+        "level": 3
+      },
+      {
+        "id": "section2-33",
+        "title": "2.33 Man’s Causal Consciousness",
+        "level": 3
+      },
+      {
+        "id": "section2-34",
+        "title": "2.34 Essential (46) Consciousness",
+        "level": 3
+      },
+      {
+        "id": "section2-35",
+        "title": "2.35 Superessential (45) and Higher Consciousness",
+        "level": 3
+      },
+      {
+        "id": "esoteric-anthropology",
+        "title": "ESOTERIC ANTHROPOLOGY",
+        "level": 3
+      },
+      {
+        "id": "section2-36",
+        "title": "2.36 The Races",
+        "level": 3
+      },
+      {
+        "id": "section2-37",
+        "title": "2.37 The Age Classes of Mankind",
+        "level": 3
+      },
+      {
+        "id": "section2-38",
+        "title": "2.38 The Levels of Human Development",
+        "level": 3
+      },
+      {
+        "id": "section2-39",
+        "title": "2.39 The Involvations of the Causal Envelope",
+        "level": 3
+      },
+      {
+        "id": "section2-40",
+        "title": "2.40 The Dissolution of the Envelopes of Incarnation",
+        "level": 3
+      },
+      {
+        "id": "section2-41",
+        "title": "2.41 The Individual Self",
+        "level": 3
+      },
+      {
+        "id": "section2-42",
+        "title": "2.42 The Collective Selves",
+        "level": 3
+      },
+      {
+        "id": "esoteric-cosmology",
+        "title": "ESOTERIC COSMOLOGY",
+        "level": 3
+      },
+      {
+        "id": "section2-43",
+        "title": "2.43 The Manifestations",
+        "level": 3
+      },
+      {
+        "id": "section2-44",
+        "title": "2.44 The Seven-Globes",
+        "level": 3
+      },
+      {
+        "id": "section2-45",
+        "title": "2.45 Involution and Evolution in the Seven-Globes",
+        "level": 3
+      },
+      {
+        "id": "section2-46",
+        "title": "2.46 The Eons",
+        "level": 3
+      },
+      {
+        "id": "esoteric-ontology",
+        "title": "ESOTERIC ONTOLOGY",
+        "level": 3
+      },
+      {
+        "id": "section2-47",
+        "title": "2.47 The Processes of Manifestation",
+        "level": 3
+      },
+      {
+        "id": "section2-48",
+        "title": "2.48 The Periods of Manifestation",
+        "level": 3
+      },
+      {
+        "id": "section2-49",
+        "title": "2.49 The Three Kinds of Solar System",
+        "level": 3
+      },
+      {
+        "id": "section2-50",
+        "title": "2.50 The Departments",
+        "level": 3
+      },
+      {
+        "id": "section2-51",
+        "title": "2.51 Expanding Collective Beings",
+        "level": 3
+      },
+      {
+        "id": "section2-52",
+        "title": "2.52 The Tasks of Collective Beings",
+        "level": 3
+      },
+      {
+        "id": "section2-53",
+        "title": "2.53 The Relations of Collective Beings to Mankind",
+        "level": 3
+      },
+      {
+        "id": "general-esoteric-knowledge-of-reality",
+        "title": "GENERAL ESOTERIC KNOWLEDGE OF REALITY",
+        "level": 3
+      },
+      {
+        "id": "section2-54",
+        "title": "2.54 Space and Time",
+        "level": 3
+      },
+      {
+        "id": "section2-55",
+        "title": "2.55 Dynamis, Energies, Vibrations",
+        "level": 3
+      },
+      {
+        "id": "section2-56",
+        "title": "2.56 Higher Kinds of Matter Are Luminous",
+        "level": 3
+      },
+      {
+        "id": "section2-57",
+        "title": "2.57 The Atom",
+        "level": 3
+      },
+      {
+        "id": "section2-58",
+        "title": "2.58 The Origin of Material Forms and Forces of Nature",
+        "level": 3
+      },
+      {
+        "id": "section2-59",
+        "title": "2.59 The Three Aspects of Reality",
+        "level": 3
+      },
+      {
+        "id": "section2-60",
+        "title": "2.60 Primordial Matter",
+        "level": 3
+      },
+      {
+        "id": "section2-61",
+        "title": "2.61 The Dynamic Energy of Primordial Matter (Dynamis)",
+        "level": 3
+      },
+      {
+        "id": "section2-62",
+        "title": "2.62 Esoteric Terms, Exoteric Fictions, Addenda, Etc.",
+        "level": 3
+      },
+      {
+        "id": "section3",
+        "title": "3 ESOTERIC LIFE VIEW",
+        "level": 2
+      },
+      {
+        "id": "section3-1",
+        "title": "3.1 LIFE VIEW",
+        "level": 3
+      },
+      {
+        "id": "section3-2",
+        "title": "3.2 LAWS OF LIFE",
+        "level": 3
+      },
+      {
+        "id": "the-law-of-freedom",
+        "title": "THE LAW OF FREEDOM",
+        "level": 3
+      },
+      {
+        "id": "the-inalienable-divine-freedom",
+        "title": "THE INALIENABLE DIVINE FREEDOM",
+        "level": 3
+      },
+      {
+        "id": "section3-3",
+        "title": "3.3 Freedom and Law",
+        "level": 3
+      },
+      {
+        "id": "section3-4",
+        "title": "3.4 Freedom through Insight and Understanding",
+        "level": 3
+      },
+      {
+        "id": "section3-5",
+        "title": "3.5 Freedom of Choice",
+        "level": 3
+      },
+      {
+        "id": "section3-6",
+        "title": "3.6 Freedom and Responsibility",
+        "level": 3
+      },
+      {
+        "id": "section3-7",
+        "title": "3.7 Freedom and Development",
+        "level": 3
+      },
+      {
+        "id": "section3-8",
+        "title": "3.8 Freedom and Guidance",
+        "level": 3
+      },
+      {
+        "id": "the-individual-and-the-collective",
+        "title": "THE INDIVIDUAL AND THE COLLECTIVE",
+        "level": 3
+      },
+      {
+        "id": "section3-9",
+        "title": "3.9 Ideal Law and Right",
+        "level": 3
+      },
+      {
+        "id": "section3-10",
+        "title": "3.10 The Individual and the State",
+        "level": 3
+      },
+      {
+        "id": "section3-11",
+        "title": "3.11 The Individual and the Laws",
+        "level": 3
+      },
+      {
+        "id": "section3-12",
+        "title": "3.12 The Individual and Social Freedom",
+        "level": 3
+      },
+      {
+        "id": "the-law-of-unity",
+        "title": "THE LAW OF UNITY",
+        "level": 3
+      },
+      {
+        "id": "section3-13",
+        "title": "3.13 THE LAW OF UNITY",
+        "level": 3
+      },
+      {
+        "id": "section3-14",
+        "title": "3.14 Individualism and Collectivism",
+        "level": 3
+      },
+      {
+        "id": "section3-15",
+        "title": "3.15 Collectives",
+        "level": 3
+      },
+      {
+        "id": "the-law-of-development",
+        "title": "THE LAW OF DEVELOPMENT",
+        "level": 3
+      },
+      {
+        "id": "section3-16",
+        "title": "3.16 CONSCIOUSNESS DEVELOPMENT",
+        "level": 3
+      },
+      {
+        "id": "section3-17",
+        "title": "3.17 THE STAGE OF BARBARISM",
+        "level": 3
+      },
+      {
+        "id": "the-stage-of-civilization",
+        "title": "THE STAGE OF CIVILIZATION",
+        "level": 3
+      },
+      {
+        "id": "section3-18",
+        "title": "3.18 Emotionality at the Stage of Civilization",
+        "level": 3
+      },
+      {
+        "id": "section3-19",
+        "title": "3.19 Mentality at the Stage of Civilization",
+        "level": 3
+      },
+      {
+        "id": "section3-20",
+        "title": "3.20 Religion at the Stage of Civilization",
+        "level": 3
+      },
+      {
+        "id": "section3-21",
+        "title": "3.21 The Striving at Art at the Stage of Civilization",
+        "level": 3
+      },
+      {
+        "id": "section3-22",
+        "title": "3.22 The Conception of Right at the Stage of Civilization",
+        "level": 3
+      },
+      {
+        "id": "the-stage-of-culture",
+        "title": "THE STAGE OF CULTURE",
+        "level": 3
+      },
+      {
+        "id": "section3-23",
+        "title": "3.23 Emotionality at the Stage of Culture",
+        "level": 3
+      },
+      {
+        "id": "section3-24",
+        "title": "3.24 Mentality at the Stage of Culture",
+        "level": 3
+      },
+      {
+        "id": "section3-25",
+        "title": "3.25 Religion at the Stage of Culture",
+        "level": 3
+      },
+      {
+        "id": "section3-26",
+        "title": "3.26 Art",
+        "level": 3
+      },
+      {
+        "id": "section3-27",
+        "title": "3.27 The Conception of Right at the Stage of Culture",
+        "level": 3
+      },
+      {
+        "id": "section3-28",
+        "title": "3.28 THE STAGE OF HUMANITY",
+        "level": 3
+      },
+      {
+        "id": "section3-29",
+        "title": "3.29 THE STAGE OF IDEALITY",
+        "level": 3
+      },
+      {
+        "id": "section3-30",
+        "title": "3.30 THE STAGE OF UNITY",
+        "level": 3
+      },
+      {
+        "id": "the-law-of-self-or-of-self-realization",
+        "title": "THE LAW OF SELF, OR OF SELF-REALIZATION",
+        "level": 3
+      },
+      {
+        "id": "section3-31",
+        "title": "3.31 SELF-REALIZATION",
+        "level": 3
+      },
+      {
+        "id": "section3-32",
+        "title": "3.32 Self-Reliance",
+        "level": 3
+      },
+      {
+        "id": "section3-33",
+        "title": "3.33 Self-Determination",
+        "level": 3
+      },
+      {
+        "id": "section3-34",
+        "title": "3.34 The Tendency to Unity",
+        "level": 3
+      },
+      {
+        "id": "section3-35",
+        "title": "3.35 The Law of Understanding",
+        "level": 3
+      },
+      {
+        "id": "section3-36",
+        "title": "3.36 The Faults and Failings of Man",
+        "level": 3
+      },
+      {
+        "id": "section3-37",
+        "title": "3.37 Assessment of the Personality",
+        "level": 3
+      },
+      {
+        "id": "section3-38",
+        "title": "3.38 The Blindness to Ourselves",
+        "level": 3
+      },
+      {
+        "id": "section3-39",
+        "title": "3.39 Ennoblement of the Personality",
+        "level": 3
+      },
+      {
+        "id": "section3-40",
+        "title": "3.40 The Art of Living",
+        "level": 3
+      },
+      {
+        "id": "obstacles-to-self-realization",
+        "title": "OBSTACLES TO SELF-REALIZATION",
+        "level": 3
+      },
+      {
+        "id": "section3-41",
+        "title": "3.41 The Tendency to Division",
+        "level": 3
+      },
+      {
+        "id": "section3-42",
+        "title": "3.42 Dogmas",
+        "level": 3
+      },
+      {
+        "id": "section3-43",
+        "title": "3.43 Dependence",
+        "level": 3
+      },
+      {
+        "id": "section3-44",
+        "title": "3.44 Morality",
+        "level": 3
+      },
+      {
+        "id": "section3-45",
+        "title": "3.45 Moralism",
+        "level": 3
+      },
+      {
+        "id": "section3-46",
+        "title": "3.46 Public Opinion",
+        "level": 3
+      },
+      {
+        "id": "the-law-of-destiny",
+        "title": "THE LAW OF DESTINY",
+        "level": 3
+      },
+      {
+        "id": "section3-47",
+        "title": "3.47 THE LAW OF DESTINY",
+        "level": 3
+      },
+      {
+        "id": "section3-48",
+        "title": "3.48 Individual Character",
+        "level": 3
+      },
+      {
+        "id": "section3-49",
+        "title": "3.49 The Basic Tendencies of Individual Character",
+        "level": 3
+      },
+      {
+        "id": "section3-50",
+        "title": "3.50 Self-Assertion and the Law of Compensation",
+        "level": 3
+      },
+      {
+        "id": "section3-51",
+        "title": "3.51 The Destiny of the Self",
+        "level": 3
+      },
+      {
+        "id": "section3-52",
+        "title": "3.52 The Common Destiny of the Collective",
+        "level": 3
+      },
+      {
+        "id": "the-law-of-reaping",
+        "title": "THE LAW OF REAPING",
+        "level": 3
+      },
+      {
+        "id": "section3-53",
+        "title": "3.53 THE LAW OF REAPING",
+        "level": 3
+      },
+      {
+        "id": "section3-54",
+        "title": "3.54 The Law of Reaping and Other Laws of Life",
+        "level": 3
+      },
+      {
+        "id": "section3-55",
+        "title": "3.55 The Law of Reaping and the Ignorance of Life",
+        "level": 3
+      },
+      {
+        "id": "section3-56",
+        "title": "3.56 The Law of Reaping and the “Iniquities” of Life",
+        "level": 3
+      },
+      {
+        "id": "section3-57",
+        "title": "3.57 The Law of Reaping and the Agents of Reaping",
+        "level": 3
+      },
+      {
+        "id": "section3-58",
+        "title": "3.58 The Law of Reaping and Suffering",
+        "level": 3
+      },
+      {
+        "id": "section3-59",
+        "title": "3.59 The Sowing and Reaping of Consciousness Expressions",
+        "level": 3
+      },
+      {
+        "id": "section3-60",
+        "title": "3.60 Good Sowing",
+        "level": 3
+      },
+      {
+        "id": "section3-61",
+        "title": "3.61 Good Reaping",
+        "level": 3
+      },
+      {
+        "id": "section3-62",
+        "title": "3.62 Bad Sowing",
+        "level": 3
+      },
+      {
+        "id": "section3-63",
+        "title": "3.63 Bad Reaping",
+        "level": 3
+      },
+      {
+        "id": "section3-64",
+        "title": "3.64 Collective Sowing and Reaping",
+        "level": 3
+      },
+      {
+        "id": "section3-65",
+        "title": "3.65 The Factors of Reaping",
+        "level": 3
+      },
+      {
+        "id": "section3-66",
+        "title": "3.66 The Law of Reaping and Traditional Fictions",
+        "level": 3
+      },
+      {
+        "id": "the-law-of-activation",
+        "title": "THE LAW OF ACTIVATION",
+        "level": 3
+      },
+      {
+        "id": "section3-67",
+        "title": "3.67 THE LAW OF ACTIVATION",
+        "level": 3
+      },
+      {
+        "id": "section3-68",
+        "title": "3.68 The Unconscious of the Personality",
+        "level": 3
+      },
+      {
+        "id": "section3-69",
+        "title": "3.69 The Subconscious",
+        "level": 3
+      },
+      {
+        "id": "section3-70",
+        "title": "3.70 The Superconscious",
+        "level": 3
+      },
+      {
+        "id": "section3-71",
+        "title": "3.71 Control of Consciousness",
+        "level": 3
+      },
+      {
+        "id": "section3-72",
+        "title": "3.72 The Method of Activation",
+        "level": 3
+      },
+      {
+        "id": "section3-73",
+        "title": "3.73 The Group Activity",
+        "level": 3
+      },
+      {
+        "id": "publication-notes",
+        "title": "Publication notes",
+        "level": 2
+      },
+      {
+        "id": "publication-note1",
+        "title": "1",
+        "level": 3
+      },
+      {
+        "id": "publication-note2",
+        "title": "2",
+        "level": 3
+      },
+      {
+        "id": "publication-note3",
+        "title": "3",
+        "level": 3
+      }
+    ],
+    "url": "books/en/philosophers-stone.html",
+    "downloads": {
+      "md": "content/philosophers-stone/book-en.md"
+    }
   }
 ]

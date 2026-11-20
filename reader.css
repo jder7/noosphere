@@ -1,0 +1,25 @@
+/* Continuous reading surface; archive and volume styling remains shared. */
+.book-reader .reading-environment{position:fixed;pointer-events:none}
+.book-reader .reader-back{text-decoration:none;min-height:44px;align-items:center}
+.book-reader .reading-controls{align-items:center}
+.book-reader .reading-controls select{font:14px 'DM Sans',sans-serif;color:#e0f5eb;background:#0b232b;border:1px solid #9cddd74c;border-radius:0;padding:7px;max-width:125px}
+.book-reader .page-flow{scroll-snap-type:none;scrollbar-width:thin;scrollbar-color:#8cc2b655 transparent;padding:32px clamp(15px,4vw,60px) 60px;scroll-behavior:auto}
+.book-reader .book-text{display:block;width:min(820px,100%);height:auto;max-height:none;min-height:100%;overflow:visible;margin:0 auto;padding:clamp(25px,5vw,68px);font:calc(21px * var(--reader-scale))/1.65 'EB Garamond',Georgia,serif;overflow-wrap:anywhere}
+.book-reader .book-text>*{position:relative;z-index:1}
+.book-text h1{font:400 3rem/1.06 'Cormorant Garamond',serif;margin:0 0 25px}
+.book-reader .book-text h2,.book-reader .book-text h3,.book-reader .book-text h4,.book-reader .book-text h5,.book-reader .book-text h6{text-align:start;font-family:'Cormorant Garamond',serif;line-height:1.2;margin:2em 0 .75em;color:inherit}
+.book-reader .book-text h2{font-size:2rem}.book-reader .book-text h3{font-size:1.65rem}.book-reader .book-text h4{font-size:1.45rem}
+.book-text p{margin:0 0 1.2em}.book-text a{color:#b5f5df;text-underline-offset:3px}.book-text [id]{scroll-margin-top:25px}
+.book-text blockquote{border-inline-start:1px solid #a8e5d3;padding-inline-start:1.2em;margin-inline:0}
+.book-text img{max-width:100%;height:auto}.book-text table{display:block;max-width:100%;overflow-x:auto}.book-text pre{white-space:pre-wrap}
+.book-text[lang="zh"]{font-family:'Noto Serif SC',serif;line-height:1.9}
+.book-reader .parchment .book-text a{color:#365d51}.book-reader .parchment .book-text{color:#362f28}
+.book-reader .toc-jump{text-decoration:none;font-size:17px;line-height:1.25}.book-reader .toc-level-3,.book-reader .toc-level-4{padding-inline-start:12px;font-size:16px}
+.book-reader .toc-inner{padding-top:30px}.book-reader .toc-inner p{font:16px/1.4 'EB Garamond',serif;color:#bbd5cb}
+.book-reader .toc-inner .edition-label{font:12px 'DM Sans',sans-serif;color:#9ec9bd}
+.book-reader .reading-footer a{color:#d6fff0;text-decoration:none}.book-reader .reading-footer #sectionStatus{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:60%}
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%)}
+.skip-reading{position:fixed;top:-60px;left:20px;z-index:100;background:#0b232b;color:#e0f5eb;padding:12px}.skip-reading:focus{top:8px}
+:focus-visible{outline:2px solid #b5f5df;outline-offset:4px}
+@media(max-width:720px){.book-reader .reading-header{flex-wrap:wrap;height:103px;gap:5px;padding:9px 12px}.book-reader .reader-back{font-size:11px}.book-reader .reader-book-title{max-width:62vw}.book-reader .reading-controls{width:100%;justify-content:flex-end}.book-reader .reader-layout{top:103px}.book-reader .page-flow{padding:15px 10px 35px}.book-reader .book-text{padding:35px 23px;font-size:calc(19px * var(--reader-scale))}.book-text h1{font-size:2.4rem}.book-reader .book-text h2{font-size:1.8rem}.book-reader .toc-tab{top:15px}.book-reader .reading-controls button{width:34px;height:34px}.book-reader .reading-controls select{padding:5px 8px}}
+@media(prefers-reduced-motion:reduce){.book-reader *{scroll-behavior:auto!important;transition:none!important}}

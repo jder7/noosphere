@@ -1,0 +1,4296 @@
+# The Knowledge of Reality
+
+**Henry T. Laurency**
+
+## 1 THE PROBLEMS OF REALITY, PART ONE
+
+### *1.1 What Most People Do Not Know*
+
+<sup>1.</sup>An eminent modern scientist answered the question whether mankind has as yet succeeded in exploring one per cent of reality: “No, not even one ten thousandth of one per cent”.
+
+<sup>2.</sup>That is, not even one millionth! One certainly has respect for such a scientist. Nobody makes a greater impression than he who realizes man’s immense ignorance about life. For it is obvious to anyone who has assimilated what theology, philosophy, and science tell us about reality that the conclusions they can draw are mere hypotheses (a euphemism for guesswork and supposition!) Or, as Professor Whittaker has put it: “We know that there is something we call matter, but not what it is; we know that it moves, but not why it does so, and that is the sum of all our knowledge.” That is true. Science cannot answer the questions of What? and Why?, which already Newton realized. To rid themselves of the evidence of this too embarrassing ignorance, modern philosophers try to discard all reality concepts, calling those very things fictions!
+
+<sup>3.</sup>There are plenty of authorities in theology, philosophy, and science, who will pass judgements on everything and make dogmatic assertions about matters which they have not even examined. They know a priori that “this” cannot be true, because it conflicts with what they read in their paper pope or “conflicts with the laws of nature”; as if their paper pope had solved the problem of existence for them, amounted to a world-view that explains reality and solves the basic problems of knowledge! As if science could decide what “conflicts with the laws of nature” and what does not, when it has not explored even one per cent of them!
+
+<sup>4.</sup>It is important that we should not restrict ourselves to what has been explored, that we should not reject any one idea because it seems alien, improbable, or unprofitable to us. It is important to investigate any new possibility of knowledge. We know too little to afford to neglect the least chance of expanding our knowledge. All new ideas at first sight appear improbable to most people. Those who consider themselves able to judge accept only what fits in with their own thought system. But they ought to realize that if that system is so correct, they should be all but omniscient.
+
+<sup>5.</sup>The scientists seem ever oblivious to the fact that their hypotheses and theories are just temporary. They flatter themselves that they are free from dogmatism, that their thinking is free and straight. But the history of science has always borne witness to the opposite. It still is all too frequently seen that scientific authorities reject what is seemingly improbable, strange, and unknown (as every revolutionary idea has been) without examining it. The scientists call what they cannot explain delusion, the religious call it god.
+
+<sup>6.</sup>There is something seemingly incorrigibly, ineradicably idiotic in this: in refusing to examine.
+
+<sup>7.</sup>The true seeker, who has recognized mankind’s total disorientation and intellectual helplessness as to the problems of existence, examines everything, not caring that the ruling authorities have dismissed it categorically and that parroting public opinion ridicules and disdains everything it does not know or cannot comprehend.
+
+<sup>8.</sup>To explain to the uninitiated something of which they are totally unaware would seem a hopeless task, especially when it is something that appears strange, improbable, and unreal to them.
+
+<sup>9.</sup>Mankind has for so long been fed with so many religious, philosophic, scientific, and, in the last decades, also occult attempts to explain existence that most people refuse to study the true knowledge when it is offered. They are content to explore only the world that is visible to them. General doubt whether there is any other reality is gaining ground more and more.
+
+<sup>10.</sup>But suppose there is a knowledge of existence that to the learned will seem the height of madness. Suppose Kant, the philosopher, was mistaken in claiming that we shall never come to know anything about the inner reality of nature. Suppose the Indian rishis, the Egyptian hierophants, the gnostic theurgists, the original, true Rosicrucians were not such mystagogues, charlatans, and impostors as the learned have tried to make them.
+
+<sup>11.</sup>Characteristic of the learned world today is its contempt for everything we have inherited from our fathers, as if all mankind’s experiences hitherto were nonsensical and useless in life.
+
+<sup>12.</sup>Scientific research has come far within its limited domains, but only the élite among the scientists are beginning to realize how little mankind knows about the whole.
+
+<sup>13.</sup>What do the paleontologists know about the antiquity of man? Do they know that there have been fully developed men on our planet for 21 million years?
+
+<sup>14.</sup>What do the geologists know about the two hemispherical continents, Lemuria and Atlantis, now lying on the bottom of the Pacific and the Atlantic Ocean; and what do the antiquarians know about the civilizations of those continents?
+
+<sup>15.</sup>What do the archaeologists know about cultures nearer to us in time than those mentioned: the Indian culture of some 50,000 years ago, the Egyptian of 40,000 years ago, the Peruvian of 15,000 years ago, or even that of ancient Greece of 12,000 years ago?
+
+<sup>16.</sup>What do the learned know about the different secret knowledge orders that have existed in many countries? What do they know about the order instituted by Vyasa in India some 45,000 years ago, or that by Hermes Trismegistos in Egypt some 40,000 years ago, the one by the first Zoroaster in Persia about 30,000 years ago, or that by Pythagoras just about 2700 years ago?
+
+<sup>17.</sup>What do the learned know about existence, about the structure of the universe, about other kinds of matter and other worlds than the physical, about the fact of a fifth kingdom in nature?
+
+<sup>18.</sup>What do these immensely learned know even about the individual’s life that continues after he has left his worn-out organism?
+
+<sup>19.</sup>What they may perhaps have picked up of the pertaining knowledge is so distorted that it must be regarded as little more than gross superstition.
+
+<sup>20.</sup>To the Western attitude, the idea that knowledge must be kept secret is almost revolting, or in any case repulsive, and it prompts the assumption that one is dealing with the “intellectual quackery of charlatans”.
+
+<sup>21.</sup>The Indians, on the other hand, simply accept secrecy as a necessity. Several thousand years of experience have taught them that one must not “cast pearls”, and they do not.
+
+<sup>22.</sup>And this for the simple reasons that exact comprehension calls for considerable qualifications, and that all knowledge which confers power is abused by those in a position to use power for their own good.
+
+<sup>23.</sup>There are many kinds of yogis in India. The highest kind is unknown except to special initiates. The yogis of whom Westerners hear are mostly members of the Ramakrishna Mission. They teach the philosophy of Sankhya and Vedanta as expounded by Ramakrishna. The highest yogis are initiates who pass on their knowledge only to a few select disciples and under the strictest vows of secrecy. They regard all Westerners as barbarians and consider it a profanation of their knowledge to reveal anything of it to those ignorant, incurably skeptical, scornfully and arrogantly superior, curious people, who abuse the knowledge the moment they think they have understood it and who, moreover, place all their knowledge at the service of barbarism and at the disposal of bandits.
+
+<sup>24.</sup>The Indian’s attitude to life is the exact opposite of the Westerner’s. Whereas to the Westerner the physical world is the only one that exists, to the Indian the superphysical reality is the essential one. It is the higher material worlds that constitute the material basis of physical matter and the causes of the processes of nature exist in those higher worlds.
+
+<sup>25.</sup>The real yogi, who has succeeded in his experiments, has developed organs which in others are as yet undeveloped, being intended to be organized and vitalized in some future epoch, organs which make it possible to explore higher molecular kinds, a whole series of ever higher states of aggregation far beyond the possibilities of nuclear physics to explore.
+
+<sup>26.</sup>Of these rudiments Westerners have no conception, and their mighty authorities dismiss with derision and contempt the mere idea that such things could be possible. They have, to be sure, the wonderful ability to judge things of which they know nothing.
+
+<sup>27.</sup>The Indian explanation of the world is vastly superior to that of the West. It is a doctrine of development, of the pre-existence of the soul, of rebirth, and of karma, that is, the law of sowing and reaping. It asserts that there are other worlds than the physical one and undertakes to prove this to serious and honest seekers who are prepared to submit to its methods of developing the rudiments of higher kinds of objective consciousness existing in man. It thereby refutes the agnostic’s and the skeptic’s denial of superphysical knowledge, of existence being ruled laws, of development, etc., and in so doing it clears the way for esoterics.
+
+<sup>28.</sup>How, then, could Westerners have any knowledge of superphysical worlds when they do not have the ability to ascertain their existence? They ascertain facts in physical matter by applying physical sense (objective physical consciousness). In order to ascertain facts in higher worlds a corresponding kind of sense is required, and it is that which has been given the unfortunate name of clairvoyance.
+
+<sup>29.</sup>Scientists cannot be blamed for lacking emotional sense or mental sense. But one is justified in demanding that they should not categorically deny the existence of things concerning which they have no logical right to express opinions.
+
+<sup>30.</sup>Philosophy does not teach man to think in accordance with reality. It does teach, however, that man only makes mistakes when trying to think without the necessary facts. The philosophers have not yet grasped this. Besides, they have failed to solve the most evident of all the problems of knowledge.
+
+<sup>31.</sup>The judgement of Western psychology is preferably left to the understanding reader of all the following.
+
+<sup>32.</sup>Those who are satisfied with their thought systems (not least the skeptics) may very well have them. We are all to re-learn in lives to come. But there is a category of seekers who instinctively realize that there must be something different, something more, that things cannot be just as the learned say they are. It is these seekers that the esoterician wishes to reach, not in order to persuade them, but to ask them to examine the matter logically. If esoterics is false, then it must be possible to refute it logically. But it is not refuted by the ordinary rant that is always dished up by those who have never examined the matter.
+
+<sup>33.</sup>At mankind’s present stage of development, the esoteric knowledge cannot be more than a working hypothesis where most people are concerned. But the further mankind develops, the more obvious it will be that this hypothesis is incomparably superior.
+
+<sup>34.</sup>System is thought’s way of orienting itself. Facts are largely useless until reason can fit them into their correct contexts (historical, logical, psychological, or causal ones). All rational thinking is based on principles and systems. Every thinking man has made his own system, whether he knows it or not. Systems afford a correct conception of ground and consequence of thinking, as well as of cause and effect of objective realities. The quality of the system shows the individual’s level of development, his ability of judgement, and his knowledge of facts. Most people’s systems are the belief systems of emotional thinking which no facts can upset. Thereby the individual has reached his point of maturity, the limit of his receptivity, being captive in the prison of his own thoughts.
+
+<sup>35.</sup>Ignorance of existence is so great that the dogmatic systems of theology, the speculative systems of philosophy, and the primitive hypothesis systems of science have all been accepted as satisfactory explanations.
+
+<sup>36.</sup>The seekers after truth examine the original facts or basic hypotheses of the existing systems, to what extent any system does not contradict itself, its consequences, and its ability to explain rationally.
+
+<sup>37.</sup>Many people find esoterics self-evident the moment they first come into contact with it. This is because knowledge, as Platon maintained, is remembrance anew. Everything which we are able immediately to grasp, comprehend, understand, we have assimilated in previous incarnations. Also qualities and abilities once acquired remain latent, until they are given opportunities to develop in some new incarnation. Understanding of the old remains as well as the turn for skills. One of many examples of this is the genius, an otherwise incomprehensible phenomenon.
+
+<sup>38.</sup>The esoterician presents his system to those who have remained seekers and have not been satisfied with the ruling systems. He quietly awaits the day when science has ascertained so many formerly esoteric facts that it will no longer be possible for it to refuse to accept esoterics as the only really tenable working hypothesis.
+
+<sup>39.</sup>One inestimable value, among others, of the esoteric knowledge is that it liberates us from the superstitions and spurious knowledge of ignorance, from illusions and fictions (conceptions without correspondences in reality). Another one is that it entails a complete revaluation of all the values of life as a necessary consequence of knowing the meaning and goal of life.
+
+### *1.2 The Esoteric Knowledge Orders*
+
+<sup>1.</sup>If man is not to be like a reed in the wind, like a ship on the boundless sea, or feel as though he were walking on a bottomless quagmire, he will need at the emotional stage something firm for his feeling, and at the mental stage something firm for his thinking. Up to now, this “something” has not been in accordance with reality.
+
+<sup>2.</sup>Since mankind cannot unaided acquire a knowledge of existence, of its meaning and goal, or a knowledge of cosmic reality and life, it has always had this knowledge given to it – by whom will be shown later.
+
+<sup>3.</sup>This has entailed definite risks. The knowledge that confers power, the knowledge of laws and forces of nature and their use, has always been abused for selfish ends. And those who have not been able to comprehend the knowledge of reality have always distorted it into superstition and false doctrines.
+
+<sup>4.</sup>Along with knowledge goes responsibility for the right use of knowledge. Abuse of knowledge leads to the loss of knowledge and where whole nations are concerned, to their annihilation.
+
+<sup>5.</sup>On two occasions whole continents have had to be submerged into the depths of the sea: Lemuria and Atlantis.
+
+<sup>6.</sup>After those two failures it was decided that the knowledge should be imparted in secret schools of knowledge only, and only to those who had reached such a stage of development that they could understand correctly and not misinterpret what they were taught, but apply it correctly in the service of life. They were taught how to think correctly. For the last 45,000 years esoteric knowledge orders have been instituted among nations that have reached a sufficiently high level. Since knowledge is remembrance anew, those who have never been initiated cannot see the correctness of esoterics.
+
+<sup>7.</sup>The knowledge orders comprised several degrees. Those in the lowest degree were given carefully elaborated symbols which could be interpreted in a new way in each higher degree, so that only those who reached the highest degree were fully able to understand the whole of it. The procedure involved difficulties in that those who did not reach the highest degree sometimes made their own, and erroneous, systems of thought.
+
+<sup>8.</sup>For those not admitted to these orders, religions were instituted corresponding to different nations’ ability to understand and their need of norms of expedient activity.
+
+<sup>9.</sup>The rapid rise in general enlightenment and the advances of science made other measures necessary. Ever since the 18th century the conflict between “belief and knowledge” (between which those are unable to distinguish who believe they know, comprehend, understand), has grown more and more accentuated. (All are believers who lack the exact knowledge of reality, also those who say they do not believe in anything.) This conflict began with the anti-religious and anti-metaphysical philosophy of enlightenment and grew more and more during the 19th century with the progress of scientific research. Laplace with his *Système du monde*, Lamarck, Darwin, Spencer, and Haeckel with the theory of evolution, Lange with his *History of Materialism*, and others, convinced natural scientists that “they did not need the hypothesis of a spiritual world”. Their attacks on the old life-views led to a growing uncivilizing disorientation, so that people finally “felt increasingly uncertain about right and wrong. They are even uncertain whether right and wrong are anything but old superstition.” There is a danger that mankind in its madness will exterminate itself.
+
+<sup>10.</sup>It became necessary to take steps to counter this frenzy, and it was decided to allow the safe part of the esoteric knowledge, which mankind is now able to comprehend, if not to understand its significance, to be made exoteric. Mankind thus got a chance of forming a rational conception of reality and life, as well as of the meaning and goal of existence.
+
+<sup>11.</sup>Belief was not permitted in the esoteric orders. In these, the question was always that of comprehending and understanding, not believing. In the lowest degree they were taught to distinguish between belief and assumption. Belief is absolute and unreasonable emotional conviction, unamenable to correction or reason. Everybody has his petty beliefs about almost any absurdity, and this is because man is unable to truly know anything but definitively established facts in the visible world. In contrast, assumption is preliminary, valid only until one has come to know, is amenable to rational arguments, and desires correction. Authorities there may well be in all spheres of life, but their assumptions do not amount to any final verdict for common sense, which, however different for each of us, is still the highest sense and that which everybody ought to strive to develop. It is the individual’s synthetic instinct of life acquired through his incarnations.
+
+<sup>12.</sup>During the last two thousand years there has been an unremitting conflict between different idiologies, a conflict between theology and philosophy, theology and science, philosophy and science.
+
+<sup>13.</sup>In the history of European philosophy it is chiefly the conflict between theology and philosophy that is apparent. In this conflict, theology has almost always had the support of those in political power. Philosophy has had to fight its way step by step, with unspeakable toil and millions of martyrs, to achieve freedom of thought and expression, tolerance and humanity. These gains are instead threatened by the Marxist idiology, which forbids the individual to think in any other way than what those in power decree. This is the new tyranny of thought. That mental development is hampered by this new kind of idiotization even the simplest intellect should be able to see.
+
+<sup>14.</sup>The conflict between theology and science began with Galilei and is still going on.
+
+<sup>15.</sup>The conflict between philosophy and science has been called off, at least for the time being, now that the philosophers have finally become either agnostics who deny the possibility of ascertaining superphysical facts, or antimetaphysicians who deny the existence of superphysical reality.
+
+<sup>16.</sup>Throughout the history of philosophy, which actually begins with the sophists, we can trace the attempts made by human reason to solve the problems of existence on its own without esoteric knowledge, with access to physical sense only.
+
+<sup>17.</sup>That this was bound to fail will become manifest in what follows. But it is only in our times that people in general are beginning to see that it is impossible. Science lacks the organs of perception necessary to this, and the scientist refuses to concern himself with things that cannot be investigated by the instruments of natural research. Logically, this is perfectly defensible.
+
+<sup>18.</sup>It should be pointed out that the Indian yoga philosophy is not consistent with the facts of esoteric knowledge, but is based on misinterpretation of some of these. Rebirth has been turned into a meaningless metempsychosis, so that it is considered possible for man to be reborn as an animal, whereas reversion to an inferior natural kingdom is in fact precluded. Evolution through the mineral, vegetable, animal, and human kingdoms is considered to end with man’s entry into and extinction in nirvana, whereas nirvana is not really the end but the beginning. The Indian interpretation of manas, buddhi, nirvana, atma, karma, is misleading, as is also the absolute subjectivism of Advaita, which makes knowledge of the matter and motion aspects of existence impossible.
+
+### *1.3 The Proofs of Hylozoics*
+
+<sup>1.</sup>When people get hold of a new word, it more or less quickly loses its original significance. People always believe they know to which concept the word belongs. It can be predicted that the term “esoteric” as an ingredient of the vocabulary of the masses will be synonymous with practically anything.
+
+<sup>2.</sup>Regrettably, there is also a risk of esoterics falling into disrepute because of the growing popularity of quasi-occultism. More and more writers of the incompetent sort, with an eye to the main chance, have hastened to produce all sorts of balderdash, for there is a rapid sale for this as for all other cheap literature. Their sense of reality being ruined by all fictionalism, people prefer fiction to reality.
+
+<sup>3.</sup>There are also clairvoyants à la Swedenborg who will tell what they have seen in the “inner world”. They ought to consider the esoteric axiom that “no self-tutored seer ever saw correctly”, since though the next world may be seemingly like ours, it is actually totally unlike. Unless one has some esoteric knowledge of the pertaining matters, one will misinterpret practically everything.
+
+<sup>4.</sup>There are five proofs, for those who need them, of the correctness of hylozoics (its agreement with reality), each one of them by itself wholly sufficient, being of matchless logical tenability. These five are:
+
+- the logical proof,
+
+- the proof by explanation,
+
+- the proof by prediction,
+
+- the proof by clairvoyance,
+
+- the experimental proof.
+
+<sup>5.</sup>The logical proof consists in showing that hylozoics constitutes a non-contradictory and irrefutable system of thought and, as such, cannot be constructed by the human intellect nor without a knowledge of reality. It can never come in conflict with facts definitively ascertained by science. All new facts will find their places in it. The more research advances, the more obvious it will be that hylozoics is the only tenable working hypothesis. At mankind’s present stage of development it cannot be anything else for most people.
+
+<sup>6.</sup>The proof by explanation: Hylozoics provides the simplest, most unitary, most general, non-contradictory and irrefutable explanation of thousands of facts otherwise completely inexplicable.
+
+<sup>7.</sup>The proof by prediction: Already a number of verifiable predictions (sufficient in number to fill a volume) of discoveries, inventions, and happenings, in themselves unpredictable by man, have been made.
+
+<sup>8.</sup>The proof by clairvoyance: As also Indian raja yogis maintain, anyone who is willing to undergo the requisite training can develop abilities, now dormant in man, which will one day be powers possessed by everybody, that is, the possibility of acquiring objective consciousness in ever higher molecular kinds, or states of aggregation, at present invisible.
+
+<sup>9.</sup>The experimental proof (magic): This proof consists in knowing the pertaining laws of nature and the method of their application and in using physical etheric material energies to bring about changes also in gross physical matter. Magic, however, has been prohibited for a number of reasons. Its use would put a weapon in the hands of mankind’s potential bandits and tempt them into all sorts of crime. Scientists have dubbed the magicians frauds and called all such phenomena impossible, since they “conflict with the laws of nature”. The magicians have been martyrs in other ways too. Those hungry for sensations demand more and more of them. Those in need of help besiege their victims with their demands. The curious want all their problems solved for them.
+
+### 1.4 THE BASIC FACTORS OF EXISTENCE
+
+<sup>1.</sup>The following is a popular exposé, in modern dress and for the first time, of the essentials of the Pythagorean secret doctrine. Pythagoras called the world-view hylozoics (spiritual materialism). All matter has spirit, or consciousness. All worlds are spiritual worlds, lower and higher ones.
+
+<sup>2.</sup>“The Problems of Reality” affords only the most fundamental facts needed in order to understand the meaning and goal of life. Thousands of facts already published are necessarily set aside in order not to burden the presentation. A more detailed account is given in <em>The Philosopher’s Stone</em> by Laurency.
+
+<sup>3.</sup>As regards the theory of knowledge, everything is above all what it appears to be: physical material reality, but beside that always something totally different and immensely more.
+
+<sup>4.</sup>Existence is a trinity of three equivalent aspects: matter, motion, and consciousness. None of these three can exist without the other two. All matter is in motion and has consciousness.
+
+<sup>5.</sup>Matter is composed of primordial atoms, which Pythagoras called monads, the smallest possible parts of primordial matter and the smallest firm points for individual consciousness.
+
+<sup>6.</sup>The original cause of motion is the dynamic energy of primordial matter.
+
+<sup>7.</sup>From the beginning, consciousness in the primordial atoms is potential (unconscious), is gradually awakened in the process of manifestation, becoming actualized passive consciousness, and subsequently becomes increasingly more active in the ever higher worlds of ever higher natural kingdoms.
+
+<sup>8.</sup>Pythagoras realized that the Greeks had the prerequisites for comprehending objective reality, for scientific method, and for systematic thinking. Cultivating the consciousness aspect, as the Orientals do, before the foundation for understanding material reality has been laid, results in subjectivism and in a life of unbridled imagination. It is to Pythagoras we owe most of our fundamental reality concepts, which today’s conceptual analysts (being ignorant of reality) are so busy trying to discard, thereby making a comprehension of reality definitively impossible. Pythagoras, with his doctrine of monads, and Demokritos, with his exoteric atomic theory, can be considered the first two scientists in the Western sense. They realized that the matter aspect is the necessary basis of a scientific approach. Without this basis there will be no accuracy in exploring the nature of things and their relationships. There are no controllable limits to individual consciousness, but it has a tendency to drown in the ocean of consciousness.
+
+<sup>9.</sup>The following will outline further the three aspects of reality, the consciousness development in the different natural kingdoms, and the great Law, the sum total of all the laws of nature and life. A knowledge of the three aspects of life is a necessary condition for understanding the evolution of the natural kingdoms.
+
+<h3>THE MATTER ASPECT</h3>
+
+### *1.5 Primordial matter*
+
+<sup>1.</sup>Primordial matter, the chaos of the Greeks, is at the same time limitless space.
+
+<sup>2.</sup>In this unmanifested primordial matter, “beyond space and time”, there is an unlimited number of cosmoses at all the different stages of being built out or dismantled.
+
+### *1.6 The Cosmos*
+
+<sup>1.</sup>A cosmos is a globe in primordial matter. Its original dimensions are small, but, being supplied with primordial atoms from the inexhaustible store of primordial matter, it grows incessantly until it has reached the requisite size. It is thus matter that is space.
+
+<sup>2.</sup>A fully built-out cosmos, such as ours, consists of a continuous series of material worlds of different degrees of density, the higher penetrating all the lower. The highest world thus penetrates everything in the cosmos.
+
+<sup>3.</sup>The worlds are built out from the highest world, each higher world supplying material for the next lower world, which is formed in and out of the higher ones.
+
+<sup>4.</sup>There are seven series of seven cosmic material worlds, making 49 in all (1–7, 8–14, 15–21, 22–28, 29–35, 36–42, 43–49), in accordance with the constant division into seven departments. These atomic worlds occupy the same space in the cosmos. All the higher worlds embrace and penetrate the lower worlds.
+
+<sup>5.</sup>There is a very simple explanation for the numbers three and seven which so-called experts brush aside with the usual ridicule. Three is because of the three aspects of existence (trinity!!) and seven because that is the greatest number of different ways in which three can be combined in succession. Also the sneer at “Pythagorean numerology” will be a thing of the past when people comprehend a little more.
+
+<sup>6.</sup>The numeration of the worlds is from the highest world as the first one down, showing that they are formed from the highest world down. It is thus easy to see how many higher worlds remain to be attained whichever lower world the individual happens to be in.
+
+<sup>7.</sup>All the 49 worlds differ from each other as to dimension, duration, material composition, motion, and consciousness; due to differences in density of primordial atoms.
+
+<sup>8.</sup>The seven lowest cosmic worlds (43–49) contain billions of solar systems. The lowest world (49) is the physical world.
+
+<sup>9.</sup>Our cosmos is a perfect organization.
+
+### *1.7 Atomic Matter*
+
+<sup>1.</sup>The cosmos consists of primordial atoms (called monads by Pythagoras), which are composed to make 48 kinds of atoms, each in succession coarser than the previous ones, in seven continuous series of seven atomic kinds in each. These atomic kinds make up the 49 cosmic worlds.
+
+<sup>2.</sup>Each lower atomic kind is formed out of the next higher one (2 out of 1, 3 out of 2, 4 out of 3, etc.). The lowest atomic kind (49) thus contains all the 48 higher kinds. When an atomic kind is dissolved, the next higher kind is obtained; out of the physical atom are obtained 49 atoms of atomic kind 48.
+
+<sup>3.</sup>All matter (atomic kinds, molecular kinds, aggregates, worlds, etc.) is formed and dissolved. Only primordial atoms are eternal and indestructible. The process of composition to make lower kinds of matter is called involvation and the corresponding process of dissolution, evolvation. The lower the kind of matter, the more involved are the primordial atoms.
+
+<sup>4.</sup>Atomic matter is by nature dynamic.
+
+### *1.8 Space and Time*
+
+<sup>1.</sup>Space, which is not space in the absolute sense, is limitless primordial matter.
+
+<sup>2.</sup>Space in the cosmic sense is always a globe. The cosmos is a globe. The solar systems are globes. The planets are globes. The worlds in the planets are globes. The cosmic atomic worlds occupy the same “space” as the physical world, exist everywhere in the cosmic globe. The planetary molecular worlds have different radii starting from the centre of the planet. The higher worlds penetrate the lower ones. “Higher” and “lower” are not to be taken in their spatial sense when referring to atomic worlds; when referring to molecular worlds “outer” and “inner” are more exact.
+
+<sup>3.</sup>The globular form of the molecular worlds is due to the fact that the different kinds of matter group themselves according to their densities concentrically round an original centre of force.
+
+<sup>4.</sup>Each atomic kind has its own dimension. Thus there are in all 49 dimensions in the cosmos. Dimension in the cosmic sense means kind of space. Physical matter has one dimension (line and area are not counted), the highest kind of matter has 49. With the 49th dimension, the cosmos becomes a point to primordial atomic consciousness.
+
+<sup>5.</sup>Time simply means continuation, continued existence. Time is various ways of measuring motion, various kinds of processes of manifestation. Physical time is determined by the rotation of the earth and its revolution round the sun.
+
+### *1.9 Solar Systems*
+
+<sup>1.</sup>The globes of the solar systems are replicas of the cosmos in dimensions scaled down enormously with all the limitations that implies, not least in respect of consciousness.
+
+<sup>2.</sup>Millions of solar systems have not yet reached the physical gaseous molecular kind. Millions have finally eliminated their physical world. Millions of others again are in “pralaya” with suns dissolved, pending a new “day of Brahma” when new suns are to be kindled. The suns are transformers that convert atomic matter into molecular matter. What we see is just an external physical gaseous envelope.
+
+<sup>3.</sup>The solar systems have seven worlds composed of the seven lowest cosmic atomic matters (43–49). The highest world of the solar systems is formed from the 43rd atomic kind; their lowest world (the physical), from the 49th. These seven worlds have been given different names in the different knowledge orders. Most of those names are old, due to the misuse by ignorance, diffuse, ambiguous, meaningless, and thus unserviceable. It is high time we adopted an internationally agreed-upon nomenclature and then the mathematical one is of course the only expedient and the most exact one. It will be consistently applied in the following. In order to make comparison easier for those interested, however, the Sanskrit terms used in India and those used by Henry T. Laurency in *The Philosophers’ Stone* will be given.
+
+<sup>4.</sup>The seven solar systemic worlds are called in Sanskrit:
+
+<table>
+<tbody>
+<tr><td>43 satya</td><td>43 adi or mahaparanirvana</td></tr>
+<tr><td>44 tapas</td><td>44 anupadaka or paranirvana</td></tr>
+<tr><td>45 jana</td><td>45 nirvana or atma</td></tr>
+<tr><td>46 mahar prajapatya</td><td>46 buddhi</td></tr>
+<tr><td>47 mahendra</td><td>47 manas</td></tr>
+<tr><td>48 antariksha</td><td>48 kama</td></tr>
+<tr><td>49 bhu</td><td>49 sthula</td></tr>
+</tbody>
+</table>
+
+<sup>5.</sup>In Laurency they received the following Western designations:
+
+- 43 the manifestal world
+
+- 44 the submanifestal world
+
+- 45 the superessential world
+
+- 46 the essential world
+
+- 47 the causal-mental world
+
+- 48 the emotional world
+
+- 49 the physical world
+
+### *1.10 Molecular Matter*
+
+<sup>1.</sup>Molecules are composed of atoms. The lower the molecular kind, the more atoms enter into the molecule.
+
+<sup>2.</sup>Atoms are composed of primordial atoms. The lower the atomic kind, the more primordial atoms enter into the atom.
+
+<sup>3.</sup>These definitions are the only ones esoterically tenable.
+
+<sup>4.</sup>The matter of the solar systems is called molecular matter to distinguish it from atomic matter, which is cosmic. Within the solar systems the seven lowest atomic kinds are transformed into molecular kinds.
+
+<sup>5.</sup>Each atomic kind supplies material for six successively more composite molecular kinds, each lower being formed from the next higher. The seven atomic kinds thus make 42 molecular kinds and it is these that make up the solar system. The 49 atomic kinds exist in all the worlds, occupy the same space.
+
+<sup>6.</sup>The six molecular kinds within each solar systemic world have been given analogous names and mathematical designations:
+
+- (1 atomic)
+
+- 2 subatomic
+
+- 3 superetheric
+
+- 4 etheric
+
+- 5 gaseous
+
+- 6 liquid
+
+- 7 solid
+
+<sup>7.</sup>The figure of each molecular kind is put after that designating the atomic kind. Thus the physical gaseous molecular kind is written 49:5.
+
+<sup>8.</sup>The chemical so-called atom of science is a physical etheric molecule (49:4). This molecular kind, like all other molecular kinds, contains 49 different layers of matter. To reach the real physical atom (49:1), nuclear physicists have to work their way through 147 kinds of matter, each in succession higher than the other. No physical science will achieve that.
+
+<sup>9.</sup>It should be mentioned in this connection that the “elements” of the ancients (at which chemists laugh), namely, earth, water, air, fire, and quinta essentia, were their terms of the five lowest molecular kinds, or states of aggregation.
+
+### *1.11 The Planets*
+
+<sup>1.</sup>The three higher worlds of the solar system (43–45) are common to all who in the solar system have acquired objective consciousness in the pertaining kinds of matter. These are individuals who have left the human or fourth natural kingdom and passed to higher kingdoms.
+
+<sup>2.</sup>The four lower solar systemic worlds (46–49) are also called planetary worlds. Now we are approaching the worlds of man which man has to learn to comprehend if he is not to remain ignorant of his own existence, quite apart from existence in general. If he knows nothing about his worlds, he remains the helpless victim of all the idiologies, illusions, and fictions of ignorance in the domains of religion, philosophy, and science. Without this knowledge he is unable to think in accordance with reality.
+
+<sup>3.</sup>To facilitate the consciousness development of the monads in these, the lowest worlds, the lowest three atomic worlds (47–49) have been divided into five molecular worlds. World 47 is divided into the higher (or causal, 47:2,3) and the lower (47:4-7) mental world. World 49 is divided into the physical etheric world (49:2-4) and the world visible to man (49:5-7) with its three states of aggregation (solid, liquid, and gaseous).
+
+<sup>4.</sup>The consciousness development in the lower four natural kingdoms goes on in these five molecular worlds.
+
+<sup>5.</sup>The visible world (49:5-7) can be called the special world of minerals, the physical etheric world (49:2-4) that of plants, the emotional world (48) that of animals, and the mental world (47:4-7) the special world of man as regards consciousness. The higher mental world, or the causal world (47:1-3), the world of Platonic ideas, is man’s goal in the human kingdom. Some authors divide the mental world into three: the causal (47:1-3), the higher mental (47:4,5), and the lower mental world (47:6,7). This will be discussed further in the subsection about the consciousness aspect.
+
+### *1.12 The Monads*
+
+<sup>1.</sup>The monads make up the sole content of the cosmos. The monad is the smallest possible part of primordial matter and the smallest possible firm point for individual consciousness. If at all one should try to imagine a monad, one would perhaps come closest picturing it as a point of force.
+
+<sup>2.</sup>All the material forms existing in the cosmos consist of monads at different stages of development. All these compositions of monads are being formed, changed, dissolved, and re-formed in innumerable variations, but the monads’ matter aspect remains eternally the same.
+
+### *1.13 The Monads’ Envelopes*
+
+<sup>1.</sup>The consciousness development of the monads goes on in and through envelopes. It is by acquiring consciousness in its envelopes and in the ever higher molecular kinds of these envelopes that the monad attains ever higher natural kingdoms.
+
+<sup>2.</sup>All the forms of nature are envelopes. In every atom, molecule, organism, world, planet, solar system, etc., there is one monad at a higher stage of development than are the other monads in that form of nature. All forms other than organisms are aggregate envelopes, molecules of the kinds of matter of the respective worlds held together electromagnetically.
+
+<sup>3.</sup>In our solar system there are organisms on our planet only. On the other planets also the lowest envelope (49:5-7) is an aggregate envelope.
+
+### *1.14 Man’s Five Envelopes*
+
+<sup>1.</sup>When incarnated in the physical world, man has five envelopes:
+
+- an organism in the visible world (49:5-7)
+
+- an envelope of physical etheric matter (49:2-4)
+
+- an envelope of emotional matter (48:2-7)
+
+- an envelope of mental matter (47:4-7)
+
+- an envelope of causal matter (47:1-3)
+
+<sup>2.</sup>The lower four of these are renewed at each new incarnation and are dissolved in their order at the end of the incarnation. The causal envelope is man’s one permanent envelope. It was acquired when the monad passed from the animal kingdom to the human kingdom. This causal envelope is the “true” man and incarnates together with the human monad which it always encloses.
+
+<sup>3.</sup>The figures in brackets indicate the molecular kinds existing in the different envelopes, the higher envelopes embracing and penetrating all the lower ones.
+
+<sup>4.</sup>The four aggregate envelopes are oval in shape and extend between 30 and 45 cm beyond the organism, making the so-called aura. Approximately 99 per cent of the matter of these envelopes is attracted to the organism, so that the aggregate envelopes form complete replicas of the organism.
+
+<sup>5.</sup>Each of these envelopes has its special purpose. Without a physical etheric envelope the individual would lack sense perceptions, without an emotional envelope the individual would lack feelings, and without a mental envelope the individual would lack the ability to think. It is the presence of these envelopes in the human organism that enables the various pertaining organs to fulfil their tasks as long as they can function. It should be emphasized here that every cell of the organism, every molecule in the cell, contains physical atoms which themselves contain atoms of all the 48 higher kinds.
+
+<sup>6.</sup>Just as the organism all higher envelopes have their special organs (made of atoms), which are the seats of the different kinds of functions of consciousness and of motion. These atomic organs in the etheric, emotional, mental, and causal envelopes are in contact with each other.
+
+<sup>7.</sup>Since man tends always to identify his self (his monad, the ultimate self) with that envelope in which he happens for the time to be, he regards himself in the physical world as being a physical self, in the emotional world as an emotional self, in the mental world as a mental self, and in the causal world as a causal self – not knowing that he is a monad, an ultimate self.
+
+<sup>8.</sup>It is inevitable at the stage of ignorance that subjectively, when emotionally active, he regards his feelings as his being, or, as intellectual man, regards his thoughts as his true being. He thinks he is that with which he identifies himself at the time.
+
+<sup>9.</sup>The self knows only what it has itself experienced, worked up, and realized, what exists in its envelopes, what it has been able to learn in its worlds.
+
+<h3>THE CONSCIOUSNESS ASPECT</h3>
+
+### *1.15 The Monad Consciousness*
+
+<sup>1.</sup>The monad consciousness can be potential, actualized, passive, activated, self-active, latent, subjective, objective.
+
+<sup>2.</sup>The monad’s potential consciousness is awakened to life (is actualized) in the cosmos. Once actualized, consciousness is at first passive, is activated in the process of evolution, until it becomes increasingly more active in the vegetable and animal kingdoms, becoming self-active in the human kingdom and thereby acquiring consciousness of itself as its own self.
+
+<sup>3.</sup>By “monad” is meant the individual as a primordial atom and by “self” the individual’s consciousness aspect.
+
+<sup>4.</sup>The term “self” also applies to those envelopes in which the monad has acquired self-consciousness, with which the self identifies itself, at the time regarding them as its true self. The self is the centre of all self-perceptions. Attention indicates the presence of the self.
+
+### *1.16 Different Kinds of Consciousness*
+
+<sup>1.</sup>One must distinguish between self-consciousness (individual consciousness, self-consciousness in the envelopes), collective consciousness, and ultimate self-consciousness. (Technically, cosmic, solar systemic, and planetary consciousness can be distinguished.)
+
+<sup>2.</sup>Since the ultimate components of the universe are primordial atoms, the cosmic total consciousness is an amalgamation of the consciousness of all primordial atoms, just as the ocean is the union of all drops of water (the closest analogy possible).
+
+<sup>3.</sup>The most important insight is that all consciousness is at the same time collective consciousness. This is so because there is no personal isolation, although only those who have acquired essential consciousness (46) can live in the collective consciousness.
+
+<sup>4.</sup>There are innumerable kinds of collective consciousness: atomic, molecular, aggregate, world, planetary, solar systemic, and after these, different kinds of cosmic consciousness. The higher the kingdom attained by the monad, the more is embraced by this collective consciousness in which the self, with its self-consciousness preserved, experiences other selves as its own larger self.
+
+<sup>5.</sup>Or, to put it differently, all consciousness in the whole cosmos constitutes a common, inevitable, indivisible unity in which every individual has a smaller or greater part, depending on the level of development he has attained.
+
+<sup>6.</sup>Just as a higher kind of matter penetrates lower kinds, so a higher kind of consciousness apprehends lower consciousness. On the other hand, a lower kind cannot apprehend a higher kind, which always appears non-existent.
+
+<sup>7.</sup>The capacity of consciousness increases with each higher atomic kind in a progressive series the products in which are squared (thus 2 x 2 = 4, 4 x 4 = 16, 16 x 16 = 256, 256 x 256, etc.).
+
+<sup>8.</sup>When the monad has attained the highest divine kingdom and has thereby acquired full cosmic collective consciousness, it no longer needs any envelopes in which to develop consciousness. Then, for the first time, it will know itself to be that ultimate self which it has always been. Until then it has identified itself with one or other of its envelopes. It is thus not to be wondered at that the ignorant search in vain for their selves and many of them, indeed, deny that there is such a thing.
+
+<sup>9.</sup>All forms in the whole cosmos, also those in the highest divine kingdoms, are only envelopes for primordial atoms – the selves. The forms which we call “soul”, “spirit”, “god”, etc. are the envelopes which the self uses at its different stages of development.
+
+<sup>10.</sup>The different kinds of consciousness also include subjective and objective consciousness, self-consciousness in the individual’s different envelopes, super- and sub-consciousness, the memory, and the individual’s experiences of the expressions of the will.
+
+### *1.17 Subjective and Objective Consciousness*
+
+<sup>1.</sup>Consciousness is subjective. Sense perceptions, feelings, and thoughts are subjective. Everything consciousness apprehends outside itself is material and thus objective.
+
+<sup>2.</sup>Sense is objective consciousness, the apprehension by consciousness of objective material reality in all worlds. Objective consciousness is (subjective) apprehension of a material object. Distinction is made between physical, emotional, mental, causal, etc. sense.
+
+<sup>3.</sup>Reason is the faculty of imagination, abstraction, conception, reflection, deduction, judgement, etc. Reason is the instrument for working up the content of sense. Reason can subjectively perceive vibrations (“hunch”, etc.) long before sense can refer them to material reality. But it is not until sense has begun to function that you can speak of knowledge.
+
+<sup>4.</sup>At mankind’s present stage of development, most people in their organisms can be objectively conscious only in the lowest three states of aggregation (49:5-7). Objective consciousness of material forms in higher molecular kinds has been given that vague term, “clairvoyance”.
+
+<sup>5.</sup>Everything that is subjective has its objective correspondence. Every feeling corresponds to the consciousness in an emotional molecule, every thought to a mental molecule, every intuition to a causal molecule, etc. The kind of matter indicates the kind of consciousness.
+
+### *1.18 Physical Consciousness*
+
+<sup>1.</sup>Physical consciousness is the lowest kind of consciousness, just as physical matter is the lowest kind of matter and physical energy is the lowest kind of force.
+
+<sup>2.</sup>There are six main kinds of physical consciousness (physical atomic consciousness excluded) corresponding to subjective and objective experiences in the six physical molecular kinds.
+
+<sup>3.</sup>The corresponding is true of all higher worlds.
+
+<sup>4.</sup>Man’s physical consciousness is partly the organism’s different kinds of sense perceptions, partly to most people only subjective apprehension by the etheric envelope of the vibrations in the higher three physical molecular kinds (49:2-4).
+
+### *1.19 Emotional Consciousness*
+
+<sup>1.</sup>Man’s emotional consciousness is his monad’s consciousness in his emotional envelope.
+
+<sup>2.</sup>At mankind’s present stage of development, most people’s emotional consciousness during physical incarnation is limited to mere subjective experiences of the vibrations in the emotional envelope.
+
+<sup>3.</sup>By nature emotional consciousness is exclusively desire, or what the individual at the emotional stage perceives as dynamic will. At the stage of barbarism, before the individual’s consciousness in his mental envelope has been activated, desire manifests itself as more or less uncontrolled impulses. When the mental envelope, influenced by the vibrations of the emotional envelope, is attracted to and woven together with the emotional envelope, mental consciousness is awakened to life, and desire and thought merge. If desire then preponderates, feeling ensues, which is desire coloured with thought. If thought preponderates, imagination ensues, which is thought coloured with desire.
+
+<sup>4.</sup>Man’s emotional life is mainly the life of emotional illusions. He is the victim of desire’s wishful thinking, of the illusions of emotional thinking. The individual is completely free of the illusions only after he has acquired causal consciousness.
+
+<sup>5.</sup>The vibrations of the lower three emotional molecular kinds (48:5-7) are mainly repulsive; those of the three higher, attractive. Noble feelings are expressions of attraction.
+
+### *1.20 Mental-Causal Consciousness*
+
+<sup>1.</sup>Man’s mental-causal consciousness is his monad’s self-acquired ability of consciousness, partly in his mental envelope (47:4-7), partly in his causal envelope (47:1-3).
+
+<sup>2.</sup>There are four kinds of consciousness of the mental envelope, corresponding to the ability to apprehend the vibrations in the lower four mental molecular kinds (47:4-7).
+
+<sup>3.</sup>The majority of mankind have developed (activated) only the lowest kind (47:7): discursive inference thinking from ground to consequence.
+
+<sup>4.</sup>The second kind from below (47:6), philosophic and scientific principle thinking, is still the highest kind of thinking for all except the extremely rare élite.
+
+<sup>5.</sup>The third kind from below (47:5), élite thinking, is – in contrast to principle thinking which mostly absolutizes – partly consistent relativizing and percentualizing thinking, partly perspective thinking and system thinking.
+
+<sup>6.</sup>The highest kind of consciousness in the mental envelope (47:4) is still inaccessible to mankind. Its manifestations consist in – among other things – concretization of causal ideas involving simultaneous thinking by systems instead of concepts.
+
+<sup>7.</sup>The content even of élite thinking is for the most part made up of fictions (conceptions without real correspondences), due to lack of facts about existence. Only the facts of esoterics make it possible to think in accordance with reality.
+
+<sup>8.</sup>Causal consciousness (47:1-3) is possible only for those who have developed so far ahead of the rest of mankind that they can purposefully prepare for their transition to the next higher kingdom. They have acquired the ability to associate with everybody in the causal world, the meeting-place for the individuals belonging to the fourth as well as to the fifth natural kingdom.
+
+<sup>9.</sup>Causal consciousness is subjectively intuition, the experiencing of causal ideas, and makes it possible to study objectively the physical, emotional, and mental worlds, and makes omniscience in these worlds possible.
+
+<sup>10.</sup>To causal consciousness there is, in planetary respect (the worlds of man, 47–49), neither distance nor past time. The causal self is able to study all its previous lives as a man, is able independently and quickly to acquire the facts necessary to comprehend all realities in the worlds of man, achieving more in one hour (in 47:1) than the most efficient mental thinker could manage in one hundred years. Fictions are precluded.
+
+### *1.21 Higher Kinds of Consciousness*
+
+<sup>1.</sup>The following survey of the different kinds of consciousness within the solar system will perhaps make it easier to understand the fact that to ever higher kinds of matter, material envelopes, material worlds, correspond ever higher kinds of consciousness.
+
+- 49 physical (including etheric) consciousness
+
+- 48 emotional consciousness
+
+- 47 mental-causal consciousness
+
+- 46 essential consciousness
+
+- 45 superessential consciousness
+
+- 44 submanifestal consciousness
+
+- 43 manifestal consciousness
+
+<sup>2.</sup>It should be evident from the terms used for the ever higher kinds of consciousness that all but the lowest three (47–49) are incomprehensible to mankind at its present stage of development.
+
+<sup>3.</sup>The term “self” applied to an individual indicates the highest world in which he has acquired full subjective and objective self-consciousness and ability of activity; for example, that self which has acquired causal consciousness is called a causal self, having acquired essential consciousness an essential self or a 46-self, having acquired 45-consciousness a 45-self, a submanifestal self a 44-self, a manifestal self a 43-self.
+
+<sup>4.</sup>In international usage, the term “self” might for greater convenience be replaced with “monad”, thus 43-monad, 44-monad, 45-monad, etc.
+
+### *1.22 The Self’s Unconscious*
+
+<sup>1.</sup>Man’s consciousness is divided into waking consciousness, subconsciousness, and superconsciousness.
+
+<sup>2.</sup>The content of man’s waking consciousness, when he is in his organism, is made up of sense perceptions, feelings, thoughts, and expressions of the will.
+
+<sup>3.</sup>The subconsciousness of the monad contains, in their latent state, all the perceptions and worked-up experiences of the monad ever since the consciousness of the monad was awakened to life. Each incarnation deposits, as it were, its own layer of consciousness. All this is preserved as rudiments of qualities and abilities, usually manifesting themselves as possibility of understanding. For these rudiments to be actualized it is necessary that they be developed in each new incarnation, a process that is nevertheless increasingly easier.
+
+<sup>4.</sup>The superconscious includes all not yet self-activated domains of consciousness in the molecular kinds of the individual’s different envelopes. Development consists in self-activating consciousness and thereby acquiring self-consciousness in these molecular kinds.
+
+<sup>5.</sup>Man is constantly receiving impulses from his subconsciousness, less frequently inspirations through his superconsciousness.
+
+<sup>6.</sup>Waking consciousness is thus an exceedingly small fraction of the monad’s possibility of consciousness.
+
+<sup>7.</sup>All the individual’s envelopes are being pervaded every second by innumerable vibrations from without (the emotional envelope by feelings from the environment, the mental envelope by global mental vibrations). Very, very few of these are apprehended by waking consciousness.
+
+### *1.23 The Individual’s Memories*
+
+<sup>1.</sup>Each envelope of the individual has its consciousness, its memory: the subconscious collective consciousness of its different molecules. These memories dissolve with the envelopes. The permanent envelope in the human kingdom, the causal envelope, preserves the memory of everything it has experienced since its formation.
+
+<sup>2.</sup>Remembrance anew is the ability to resuscitate the vibrations received or emitted by the envelopes.
+
+<sup>3.</sup>Consciousness expressions activate the matter of the envelopes. Constant vibrations (habits, tendencies, etc.) retain “permanent atoms” (Sanskrit: skandhas). On the dissolution of the envelopes they enter into the causal envelope and accompany it at reincarnation, constituting the latent fund of experiences (predispositions, talents, etc.).
+
+<sup>4.</sup>The primordial atom’s memory is indestructible though latent. In order to remember anew it is necessary to renew the contact with previously experienced reality. Causal selves and higher selves are able to do this in the planetary and cosmic globe memories.
+
+<h3>THE MOTION ASPECT</h3>
+
+### *1.24 Motion Defined*
+
+<sup>1.</sup>To the motion aspect belong all occurrences, all processes of nature and life, all changes. Everything is in motion and everything that moves is matter.
+
+<sup>2.</sup>Motion has of old been given manifold terms: force, energy, activity, vibration, etc. As motion should also be considered: sound, light, and colour.
+
+<sup>3.</sup>In hylozoics three main causes of motion are distinguished, each one specifically different: dynamis, material energy, will.
+
+### *1.25 Dynamis*
+
+<sup>1.</sup>The original cause of motion, the source of all force, the one primordial force, the universe’s total energy, is the dynamic energy of primordial matter, which Pythagoras called dynamis. It is eternally active, inexhaustible, unconscious, absolute omnipotence.
+
+<sup>2.</sup>Dynamis acts in every primordial atom, and only in the primordial atoms, which penetrate all matter.
+
+<sup>3.</sup>Dynamis is the fundamental cause of the perpetuum mobile of the universe.
+
+### *1.26 Material Energy*
+
+<sup>1.</sup>Energy in the scientific sense is matter in motion. All higher kinds of matter (atomic kinds, molecular kinds) are energy in relation to all lower kinds.
+
+<sup>2.</sup>Matter does not dissolve into energy, but into higher matter.
+
+<sup>3.</sup>When matter ceases to move, its quality of being energy ceases.
+
+<sup>4.</sup>All forces of nature are matter. There are more than 2400 different kinds of forces of nature within the solar system. Every molecular kind contains 49 different layers of matter, which can all act as energy.
+
+### *1.27 The Cosmic Motion*
+
+<sup>1.</sup>The cosmic motion (in the 49 atomic kinds) is the result of a constant current of primordial atoms (primary matter) flowing down from the highest atomic world through the atoms of all the worlds unto the lowest world, then returning to the highest world to begin their circulation anew, and this continuing as long as the existence of the lower worlds is necessary. There are two kinds of atoms: negative and positive. In the negative (receptive) atoms, material energy flows from a higher atomic kind to a lower one; in the positive (propulsive) atoms, from a lower to a higher one. This current is the force that maintains the atoms, molecules, material aggregates in their given forms. As a result, all atoms in all worlds, and consequently all molecules and aggregates, radiate material energy, in doing which the aggregate always in some respect communicates something of its individual character. Therefore, every aggregate emits specialized energy.
+
+<sup>2.</sup>Vibrations are the result of higher kinds of matter penetrating lower kinds. This fact has given rise to the saying that everything consists of vibrations.
+
+### *1.28 Will*
+
+<sup>1.</sup>Will is dynamis acting through active consciousness. Active consciousness thus is the ability of consciousness to let dynamis act through it. “Will” is energy’s individualized mode of acting through consciousness, in doing which the essential things for ever higher worlds are the consciousness content’s accordance with law, accordance with plan, finality, one-pointedness of purpose.
+
+<sup>2.</sup>The esoteric axiom, “energy follows thought”, indicates that the expressions of active consciousness induce matter to act as energy.
+
+<sup>3.</sup>Magic is knowledge of the method of using mental material energy to influence physical etheric material energies to bring about changes in the visible molecular kinds. That method will remain esoteric, since mankind is too hopelessly ignorant and too egoistic to be entrusted with this terrible power. Inasmuch as all power is abused (at the best only on account of ignorance) mankind must be content to be ignorant of all forces of nature other than those it has succeeded in discovering by itself. That knowledge is entrusted only to those who cannot possibly abuse power.
+
+<sup>4.</sup>Consciousness activation in the lowest three natural kingdoms is an unconscious and automatic process which gradually becomes a conscious one in the human kingdom. In higher kingdoms it is the result of self-initiated consciousness activity.
+
+<sup>5.</sup>Man’s will is at the emotional stage desire, at the mental stage the rational motive. The original philosophic definition of will was the “relation of consciousness to a purpose”.
+
+### *1.29 Different Kinds of Energy and Will*
+
+<sup>1.</sup>By analogy with the matter and consciousness aspects, there are also seven kinds of motion, thus:
+
+- 49 physical energies
+
+- 48 emotional energies
+
+- 47 mental-causal energies
+
+- 46 essential energies
+
+- 45 superessential energies
+
+- 44 submanifestal energies
+
+- 43 manifestal energies
+
+<sup>2.</sup>As one desires, the word “energy” can be replaced with “will”. The different kinds of will are acquired simultaneously with full subjective and objective self-consciousness in the respective worlds, or with the self’s ability to centre itself in the pertaining envelopes.
+
+<sup>3.</sup>The energies that become manifest are the effects of the next higher molecular kinds on the next lower ones in each world. The atomic energies act from world to world through the atomic kinds.
+
+### 1.30 THE MEANING AND GOAL OF EXISTENCE
+
+<sup>1.</sup>The meaning of existence (a problem unsolvable to theologians, philosophers, and scientists) is the consciousness development of the primordial atoms, to awaken to consciousness primordial atoms which are unconscious in primordial matter, and thereupon to teach them in ever higher kingdoms to acquire consciousness of life and understanding of life in all its relationships.
+
+<sup>2.</sup>The goal of existence is the omniscience and omnipotence of all in the whole cosmos.
+
+<sup>3.</sup>The process implies development: in respect of knowledge from ignorance to omniscience, in respect of will from impotence to omnipotence, in respect of freedom from bondage to that power which the application of the laws affords, in respect of life from isolation to unity with all life.
+
+<sup>4.</sup>The self develops in and through envelopes, from the lowest physical etheric envelope to the highest cosmic world. It constantly acquires new envelopes in one world after another. Step by step it acquires self-consciousness in the ever higher molecular kinds of its envelope by learning to activate the consciousness in these. By this it finally becomes the master of its envelope. Until then it is disoriented in the consciousness chaos of this envelope, and it is the victim of vibrations from without.
+
+<sup>5.</sup>The ancient terms – which ignorance always misinterpreted – “soul”, “spirit”, “god”, etc., referred to the self’s envelopes in higher worlds. By “soul” they meant man’s permanent causal envelope (47-envelope), by “spirit” his future 45-envelope, by “god” the 43-envelope.
+
+<sup>6.</sup>Atomic consciousness is world consciousness. The individual as a joint owner of a consciousness collective is like a cell in an organism. The organism is an envelope of an individual in a higher kingdom. When in the collective consciousness of his world the individual has so developed that he can take over this material world as an envelope of his own, then he will be the “god” of this world.
+
+<sup>7.</sup>Atomic consciousness, world consciousness, omniscience (in that world) does not mean that the individual knows everything about everything that is or happens. But it is possible for him to find out more or less quickly everything he wishes to know, independently of space and past time in a given world, to ascertain all relations in the three aspects (matter, motion, and consciousness) of that world.
+
+### *1.31 The “Rebirth” of Everything*
+
+<sup>1.</sup>All material forms (atoms, molecules, aggregates, worlds, planets, solar systems, aggregates of solar systems, etc.) are subject to the law of transformation. They are being formed, changed, dissolved, and re-formed. This is inevitable, since in the long run no material forms tolerate the wear of the cosmic material energies.
+
+<sup>2.</sup>The primordial atoms that form all these compositions of matter thereby have opportunities to have ever new experiences in new forms. All learn from everything.
+
+<sup>3.</sup>When their form is renewed, all organisms (plants, animals, men) receive a form of life similar to the previous form, until their consciousness development requires a specifically different, higher form, a more expedient possibility to acquire increased experience.
+
+<sup>4.</sup>Man is reborn as a man (never as an animal), until he has learnt everything he can learn in the human kingdom, and has acquired all the qualities and abilities necessary to enable him to continue his consciousness expansion in the fifth natural kingdom. Rebirth explains both the seeming injustices of life (since in new lives the individual has to reap what he has sown in previous lives) and the innate, latent understanding and the once self-acquired abilities existing as predispositions. It does more than that. It refutes 99 per cent of everything that mankind has accepted as truth.
+
+### 1.32 THE NATURAL KINGDOMS
+
+<sup>1.</sup>The consciousness development of the monads goes on in a series of ever higher natural kingdoms: six within the solar system and six in the cosmic worlds. The six kingdoms belonging to the solar system are:
+
+<table>
+<tbody>
+<tr><td>the mineral kingdom</td><td>49:7 – 49:5</td></tr>
+<tr><td>the vegetable kingdom</td><td>49:7 – 48:7</td></tr>
+<tr><td>the animal kingdom</td><td>49:7 – 47:7</td></tr>
+<tr><td>the human kingdom</td><td>49:7 – 47:4</td></tr>
+<tr><td>the essential kingdom</td><td>49:7 – 45:4</td></tr>
+<tr><td>the manifestal kingdom,<br>the first or lowest divine kingdom</td><td>49:7 – 43</td></tr>
+</tbody>
+</table>
+
+<sup>2.</sup>The monad consciousness is activated in envelopes. It learns to apprehend the vibrations in the ever higher molecular kinds of these envelopes, acquires the experience and knowledge of the matter and motion aspects possible in these envelopes as well as the ability to use the insight gained. As a rule the monad spends seven eons in each of the lowest four natural kingdoms.
+
+<sup>3.</sup>It follows from what has been said that each kind of matter has its own kind of consciousness and its own kind of energy, that every form of nature is a living being with a collective consciousness and is an envelope for a monad in a higher kingdom than the other monads in that envelope.
+
+### *1.33 The Lowest Three Natural Kingdoms*
+
+<sup>1.</sup>The transition of the monads from the mineral to the vegetable kingdom and thence to the animal and human kingdoms is called transmigration. It cannot work backwards. Reversion from a higher natural kingdom to a lower one is absolutely precluded. The “degeneration” of organisms – besides, of all other matter – does not affect the evolution of the monads, but is the process of dissolution of composed matter, as also is “radio-activity”. Metallurgists experience a phenomenon they call the “fatiguing” of metals.
+
+<sup>2.</sup>In the mineral kingdom, the monad consciousness begins to be activated. In the lowest physical molecular kind (49:7), the monads learn to distinguish differences in temperature and pressure. In this kingdom, the vibrations become violent enough for a first apprehension of inner and outer. And thus begins that process of objectivization of consciousness which reaches its perfection in the animal kingdom. The monads eventually learn to apprehend external realities. Immensely slowly through the lowest three kingdoms, the monads come to see themselves as something separate from everything else. For us, who find the contrast between consciousness and the material external world self-evident, it is, of course, hard to grasp what incredible toil this process has cost. What the philosophers are trying to do is to deprive mankind of the result of this process of objectivization.
+
+<sup>3.</sup>The contrasting process continues in the human kingdom, but now as a contrast between the self-conscious self and the external world (including other selves). This process is necessary to the individual’s acquisition of self-reliance and self-determination, without which qualities the individual can never acquire the power of freedom. There is a risk, however, that self-assertion, and thus isolation, will become absolute. This can lead to the severance of the tie that unites him with existence. It is by becoming an ever larger self with all the other selves that the individual acquires cosmic omniscience. The individual has to learn to overcome the self-assertion at the expense of other life and to realize the necessity of serving life. Then he will also find that therein lies the only possibility of happiness, joy, and bliss.
+
+<sup>4.</sup>In order to pass from a lower to a higher natural kingdom, the monad has to learn to receive and adapt itself to the vibrations from ever higher molecular kinds. At first these vibrations fulfil the necessary functions of vitalization in the monads’ envelopes.
+
+<sup>5.</sup>Consciousness in the mineral kingdom is gradually manifested as a tendency to repetition, after innumerable experiences becoming organized habit, or nature. Increase of consciousness results in instinctive striving to adaptation.
+
+<sup>6.</sup>As mineral monads are absorbed by plants and experience the process of vitalization in these, mineral consciousness learns to receive and adapt itself to etheric vibrations (gradually to ever higher from 49:4:7:7 to 49:4:1), a condition for entering the vegetable kingdom. In this kingdom the monad acquires the ability to distinguish between attractive and repulsive vibrations, thereby having achieved the contact with the emotional world (48:7). Vegetable monads develop the most quickly when plants are consumed by animals and men, and the vegetable monads thereby are exposed to the strong vibrations in the emotional envelopes of animals and men. By learning to perceive such vibrations they become able gradually to attain higher levels in their kingdom. In the lower kingdoms transmigration occurs almost imperceptibly. In between incarnations the animal monads are enclosed in common envelopes of mental matter. The higher up the scale of evolution an animal is, the fewer are the monads that go to its group. Thus several quadrillions of flies go to form one group-soul, millions of rats one, hundreds of thousands of sparrows one, thousands of wolves one, hundreds of sheep one. Only the monkey, elephant, dog, horse, and cat, which belong to group-souls of very few monads, are able to causalize. When a higher animal devours a lower animal, the lower animal’s monad joins the higher animal’s group-soul. This is not the case, however, when men eat animals. Man’s causal envelope is not a group-soul; besides, transmigration to higher kingdoms is not effected in this way, but is the result of the individual’s own consciousness activity. Animal monads thus do not pass through the human organism, but return to their own group-soul. Instead, evolution is counteracted, since the fact is that animal meat coarsens the human organism, the task of which is to strive towards “etherization”.
+
+<sup>7.</sup>When natural research eventually learns about facts pertaining to these matters, it will discover the causes and effects of consciousness activation. This applies especially to those scientists who have innate etheric objective consciousness, a thing met with more and more frequently.
+
+<sup>8.</sup>The levels of development within each kingdom appear most markedly in the animal kingdom with its many classes from the lowest to the highest animal species. Classes are the natural order of things in all kingdoms. The classes of nature indicate different classes of age due to the different times of the transmigration of the monads.
+
+<sup>9.</sup>As each higher kingdom is attained (and also each higher level within the same kingdom), the monad’s ability to be influenced by more and more comprehensive series of vibrations of ever higher molecular kinds increases. There are 49 such series within each molecular kind.
+
+<sup>10.</sup>When the monad has been able for a long time to be affected by mental vibrations (47:7) and has thereby attained the highest animal species, it becomes possible for it to transmigrate to the human kingdom.
+
+### *1.34 The Fourth Natural Kingdom*
+
+<sup>1.</sup>By acquiring a causal envelope the monad passes from the animal kingdom to the human kingdom. To term this process “causalization” is preferable to “individualization”, since the monad is an individual in all kingdoms.
+
+<sup>2.</sup>The causal envelope is the permanent envelope of the human monad until it essentializes and passes to the fifth natural kingdom. It is this envelope which incarnates and in doing so involves into four lower envelopes which are soon to be dissolved.
+
+<sup>3.</sup>At mankind’s present stage of development, man activates consciousness mainly in his emotional and mental envelopes.
+
+<sup>4.</sup>Consciousness development in the human kingdom can be divided into five principal stages comprising a total of 777 levels of development. The table below shows which molecular consciousnesses the monad thereby activates.
+
+<table>
+<thead><tr><th rowspan="2"><sup>5.</sup>stages</th><th colspan="2">molecular kinds</th></tr><tr><th>emotional</th><th>mental</th></tr></thead>
+<tbody>
+<tr><td>barbarism</td><td>48:5-7</td><td>47:7</td></tr>
+<tr><td>civilization</td><td>48:4-7</td><td>47:6,7</td></tr>
+<tr><td>culture</td><td>48:3-7</td><td>47:6,7</td></tr>
+<tr><td>humanity</td><td>48:2-7</td><td>47:4-7</td></tr>
+<tr><td>ideality</td><td>48:2-7</td><td>47:2-7</td></tr>
+</tbody>
+</table>
+
+<sup>6.</sup>*The Philosophers’ Stone* by Laurency gives a more detailed account of the different stages of development.
+
+<sup>7.</sup>The number of individuals counted among our planet’s mankind, causalized here or transferred hither, amounts to some 60 thousand million. They are in the physical, emotional, mental, and causal worlds of our planet, most of them asleep in their causal envelopes – since they have no possibility of causal consciousness – pending a new incarnation.
+
+<sup>8.</sup>The passing of these monads from the animal to the human kingdom occurred in five different epochs, the last one some 18 million years ago, the individuals of the four earlier epochs being transferred later from another planet. The causal envelopes of men thus are of widely different ages, which fact explains the different stages of development. Those who have reached the highest stage have some 150,000 incarnations behind them, those at the lowest some 30,000. In this connection one ought to consider the fact that the capacity of consciousness is doubled in each higher molecular kind, so that the numbers of incarnations cannot themselves be compared in this respect.
+
+<sup>9.</sup>The Western declaration that “god created all men equal” thus is as great an error as the fiction of the Indian philosophers that “all are gods”. God cannot create a single monad, only give the monads the opportunity of being introduced into cosmic manifestation. Certainly, some time all monads will attain the highest divine stage, but before that they will have to be involved down to the physical world, and after that to mount the seemingly endless graduation of developmental levels from the mineral kingdom to the highest divine kingdom.
+
+<sup>10.</sup>It should be obvious from the above that men’s moral judgements of each other are the criticisms of ignorance and the unjustified verdicts of hatred. Men are neither good nor evil. They are on a certain level of development and know no better. To this must be added the effects of the law of destiny and the law of reaping. To understand this it is also important to know that during times of upheaval, the clans at the highest stages do not incarnate to any great extent. Of those incarnated at present, more than 85 per cent are at the lowest two stages. Most of the remaining 15 per cent are of the unobtrusive, quiet kind of people. Unless they have been given special tasks, they incarnate chiefly in those countries where they have the best prospects of finding others on the same level. Those at the stage of humanity who have not had the opportunity to study esoterics feel themselves outsiders, not understanding why, and put the blame for this upon themselves. This is, regrettable, the rule. They were once initiates and thereafter have remained seekers after the “lost word of the master” (esoterics). They have the knowledge as an instinct, not knowing its cause, and thus they are uncertain.
+
+<sup>11.</sup>In the physical world man is an organism with an etheric envelope. He has two kinds of physical consciousness. The sense perceptions of the organism allow him to apprehend objectively the material forms in the lowest three molecular kinds. The vibrations in the molecular kinds of the etheric envelope are still apprehended only subjectively by most people. Visible realities are the only ones man knows of and they are for him the only real ones. He takes his feelings and thoughts to be just subjective apprehensions, having no idea of the fact that they correspond to vibrations in the molecular kinds of higher worlds. He knows nothing of his higher envelopes, being quite unaware of the fact that when he experiences feelings it is his attention (the monad) moving to his emotional envelope, and when he is thinking it is the monad moving to his mental envelope. He does not know that he is a monad in a causal envelope.
+
+<sup>12.</sup>The individual at the stage of barbarism as a physical self only, without emotional and mental consciousness worth mentioning, belongs to the very lowest levels of the stage of barbarism. Immediately after causalization he is little more than an animal, often not even that intelligent. His life in the emotional world between incarnations is of very short duration. He soon lapses into dreamless sleep in his causal envelope, being incapable of employing the consciousness of his mental envelope. On the higher levels of the stage of barbarism, his mental consciousness is activated to the extent that he is able to draw simple conclusions.
+
+<sup>13.</sup>As an emotional self (at the stages of civilization and culture), the individual is in his thought and action determined by emotional motives. The emotional stage is the most difficult stage of development. At this stage man must by himself acquire consciousness in all six molecular kinds of his emotional envelope and in the lowest two molecular kinds of his mental envelope. To the emotional stage belongs almost everything that man today regards as civilization and culture.
+
+<sup>14.</sup>The emotional stage is divided into the two stages of civilization and culture, each of which presents a great number of levels.
+
+<sup>15.</sup>The emotional consciousness of the civilizational individual seldom extends beyond the lower three or four molecular kinds, his mental consciousness seldom beyond the lowest two. With this modest intellectual capacity he intellectualizes his desires into such feelings as normally exist in the lower regions of the emotional world. Generally, they are of the repulsive kind.
+
+<sup>16.</sup>At the stage of culture the three higher molecular kinds of the emotional envelope are activated. The pertaining vibrations in the emotional world are mainly attractive. Having once attained these regions, the individual can gradually free himself from the tendency, since long acquired, to a repulsive attitude to the surrounding world and to himself. His feelings become more and more ennobled on each higher level and supersede his previous receptivity to the countless expressions of hatred of the repulsive vibrations. For everything that is not love is hatred.
+
+<sup>17.</sup>On the highest cultural levels, the individual becomes a mystic. In the domains of emotional consciousness that he has now reached, he no longer has any use for his intellectuality as acquired up to now. Frequently in states of ecstasy he experiences the unity of life past all understanding. His imagination, which develops powerfully, makes him lose himself in seeming infinitude. His emotional development is terminated and crowned by an incarnation as a saint. In subsequent incarnations he strives to become a mental self.
+
+<sup>18.</sup>The mental stage is divided into the stages of humanity and ideality (or the causal stage). The humanist activates consciousness in the lower four mental molecular kinds, the idealist in all six. The humanist is a mental self, the idealist a causal self.
+
+<sup>19.</sup>The most distinctive trait of the humanist is his striving after common sense, a prerequisite of the acquisition of causal intuition. He can no longer, like the mystic, lose himself in the ineffable, but demands above all clarity in everything and facts for everything. His indomitable will to comprehend reality and understand life, despite everything, compels him always to seek further. The ever longer periods spent in the mental world between incarnations, during which time he can work up his ideas undisturbed, re-act upon this endeavour of his. He becomes more and more receptive to the inspirations of his elder brothers in the fifth natural kingdom. When he has come to the Sokratean realization that man cannot know anything worth knowing, he is ready to receive the esoteric knowledge.
+
+<sup>20.</sup>In the old days, he would then have been chosen to be initiated into some secret knowledge order. Nowadays he is given the knowledge in a mental system of the fundamental facts of existence which his reason compels him to accept as the only tenable working hypothesis. Using the knowledge gained, it is possible for him to activate ever higher kinds of consciousness, until, one day, the world of intuition opens up before him and he becomes able to ascertain facts about reality and life by himself, as well as to study his previous incarnations as a man.
+
+<sup>21.</sup>Then he also sees how hopeless it is for man with his insufficient means to acquire this knowledge, how almost impossible it is for most people even to grasp it. Starting from their own petty belief system or thought system, they imagine themselves able to judge everything by this. He sees that people’s life of consciousness, apart from ascertaining facts in the visible physical world, consists of emotional illusions and mental fictions. He sees, too, how futile it is to do what Platon did, to hint at the existence of a world of ideals. Now he knows that it exists.
+
+<sup>22.</sup>As a causal self he acquires knowledge of the laws of life and the ability to make rational use of this knowledge with one-pointed purpose. He sees that the mistakes of ignorance as to these laws are no crimes against the deity, that all the good and evil that man meets with are his own work.
+
+<sup>23.</sup>He gets into communication with those in higher kingdoms and receives from them the further facts he needs but cannot ascertain for himself. He gradually acquires the twelve essential qualities which make it possible for him to pass to the fifth natural kingdom. These are enumerated in the esoteric account of the twelve labours of Herakles (Hercules), which have been totally distorted in the exoteric legend.
+
+<sup>24.</sup>Man’s five envelopes all have their own consciousnesses and their own tendencies. Those of the organism are inherited from one’s parents. The qualities and abilities, etc. that the self acquires in its emotional and mental envelopes have their correspondences in a cluster of atoms (Sanskrit: skandhas), are preserved by the causal envelope, and used at reincarnation. It is the task of the self to learn to master its envelopes, so that they submit to its will. This is no easy task, since the tendencies of the envelopes are the results of habits from thousands of incarnations. At mankind’s present stage of development, the emotional controls the physical. Man still has to learn to control the emotional by the mental. And more than good resolutions is needed to do that. It can take many lives once one has seen the need for it.
+
+<sup>25.</sup>When the individual leaves his worn-out organism with its etheric envelope, he goes on living in his emotional envelope and, when this is dissolved, in his mental envelope, and when this too is dissolved, he waits, asleep in his causal envelope, to be reborn into the physical world, which is incomparably the most important, since it is in this world that all human qualities must be acquired, and it is only in this world that he has the possibility of freeing himself from emotional illusions and mental fictions. Life between incarnations is a period of rest in which man does not learn anything new. The sooner the self can free itself from its envelopes of incarnation, the quicker it develops.
+
+<sup>26.</sup>At the same time as the etheric envelope frees itself from the organism in the so-called process of death, the emotional envelope frees itself from the etheric envelope which remains near the organism and dissolves along with it.
+
+<sup>27.</sup>Man’s life in the emotional world can prove completely different for different individuals, depending on their levels of development.
+
+<sup>28.</sup>Like the physical world, the emotional world has six successively higher regions. Most people are nowadays objectively conscious from the beginning in the three regions that correspond to the lower three regions of the physical world. (Mental consciousness, however, remains subjective.) Objects in those regions are material counterparts of the material forms of the physical world, which fact often causes the newcomer to think that he still lives in the physical world. During this first period, the individual can also associate with his friends in the physical world when they are asleep. Without esoteric knowledge he believes, like everybody else, that the highest region in this new world of his is “heaven and his final destination in eternity”.
+
+<sup>29.</sup>The emotional envelope dissolves gradually: first its lowest molecular kind, then the lowest but one, etc. When the lowest three have dissolved it is not possible for the individual to contact the visible physical world. There are those who already in the process of physical death are able to free themselves from the lower three molecular kinds of their emotional envelope.
+
+<sup>30.</sup>In the three higher regions of the emotional world, the existing material forms are imaginative creations made by the individuals in those regions. For emotional matter forms itself in accordance with the slightest hint from consciousness, the ignorant neither understanding the cause nor being able to grasp how it happened. The individual seldom learns anything really new while in the emotional world, and in the mental world never.
+
+<sup>31.</sup>The life of the emotional envelope can vary as greatly as that of the organism.
+
+<sup>32.</sup>After the dissolution of the emotional envelope, the individual in his mental envelope leads a life of thought that is absolutely subjective, not suspecting the impossibility of apprehending objective reality in this world. But apprehension of reality, bliss, and perfection, of omniscience and omnipotence is absolute. All his fantasies become absolute realities to him. Everything he wishes is instantly there and all his friends, all the “great ones” of mankind, are with him, all equally perfect.
+
+<sup>33.</sup>The independent life of the mental envelope can vary from a minute or so (in the case of the barbarian) to thousands of years. It all depends on how many ideas the individual has collected during physical life and how vital they are. Platon is said to have material to work up for ten thousand years.
+
+<sup>34.</sup>Upon the dissolution of the mental envelope, the individual in his causal envelope sinks into dreamless sleep that will last until the time comes for rebirth and an embryo has been formed for him in a physical maternal body. He awakens with a desire for a new life and forms instinctively, by means of his causal envelope, new mental and emotional envelopes, these being the necessary communication links. It will be the task of the growing child to use its latent qualities to develop the ability of consciousness in them.
+
+<sup>35.</sup>There can be no conscious causal life unless the intuition of the causal ideas has been acquired in physical existence. (It is, besides, in the physical that everything must be acquired.) The monad’s continuity of consciousness, made possible through the memory in its envelopes of incarnation now dissolved, has been lost. The causal envelope, however, preserves the memory of all the human incarnations and of the experiences had, of insight and understanding gained, of qualities and abilities acquired. Everything is there as rudiments in new incarnations. How much, or rather, how little of it all will be actualized anew, depends on the individual’s new opportunities of remembering anew and developing his latent qualities.
+
+### *1.35 The Fifth Natural Kingdom*
+
+<sup>1.</sup>Only those individuals who have attained the highest cosmic world have absolute (one hundred per cent) knowledge of the whole cosmos and of the three aspects (matter, motion, and consciousness).
+
+<sup>2.</sup>Just as men must receive knowledge of higher worlds from individuals in the fifth natural kingdom, so the latter in their turn must receive knowledge of still higher worlds and of existence in its entirety from individuals in the sixth natural kingdom, etc. throughout the series of ever higher kingdoms. But all receive only the knowledge necessary for them to understand reality, to develop further, which they cannot acquire by themselves. All individuals in higher kingdoms are researchers in their worlds and have to acquire their own knowledge of everything in these and learn to apply without friction the knowledge of those laws of nature and of life which are constant in their worlds.
+
+<sup>3.</sup>By essentializing the causal self acquires an envelope of essential (46) matter and, in so doing, passes from the fourth to the fifth natural kingdom.
+
+<sup>4.</sup>The fifth natural kingdom consists partly of 46-selves (essential selves) with envelopes and consciousness in the planetary essential world, partly of 45-selves with envelopes and consciousness in the solar systemic superessential world.
+
+<sup>5.</sup>The consciousness of the essential envelope is that of unity. The individual knows that he is his own self having a self-identity that can never be lost, but also a larger self together with all the monads in the five natural kingdoms and, when he so desires, he experiences others’ consciousness as his own. “The drop-consciousness has become one with the ocean-consciousness.” “The union with god” is the self’s acquisition of the consciousness of unity.
+
+<sup>6.</sup>In the atoms of all the lower worlds (47–49) there are essential atoms having passive consciousness, which can be activated by vibrations from without (god immanent). It is only at the higher emotional stage that the individual is sufficiently developed to be able to perceive these vibrations some time at all.
+
+<sup>7.</sup>In the secret knowledge order of the gnosticians, the 46-consciousness was called the “son”, or “Christos”, and the 43-consciousness the “father”, or the “great carpenter”.
+
+<sup>8.</sup>The 46-self is omniscient in worlds 46–49. Omniscience does not mean that the individual knows everything about everything, but that he is able, when need be, quickly to find out anything he wants to know in his worlds, independently of space and past time.
+
+<sup>9.</sup>Only essential consciousness can become conscious in the physical, emotional, and mental atoms. Before it is acquired, subatomic molecular consciousness is the highest kind of consciousness in the different worlds. After it has acquired these kinds of atomic consciousness, the monad can identify itself with the total consciousness of these worlds and their unadulterated memories of past time.
+
+<sup>10.</sup>As an essential self, the individual has to acquire by himself through his own research complete knowledge of everything of importance in the worlds of man (47–49).
+
+<sup>11.</sup>Essential monads form a collective being of their own having a common total consciousness.
+
+<sup>12.</sup>The essential self does not need to incarnate further, since he has no more to learn in the kingdom of man. He often does incarnate, however, in order by all means and by personal contact to help those preparing for their entrance into the higher kingdom. All the thanks he may reckon on are to be misunderstood, abused, and persecuted, especially by those who, with their habitually conceited overestimation of themselves, consider themselves ready, but fail in the tests which they unwittingly undergo.
+
+<sup>13.</sup>When mankind has come to see its almost total ignorance of life and its inability to solve the problems and to guide development, even 45-selves and still higher avatars will be prepared to incarnate, provided their help is called for by an appreciable percentage of mankind. To do so before that would be a meaningless sacrifice.
+
+<sup>14.</sup>The essential self’s task as regards himself is not only to relearn in all respects, but also gradually to acquire consciousness in the six molecular kinds of its envelope, in this replacing the lower with the higher, until the envelope consists exclusively of essential atomic matter. When this has been achieved, the individual begins a corresponding process of activation and consciousness in the 45-world in order to become a 45-self.
+
+<sup>15.</sup>The superessential self is constantly experiencing anew that lower worlds’ light is higher worlds’ darkness, not only literally, but also symbolically. As regards consciousness, a 45-self is to a man as a man is to a plant.
+
+<sup>16.</sup>In some esoteric books, essentiality is called “love and wisdom”, and superessentiality “will”. Such terms are misleading, to say the least of it. The inability to find new terms is remarkable considering that the least technical novelty can have one of its own.
+
+<sup>17.</sup>To use the word “love” of essentiality and at the same time to say that man does not know what love is, affords no clarity. But the confusion of ideas is so much greater, so that people at once are ready to aver that man is incapable of love. Human love is attraction (physical, emotional, and mental). Regrettably, it can turn into repulsion if it is not genuine. For essential consciousness there is neither attraction nor repulsion, only inseparable unity with all, will to unity.
+
+<sup>18.</sup>The term “will” as applied to superessentiality is equally hopeless. At the most, it can have its old philosophic meaning: will is the relation of consciousness to a purpose. But that is, to be sure, meagre information.
+
+<sup>19.</sup>A suitable term for
+
+- 46-consciousness: world consciousness
+
+- 45-consciousness: planetary consciousness
+
+- 44-consciousness: interplanetary consciousness
+
+- 43-consciousness: solar systemic consciousness
+
+<sup>20.</sup>The essential self knows that the Law is inflexible and inevitably just, that life is divine, and that all monads are indestructible. It knows that life is happiness and that suffering exists only in the three lower molecular kinds of the physical and emotional worlds (49:5-7; 48:5-7), and then only as bad reaping from bad sowing.
+
+### *1.36 The Sixth Natural Kingdom, or The First Divine Kingdom*
+
+<sup>1.</sup>The lowest divine kingdom (also called the manifestal kingdom) is made up of those individuals who have acquired envelopes and consciousness in the two highest solar systemic worlds (43 and 44). They have at their disposal the two highest collective consciousnesses of the solar system. They are omniscient in the solar system, independent of space in that globe and its past time. One realizes that they have complete mastery of the matter and motion aspects and of the Law within worlds 43–49.
+
+### *1.37 The Cosmic Kingdoms*
+
+<sup>1.</sup>What we know about these six successively higher divine kingdoms in the 42 higher atomic worlds is that they exist, that they constitute a perfect cosmic organization working with unfailing precision in accordance with all existence’s laws of nature and laws of life.
+
+<sup>2.</sup>In the cosmos, the individual does not acquire any envelopes of his own. He succeeds to some higher function and, finally, to the highest in his world with its collective consciousness, and identifies himself with this world as his own envelope.
+
+<sup>3.</sup>The individuals of the second divine kingdom aspire towards omniscience in worlds 36–42 (only now “cosmic consciousness”), those of the third divine kingdom towards omniscience in worlds 29–35, etc.
+
+<sup>4.</sup>Those who have attained the highest world have freed themselves from all involvation into matter and as free monads (primordial atoms) have come to know themselves as the ultimate selves they have always been. Their auras are like cosmic giant suns and they radiate energy like the fountainhead of all power.
+
+<sup>5.</sup>They can, if they so wish, withdraw with a collective from out of their cosmos and begin building a new cosmos in the endless chaos of primordial matter.
+
+### *1.38 The Planetary Hierarchy*
+
+<sup>1.</sup>The individuals of the fifth and sixth natural kingdoms constitute the hierarchy of our planet, which has acquired atomic consciousness in the planetary worlds 46 and 45 as well as 44 and 43.
+
+<sup>2.</sup>The hierarchy is divided into seven departments. Each department works with its specialized energy that functions in accordance with the solar systemic law of periodicity.
+
+<sup>3.</sup>The hierarchy supervises evolution in the lower kingdoms. It takes an especial interest in those at the stage of humanity who with one-pointed purpose seek to acquire the twelve essential qualities in order the better to serve life. In so doing they qualify for the fifth kingdom.
+
+### *1.39 The Planetary Government*
+
+<sup>1.</sup>Into the planetary government can enter individuals who have attained the second divine kingdom. The head of the planetary government belongs to the third kingdom.
+
+<sup>2.</sup>Like all governments in still higher kingdoms, the planetary government is divided into three main departments dealing with the three fundamental functions concerning the aspects of matter, motion, and consciousness. They have the ultimate responsibility that all the pertaining processes of nature work with unfailing precision. They see to it that all receive what they need for their consciousness development and that implacable justice is done to all in accordance with the law of sowing and reaping.
+
+<sup>3.</sup>In their contacts with men, the gods assume human ideal shapes, permanent envelopes of physical atomic matter, also to anchor their physical consciousness, envelopes which can easily be made visible to all.
+
+### *1.40 The Solar Systemic Government*
+
+<sup>1.</sup>To enter into the solar systemic government it is necessary to have attained the third divine kingdom. It supervises, of course, everything in the solar system, receives directions from higher governments and gives directions to the planetary governments.
+
+<sup>2.</sup>It also transmits knowledge received concerning the cosmos and the Law to the extent that this is necessary to the fulfilment of the functions.
+
+<sup>3.</sup>The law of self-realization is valid in all kingdoms and all individuals have to explore their worlds by their respective means, and learn to apply the knowledge and insight gained.
+
+### 1.41 THE LAW
+
+<sup>1.</sup>The Law is the sum total of all the laws of nature and of life: the constant relations of matter, motion, and consciousness – expressive of the nature of primordial matter and of omnipotent, inexhaustible, eternally dynamic primordial force, acting in its blind way in the imperturbable and inevitable constant relations of nature and life.
+
+<sup>2.</sup>Of this Law, science has not yet explored more than an infinitesimal fraction.
+
+<sup>3.</sup>There are laws in everything and everything is expressive of law. The gods themselves are subject to the Law. Omnipotence is possible only through absolutely faultless application of the laws in their entirety.
+
+<sup>4.</sup>In primordial matter (the chaos of the ancients) there are no laws manifest. They only appear in connection with the compositions of the atoms in the cosmos.
+
+<sup>5.</sup>The further the limits of subjective and objective consciousness are extended, the more laws are discovered. Only the monads of the highest divine kingdom have knowledge of all the laws of the universe and are able to apply them correctly with unfailing precision.
+
+<sup>6.</sup>Laws of nature concern matter and motion; laws of life concern the consciousness aspect.
+
+<sup>7.</sup>The laws of life most important to mankind are the laws of freedom, unity, development, self (self-realization), destiny, reaping, and activation.
+
+<sup>8.</sup>The law of freedom says that every monad is its own freedom and its own law, that freedom is gained by law, that freedom is the right to individual character and activity within the limits of the equal right of all. (Curiosity as to the consciousness life of others is a serious mistake.)
+
+<sup>9.</sup>The law of unity says that all monads make up a unity and that every monad for superindividual consciousness expansion must realize its unity with all life.
+
+<sup>10.</sup>The law of development says that all monads develop their consciousness, that there are forces acting in different ways towards the final goal of life.
+
+<sup>11.</sup>The law of self says that every monad must itself acquire all the qualities and abilities requisite for omniscience and omnipotence, from the human kingdom onwards: understanding of laws and the responsibility following upon this.
+
+<sup>12.</sup>The law of destiny indicates what forces influence the individual in consideration of necessary experiences.
+
+<sup>13.</sup>The law of reaping says that all the good and evil we have initiated in thoughts, feelings, words, and deeds are returned to us with the same effect. Every consciousness expression has an effect in manifold ways and entails good or bad sowing which will ripen and be reaped some time.
+
+<sup>14.</sup>The law of activation says that individual development is possible only through self-initiated consciousness activity.
+
+<sup>15.</sup>A more detailed account of the laws of life is given in *The Philosopher’s Stone* by Laurency. Those most important for the individual are: the laws of freedom, unity, self, and activation – especially the first two.
+
+<sup>16.</sup>The laws of life make possible the greatest possible freedom and unerring justice for all. Freedom, or power, is the individual’s divine, inalienable right. It is acquired through knowledge of the Law and through unfailing application of the laws. Freedom (power) and law are the conditions for each other. Development implies activity applied with finality in accordance with the Law. Otherwise the cosmos would degenerate into chaos.
+
+<sup>17.</sup>In monads of repulsive basic tendency, development can take the wrong course, this becoming manifest already in parasitism of plant life and in predacity of animal (and human) life. Unconscious and, to a still higher degree, conscious encroachment upon the monad’s eternally inalienable, inviolable divine freedom, limited by the equal right of all life, results in the struggle for existence and the cruelty of life.
+
+<sup>18.</sup>Life is joy, happiness, bliss in the mental and all higher worlds. Suffering is found only in the three lower regions of the physical and emotional worlds.
+
+<sup>19.</sup>Evil is all mistakes as to the Law, especially the repulsive tendency (hatred) in all its innumerable forms.
+
+<sup>20.</sup>All good and evil that befalls the individual is his own work, the result of his own application of his limited conception of right and wrong. All reap what they have sown in previous lives and often in the same life. Nothing can happen to the individual which he has not deserved by defying the Law.
+
+<sup>21.</sup>“Human dual nature” appears in the conflict between man’s “higher and lower self”, between the inevitable causal ideals of causal consciousness, which ideals the individual will be able to realize sooner or later, and “imperfect personality” in the incarnation envelopes (the qualities that the monad has acquired at the lower stages). It is part of the complete experience of life that the self will eventually have had every bad quality and reaped the consequences.
+
+<sup>22.</sup>Man learns, though incredibly slowly, from his own experiences and by reaping what he has sown. Man goes on incarnating until he has learnt all he is to learn and reaped unto the last grain what he has sown. The higher the stage of development a being has attained, the greater the effect of its mistakes as to the Law, and the greater the effect of the wrong done to it. Injustice in any respect whatsoever is absolutely precluded, and the talk about it is a manner of speech of the ignorant and envious.
+
+<sup>23.</sup>Ignorance, lawlessness, sovereign arbitrariness go together. According as man attains ever higher levels, he sees the necessity and finality of law, tries to gain knowledge of laws of nature and of life, and also strives to acquire the ability of rationally applying what he knows. When he can do this, man is not only learned but also wise.
+
+<sup>24.</sup>Ignorance thinks that it can be lawless, refuse to gain knowledge of laws of nature and laws of life and apply them correctly. Nature’s law of cause and effect, life’s law of sowing and reaping, gradually teaches the ignorant and the most defiant to life, by means of innumerable painful experiences, what is rational and necessary. The ignorant must be taught the inevitability of law, and the unwilling not to encroach on the equal right of all.
+
+<sup>25.</sup>All moralists (“Pharisees” of the Gospels) infringe the laws of freedom and unity by their constant violations of the individual’s personal inviolability (their slanderousness, domineering attitudes, intrusion into the sanctity of privacy). The individual has life’s divine right to be what he is, with all his failings, faults, and vices; to think, to feel, to say, and to do what he sees fit, as long as he does not thereby infringe the equal right of others to that same inviolable freedom.
+
+<sup>26.</sup>At mankind’s present stage of development, understanding of the individual’s right to absolute integrity is lacking. How others lead their lives is not our concern, and all judgements are great mistakes. At least the so-called esotericians should understand this, but it will apparently be some time before they have learnt not to meddle in other people’s business. It is part of the ability to be silent.
+
+<sup>27.</sup>Human legal and social systems will continually be changed, until the finally elaborated legal system agrees with the laws of life, the development and goal of life.
+
+### 1.42 THE SCIENCE OF THE FUTURE
+
+<sup>1.</sup>Hylozoics, the mental knowledge system elaborated by 46-self Pythagoras, is the only esoteric system to give an account of the trinity of existence and thus of the planetary hierarchy’s basic view of existence. It is to Pythagoras that we owe the reality concepts that provide the necessary foundation for scientific approach. It was, indeed, his intention to make spiritual materialism the unshakable foundation of the science of the future.
+
+<sup>2.</sup>Of the three aspects of existence, the matter aspect is the only one to make scientific exactness possible. Neither the consciousness aspect nor the motion aspect provides equally logical explanatory grounds. The best proof of this is the yoga philosophy and the old and modern “occult” systems.
+
+<sup>3.</sup>Most systems of “superphysics” launched in our times are best suited to emotionalists who do not need, do not even want, clarity, since clarity hinders the unhampered expansion of emotional imagination into infinitude, which is what the mystic needs.
+
+<sup>4.</sup>It is obvious that the intelligentsia having a philosophic and scientific training will not waste time and effort on such vague systems, especially when esoterics has been declared by all religious, philosophic, and scientific authorities to be the spiritual mishmash of mystagogues, which people have long since known all the same.
+
+<sup>5.</sup>Those who have assimilated the contents of *The Problems of Reality* will have no difficulty in discovering the mental shortcomings of the older systems. Those untrained in esoterics, however, should defer making such comparisons until they have thoroughly mastered hylozoics, as otherwise confusion of concepts may easily ensue. It was in order to avoid such confusion that, in the old days, no one was allowed to belong to more than one knowledge order.
+
+<sup>6.</sup>Chapters 1.4–1.41 constitute the hylozoician’s “shorter catechism”.
+
+### *1.43 Conclusion*
+
+<sup>1.</sup>The emotional task of religion has been that of freeing man from fear and anxiety, of giving him faith in life and in the power of good; and of mysticism in all religions that of granting enduring bliss and “the peace that passeth all understanding”.
+
+<sup>2.</sup>The task of science is to explore physical, but not superphysical reality. Without the facts of esoterics, mankind will remain ignorant of 46 of the 49 cosmic worlds, science will be able to explore only world 49.
+
+<sup>3.</sup>Philosophy, esoterics, and anthroposophy have been occupied with the problems of existence. The great difference between philosophers and esotericians is that the philosophers have generally been subjectivists relying on the correctness of their own speculations, while the esotericians have been objectivists who have constructed their systems on facts.
+
+<sup>4.</sup>In this respect the anthroposophist Steiner was an esoterician. The difference between Steiner and the esotericians is that the esotericians accepted superhuman facts from the planetary hierarchy only, whereas Steiner believed that he could himself ascertain even such facts, which is patently absurd. Nor are they to be found in the “akashic records”.
+
+<sup>5.</sup>The objection to the theosophists is that they have lacked the requisite philosophic and scientific training and that their expositions of esoterics have often been unintelligent and, in any case, inadequate, and for this reason have seemed “quasi”. Nor have the theosophists explained the essential and principal difference between the yoga philosophy and esoterics. It is not correct to say, as Blavatsky did, that all superphysical knowledge has come from “India”. It has come from the planetary hierarchy, and its esoteric knowledge orders have existed among all nations that have attained a sufficiently high level to be able to inquire intelligently into the meaning and goal of life.
+
+<sup>6.</sup>The esoterician has once and for all left the world of illusions and fictions, which mankind prefers living in, to enter the world of reality.
+
+## 2 THE PROBLEMS OF REALITY, PART TWO
+
+### *2.1 Introduction*
+
+<sup>1.</sup>The three aspects of reality have been treated in *The Problems of Reality, Part One*, which also contains some essential facts about the material structure of the cosmos, the cosmic total consciousness, the dynamic energy of primordial matter, the cosmic organization, and other things.
+
+<sup>2.</sup>In this Part Two some more facts are given in order to put these three aspects of existence into a broader perspective. Some repetitions from Part One have been deemed necessary for the account to gain in clarity.
+
+<sup>3.</sup>In these two parts an attempt has been made to present the fundamental facts which have been considered necessary in order to furnish mankind with the requisite perspectives on existence, without which disorientation will be inevitable.
+
+<sup>4.</sup>A foundation has been laid for the world view of the future, for the first time exact in concepts (as it must be for mentalists), liberated from the vagueness of symbolism.
+
+### 2.2 THE MATTER ASPECT OF EXISTENCE
+
+<sup>1.</sup>Our cosmos, one of innumerable globes in primordial matter, is composed of primordial atoms. These have been formed into 48 successively more composed kinds of atoms, each lower kind containing increasingly more primordial atoms. These 49 different atomic kinds make up 49 cosmic worlds of increasingly greater density. As matter is thus composed, all the higher worlds can penetrate all the lower worlds. All the 49 atomic worlds occupy the same space in the cosmos and fill up the cosmic globe.
+
+<sup>2.</sup>The 49 atomic worlds are divided into seven series of seven worlds in each series. The division into septenaries is due to the fact that the three aspects of existence have been susceptible of combination in the following seven ways.
+
+<sup>3.</sup>The table facilitates analysis of the composition of matter, the relations of the aspects, the seven types and departments.
+
+<table>
+<tbody>
+<tr><th scope="row">1</th><td><span style="font-size:4em;">1</span></td><td><span style="font-size:4em;">2</span></td><td><span style="font-size:4em;">3</span></td></tr>
+<tr><th scope="row">2</th><td><span style="font-size:4em;">1</span></td><td><span style="font-size:2em;">2</span></td><td>3</td></tr>
+<tr><th scope="row">3</th><td><span style="font-size:4em;">1</span></td><td>2</td><td><span style="font-size:2em;">3</span></td></tr>
+<tr><th scope="row">4</th><td><span style="font-size:2em;">1</span></td><td><span style="font-size:4em;">2</span></td><td>3</td></tr>
+<tr><th scope="row">5</th><td><span style="font-size:2em;">1</span></td><td>2</td><td><span style="font-size:4em;">3</span></td></tr>
+<tr><th scope="row">6</th><td>1</td><td><span style="font-size:4em;">2</span></td><td><span style="font-size:2em;">3</span></td></tr>
+<tr><th scope="row">7</th><td>1</td><td><span style="font-size:2em;">2</span></td><td><span style="font-size:4em;">3</span></td></tr>
+</tbody>
+</table>
+
+1 = the will aspect (the motion aspect)<br>
+2 = the consciousness aspect<br>
+3 = the matter aspect
+
+<sup>4.</sup>The cosmic worlds are built out from “above”. The cosmos, originally of insignificant extent, grows continually until it has reached the limit set by the capacity of the 49 cosmic dimensions. The seven highest worlds are formed first. They are the foundation of everything in the cosmos. They constitute the cosmic ground-plan, the pattern of the repeated septenary division of atomic worlds. The lower septenary series thus are scaled-down replicas of the immediately higher ones. This scaling down is a result of the increased density of primordial atoms and is especially noticeable in the case of the consciousness and motion aspects.
+
+<sup>5.</sup>This system of copying has the result that the seven septenary series relate to each other analogously. Therefore, it is possible in lower worlds to make at any rate interesting analogies as to higher worlds in many respects.
+
+<sup>6.</sup>The principle of analogous composition has the result that corresponding worlds in the septenary series present the greatest possible correspondence as to all three aspects. What is characteristic of world 1 will thus recur in worlds 8, 15, 22, 29, 36, and 43. What is peculiar of world 7 will be found again (apart from all the inevitable modifications, of course) in worlds 14, 21, 28, 35, 42, and 49. The corresponding is true of all the other worlds in the series.
+
+<sup>7.</sup>The septenary series of cosmic worlds form as many cosmic natural kingdoms, divine kingdoms, as there are series. The highest or seventh kingdom consists of worlds 1–7, the lowest or first kingdom, of worlds 43–49.
+
+<sup>8.</sup>That individual who in world 43 has through his own endeavour acquired consciousness in world 42 (that is, has become a 42-self) is said to have entered the second “divine kingdom”.
+
+<sup>9.</sup>The cosmos has been built out by a collective of monads who have acquired consciousness in a cosmos and have themselves worked their way up through all its 49 worlds. They wish, in their turn, to awaken to consciousness the unconscious monads in primordial matter and make it possible for them to acquire omniscience and omnipotence in the cosmos.
+
+<sup>10.</sup>In our cosmos, all the 49 atomic worlds of the seven cosmic natural kingdoms have already been filled with individuals who in each higher world form an ever wider collective consciousness.
+
+### 2.3 THE CONSCIOUSNESS ASPECT OF EXISTENCE
+
+In the following some facts will be given pertaining to:
+
+- the collective consciousness
+
+- the seven fundamental types of consciousness
+
+- the seven departments of the planetary hierarchy
+
+- the human types of consciousness
+
+- some problems for the future psychology
+
+- telepathy
+
+### *2.4 The Collective Consciousness*
+
+<sup>1.</sup>What is the most essential for understanding the consciousness aspect of existence is to know that there is only one consciousness in the cosmos, the cosmic total consciousness, of which every monad has a part it cannot lose. This consciousness is an amalgamation of the consciousness of all monads in the cosmos.
+
+<sup>2.</sup>From this it follows that all consciousness is by nature both individual and collective. The collective consciousness is the primary and common one; the individual self-consciousness the individual must acquire by himself through ever higher natural kingdoms, this being possible because of his very sharing in the collective consciousness.
+
+<sup>3.</sup>Every material aggregate in the cosmos, from an atom to a planetary world, a solar system, or a cosmic world, is ultimately composed of primordial atoms. Every aggregate has a collective consciousness.
+
+<sup>4.</sup>The seven atomic worlds of the solar system make up seven main kinds of collective world consciousness. The six molecular worlds within each atomic kind form six sub-groups of collective consciousness within each of the main kinds. It is practically impossible to enumerate all kinds of collective consciousness. Anything that can form a collective consciousness by reason of some kind of relatedness automatically constitutes one.
+
+<sup>5.</sup>The monads making up an aggregate can be, and usually are, on different levels of consciousness and have very different ability to participate in the collective consciousness. Often the monads making up an aggregate belong to different natural kingdoms, often there will be in the aggregate one monad far ahead of the others in consciousness development; this one can then with a certain right regard the aggregate as its envelope.
+
+<sup>6.</sup>The cosmic total consciousness is what the ancients called the “universal soul” or “god immanent”. Some speak of “the soul’s merging with the universal soul”. One cannot merge with something of which one is already a part. When the self reaches the highest cosmic world, it will have worked its way up through over fifty different successively higher kinds of material envelopes with corresponding consciousnesses. “God immanent” indicates that every monad is a potential god, a god in becoming (besides, sharing in cosmic “divinity”). “God transcendent” is all higher, superhuman kingdoms which cooperate for evolution. As for a “personal god”, the planetary hierarchy declares with vigour that all in higher kingdoms decline any suchlike caricature. Judaism introduced monotheism into religion with anthropomorphism as an inevitable result.
+
+### *2.5 The Seven Fundamental Types*
+
+<sup>1.</sup>The monads are introduced into the cosmos from chaos via one or another of the seven highest cosmic worlds. This sets a certain stamp on them from the beginning, so that seven types of monads can be distinguished.
+
+<sup>2.</sup>The first three types of the septenary series are the most pronounced expressions of the three aspects. The first type is the extreme force type (the motion aspect); the second type represents the consciousness aspect; and the third type, the matter aspect. The other four are differentiations of the first three in more composed matter.
+
+<sup>3.</sup>Types 1, 3, 5, 7 are rather expressive of the objective side of existence; types 2, 4, 6, of its subjective side.
+
+<sup>4.</sup>In each lower cosmic kingdom (septenary series of atomic worlds), the types undergo the modifications conditioned by the material composition. The types thus prove different in different worlds. The difference is especially great between types in the atomic and in the molecular worlds, even though something will remain of what is characteristic of the original types.
+
+<sup>5.</sup>Thus the question is whether the most expedient numeration of the cosmic worlds would not be according to the principle of analogous septenaries, with worlds 1–7 being designated by 11– 17, worlds 8–14 by 21–27, worlds 15–21 by 31–37, etc., and worlds 43–49 by 71–77. World and department would then coincide so that one would always know to which departments the different worlds belonged.
+
+<sup>6.</sup>Most generally, it can be said that the types are determined by the possibility of the three aspects of making themselves felt in different kinds of matter. Each atomic kind the most easily expresses one aspect of the three. The result is that each atomic kind affords the possibility to especially develop qualities and abilities of certain kinds.
+
+<sup>7.</sup>It is true that from the beginning the monads are of certain types. But in the course of evolution, the individual is given opportunities to acquire in his different envelopes the qualities of all the types in order to develop the requisite all-roundness. He also has an opportunity to decide himself which type he finally prefers to represent. Until then he will in the cosmos have been identifying his consciousness with the different kinds of collective type consciousness of the respective worlds.
+
+<sup>8.</sup>The division into types works thoroughly, in many ways and in innumerable kinds of combinations. Strange as it may seem, every solar system, every planet, every aggregate expresses one of the seven types especially. Every individual belongs to one, every one of man’s envelopes can be of a different type.
+
+<sup>9.</sup>Individual character also makes itself felt, so that every individual, despite his type, is unique, which fact conduces to greater understanding and makes cosmic unity more fully vibrant.
+
+### *2.6 The Seven Departments of the Planetary Hierarchy*
+
+<sup>1.</sup>The lowest seven atomic worlds (43–49) make up the lowest or first cosmic kingdom. In our solar system they belong to the solar systemic government, in our planet they make up the collective consciousness of the planetary government.
+
+<sup>2.</sup>Our planetary hierarchy (not government) is divided into seven departments. In each department there are four degrees consisting of 43-selves, 44-selves, 45-selves, and 46-selves.
+
+<sup>3.</sup>Those individuals who most recently passed from the fourth to the fifth natural kingdom are 46-selves. Together with the 45-selves they make up the fifth natural kingdom. The highest two kinds of selves in the planet (43- and 44-selves) form the sixth natural kingdom, also called the lowest divine kingdom.
+
+<sup>4.</sup>The task of the planetary hierarchy is to supervise evolution in the lowest four natural kingdoms.
+
+<sup>5.</sup>The seven departments in the planet are replicas of the seven departments of the solar system and, to a certain degree, also of the seven types constantly recurring in the cosmic kingdoms. Many attempts have been made to describe or explain these types. These attempts have of course failed, the only result being the idiotization of the whole subject.
+
+<sup>6.</sup>The most expedient notation should be the mathematical one, that is: the first to the seventh department.
+
+<sup>7.</sup>As connected with the lowest seven atomic worlds (43–49) one could tentatively and analogously denote them:
+
+- 1st the manifestalist, the dynamician
+
+- 2nd the submanifestalist, the unifier of all
+
+- 3rd the superessentialist, the knower of all
+
+- 4th the essentialist, the harmonizer
+
+- 5th the mentalist, the technician
+
+- 6th the emotionalist, the reconciler
+
+- 7th the physicalist, the organizer
+
+<sup>8.</sup>These designations are mere suggestions. All attempts at analogy with human qualities or abilities are utter failures, having resulted in nothing but a mass of superstition so typical of man’s incurable presumptuousness of thinking himself able to judge everything.
+
+<sup>9.</sup>The expression “divine love” has been used in connection with the second type. So human a concept (despite everything) can be nothing but misleading as applied to anyone who has joined the planetary consciousness of community and is aware of his inseparable unity of all.
+
+<sup>10.</sup>The first department represents the motion aspect (will, energies); the second department, the consciousness aspect; and the third department, the matter aspect. The other four are expedient modifications of the three.
+
+<sup>11.</sup>In the “odd” departments, 1, 3, 5, 7, and in the “odd” worlds, 43, 45, 47, 49, consciousness is more objective and extravert; in the “even” departments, 2, 4, 6, and in the worlds 44, 46, 48, it is more subjective and introvert.
+
+<sup>12.</sup>The departmental energies that make themselves best felt in man’s envelope consciousnesses are:
+
+<table>
+<tbody>
+<tr><td>1, 4, 5</td><td>in mental consciousness</td></tr>
+<tr><td>2, 6</td><td>in emotional consciousness</td></tr>
+<tr><td>3, 7</td><td>in physical consciousness</td></tr>
+</tbody>
+</table>
+
+### *2.7 The Human Types of Consciousness*
+
+<sup>1.</sup>The seven planetary types exist only in the worlds of the planetary hierarchy (43–46).
+
+<sup>2.</sup>The pure human types do not exist in the human kingdom at its present stage of development. They will not appear until in the last or seventh root-race.
+
+<sup>3.</sup>It is in any case hard to explain even these types. Attempts will only tend to provide man’s imagination, idiotizing everything, with more material for excesses. The pure types have been called main types and those actually existing now, sub-types.
+
+<sup>4.</sup>Man’s five envelopes can belong to five different departments. The envelopes of incarnation usually change in departments in each new life, so that the individual is continually changing “type”. He can have something of all the five types.
+
+<sup>5.</sup>A man will seem feminine if he has just concluded a long series of female incarnations, a woman masculine after a long series of male incarnations.
+
+<sup>6.</sup>In the man, the organism and the emotional envelope are positive, the etheric and mental envelopes are negative; in the woman the reverse is the case: the organism and the emotional envelope are negative; the etheric and mental envelopes are positive. This explains why women find it easier to endure pain and are mentally steadier, why men are emotionally aggressive, etc.
+
+<sup>7.</sup>Only 46-selves can determine to which department the five different envelopes belong. Accordingly, there is no point in speculating as to the type to which an individual belongs.
+
+<sup>8.</sup>However, in order to give some hints as to the seven human types, the following attempt has been made, invoking the reservations above, to point out certain characteristics of the seven types.
+
+<sup>9.</sup>The first type is distinguished by a strong so-called will which makes the individual suitable as a leader, a real one and one recognized as such by all. That type, often without regard for the consequences and the opinions of others, goes with “waves of his own across the ocean”.
+
+<sup>10.</sup>The second type is that of the wise man, of him possessing knowledge, insight, and understanding. He is the born teacher, able and willing to unite conflicting opinions and individuals, etc.
+
+<sup>11.</sup>The third type is the thinker, philosopher, mathematician (often the unpractical theorist), who examines everything from all sides, etc.
+
+<sup>12.</sup>The fourth type is the one who strives after harmony in all, the designer, architect, town planner, artistic constructor, etc., with a pronounced sense of form and colour.
+
+<sup>13.</sup>The fifth type is the scientist, researcher with a sense of detail, the discoverer, inventor, etc. It is interesting to see that also those who follow the path of 6–4–2 during a series of incarnations must have the 5th department in their lower causal envelope (the one incarnating).
+
+<sup>14.</sup>The sixth type is the mainly emotional imaginative man in the spheres of religion, literature, etc. with traits of fanaticism and well-marked sympathy–antipathy.
+
+<sup>15.</sup>The seventh type is the man of order with a marked sense of everything belonging to procedure, ceremony, ritual, etc. The symbolic meaning of “ritual”, as a support of the various moments in the process of formation of matter, remains esoteric.
+
+<sup>16.</sup>The human types are rather examples of modes of reaction, resulting from the permanent influence of certain fixed kinds of energies (vibrations).
+
+<sup>17.</sup>To what extent the types are expressed largely depends, among other things, on the level of development attained and the percentage of previously acquired latent qualities and abilities, of which some are more easily awakened than others.
+
+<sup>18.</sup>Uniformity is out of the question. Everything that exists is individual and unique and, once it has acquired the consciousness of unity, an always welcome contribution to the greater fullness of vibrant cosmic harmony.
+
+### *2.8 Some Problems for the Future Psychology*
+
+<sup>1.</sup>Consciousness is a cosmic ocean. Human psychology is in a position to explore the lowest three of its 49 different strata. The other ones are part of man’s superconsciousness. Having only this tiny share in the consciousness aspect of existence, man evidently lacks the prerequisites of assessing the real nature of consciousness.
+
+<sup>2.</sup>The same can be said of man’s prospect of constructing a system of thought in agreement with reality, a system that makes it possible to explain the three aspects of existence, the meaning and goal of existence, the causes of processes in nature, etc.
+
+<sup>3.</sup>We are given all the facts we need for the necessary orientation as to world view and life view, but it is up to us to put these facts into their correct contexts.
+
+<sup>4.</sup>In the domain of psychology we may look forward to increasingly more facts about:
+
+- the human types of consciousness
+
+- the human stages of development
+
+- consciousness in the different molecular kinds
+
+- consciousness in man’s five different material envelopes
+
+- how we are to acquire the ability of activity in the different centres of the envelopes
+
+- how we are to acquire ever higher kinds of sense (objective consciousness in our higher envelopes).
+
+<sup>5.</sup>Psychologists ought to try to explain why “good resolutions” have the opposite effects, elucidate that man’s different kinds of consciousness have their seats in different material envelopes, that there is often tension between these different envelopes, that when in conflict with the waking consciousness the subconsciousness will almost always win.
+
+<sup>6.</sup>It is important for researchers of all kinds to understand that everything has an individual character. Every primordial atom (monad) is something unique. Every combination of monads of whatever kind is something unique. Every change (because of the continual exchange of atoms in the aggregate) is unique.
+
+<sup>7.</sup>What is common in all is, regarding the matter aspect, the constant relations (the laws), and, regarding the consciousness aspect, the ever expanding collective consciousness.
+
+### *2.9 Telepathy*
+
+<sup>1.</sup>Of course, they deny and ridicule such a thing as telepathy, our colossal, scientifically trained psychologists, it being beyond their ability to ascertain its existence.
+
+<sup>2.</sup>Of man’s five envelopes, the organism (brain and nervous system), the physical etheric, emotional, mental, and causal envelopes, all but the first one function as live receiving apparatuses, because they consist of elemental matter with passive consciousness. They are incapable of self-activity, but are unsurpassably sensitive to vibrations of all kinds, perfect robots.
+
+<sup>3.</sup>It depends on his level of development how much of these vibrations man is able to perceive. How much he actually perceives of what he should be able to, depends on his power of attention, and of simultaneous attention, in all four envelopes.
+
+<sup>4.</sup>All vibrations which are above the individual’s level almost always pass him by unnoticed. They belong to his superconscious, and he does not even suspect that it exists.
+
+<sup>5.</sup>The expressions of man’s emotional and mental consciousness can be divided into two groups: self-activity and robot activity (including “habitual thinking”: automatized emotional and mental associations originally his own).
+
+<sup>6.</sup>Over 80 per cent of most people’s consciousness activity is emotional and mental robot activity.
+
+<sup>7.</sup>The vibrations the robots receive are mostly vibrations reproduced from what others have felt and thought, which man receives and through his attention amplifies to re-emit them into the emotional and mental worlds.
+
+<sup>8.</sup>What the individual apprehends is usually and most generally what touches his fields of knowledge and interests, things which he has recently heard or read about, etc. The rest passes him by unnoticed.
+
+<sup>9.</sup>Human thinking is largely mass thinking: group, clan, class, or nation thinking, of which man takes part without knowing it, imagining that he is thinking “independently”, unaware where it all comes from.
+
+<sup>10.</sup>Lichtenberg (18th century) had a glimpse of this idea when he wrote: “One ought not to say: ‘I think’, but ‘it thinks in me’.” It is significant that even after 200 years this truth has not been appreciated.
+
+<sup>11.</sup>Scientists have done tremendous work, as will be readily admitted. All the more deplorable is their dogmatic attitude still existing, which hampers and restricts research quite incredibly. Do they really believe that they have explored everything, that there are no new revolutionary discoveries to be made? Then the esoterician can tell them that such discoveries will continue to be made for many thousands of years to come. Just as the scientists of today smile at those of a hundred years ago, so the scientists of a hundred years hence will wonder at the present lack of understanding of esoteric facts, which is little short of stupidity. But so strong is the opposition, so misled is mankind by innumerable idiologies in theology, philosophy, and science, that over one million esotericians now living, eminent scientists included, are forced to keep their knowledge to themselves.
+
+<sup>12.</sup>The simplest explanation of telepathy is that all consciousness is collective and common to all to the extent that they have acquired the ability to apprehend. We all have a share in the collective consciousness.
+
+### 2.10 THE MOTION ASPECT OF EXISTENCE
+
+In the following some facts are given about:
+
+- the process of manifestation
+
+- the seven fundamental energies
+
+- the solar systemic and planetary energies
+
+- “ideas rule the world”
+
+### *2.11 The Process of Manifestation*
+
+<sup>1.</sup>A more detailed account of the great cosmic process of manifestation, through which the cosmos with all its content comes into being, has been given in *The Philosopher’s Stone* by Laurency.
+
+<sup>2.</sup>The great principal processes are:
+
+- the processes of involvation and evolvation
+
+- the processes of involution and evolution
+
+- the process of expansion
+
+<sup>3.</sup>In the process of involvation, the unconscious primordial atoms (the monads) are introduced from chaos and are involved to form more and more composed matter, cosmic material worlds as well as solar systems and planets.
+
+<sup>4.</sup>In the processes of involution and evolution, the unconscious monads are awakened to consciousness, after which their consciousness development continues in ever higher natural kingdoms.
+
+<sup>5.</sup>In the process of expansion, the individual consciousness is expanded into collective consciousness comprising more and more, until the goal of all monads has been reached: the common cosmic total consciousness.
+
+<sup>6.</sup>The highest seven cosmic worlds (1–7) constitute the foundation of everything in the cosmos. They are made up of monads which have gone through the process of manifestation in another cosmos, have learnt to handle dynamis (the eternally blind omnipotence of primordial matter, the source of all power) and now in their turn are building out the cosmos and directing the process of manifestation.
+
+<sup>7.</sup>From these seven worlds emanate all the material energies which form matter and the worlds and make the cosmos a living whole constantly changing.
+
+<sup>8.</sup>The entire process of manifestation is based on a plan broadly outlined in which the final goal (the omniscience of all participating monads) alone is fixed. The process depends in its course more or less on the cooperation of all monads. They cannot, of course, prevent the process being carried through, but resistance or inertia on their part can delay it.
+
+<sup>9.</sup>All events, all processes of nature, the formation, change, and dissolution of matter, in the last resort originate from the highest seven cosmic worlds. They thus constitute the basis of the motion aspect of existence.
+
+<sup>10.</sup>These original energies are conveyed to the solar systems through the five intermediate cosmic expansion kingdoms (the five septenary series from world 8 to world 42), in the course of which a higher world transforms and scales down the material energies for further transmission to the next lower world.
+
+<sup>11.</sup>From what has already been said about the three aspects of existence, it follows that:
+
+<sup>12.</sup>The relative significance of the three aspects to each other is constantly being shifted in the process of manifestation. In the lower natural kingdoms, the matter aspect appears to be the only one. In each higher kingdom, the consciousness aspect grows more and more in significance, so greatly that the matter aspect (which of course remains the basis that can never be lost) comes to seem utterly insignificant to consciousness. But since in each higher kind of atomic consciousness the blind omnipotence of dynamis gradually manifests itself more clearly, the motion aspect (also called the will aspect) finally comes to dominate everything.
+
+<sup>13.</sup>There are no restrictions on the action of dynamis in chaos and, being a blind force, it can itself only work chaos. Directed by omniscience and perfect wisdom, it works perfect finality, based on the knowledge of the constant relations of the matter aspect. Dynamis makes the universe a perpetuum mobile and causes higher matter to act as energy on lower matter.
+
+### *2.12 The Seven Fundamental Energies*
+
+<sup>1.</sup>As has already been pointed out, the material energies which pour out from the highest seven cosmic worlds are the source of all energies in the cosmos. The primordial force is dynamis, it is true, but the original material for the energies is primordial atoms. All energies are material.
+
+<sup>2.</sup>The seven fundamental energies are different expressions of that individual character which makes them, in accordance with the law of least resistance, follow the numerical principle of the septenary series (for example, the seventh septenary through worlds 7, 14, 21, etc.).
+
+<sup>3.</sup>The seven fundamental energies are composed and scaled down more and more in each lower cosmic kingdom, until they reach the lowest kingdom (43–49), the spheres of the solar systems, where they are utilized by the governments of the solar systems.
+
+<sup>4.</sup>The cosmic energies are uninterruptedly active. In the solar systems, however, their activity is increased and decreased in accordance with a periodicity inevitable for the pertaining material processes (the so-called law of periodicity), the rhythm of which varies in every world, every kind of matter, every kind of material envelopes.
+
+<sup>5.</sup>This law of periodicity is what makes everything within the solar systems and in the relations of the solar systems to each other proceed in regularly recurring periods, or cycles, that can be determined mathematically.
+
+<sup>6.</sup>The balance of life, the balance in the composition of matter and in material energy, requires a constant change of the various life-sustaining energies.
+
+<sup>7.</sup>For example, the so-called vital force of the organism depends on five different kinds of energies replacing one another at twenty-four-minute intervals, thus recurring periodically at intervals of two hours.
+
+<sup>8.</sup>The most comprehensive of these cycles, the solar systemic cycles, are called eons (4320 million years).
+
+<sup>9.</sup>Cyclical activity dominates all processes. When the history of mankind’s development is published one day, the public will learn about the true historic epochs. A surprise awaits them: astronomers will be able to use celestial mechanics to calculate exactly the determinable dates of past events.
+
+### *2.13 The Solar Systemic and Planetary Energies*
+
+<sup>1.</sup>The cosmic energies that reach the solar systems arrive via the seven worlds of the lowest cosmic kingdom but one (36–42).
+
+<sup>2.</sup>The solar systems are an intricate distribution network for these energies.
+
+<sup>3.</sup>Every solar system undergoes three different stages of development corresponding to the three aspects: the matter, consciousness, and motion aspects. In each of the three periods the solar system undergoes a complete remoulding.
+
+<sup>4.</sup>Independently of this, the planets in the solar system undergo seven different processes of development, divided into seven periods of activity and passivity called eons (Sanskrit: kalpas with manvantara and pralaya).
+
+<sup>5.</sup>The solar systems of higher degrees convey the cosmic energies to those of lower degrees. Our solar system is of the second degree. The energies from other solar systems reach the planets via the sun, which has the function, among others, of transforming the atomic energies into molecular energies. These seven main kinds of molecular energies, like all septenaries, can be divided into three higher and four lower. The three circulate interplanetarily; the four are distributed to the planets, in which process the principle of circulation is also employed, so that the planets receive energy from each other.
+
+<sup>6.</sup>Every solar system, every planet, always represents one of the seven cosmic types specifically, always in its individual mode, since everything in the cosmos is at the same time typified and individually characterized.
+
+<sup>7.</sup>As a result of this typification with its concurrent differentiation down to individual character, the ever lower kingdoms present a continual subdivision of the types until every individual becomes something individually characterized, yet, as regards one or other of the aspects, he can be said to represent one of the principal types, at the same time, however, being something of all the types.
+
+<sup>8.</sup>The energies are always type energies, and the effects they have on the different types in the different kinds of matter and kinds of consciousness differ accordingly. When activity of a certain type dominates, it sets it mark on individuals and collectives in their unique characters. The result of this is that every process is individual and can never again produce anything exactly similar, never achieve exactly the same result. (This is why we have difficulty in learning from history, since the typical is lost in the individual.) Herakleitos tried to hint at the eternal uniqueness of everything when he said that you can never descend twice into exactly the same river. This demolishes Nietzsche’s fantasies about the “eternal return” to exactly the same. It is impossible, because everything is unique.
+
+<sup>9.</sup>It should be added that all atoms in all material aggregates receive and in their turn emit energies.
+
+<sup>10.</sup>The energies coming in from without have their own types and individual characters. The energies conveyed further always have their individual characters coloured to a certain degree in the new aggregates they flow through.
+
+<sup>11.</sup>The knowledge of the relations of our solar system and our planet to other solar systems, of the exchange of interstellar and interplanetary energies, once was one of the most important sciences in mankind’s possession. The people that got farthest in this respect were the Chaldeans of some 30,000 years ago. Fortunately, we may look forward to the time when the individuals who acquired this knowledge in Chaldea will incarnate again and once more present mankind with the esoteric “astrology”, thereby reviving the long-forgotten knowledge. The planetary hierarchy will provide them with the facts necessary to awaken their latent knowledge to a new life. This is what is constantly happening, being in accordance with the Law. What mankind can accomplish, it must do by itself. It is up to mankind to remember anew knowledge that it has lost.
+
+<sup>12.</sup>Thus we have entered upon a matter regarded by the astronomers as superstition of the grossest kind: astrology. Historically speaking there are four kinds of astrology: the esoteric astrology long since forgotten; that adopted from antiquity, which is in many ways corrupt (the Ptolemaeic, starting from our planet as the centre of the universe); the degenerate medieval astrology; and today’s empirical astrology, which examines statistically horoscopes collected systematically, employing the inductive method of research. By horoscope is understood the sum total of ascertainable celestial relations to exact time, exact longitude and latitude on our planet at the “birth” of something. The monad, or group of monads, in question thereby enters anew into a causal connection temporarily interrupted. “The Law can wait.” From the horoscope one gains knowledge of what principal energies strongly influence, say, a person during his lifetime. If one also has knowledge of the individual’s different envelopes and can determine what vibrations will most strongly influence them, it will be possible to draw a number of important conclusions about the characteristic problems which this same person will have to wrestle with. But this does not mean that one can foresee the individual’s fate. To do so would eliminate the law of freedom wholly. Nothing is predestined in detail. The new esoteric astrology will put a definite end to fatalism and the doctrine of predestination.
+
+<sup>13.</sup>Exoteric astrology is not exact. It still lacks the knowledge of a number of requisite facts. Even with its twelve zodiacal types and seven planetary types to guide it, it still cannot state their relations to the existing types. It cannot interpret all the possibilities of the horoscope. It knows nothing about the horoscope of more than one of the individual’s five envelopes.
+
+<sup>14.</sup>The fate of astrology is one of many examples of what will happen when esoteric knowledge falls into the hands of the uninitiated. The same can be said of hylozoics in philosophy and of gnostics (Christos’ secret doctrine) in Christianity. The result is superstition of a more or less gross kind.
+
+### 2.14 “IDEAS RULE THE WORLD”
+
+as should be clear from what follows:
+
+- “Ideas rule the world”
+
+- Cosmic ideas
+
+- Hierarchic ideas
+
+- The ideas in mankind
+
+### *2.15 “Ideas Rule the World”*
+
+<sup>1.</sup>By making this statement the “divine” Platon “told a secret out of school”, betraying an esoteric axiom. He dared to, since he saw that nobody would comprehend the axiom. And events have proved him right.
+
+<sup>2.</sup>Only an esoterician can understand the axiom. This should be clear from what follows. No exoterist has even understood what Platon meant by idea or the world of ideas. But an incredible amount of acute and profound balderdash has been wasted in the attempt, the best possible proof of the incurable conceit of ignorance and of its confidence in its ability to discriminate: to judge without knowledge of the facts of reality. Common sense is the direct perception, by the human collective consciousness, of reality in each world separately. We have no logical right to express opinions regarding worlds unknown to us. We cannot correctly grasp their reality. They are all totally different in their elaboration of the three aspects, despite existing analogies.
+
+<sup>3.</sup>As an expression of consciousness, the idea belongs to the consciousness aspect. But its realization belongs to the motion aspect. What would omniscience be without omnipotence?
+
+<sup>4.</sup>“Ideas rule the world”, for the entire process of manifestation proceeds in accordance with cosmic ideas.
+
+### *2.16 Cosmic Ideas*
+
+<sup>1.</sup>The entire process of manifestation is a continuous process of ideas.
+
+<sup>2.</sup>There are cosmic ideas, solar systemic ideas, planetary ideas, as many different kinds of ideas as there are kinds of atomic consciousness and atomic worlds in the cosmos.
+
+<sup>3.</sup>Our planetary government is entrusted with the cosmic ideas pertaining to the maintenance and development of life in the planet and also sees to it that they are realized in accordance with the laws.
+
+<sup>4.</sup>These ideas are the causes of the processes in nature, the causes of the formation, changes, and dissolution of matter, and they are the precondition of the consciousness development of all the natural kingdoms.
+
+<sup>5.</sup>It is not true, as the physicalists believe, that finality in nature is a special case of forces of unconscious matter acting mechanically. The exact opposite of this is the case: the energies that act mechanically in the solar system are special cases of those acting with finality: automatized consciousness robots achieving the missions suited to them with unerring precision.
+
+<sup>6.</sup>The planetary government and planetary hierarchy are in no way pleased by any cult of personalities. They explain that the highest developed monad in any more permanent collective consciousness (the planetary ruler, for instance) will leave his office for a higher one when some other monad has developed sufficiently so as to be able to take over that function.
+
+<sup>7.</sup>There must be one dominant (being one eon ahead of those following next in consciousness development, consciousness expansion), since final decisions must be unambiguous and divergence be impossible.
+
+### *2.17 Hierarchic Ideas*
+
+<sup>1.</sup>Those cosmic ideas pertaining to consciousness development, which are to be realized in the human kingdom and lower kingdoms, are laid down by the planetary government and effected by the planetary hierarchy. Ideals can be accepted or rejected. But hierarchic ideas must be realized, no matter how long it will take.
+
+<sup>2.</sup>Just as mankind has its highest world (the causal world) and from there can bring down ideas, so the planetary hierarchy has its world of ideas, the lowest world of the planetary government.
+
+<sup>3.</sup>The work of the planetary hierarchy can be read in the planetary history of the consciousness development of the lowest four natural kingdoms which goes on in the physical world. This history is to its full extent preserved in the collective memory of the submanifestal world. “Akasha”, of which Rudolf Steiner spoke so much, is not the emotional world (48), as he believed, but the submanifestal world (44).
+
+<sup>4.</sup>The history of the human individual exists in the collective memory of the causal world (47).
+
+<sup>5.</sup>The causal world, the world of Platonic ideas, is the property of the planetary hierarchy. It is accessible to those who have acquired causal consciousness. The causal ideas reproduce reality such as it can be rendered in this kind of consciousness. The Indian elaborator of the raja yoga system, Patanjali, called the idea content of the causal world the “rain-cloud of knowable things”.
+
+<sup>6.</sup>All that mankind needs for its consciousness development is given to it. Mankind is given opportunities of coming to know reality through its own experiences during countless incarnations. Mankind is informed of all the facts which are necessary for it to orient itself in reality and life, and which it cannot ascertain by itself. It is given every possibility. What mankind can do, however, that it must do by itself, solving all his problems by itself. The law of self-realization is a cosmic law that is valid in all kingdoms.
+
+### *2.18 The Ideas in Mankind*
+
+<sup>1.</sup>The physicalists believe that ideas are subjective conceptions of the human brain. That is on the whole true of the reality content of their ideas, for they consist of emotional illusions and mental fictions.
+
+<sup>2.</sup>Emotional illusions are emotionalized mental conceptions, which, on account of emotional needs, have turned into permanent convictions (dogmas, beliefs). Examples include all political idiologies and religious dogmas.
+
+<sup>3.</sup>Mental fictions include all fancies, freaks, guesses, suppositions, assumptions, etc., as well as the hypotheses and theories of science, all being mental constructions that do not have all the facts put in their correct contexts.
+
+<sup>4.</sup>Knowledge, on the other hand, is a perfect mental system of the requisite facts. It is only the planetary hierarchy that can decide whether all the facts are there.
+
+<sup>5.</sup>Mankind has a long way to go before it has learnt to distinguish between what it knows and what it does not know. Sokrates was one of the few to be on the safe side. Others deceive themselves by their acuity and profundity.
+
+<sup>6.</sup>It is significant that few of those hyperintelligent people have been initiated into esoteric knowledge orders, and that those who have, remain in the lower degrees. No better off are those who drivel about their intuition or believe they can assess the reality content of their “revelations”, or clairvoyant experiences.
+
+<sup>7.</sup>If one does not know, comprehend, see, and understand, the safest attitude is a good share of healthy skepticism, according to a piece of advice from 45-self D.K., to counteract credulity and blind belief in authority.
+
+<sup>8.</sup>There are two main kinds of ideas:
+
+- hierarchic ideas
+
+- ideas of the causal world
+
+<sup>9.</sup>The hierarchic ideas include the facts mankind needs for a rational conception of reality and life, of the meaning and goal of life, of all that it is unable to ascertain by itself. These facts are communicated gradually to the extent that mankind develops sufficiently to be able correctly to comprehend them, to put them into their correct contexts and not to abuse them to the detriment of life and its own ruin.
+
+<sup>10.</sup>For these ideas to be made conceivable, they have to be scaled down to the lower mental. Those people who occupy themselves with the pertaining problems and are tuned to the “right wavelength” are able to pick up the pertaining mental molecules. Then follows a process of matter and consciousness that can take a relatively long time, in many cases as long as fifteen years. The mental idea becomes part of the consciousness, often the superconsciousness, of the mental envelope, frequently as a “hunch”. Eventually it becomes a mental conception and then works its way down to the mental molecules in the brain cells. It can now be formulated into a definition.
+
+<sup>11.</sup>“Ideas rule the world” means, as far as mankind is concerned, that ideas are the milestones of development, that what we call the course of history proceeds in accordance with cosmic ideas scaled down by the planetary hierarchy. Mankind advances to the extent that these ideas can be conceived as ideals, eventually to be realized. That these ideals are still regarded as utopias is evidence of the stage of development that mankind is at.
+
+<sup>12.</sup>Other measures are also taken, of course. For example, clans at the stage of culture are permitted to incarnate when a new culture is to be built up, and clans at the stage of barbarism incarnate when old cultures have grown unfit for life or hostile to life and are to be smashed. The corresponding process is repeated in each zodiacal epoch (of some 2500 years).
+
+<sup>13.</sup>Dictatorship, democracy, and communism are all examples of ideals that have been bungled. So far, they have always been idiotized and brutalized. They are different sides of one and the same idea, which sooner or later in the course of history will have to be realized in a synthesis.
+
+<sup>14.</sup>“Energy follows thought” is an esoteric axiom, too, that the psychologists have not yet been able to grasp.
+
+## 3 THE ORIGIN OF THE KNOWLEDGE AND THE FICTIONS
+
+### *3.1 From the Esoteric History*
+
+<sup>1.</sup>The questions of how solar systems come into being, how our solar system and our planet were formed, how life evolved on our planet, are passed over. Those interested can study these matters in the existing esoteric literature. The following outline will afford a few facts about mankind’s consciousness development on our planet during the current eon. The information given will be confined to what is essential to know in order to understand the origin of the knowledge and how this knowledge, which is the heritage of mankind, has come to be replaced with the fictions of ignorance. Of the history of mankind we shall deal only with points necessary to understand the contemporary situation as far as the knowledge is concerned. That is more important than all history. Mankind is groping its way in darkness towards an unknown goal, and its disorientation in a life sense can scarcely be greater. The intention is to offer to seekers Ariadne’s thread to guide them out of the labyrinth of the ignorance of life. Probably, the only ones interested will be those who have the esoteric knowledge latently in their subconsciousness from previous incarnations. The others will cling, as they have always done, to the authorities of the day and to public opinion in science, philosophy, or religion. That, to be sure, is safest.
+
+<sup>2.</sup>Mankind consists in all of some 60 thousand million individuals in the physical, emotional, mental, and causal worlds of our planet. Of these, some 24 billion causalized (passed from the animal to the human kingdom by acquiring causal envelopes of their own) in Lemuria beginning in the year 21,686,420 B.C.E. The other 36 billion were transferred to our planet at different turns. The causal envelopes of those 36 billion are of very different ages. This explains why the individuals in mankind are at such widely different stages of development, and how it is that many have now managed to pass to higher kingdoms.
+
+<sup>3.</sup>Most generally, one can say that mankind’s present physical consciousness developed in Lemuria, its emotional consciousness in Atlantis, and its mental consciousness in the continents we know of. We have a long way to go, however, before we shall have developed full physical, emotional, and mental consciousness in our physical etheric, emotional, and mental envelopes. When this has been done and we have acquired full objective consciousness in our causal envelopes, we shall pass to the fifth natural kingdom.
+
+<sup>4.</sup>When, after some 300 million years of the current fourth eon of Earth’s history, organic life had evolved so far that the brain of ape-man could begin being mentalized and thereby the intensification of consciousness development could be begun, the solar systemic government considered the time to be ripe for a separate planetary government to take over the management of our planet. This happened some 21 million years ago. The planetary government, in its turn, transferred to our planet individuals who had attained the fifth natural kingdom to constitute that planetary hierarchy which was given the special mission of supervising the development of human consciousness. Members of this planetary hierarchy incarnated in mankind, eventually to make up what in the esoteric history has been called the “higher priesthood”. This happened in Lemuria. As soon as consciousness had developed sufficiently for men to be able to learn, they were given necessary instruction and knowledge of that reality which they were able to grasp. In both Lemuria and Atlantis, temple schools were set up in which the human élite were given the education suited to their ability to comprehend. This élite consisted, of course, of individuals belonging to the fourth natural kingdom who had been transferred to the planet at different turns and who were ahead of the rest of mankind in respect of consciousness development. The élite were trained to be teachers of the rest of mankind, eventually to form the “lower priesthood”.
+
+<sup>5.</sup>To begin with, everything went as planned, first in Lemuria and later in Atlantis. In these two hemispherical continents, civilizations as well as cultures flourished, which in certain respects were on levels that we in our continents have not yet achieved. But then they were led by the highest élite who had passed to higher kingdoms.
+
+<sup>6.</sup>It became manifest, however, that the knowledge which gives power, the knowledge of the forces of nature, especially that of mentally directed etheric energies, leads to the abuse of that power by all who can be seduced into using if for their own good. A large part of the lower priesthood, who had acquired knowledge of magic, revolted against the higher priesthood. Being teachers of the masses, the lower priesthood knew how to get the masses over to their side, using the unfailing trick of holding out impossible promises and prospects. The planetary hierarchy was expelled, first in Lemuria and later in Atlantis. The cheated people then discovered what the promises given them were worth. The cunning leaders invented the concept of sin and made the masses believe in the satanic doctrine of sin as a crime against the deity, who became wrathful and visited the people for their evil deeds. Only the priests could influence the deity and perform the sacrifices necessary for atonement. The grip on the minds of men that the priesthood thereby obtained did not begin to loosen until the French Revolution.
+
+<sup>7.</sup>The result for the misled masses was a tyranny, which our age would have been better able to understand if Hitler had succeeded in carrying out his plans. Things came to such a pass that, in the case of Lemuria and later in that of Atlantis, the planetary hierarchy had to appeal to the planetary government to intervene. And the planetary government saw the necessity of submerging both continents into the sea. The tidal wave that at the destruction of Atlantis finally swept over the remaining continents was distorted in Jewish writings into the so-called flood.
+
+<sup>8.</sup>Abuse of knowledge leads to the loss of knowledge, and ever since the planetary hierarchy was driven out of Atlantis mankind has had to “look after its own affairs”. It is, then, our present mankind that reaps what it has sown. “The history of the world is the world’s court of justice.” Violence, arbitrariness, and ignorance of life have held sway. The part of world history that we know about is the history of nameless suffering. Esoteric statistics calculate only those burned to the glory of Moloch and god at 60 million. It is, perhaps, not to be wondered at that many people’s subconsciousness gives them an instinctive feeling of age-old guilt.
+
+<sup>9.</sup>However, not everybody took part in the black priesthood’s revolt against the higher priesthood. Those individuals who had reached the stage of culture, and who were on the side of good, did not forfeit the right to remember their old knowledge anew. For their benefit the planetary hierarchy instituted secret knowledge orders among all nations that had reached such a stage of development that cultural individuals could incarnate among them.
+
+<sup>10.</sup>As a rule, it is only they who are unable to accept any one of ignorance’s innumerable idiologies with which mankind has been swamped, and who have remained seekers after the “lost word of the master” or the “philosopher’s stone”.
+
+<sup>11.</sup>In its boundless sympathy for disoriented, suffering mankind, the planetary hierarchy made two attempts to awaken man to see the rationality of life and to counteract the dreadful hatred between people which can only increase suffering in the world. In India Buddha incarnated into what was then the most intellectualized nation, in an attempt to impress it with what has been called the “religion of wisdom”. And Christos incarnated into the Jewish nation to awaken it to understand what has been called the “religion of love”.
+
+<sup>12.</sup>The Jewish nation was chosen because its inevitable dispersal was foreseen. The thing desired was to awaken the higher emotional consciousness of these people, so that they could do missionary work in the nations among which they would come. Hundreds of old initiates incarnated in order to prepare Christos’ work and free the people from their physicalist attitude, their fiction of a “Messianic kingdom” in the physical world, etc.
+
+<sup>13.</sup>As we know, both attempts failed. Buddha’s disciples were driven out of India, and Christos’message of love was taken care of by individuals who had belonged to the black priesthood of Atlantis.
+
+<sup>14.</sup>The planetary hierarchy had no other choice but to continue instituting new knowledge orders, as for the rest trying to vitalize men’s emotional and mental consciousnesses, so that these could develop into greater understanding of reality.
+
+<sup>15.</sup>Meanwhile in India the Brahmin caste, that of the priests and the learned, had laid their heavy hand on the people, as everywhere else (and still) and stifled its development. In Europe, on the other hand, the “minds had begun to awaken”.
+
+<sup>16.</sup>During the 18th century, the intellectual life was trying to free itself from the theological tyranny, which forbade freedom of thought. In England, Hume (1711–1776), among others, had demonstrated the fictitiousness of the theological and philosophical systems of thought. In France, the so-called philosophy of enlightenment spread more and more, its tendency being that man could acquire knowledge of the visible world only. In Germany, Kant (1724–1804) was busy forging new chains for thought and demonstrating that any suggestion of the existence of a superphysical reality was absurd. Natural research made rapid progress, one scientific discovery following upon the other. In his *Système du monde*, Laplace (1749–1827) constructed a universe that did not need the hypothesis of any god to explain it. Lamarck (1744–1829) showed in his *Philosophie zoologique* that higher animal forms had evolved out of lower ones, hence the Jewish story of creation, according to which god had created each animal species separately, had no foundation. The battle against the Jewish world view was in full swing, although it was well into the 19th century before one could consider theology’s tyranny of thought overthrown at long last, even though the religious dogmas still retained their power over the uneducated masses. Those having philosophic and scientific education usually became “freethinkers”, agnostics with a skeptical attitude towards everything superphysical.
+
+<sup>17.</sup>The spread of literacy during the 19th century, the increasing ability of reflection, the dissension of the learned world as to most problems of world view and life view, caused more and more people to begin speculating on their own and to arrive at their own conclusions about life and its meaning. And since many people considered their own speculative fictional systems so valuable as to be communicated to the rest of mankind, the result, as time went on, was that we got an endless number of idiologies, religious sects, and philosophies. (Idiology, a construction of the ignorance of life, from idios = one’s own, and thus distinct from ideology, having Platonic ideas = reality ideas).
+
+<sup>18.</sup>Each new generation scrutinizes the explanations of existence given to it and, dissatisfied with the hypotheses presented, seeks new solutions of the unsolved problem. More and more people come to the conclusion that it is unsolvable, as Buddha in his day explained that it is for human reason.
+
+<sup>19.</sup>Many people who have reached a higher stage of development and are assiduously searching further either end in religious mysticism or finally find a superphysical view that corresponds to their intellectual needs and seems to them rational enough to be accepted as a working hypothesis.
+
+<sup>20.</sup>The year 1775 was an important one in the history of mankind. For some time the planetary hierarchy’s two special instruments during the 18th century had been at work. Saint Germain (45-self, alias Proklos, the “schoolman of Greek philosophy”, whose works determined during a millennium the scientific method of the Arabs and the medieval Christian thinkers; alias Christian Rosencreutz; alias Francis Bacon, in which three last mentioned incarnations he had been the head of the order of the Rosicrucians) had been trying all over Europe to interest people in setting up secret societies in which they could “think freely”, undisturbed by the mental tyranny of the Church. And such societies had sprung up like mushrooms. Most of them died out of themselves. Many of them later got into the hands of charlatans, which is another story. Cagliostro (causal self; alias Paracelsus) had been given the task, not of “preparing for” the French Revolution, but of taking measures to prevent its degeneration.
+
+<sup>21.</sup>Mankind had then reaped the last of its bad sowing from Atlantis. The knowledge of reality could thus in that respect be permitted to become common property. The only question was: how was it to be imparted to a mankind enmeshed into its fictional systems anchored in emotionality? The question was also connected with the problem of the new sowing that mankind was to reap because of its misdeeds committed during the time after Atlantis. That is a sowing which will take another five hundred years or so to reap, during which time the innumerable political, social, economic, religious, philosophic, etc. idiologies will be waging their bitter struggle. So long will it take before some 60 per cent of mankind have reached the insight that hylozoics is the most rational of all working hypotheses. The remaining 40 per cent neither are able nor wish to give up their emotional illusions.
+
+<sup>22.</sup>The problem of how totally disoriented mankind was best to assimilate the knowledge had long been under discussion in the planetary hierarchy, and vast preparations had been made. The general view, however, was that it would be a long time yet before direct action became possible.
+
+<sup>23.</sup>It was at the conclave of the planetary hierarchy in 1775 that two of its members (the then 45-selves M. and K.H.) offered to take immediate steps to publicize some part of the knowledge of the consciousness and matter aspects of existence which had hitherto been imparted in the esoteric knowledge orders.
+
+<sup>24.</sup>Mankind at the stage of civilization, they considered, had developed so far mentally as to be able to comprehend Pythagoras’ hylozoic mental system. If that were so, it would remove the difficulty of gathering together those having this knowledge latently into the knowledge orders where these previously initiated would be able to remember anew their old knowledge. Besides, one could hope that they in their turn would help to make the pertaining causal ideas better known and in so doing counteract the spreading agnostic attitude that rejected everything superphysical.
+
+<sup>25.</sup>All the other members of the planetary hierarchy voted against the proposal, since they considered that too few people had attained the necessary stage of mental development for the undertaking to have any prospect of success. The emotional illusions of the prevailing religions and the mental fictions of philosophy were so remote from the right conception of reality that any attempt to communicate superphysical knowledge to the so-called educated either would be rejected out of hand or would give rise to new imaginative excesses. They considered that one ought to wait until at least those furthest developed had acquired physical etheric objective consciousness. Then they would see the fictitiousness of the prevailing idiologies and prove readier to examine, at least, the reality content of the esoteric mental system.
+
+<sup>26.</sup>As unanimity could not be reached, the matter was referred to the president of the government, the planetary ruler, who considered: “as these two brothers of ours have offered to prepare the spread of the knowledge and have expressed their willingness themselves to bear the consequences and know what this means, they should be allowed to make the attempt”.
+
+<sup>27.</sup>The time for the publication of the knowledge was fixed for 1875. In the meantime everything was to be done to raise the general level of education and to spread literacy.
+
+<sup>28.</sup>Everybody will have heard of one of the two brothers from history: in his incarnation as Pythagoras. He has been appointed to be the head of the 2nd department of the planetary hierarchy when its present head, Christos-Maitreya, leaves our planet to continue his inter-stellar consciousness expansion. The other is the future head of the 1st department. The Indians have long had titles for these two offices: manu and bodhisattva.
+
+<sup>29.</sup>The two brothers set to work at once. One object was to find out who of the old esotericians would be incarnated in 1875, and of them, which ones had a good reaping that would make it possible for them to be pioneers who would take on themselves the burden of martyrdom to the truth. It was easy to predict that a violent, bitter assault from the whole world of religion, philosophy, and science would ensue on this “revelation”. The pioneers would be regarded as charlatans, and cheats, or, at the best, as simpletons lacking in judgement, or deluded mental pathological cases.
+
+<sup>30.</sup>The two mentioned members of the planetary hierarchy, however, were not at all given a free hand to decide which facts they were going to publish. Their chief, who was to supervise it all, co-opted several brothers with the same kind of self-consciousness (45-world consciousness). The activity of the esoteric knowledge orders was increased, and their members were stimulated to write books and articles preparing the public for the coming announcement of a superphysical reality.
+
+<sup>31.</sup>In the middle of the 19th century a new “movement” arose in the U.S.A. Its supporters called it spiritism, which was later changed into spiritualism. They maintained that the “spirits in the astral world” of the dead could communicate with people in the physical world through “mediums”, persons being able to lend their organism with its etheric envelope (precisely those two envelopes which man leaves when sleeping, which enables him to sleep soundly) to these “spirits”. The movement spread widely and gradually evolved a considerable body of literature.
+
+<sup>32.</sup>The special instrument chosen by the planetary hierarchy to proclaim the universal brotherhood of all life and at the same time to present the world with the first facts of the esoteric knowledge, Blavatsky (alias Paracelsus, alias Cagliostro), was ordered to join the spiritualist movement and to try to swing it on lines which would make it a “religio-philosophical society” and a platform for esoteric teaching. She went to New York and from there, in October 1874, to Chittenden, Vermont, where the two famous Eddy brothers were holding their spiritist séances. At first, everything seemed to go as desired, but when Blavatsky’s book, *Isis*, was published, the spiritists broke off the connection and became as implacably hostile as the rest of the world.
+
+<sup>33.</sup>Blavatsky asserted that “the spirits in the astral world” of the dead were in no way as omniscient as the spiritualists would have it, and that they were unable to present mankind with knowledge of reality. One cannot acquire more understanding of existence in the emotional world than in the physical world. Everything in that world is deceptive.
+
+### *3.2 The Publication of the Esoteric Knowledge*
+
+<sup>1.</sup>When the planetary hierarchy had at last decided that its existence could be made known (for the first time since Atlantis) and the knowledge – up to then kept secret – publicized, its chosen instrument for this teaching was in a precarious situation, to say the least of it. Blavatsky was enjoined not to give out any esoteric facts without special permission in each individual case. She was not to mention anything about the planetary hierarchy. As for the individual’s envelopes, she was at first to restrict herself to the terms used by the gnosticians (body, soul, and spirit). If an authority was needed, such as everybody has to invoke to be believed by a mankind which is not even capable of deciding what is possible and probable, she was to go by the Indian “rishis” or Eliphas Levi (the well-known kabbalist) or the “Rosicrucians”, for whom novelist Bulwer-Lytton had made propaganda.
+
+<sup>2.</sup>The truth, or the knowledge of reality, is to be given only gradually, with sparing facts, to a mankind unprepared to receive it. It is necessary to find connections to established fictions of which people have heard enough for them to believe that they comprehend what it all is about. A new, revolutionary system of ideas would be rejected off hand as a mere fantastic invention. It could not be comprehended, let alone understood, without careful preparation.
+
+<sup>3.</sup>The most important reason, which probably only esotericians are able to understand, is the fact of the dynamic energy of ideas. Every idea is a mental atom charged with energy. If these succeed in penetrating into brain-cells that are receptive, yet not previously vitalized by similar mental molecules, they can have an adverse effect on the balance of people’s minds. Imparting a whole system could cause mental chaos. The fact that people will instinctively fend off too revolutionary ideas is often a natural measure of self-protection. For anyone to change his outlook and discard assimilated mental molecules is in any case a strain, especially if it involves “sacrificing” emotional molecules of cherished illusions. Then both mental and emotional chaos can ensue.
+
+<sup>4.</sup>Blavatsky’s two chief works are dealt with in a separate chapter, as are those of three of her disciples, Sinnett, Judge, and Hartmann. Her two most important disciples were Besant and Leadbeater, who were themselves capable of doing research work in the worlds of man.
+
+<sup>5.</sup>Once the esoteric knowledge was permitted to be publicized, there was no longer any need of initiation into the old knowledge orders, and nobody has been initiated into any one of them since 1875. Although those initiated in previous incarnations were not given the opportunity to revive all their old knowledge, enough was made known, and besides hinted at, for them to be able to discover the most essential by themselves.
+
+<sup>6.</sup>In the following is given a brief survey of the facts that eventually were permitted for publication.
+
+<sup>7.</sup>The most important esoteric facts to be found in the works of Sinnett, Judge, and Hartmann – who received them from the planetary hierarchy through Blavatsky up to 1891 – are:
+
+- reincarnation
+
+- karma, or the law of sowing and reaping (the law of reaping)
+
+- the individual’s pre-existence and post-existence (hence immortality)
+
+- the existence of the worlds 45–49
+
+- knowledge of the individual’s envelopes in higher worlds
+
+- knowledge orders in times past
+
+- lots of historical facts
+
+<sup>8.</sup>Facts about “reincarnation” showed the falsity of the Indian doctrine of “metempsychosis”, according to which man can be reborn as an animal. Esoterics makes it clear that reversion from a higher to a lower natural kingdom is precluded. Facts about the law of reaping show that the law of cause and effect is a universal law that is valid in all worlds in the whole cosmos and for all three aspects of existence.
+
+<sup>9.</sup>Since the works of Sinnett, Judge, and Hartmann are still largely used as textbooks, a brief account of some serious mistakes committed by their authors should be instructive to those who want to examine the reality content of theosophical knowledge. These mistakes are also the explanation of the generally vague concepts of theosophists. By commenting on them the author hopes to make the deficiencies of these first attempts more understandable, showing how they were possible. The comments will also show that facts added since complement the original presentation.
+
+<sup>10.</sup>With the death of Blavatsky in 1891, this first phase of the publication of new esoteric facts ended. Neither Sinnett, nor Judge, nor Hartmann were themselves able to ascertain facts in higher worlds, but were totally dependent on those acquired through Blavatsky, personally or in her writings.
+
+<sup>11.</sup>The second phase, which lasted 1894–1920, was characterized by the close collaboration of two esoteric capacities: Annie Besant (1847–1933) and C. W. Leadbeater (1847–1934). By Blavatsky they had been put in touch with her teachers, who told them that while everything would be done to facilitate their further work, both, being old initiates of the highest degree of gnostics, were in a position to acquire causal sense (objective consciousness in the causal envelope) by themselves and thus be able to do research-work of their own in the worlds of man.
+
+<sup>12.</sup>They began by compiling and making a system out of the facts that Blavatsky had plucked together in her works. Then followed a piece of research work which, especially where Leadbeater was concerned, resulted in a production that was qualitatively and quantitatively unique. Nobody before him has given so many new facts. He was the foremost systematician and historian of esoterics up to 1920. His enormously comprehensive investigations in up to then unexplored domains inevitably entailed his making many mistakes. What is surprising is that they were not more numerous or of greater consequence.
+
+<sup>13.</sup>This is not the place to go into the work of those two causal selves (having essential consciousness: 46:5-7). The writers mentioned earlier are to be commented on because their presentations are too misleading to be allowed to remain unchallenged.
+
+<sup>14.</sup>The following are the most important of the new fundamental facts (necessary to comprehend reality) accounted for by Leadbeater:
+
+- the composition of matter
+
+- the difference between atomic and molecular matter
+
+- the seven atomic worlds of the solar system
+
+- the molecular worlds of the planetary system
+
+- involutionary matter
+
+- the evolution of the natural kingdoms
+
+- the consciousness expansion through the acquisition of ever widened collective consciousness
+
+- man’s three atomic worlds and five molecular worlds
+
+- man’s five material envelopes and consciousness in these
+
+- man’s permanent atoms (the triad)
+
+- the planetary hierarchy
+
+- the division of the planetary hierarchy into seven departments
+
+- the planetary government
+
+<sup>15.</sup>It is to be regretted that Leadbeater (initiate of a lower degree) never took into consideration the Pythagorean system of knowledge (hylozoics), which was intended to be the future basis of knowledge for Western science. This may possibly have been due to his having an instinctive aversion to the empty conceptual analyses, devoid of reality content, of the philosophers, who believe that by exploding the fictional concepts they can achieve anything amounting to reality.
+
+<sup>16.</sup>Thus, what Leadbeater’s work lacks is the account of Pythagoras’ hylozoic reality system with:
+
+- the three aspects of existence
+
+- the dynamic energy of primordial matter
+
+- the six divine kingdoms in the cosmic worlds 1–42
+
+- the monad as a primordial atom
+
+- the primordial atom as the self, the individual
+
+- the primordial atom as the ultimate self in all envelopes of the individual in all worlds throughout the cosmos. The selves are primordial atoms. Everything else is “envelopes”.
+
+<sup>17.</sup>At first Besant and Leadbeater worked together in their research, but eventually Besant became more interested in India. She set up a university in Benares. For a time she collaborated with Gandhi for Indian independence, though she had her own opinion as to the final severance of all ties with Great Britain.
+
+<sup>18.</sup>The third and latest phase of the publication of the esoteric knowledge falls during1920– 1950. Many changes had now occurred in the planetary hierarchy. A number of individuals among mankind had become causal selves, causal selves had become essential selves (46), and some of the latter superessential selves (45), etc.; and a number of up to then 43-selves had been able to acquire 42-world consciousness (the lowest cosmic consciousness) and thus entered upon the “cosmic career”.
+
+<sup>19.</sup>The planetary hierarchy had appointed a “secretary” who was to be the actual link between the esotericians and the planetary hierarchy, and had decided that, for the time being at least, new facts were to be given out through him only: 45-self D.K. (alias Kleinias, alias Dharmajyoti, alias Aryasanga).
+
+### *3.3 H. P. Blavatsky (1831–1891)*
+
+<sup>1.</sup>Helena Petrovna von Hahn was a wealthy Russian noblewoman, whose life was little but one long martyrdom. She never had any proper schooling. Her innate superphysical qualities made her self-willed even as a child. She laughed at the French and English governesses who tried to impart “Western culture” to her. At the age of seventeen, in defiance to her family, she married the governor, General Blavatsky, who was by some fifty years her senior, and ran away from him on her wedding night and went abroad. Being rich, she was able to travel all over the world, in the meantime developing her latent qualities, and re-acquired both mental and causal sense (objective consciousness in the mental and causal envelopes). During a sojourn with a 45-self she became conscious in her brain of being a causal self.
+
+<sup>2.</sup>Two good biographies on her are: Sinnett’s *Incidents in the Life of Madame Blavatsky* and W. Kingsland’s *The Real H. P. Blavatsky*.
+
+<sup>3.</sup>She was a singular personality, during all her life much blamed for her opposition to all kinds of conventionalism, illusoriness, and hypocrisy; a horror for all slaves to convention with their infantile attitude. Later, she regretted that in so doing she had repelled many people. But true seekers are independent of moral fictionalism. Human so-called saints are emotional geniuses, but that does not mean that they have any knowledge of reality. True “saints” only exist in superhuman kingdoms. They do not at all correspond to the saintly ideals of the moral fictionalists.
+
+<sup>4.</sup>Blavatsky eventually came to New York, where, in 1875, she took part in the founding of the Theosophical Society at the desire of the many intellectuals who had been fascinated by her immense knowledge and genuine magical experiments.
+
+<sup>5.</sup>These proofs of superphysical knowledge should never have been permitted. Those who are in no position to understand these phenomena become but a herd of unreliable and irresponsible chatterboxes when to explain what they cannot comprehend. This has done harm to the cause of the esoteric knowledge but benefited charlatans of all kinds. Fortunately, this has been prohibited by the planetary hierarchy, and remains forbidden until hylozoics has been universally accepted as the only sensible working hypothesis. The knowledge is the essential thing, not the phenomena.
+
+<sup>6.</sup>In 1877, in New York, Blavatsky wrote *Isis Unveiled*, a work of two volumes. The first volume (628 pages) is a criticism of the dogmas of science, the second volume (648 pages) a criticism of the dogmas of theology. How justified that criticism was, time has shown more and more.
+
+<sup>7.</sup>She explained to her friends that her book would draw on her nothing but misunderstanding, calumny, and implacable malignity. And this is inevitable with mankind at its present stage of development. But she did as she was enjoined.
+
+<sup>8.</sup>*Isis Unveiled* is a stupendous book. It seems incredible that one individual, lacking in formal education, without scientific study or any other instruction, should have been capable of such an achievement of all but historical omniscience, especially without the help of the least reference library.
+
+<sup>9.</sup>Learned authorities have argued that Blavatsky got it all from sources which the academic world had already exploited (*Isis* abounds in quotations from the writings of the learned). This argument is patently absurd. Even today such an achievement is beyond the capability of anyone of them. As regards *Isis*, such contentions have become a tradition (her *Secret Doctrine* they have preferred – and wisely so – to kill by silence). Blavatsky’s annihilating criticism of science’s shortlived hypotheses and of theology’s lack of common sense, were altogether too much of a disclosure. All kinds of infamy of which human imagination is capable (always proved by the principle of “no smoke without fire”) were poured over this woman, who had dared to defy an entire world’s most famous authorities, who had dared to demonstrate the worthlessness of their acuity and profundity.
+
+<sup>10.</sup>Scientists, who fancied themselves able to judge what “conflicts with the laws of nature”, declared of course that her genuine magical experiments were impossible. Those scientists who, after the most careful checking, became convinced, were laughed to scorn for having let themselves be taken in or for suffering of hallucinations. You can never convince those who “know that such things are impossible”. They will never be convinced until, some time in the future, they will be able to make the same experiments themselves. They have more faith in their dogmas than in common sense and the evidence of their own senses. Blavatsky’s innumerable demonstrations how mental energy dominates physical matter were denied and she herself declared the greatest fraud of the 19th century. This is how it is done. This is how people are murdered academically, if not disposed of by being put away in asylums to ponder what will happen when you dare to propound truths inconceivable to the authorities. There has been an increase in humaneness; in olden days they would have been burned.
+
+<sup>11.</sup>Of course Blavatsky was a complete enigma to all. But how could they understand a causal self? She never had the benefit of a proper education, never studied one scientific work (unnecessary, since she immediately would know its content if she wished to). And yet she could give information on anything about which she was asked and solve problems that are still the subject of dispute among the learned.
+
+<sup>12.</sup>Professors of literature, psychology, etc. work on meagre information that is the outcome of chance expressions of the individual’s incarnation envelopes, which are soon dissolved, but they have no idea of the level of development of the monad in its causal envelope.
+
+<sup>13.</sup>But her lack of schooling had an obvious disadvantage in that it left her unable to think methodically and systematically in her brain, which had a detrimental effect on her way of presentation. She abhorred everything that smacked of mental system, considering it an obstacle to a correct conception of reality and something that would never agree with the natural order of things. She thought that systems paralysed thought by reason of the mental immobility of rigid systems. Nevertheless, they are necessary on the mental levels for all those who have not become causal selves. They are mental guarantees that facts are put in their correct contexts. They elucidate learning as on a certain level, making survey and orientation easier. The whole of mankind’s mental development is mirrored in a series of mental systems. The causal self has no need of mental systems (necessary to give the mental ideas their correct frame), since the causal ideas are themselves infallible systems and facts always put in their correct contexts.
+
+<sup>14.</sup>The title of her work is misleading. Like the rest of her terminology it is evidence of her faulty formal education.
+
+<sup>15.</sup>Isis was not unveiled. If by veil is meant the monad’s causal unconsciousness in the causal envelope, it is only the monad itself which can raise that veil by acquiring causal consciousness. (On the fundament of the statue of Isis: “No mortal has raised my veil”.) If the true knowledge of reality is meant, it is not there in the book. But as a 45-self said: “Rents sufficiently large were made to afford flitting glances.” And that, to be sure, was the intention.
+
+<sup>16.</sup>As Blavatsky had been ordered not to publicize any new esoteric facts without permission in each individual case, she was restricted to the use of the terms known from history and idiotized by ignorance. As she was not supposed to say it as it was, she had to allow the sayings of authorities down the ages to remain contradictory, and just suggest that only those initiated into the esoteric knowledge orders could explain those matters about which the learned must always dispute.
+
+<sup>17.</sup>Thus she was enormously handicapped from the very start. It is quite impossible to elucidate such fictions as the spirit–matter of the Zoroastrians; the body, soul, and spirit of the gnosticians, the conceptions of god through the ages, etc. without being permitted to use the exact reality concepts.
+
+<sup>18.</sup>When it came to trying to render ideas for which there are no words in Western languages, she failed. Her terminology (still haunting) is a deplorable chapter that has confused her echoes and, regrettably, has impeded the formulation of an expedient Western terminology.
+
+<sup>19.</sup>The very term “theosophy” is a mistake, ancient Alexandrian though it is. Man is incapable of understanding the deity’s conception of reality. That theology should be the science of the divine, is part of theological fictionalism.
+
+<sup>20.</sup>It is as bad with all matters superphysical. A few examples should suffice.
+
+<sup>21.</sup>By “astral” the ancients meant the physical etheric world. With Blavatsky it stood for everything superphysical, being used in all contexts: astral monad, astral ego, astral light, etc. Her disciple Judge became utterly confused and mixed the physical etheric world (49:2-4) up with the emotional world (48:2-7), the result being a perfect medley. The fact that higher kinds of matter are luminous in their respective worlds does not justify their being called astral light.
+
+<sup>22.</sup>Since she was not to speak about several higher worlds, they had all to be called “astral world” and “astral light” became a generic term for all higher kinds both of matter and of energy.
+
+<sup>23.</sup>Another example is “akasha” (world 44), which she used for practically any world.
+
+<sup>24.</sup>Also the statement as to the “seven principles” of the self comes from Blavatsky, who based it on her manifest ideal, the 45-selves who were her teachers. They have seven envelopes, but they do not belong to the fourth natural kingdom.
+
+<sup>25.</sup>It is easy for the esoterician to understand why Blavatsky never distinguished between the physical etheric world and the emotional world, since she had no emotional envelope, or more correctly, hers was empty of all content. (It was because of this that smoking could not influence her emotional envelope.) This is always the case with those who have acquired causal sense (possess objective consciousness in the causal envelope) and no longer need their emotional consciousness; this envelope then only serves as a connecting link to the etheric envelope. The corresponding is true of those who have acquired essential (46) consciousness: their mental envelopes are “empty”, since they no longer need mental consciousness. This does not mean that they would lack understanding of the kinds of consciousness of the pertaining vibrations. The higher includes the lower. This has certain disadvantages, however, for those who are to be teachers of men, since a real sacrifice is involved in adapting oneself to general and individual emotional illusoriness and mental fictitiousness, so remote from the correct perception of reality.
+
+<sup>26.</sup>Being allowed only to hint at her sources without mentioning that there had been secret knowledge orders for nearly fifty thousand years, there was little Blavatsky could do but to refer to the “ancient secret wisdom of India” as the source of all true knowledge and insight. She could be too generous with her praise if in need of using ancient “authorities” known by science. Sometimes this is a bit too much for the esoterician. For example, she could say that gnostics was the Essene doctrine under another name. The Essenes were kabbalists of a special kind and their paper pope was a poor rendering of the Chaldean kabbala. Gnostics was an independent adaptation of hermetics to suit the changed world view of a later age.
+
+<sup>27.</sup>The fact that *Isis* has always been publicly mocked has not prevented scholars using it without acknowledgement as a treasure trove of previously unknown facts, and publishing these facts as their own discoveries to harvest the fame for them. According to Schopenhauer, this is the fate which the genius shares with the hare: while alive he is shot at, and fortunately put to death he is feasted upon.
+
+<sup>28.</sup>Blavatsky’s second standard work of her vast literary production, *The Secret Doctrine*, deals broadly with the symbolism of some of the esoteric knowledge orders. It, like *Isis*, can be regarded as a superhuman feat. Add to this the fact that it was written when she was an ageing invalid already marked by death and working under the most trying external conditions.
+
+<sup>29.</sup>She wrote it during 1885–88 when she had no access to any reference library whatever. Like *Isis*, it is studded with quotations from the rarest of books and manuscripts which she had never seen!! What that means the esoterician will understand. *The Secret Doctrine*, too, consists of two thick volumes, the first dealing with the cosmos, the second with man. Each volume is analogously divided into three parts: creation, the symbols of it used by the ancients, and criticism of the pertaining hypotheses of contemporary science.
+
+<sup>30.</sup>A so-called third volume was published after Blavatsky’s death by Besant. This contains a number of residual (it would seem unfinished) essays on various esoteric themes.
+
+<sup>31.</sup>*The Secret Doctrine* is no easy reading for those without esoteric training, who are unfamiliar with the pertaining symbols. One is not to expect a systematic outline of the esoteric knowledge of reality. It contains the symbols of “Dzyan” (the oldest ones of the planetary hierarchy). It gives an account of the different symbolic presentations of the evolution of the cosmos and the evolution of life as by several knowledge orders, showing how these presentations mutually agree.
+
+<sup>32.</sup>The ancient esoteric writings were thoroughly incomprehensible to the uninitiated. To outsiders they appeared sheer abracadabra, as they still do to the learned of today. Certain things appear to have a meaning, but if interpreted literally the result is superstition. The well-known Greek myths, which largely have come from these writings, are an example. The Indian writings, the Upanishads and the Vedas, can mostly be included in this class. The most learned Brahmins are mistaken if they believe that they are able to interpret them.
+
+<sup>33.</sup>Moreover, the book contains lots of historical facts that illustrate the unreliability of prevailing illusions and fictions and demonstrate the ignorance of the learned.
+
+<sup>34.</sup>Many hints of value to researchers have been given, and these will help the interpretation of the idea content of the esoteric writings when some time in the future the old but intact manuscripts will again see the light of the day. The esotericians will scarcely have any difficulty in understanding what is intended, even if they have no previous knowledge of the various symbolic languages used. This will for them be further proof (if such be needed) that Blavatsky’s accounts are reliable.
+
+<sup>35.</sup>It should perhaps be mentioned that when she was writing, Blavatsky interpreted more than the planetary hierarchy at the time considered advisable, because of which nearly half her manuscripts ready for the press had to be consigned to the flames. This perhaps explains why lots of facts have got into wrong contexts, being scattered here and there through both volumes. Owing to this, the work gives the impression of being rather an encyclopaedia than a systematic account.
+
+<sup>36.</sup>Of course Blavatsky was well aware what kind of reception her work would find: it was, sure enough, killed by silence. She said that any scientist who admitted having concerned himself with her work would make his position impossible. Rightly she said: “No truth has ever been accepted by learned bodies unless it has dovetailed with the habitually preconceived ideas of their professors,” and: “Our fictions blind us to our ignorance.” Until the individual has recognized the tremendous limitation of emotional and mental consciousness, he will remain the helpless victim of his emotional illusions and mental fictions.
+
+<sup>37.</sup>But to those who had once been initiated and, therefore, had remained seekers after the “lost word of the master” or the “philosopher’s stone”, her work came as a revelation. So much they recognized that they knew they had found, at last, that for which they had instinctively been searching, knew the direction in which they should continue their search for the remembrance anew of the knowledge they once had had.
+
+### *3.4 Sinnett*
+
+<sup>1.</sup>Alfred Percy Sinnett (1840–1921) was for many years editor-in-chief of the English newspaper, *Pioneer*, published in India. He made the acquaintance of H.P.B. in 1880 and invited her to his home. After he had for several weeks been the witness of genuine magical phenomena and been informed of esoteric facts about the rationality of existence, H.P.B. arranged for him to correspond with the then 45-self K.H. The result of his experiences with H.P.B. took form in *The Occult World*, his first book, which was followed in 1883 by a study of esoterics, *Esoteric Buddhism*, which consisted of material obtained in his correspondence with K.H., containing the facts the planetary hierarchy allowed to be made known at that time. This work was the first attempt at an exposition of the esoteric world view ever allowed to be publicized. The facts presented by Sinnett were largely used by both Judge and Hartmann.
+
+<sup>2.</sup>The letters from K.H. during the years 1880–1884 were published in their entirety in 1923, after Sinnett’s death.
+
+<sup>3.</sup>In the following, an examination is made of Sinnett’s chief work, *Esoteric Buddhism*, mainly because it is still being re-issued, although it should have been relegated to the libraries’ stacks long ago. Many of the fictions still prevalent among theosophists can be traced back to this first authority on theosophy. The present comments are intended to point out the mistakes. They were inevitable when trying to put together anything the like of a system with so sparing facts. As such, Sinnett’s book was an amazing achievement, surpassed since by the works of Besant and Leadbeater only, and then only thanks to the great number of new facts that they were permitted to give out. His outstanding ability as a journalist stood him in good stead. Later, he saw the shortcomings of his book, and in an appendix to the last edition wrote that he himself had been moved to laughter on re-reading his attempt at a presentation of esoterics. At that point it was, even to him, of little more than historical interest. The risk is that ignorant readers, unaware of these shortcomings, will take them at face value and the old misconceptions will be perpetuated.
+
+<sup>4.</sup>Sinnett begins by pointing out that by buddhism he does not particularly mean the doctrine of Gautama, but the “doctrine of the wise” (buddhi = wisdom). Nothing of what Buddha or Christos taught their disciples has as yet been permitted to be published. (The Swedish translation is entitled “The Doctrine of the Initiates”, which is more accurate.) It should be added that Sinnett’s version agrees only in part with what used to be taught in the old knowledge orders. That the planetary hierarchy’s perception of reality is quite different, follows from the fact that each higher world has its own totally different perception of the three aspects of existence.
+
+<sup>5.</sup>In the first chapter Sinnett writes about his teachers, etc., trying to describe the capacity of a 45-self. Such endeavours are infinitely typical of Westerners.
+
+<sup>6.</sup>The second chapter deals with the constitution of man. Sinnett, like all other theosophists and their echoes, endows man with seven envelopes. However, man has only five. The envelopes in the essential (46) and the superessential (45) worlds the individual acquires in the fifth natural kingdom.
+
+<sup>7.</sup>Sinnett makes the emotional envelope (48) the seat of the “will”. This, however, actually means that emotional matter is the matter in which the monad can the most easily make use of dynamis. And this indicates mankind’s general stage of development, demonstrates that it is at the emotional stage. When the monad eventually comes to be able to centre its self-consciousness in mental consciousness (47), then this will become man’s “will”.
+
+<sup>8.</sup>The third chapter is about the planetary chain. It is a chapter that could have been omitted without loss. The planetary chain does not belong in a first account of the basic facts of the esoteric knowledge, which have to be mastered before one can go any further. The planetary chain remains incomprehensible to those who do not know about the seven dimensions (nine if line and area are counted) of the solar system. Here he has mixed up basic concepts that ought to have been dealt with separately: the composition of matter, the building-out of the worlds, evolution in the different natural kingdoms from the view-point of biology and consciousness, the elementals of involution, etc. To have the correct facts is not in itself enough. They should be put in their correct contexts. But the available facts were far too few to make contexts comprehensible to the uninitiated possible.
+
+<sup>9.</sup>An ancient expression that is still to be found in esoteric books is the “descent of spirit into matter”, a symbolic expression which, of course, has been misunderstood and has several different meanings intended to cover: involution (the composition of matter out of primordial atoms) and the different kinds of involvation (the constant rebirth of everything, or continuous involvation and evolvation) and other meanings.
+
+<sup>10.</sup>If by “spirit” is meant the consciousness aspect, the importance of this, as that of the motion aspect, diminishes in each lower world (because of increased density of primordial atoms) while the matter aspect becomes more and more dominant. This is particularly so in the three lowest atomic worlds (47–49).
+
+<sup>11.</sup>The very term “spirit” has given rise to much uncertainty. Its correct meaning is the consciousness of the monad (the primordial atom, the individual, the self). But since everybody knows what spirit means without any knowledge of what spirit is, the word has come to mean all but anything. Most theosophists seem to agree that it means the consciousness of 45-selves.
+
+<sup>12.</sup>The fourth chapter of Sinnett’s book is entitled “The World Periods”. It is mostly concerned with the different races and many other things about which far too few facts were then available. His greatest mistake, however, was his attempt at explaining the symbolic number “777 incarnations”. Sinnett never grasped the significance of that symbol, reckoning the number of incarnations requisite for the individual in the human kingdom as not far short of 800. Even today one hears theosophists repeating this number. The symbol was intended to give the proportions in terms of time for the activation of the three different kinds of consciousness: 700 for the physical, 70 for the emotional, and 7 for the mental. It was thus not intended to refer to the number of incarnations. Blavatsky hinted at the approximate number, referring to the days worked on Solomon’s temple (the symbolic causal envelope of the fable), related in II Chronicles 2:17, 18.
+
+<sup>13.</sup>Chapters five and six in Sinnett’s book deal with the individual’s sojourns in the emotional and mental worlds in between incarnations, the importance of which for the individual’s development is enormously overestimated. These sojourns are quite simply intended as periods of rest pending a new incarnation. The individual learns nothing new while in these worlds. It is quite out of the question for the normal individual to investigate them. He has no possibility even of observing the fourth dimension in the emotional world and the fifth in the mental world. In these worlds he still employs the three-dimensional vision acquired in the physical world, comprehending nothing of what is going on around him. Thus he has no choice but to try to work up the illusions and fictions about existence, reality, and life which he believed in when he was in his organism, being unable to see their fictitiousness. The individuals appear much less rational in those worlds than in the physical world. Of course, the more people study esoterics in physical life, since 1875, the more people in the emotional world will understand and teach esoterics.
+
+<sup>14.</sup>As is the case with the spiritualists, Sinnett seems to have had an unhealthy predilection for phenomena of this kind, not understanding that the individual’s experiences and conceptions are exceedingly personal and subjective. In the mental world, in particular, objectivity of any kind is out of the question. There the individual leads a life of endless bliss as he experiences the seemingly objective realization of his fantasies. It is only in the emotional world that he can have unpleasant experiences, since contact with people at the stage of hatred is still possible there.
+
+<sup>15.</sup>In one place Sinnett speaks of “the elementals, nature spirits, those semi-intelligent creatures of the astral light”. This shows that he had not clearly understood what is meant by these terms. Elementals are part of involutionary matter; nature spirits belong to the deva evolution, and astral light is the same as emotional matter.
+
+<sup>16.</sup>Chapter seven, entitled “The Human Tide-Wave”, contains two misconceptions that ought to be pointed out. One of these concerns Mars and Mercury in the solar system. The other concerns the intervals between man’s incarnations.
+
+<sup>17.</sup>Mars and Mercury are planets with planetary chains of their own, the only visible globes in their respective seven-globes. The mistake has arisen because in the writings of the ancients the two etheric globes of the planetary chain of Earth were also called Mars and Mercury.
+
+<sup>18.</sup>Sinnett gives the average interval between incarnations as 8000 years. This is totally wrong. Without knowledge of mankind’s different stages of development it is impossible to specify the length of these intervals even approximately. It has been thought that one could reckon to be sufficient in most cases: five years at the stage of barbarism, 300 at the stage of civilization, 1000 at the stage of culture, and 1500 at the stage of humanity. But there is no rule; generally speaking, everything is quite individual and depends on a number of different factors. Anyone can reincarnate more or less immediately. Anyone can wait millions of years, asleep in his causal envelope. It has been said with vigour that all speculation is useless here. All that is known is that the individual incarnates in series, and that the number of incarnations in the series varies generally as well as individually.
+
+<sup>19.</sup>Chapter eight, concerning “The Progress of Humanity”, as well as the four chapters that follow, devoted to Buddha, Nirvana, The Universe, and The Doctrine Reviewed, are altogether too inadequate and misleading even to be summed up.
+
+<sup>20.</sup>It is only on the question of moral fictionalism that some words may be said: Good is all that promotes, evil all that counteracts, consciousness development, individually as well as collectively. Spreading ignorance’s emotional illusions and mental fictions, resulting in idiotization, is among the greatest and most fatal mistakes that can be made.
+
+### *3.5 Judge*
+
+<sup>1.</sup>William Quan Judge was an American lawyer of Irish extraction, living in New York. He was one of the founders of the Theosophical Society. Until his death in 1896, he sought by writing and lecturing to make known the facts that he had got through Blavatsky and Sinnett. His chief work, *The Ocean of Theosophy*, is regarded by the sect he formed, later known as the Tingleyans, as the chief theosophical work, the only one to give a correct presentation of the doctrine. How unjustified a claim that is should be clear from what follows. It is high time that its errors of facts, which have for so long been repeated, were pointed out for the benefit of those who do not have access to more recent literature.
+
+<sup>2.</sup>Judge was a pupil of Blavatsky and, like all who over a period of years and in all conceivable situations were daily witnesses of her magical experiments, he was of course convinced of their genuineness and of her capacity as an expert on the esoteric knowledge.
+
+<sup>3.</sup>Already in the preface to his book he wisely makes a reservation against the Theosophical Society being held responsible for its contents. The conception of the theosophists as to what theosophy is and the original, genuine theosophy (the esoteric knowledge) are in all too many respects two quite different things.
+
+<sup>4.</sup>It is not the intention here to cite everything Judge said in order to show how unclear, confused, loose all of the composition is, and how many facts have come up in the wrong contexts. It is typical of his presumptuousness that he replaces several of Sinnett’s facts with his own misconceptions. The most obvious blunders will suffice. Judge never succeeded in becoming a causal self.
+
+<sup>5.</sup>His saying, “The most intelligent being in the universe, man”, does not agree very well with what he said previously, nor with what comes later.
+
+<sup>6.</sup>Or what should be said of this? “The most important system” that Blavatsky taught is said to have been “long known to the Lodge”, this of the planetary hierarchy, of a natural kingdom a prerequisite for entering which is omniscience about the worlds of man.
+
+<sup>7.</sup>One of his most unhappy mistakes, which has hopelessly confused all who “have learned from Judge”, is his confusion of two widely separate worlds: the physical etheric (49:2-4) and the emotional (48:2-7). And so the result is just one great medley. Judge includes them both under the term “astral world”. The ancients used this term for the physical etheric world, since in this world one sees thrice as many stars as in the world visible to the normal individual. In the emotional world one does not see any stars at all.
+
+<sup>8.</sup>Another term that Judge never understood was “astral light”. H.P.B., who did not care about terminology, took the term from Eliphas Levy, who made it designate all kinds of superphysical matter and energy, sometimes even “anima mundi” (the universal soul). That term thus cannot any more be used by those who know what they speak about.
+
+<sup>9.</sup>Judge treated the “seven-fold constitution of man” even worse than Sinnett did. Man has only a five-fold constitution, namely the five envelopes in physical incarnation. Seven envelopes those individuals have who in the fifth natural kingdom have become 45-selves and thus, in addition to the human causal envelope, have acquired essential (46) and superessential (45) envelopes. Man does not need those two envelopes, since he has not acquired consciousness even in his causal envelope.
+
+<sup>10.</sup>Judge calls the “linga sharira” of the Indians the “astral body”, meaning both the physical etheric and the emotional envelopes. The correct term, however, is the etheric envelope. Judge’s saying that “this term comes near the fact, since the substance of this form is derived from cosmic matter or star matter” is sheer abracadabra. Everything consists of matter and all matter is cosmic in origin.
+
+<sup>11.</sup>It is obvious that Judge had not understood that the etheric envelope belongs to the organism, that it disintegrates along with the organism, cell by cell, so that one can tell from it, as one sees it above the grave, the stage of dissolution reached by the organism. It is thus not correct to say that after death the emotional envelope takes possession of the etheric envelope. When man is asleep, the emotional envelope (together with the higher envelopes) frees itself from the organism and its etheric envelope. If the etheric envelope is expelled from the organism, catalepsy or apparent death occurs. In the process of death, the emotional envelope frees itself from the etheric envelope when this has left the organism.
+
+<sup>12.</sup>Judge’s explanation of man’s higher envelopes and consciousness in them is as confused.
+
+<sup>13.</sup>The “soul” he makes comprise both “Spiritual Soul” and “Spirit”, by “Spiritual Soul” meaning something corresponding to 46-consciousness and by “Spirit” 45-consciousness. Elsewhere, “Spirit” is the “Divine Ego” or the “ray from the Absolute Being”.
+
+<sup>14.</sup>It is no wonder that there is confusion in the minds of theosophists.
+
+<sup>15.</sup>The usual notion that man must have higher envelopes to achieve contact with the divine worlds is evidence either of ignorance or of thoughtlessness. In the lowest cosmic matter (the physical atom) exist all other kinds of cosmic atoms. The physical world is penetrated by all the higher worlds. The planetary ruler has an envelope of physical atomic matter, and the monad is in the 28-atom of his atomic chain.
+
+<sup>16.</sup>A great mistake is his assertion that the planetary chain does not consist of seven separate globes. Judge’s saying that by this is meant the higher worlds of our planet is incorrect.
+
+<sup>17.</sup>In the background, of course, is that term, “illusion”, of Indian illusionist philosophy (Advaita), a term that has always paralysed thought. Thus: “The ‘cell’ is an illusion... It has no existence as a material thing... physical molecules... must be leaving the cell each moment. Hence there is no physical cell.” That an exchange of primordial atoms takes place in all atoms (these composing the molecules) does not mean that the latter do not exist.
+
+<sup>18.</sup>The chapters on reincarnation, karma, kama loka (the emotional world), devachan (the mental world), and the individual’s states of consciousness in between incarnations do not make things any clearer.
+
+<sup>19.</sup>Judge was especially interested in the law of periodicity, discussing cycles of sundry kinds. Mostly, he did not go further than accounting for the notions of these among various peoples.
+
+<sup>20.</sup>As regards the question of the possibility of foreseeing the future, Judge obviously had this matter clearly explained by Blavatsky. Everything that happens is the result of causes that can lie however far back in time. In order to be able to foresee the future, one must have knowledge of those factors in the past which have not yet been released. The uncertainty consists in not knowing about factors that may arise between the moment of prediction and the definite event itself. More often than not, the future appears as a manifoldness of different possibilities. Which of these is to be realized is uncertain.
+
+### *3.6 Hartmann*
+
+<sup>1.</sup>Franz Hartmann (1838–1912) was a German doctor who was originally of the usual physicalist and agnostic attitude, which dismisses out of hand all discussion of the superphysical as mere imagination. He moved his practice to the U.S.A. where he had the opportunity to study the genuine magic together with pupils of H.P.B. As a result, he gave up his practice and went to India, to Adyar (Madras) where H.P.B. had transferred her headquarters.
+
+<sup>2.</sup>After some years of esoteric study there, during which time he had several opportunities of seeing the temporarily physicalized forms of both M. and K.H., he decided to return to Germany, in 1885. There he wrote industriously, translating Indian works. From 1893 onwards he published a quarterly, *Lotusblüten*, and wrote books on theosophy. When the Theosophical Society split in 1895 he deeply regretted the schism, siding with neither part, and founded in 1897 his own society in Germany, Internationale Theosophische Verbrüderung.
+
+<sup>3.</sup>One cannot attribute to him any esoteric facts in addition to what he got from the writings of H.P.B. and Sinnett. He was more interested in the problems of life view than in those of world view. Far too few facts were available for him to be able to satisfy philosophers and scientists. Very early he saw the unreliability of Steiner’s presentation with the basis as to the theory of knowledge it had, and he resolutely dissociated himself from its adherents whom he humorously baptized “die versteinerten Theosophen”.
+
+<sup>4.</sup>Hartmann’s main interest was directed towards the art of living which, of course, is the essential thing for the mystic. Others, more mentally inclined, want above all knowledge of reality, so that, knowing the real meaning of existence, they can decide what to think, to say, and to do.
+
+<sup>5.</sup>This is the root of the old controversy between the mystic (emotionalist) and the esoterician (mentalist). The mystic thinks that man’s reason cannot explain existence, which, it is true, it cannot. The esoterician knows this, but then is not content with the ability of human reason to ascertain superphysical facts, but seeks that higher reason which can achieve contact with the world of Platonic ideas. Until then, he will accept no other superphysical facts than those from the planetary hierarchy. Proof that “facts” really are facts he gets from their having their given places in the Pythagorean hylozoic mental system, and their being the simplest, most general explanations of previously inexplicable realities.
+
+<sup>6.</sup>The mystic can, though in rare cases, achieve momentary contact with the essential world (46) and have a foretaste of its bliss, but he cannot apprehend anything in that world, since he lacks the intuition of the causal consciousness, which is a necessary condition.
+
+<sup>7.</sup>The main object of Hartmann’s work in Germany was to demonstrate that the medieval and modern mystics, Meister Eckehardt, Böhme, Silesius, Tauler, Gichtel, Saint Martin, etc. shared the Indian mystics’ attitude to life.
+
+<sup>8.</sup>Ignorance has produced so much that is unreliable as regards mysticism that it would do no harm to elucidate the matter once and for all.
+
+<sup>9.</sup>Originally, “mysteries” was the term applied to “secret knowledge” which was not to be imparted to others than the specially initiated.
+
+<sup>10.</sup>There are no “mysteries” other than unsolved problems. Once one has got the necessary facts, the problem and thus the “mystery” is solved.
+
+<sup>11.</sup>What the mystics call “mysteries” are realities of which the individual does not have sufficient experience to be able to comprehend on his level of development.
+
+<sup>12.</sup>Thus “mystery” means either that one lacks the facts to explain it or that one has reached the limit of individual understanding (all that is beyond one’s power of conception).
+
+<sup>13.</sup>To the physicalists, who cannot see that there is a superphysical reality, everything superphysical is a mystery.
+
+<sup>14.</sup>The planetary hierarchy wishes to give us all knowledge. Most people are in no position to conceive it and thus we get “mysteries”.
+
+### *3.7 The Theosophical Movement*
+
+<sup>1.</sup>On the whole, the history of the theosophical movement is a deplorable chapter, because in the main it has done more harm than good to the cause of the esoteric knowledge, and it has been a great disappointment to the planetary hierarchy. Instead of brotherhood there was quarrel over power and doctrine. That this broke off the connection with the planetary hierarchy they have not yet understood.
+
+<sup>2.</sup>The theosophists perhaps think that one ought to say theosophical society instead of theosophical movement, but it is not one but many societies or sects, all claiming to teach the only true knowledge of reality.
+
+<sup>3.</sup>Regrettably, the theosophists have so discredited the esoteric knowledge in the eyes of the public that it is desirable to explain how this has come about.
+
+<sup>4.</sup>The view of the planetary hierarchy that the attempt was made too early was proved correct. Not even that part of mankind (about fifteen per cent) who had reached the stages of culture and humanity, had been able to free themselves from their emotional illusions and mental fictions, unprejudiced to examine the tenability and content of reality of what they regarded as a mystifying idiology.
+
+<sup>5.</sup>Blavatsky attacked all prevailing conceptions in theology, philosophy, and science. And all the authorities on these matters were offended in the self-glory of their wisdom. In order to prove that she knew what she was speaking about, Blavatsky performed innumerable magical phenomena. But the only thing she achieved in doing so was to make the representatives of science declare these frauds, because such things were impossible, being “contrary to the laws of nature”.
+
+<sup>6.</sup>The curious, undiscerning masses, however, flocked to join the Society. As soon as these members heard something, they thought they knew and understand everything. And so we had this herd of theosophists who only made themselves ridiculous with their babble. Instead, they should have made of vow of silence when they joined.
+
+<sup>7.</sup>Those in responsible positions, trying to prevent misunderstanding, vigorously declared that although everyone had a right to views of his own, that did not entitle him to call them theosophy. But what was the use of that when most of the chatterboxes, in order to emphasize their misconceptions, asserted that “this is theosophy”?
+
+<sup>8.</sup>The Society had appointed two presidents, Colonel Henry Steel Olcott (1832–1907), who was to be the head of the actual organization and look after its practical problems, and Blavatsky, who was to be its spiritual leader. Olcott’s work *Old Diary Leaves* in six volumes gives an account of the Society and Blavatsky.
+
+<sup>9.</sup>After Blavatsky’s death, Olcott, who always had been the only one to settle such questions, decided that Besant should take Blavatsky’s place and be the Society’s spiritual leader (later, regrettably, a dictator). This, however, did not suit Judge (one of the founders), who considered himself the obvious choice for the post. It will be obvious to anyone who compares his capacity with that of Besant how unjustified he was in his obtrusiveness. The result was a schism that in 1895 split “The Universal Brotherhood” into an American society headed by Judge and the parent society, the headquarters of which Blavatsky had moved to Adyar, near Madras, in India.
+
+<sup>10.</sup>Judge had little joy of his new position of power. He died the following year (1896) and his place was taken by Mme Katherine Tingley, who revealed her interpretation of brotherhood by taking every opportunity to ridicule Besant’s society. She stifled every attempt to introduce new facts and ideas into her sect, which has remained totally ignorant of the great progress the knowledge made through Besant and Leadbeater. The mental system that, much later, she permitted to be formed is positively misleading. The seed of schism once sown led to more and more of her members breaking away to form new sects.
+
+<sup>11.</sup>But Besant’s society had its difficulties as well. Blavatsky had tried to form an inner circle (Esoteric Section), the members of which were to be given certain facts, which were not yet to be publicized. After her death, this circle became one insisting on orthodoxy, outwardly presenting a façade of freedom of opinion. Its intolerance became manifest, however, in the fact that the “uninitiated” were not regarded as “true theosophists” by the other members if they did not join the “Esoteric Section”. Later it transpired that the new facts imparted to the initiated were completely unimportant. The assertion of the theosophists that by joining the “Esoteric Section” one will get in touch with the planetary hierarchy is false.
+
+<sup>12.</sup>On the whole it can be said that in the conditions prevailing at the present time, true esotericians do not join any societies, but are to be found outside all kinds of organizations. They can be recognized by their understanding of all things human, and they strive after truly human relations between all irrespectively of race, nationality, sex, religion, politics, and all other things that separate people.
+
+### *3.8 Disorienting Sects*
+
+<sup>1.</sup>Experience was, of course, to confirm the planetary hierarchy’s view of the year 1775 that the suggested new attempt at imparting the knowledge would result in the knowledge once again being distorted by immature fantasts.
+
+<sup>2.</sup>Apart from the theosophical sects that dispute among themselves, there have arisen a number of occult sects, a number of Rosicrucian sects, and Steiner’s anthroposophy, which also claims to be based on the Rosicrucian Order, which nobody knows anything about.
+
+<sup>3.</sup>The knowledge of reality cannot be acquired in the worlds of man, but only in the causal world, the highest attainable for man. So-called clairvoyance does not provide any real knowledge, since man is quite unable to assess the reality content of his experiences in the emotional and mental worlds. This is also obvious from the fact that all clairvoyants have dissimilar views.
+
+<sup>4.</sup>The ignorant confuse esotericians with mystics (emotionalists). The former have an elaborated world view (such as it be). The latter are content with a life view.
+
+### *3.9 Conclusion*
+
+<sup>1.</sup>It is beyond the scope of this outline to discuss what the secretary of the planetary hierarchy, D.K., achieved during the years 1920–1950 to make it possible for mankind to acquire a truer conception of reality, of the life view of the higher natural kingdoms, and their concerted endeavour to activate the consciousness of everybody. So much should be said that the planetary hierarchy is doing its utmost to prevent another world war and is using every willing tool to help men solve their most urgent problems: those of education, world economy, universal brotherhood, and the world religions. It appeals to all to work together (not separately) to solve these problems. All who will and can contribute to this will be given all possible “inspiration”.
+
+<sup>2.</sup>D.K. points out that the individual has not been given the knowledge to enjoy it with a pleasant feeling of superiority. It entails responsibility, as does all knowledge.
+
+## 4 THE THREE QUESTIONS OF THE SPHINX: WHENCE? HOW? WHITHER?
+
+### *4.1 The Trinity of Existence*
+
+<sup>1.</sup>As regards the theory of knowledge, everything is above all what it appears to be, but beside that always something totally different and immensely more.
+
+<sup>2.</sup>The trinity of existence is constituted by three equivalent aspects: matter, motion, and consciousness. None of these three can exist without the other two. All matter is in motion and has consciousness. Consciousness is either potential (unconscious) or actualized, passive (inactive) or active.
+
+### *4.2 The Cosmos*
+
+<sup>1.</sup>According to esoteric hylozoics (Pythagoras’ doctrine), primordial matter is unlimited space and contains the inexhaustible store of unconscious primordial atoms. In this primordial matter there is space for an unlimited number of globes. Our cosmos is such a globe.
+
+<sup>2.</sup>The cosmos is composed of primordial atoms (monads), which constitute the smallest possible parts of primordial matter and the smallest possible firm points for individual consciousness. The primordial atoms form a continuous series of increasingly coarser states of aggregation, increasingly coarser kinds of matter.
+
+<sup>3.</sup>The cosmos is a perfect organization consisting of a long series of interpenetrating material worlds of different degrees of density. The visible physical world is the lowest one being of the coarsest kind of matter. Higher worlds exist in all the lower ones. In the physical world thus exists the whole series of atomic worlds. The matter of each lower world is composed of increasingly more primordial atoms.
+
+### *4.3 Involution*
+
+<sup>1.</sup>The worlds are built out from “above”, from the highest world. The primordial atoms are involved into ever coarser kinds of atoms with each lower world. All the pertaining involvatory processes are named by the comprehensive term involution.
+
+<sup>2.</sup>Each world has its own kind of “space” (dimension), “time” (continued existence, duration), atomic matter and aggregates composed out of this, motion (power, energy, vibration, “will”), and consciousness. Thus only primordial matter is “beyond space and time”.
+
+### *4.4 The Forms of Life*
+
+<sup>1.</sup>All life has a form, from atoms, molecules, aggregates, to planets, solar systems, and cosmic worlds. These forms are subject to the law of transformation, are continually being changed, dissolved, and re-formed. The monads (primordial atoms) make up (as viewed from the physical) an ascending series of ever higher forms of life, in which lower ones enter into and make up envelopes for higher ones. The entire cosmos constitutes a series of increasingly more refined forms of life, serving gradually to furnish the monad consciousness with the “organ” it needs for its continued development.
+
+<sup>2.</sup>The monads are the only indestructible things in the universe. There is no “death”, just new forms for the monad consciousness. When the form has fulfilled its temporary purpose for the consciousness development of the monad, it is dissolved.
+
+### *4.5 Evolution*
+
+<sup>1.</sup>Involution implies the involvation of the monads to the lowest cosmic world, evolution their return to the highest cosmic world. Thereby they acquire in the lowest world full active self-consciousness, and later omniscience and omnipotence in ever higher worlds. Evolution thus consists in a series of ever higher natural kingdoms, ever higher stages of development. Every monad is found somewhere on this enormous scale of development; where depends on its age: the moment of its introduction into the cosmos from primordial matter, and its transition from a lower to a higher natural kingdom.
+
+<sup>2.</sup>Evolution is divided into five natural kingdoms and seven divine kingdoms. The planetary worlds contain the natural kingdoms, the solar systemic worlds the lowest divine kingdom, and the cosmic worlds the remaining six.
+
+<sup>3.</sup>Mankind, having up to now explored about one millionth part of reality, has in the physical world the possibility of exploring about one per cent of the whole of existence. The monad in the fifth natural kingdom can be conscious of about 10 per cent, as a divinity in the lowest divine kingdom about 14 per cent, in the second divine kingdom 28, in the third 42, in the fourth 56, in the fifth 70, in the sixth 85, and in the highest divine kingdom 100 per cent. All knowledge of existence is authoritative throughout series of monads in ever higher worlds, until the individual is able to acquire the necessary first-hand knowledge by his own experience.
+
+<sup>4.</sup>Before the monad has attained the highest divine kingdom, it distinguishes between god immanent and god transcendent. Immanent divinity is always conscious of its unity with all life. The superconscious belongs to transcendent divinity.
+
+<sup>5.</sup>When a sufficient number of monads have succeeded in working their way from the lowest natural kingdom up to the highest divine kingdom, this collective being is able to leave its cosmic globe in order to begin to build out a cosmic globe of its own in primordial matter, the material being primordial atoms taken from the inexhaustible store of primordial matter.
+
+### *4.6 The Process of Manifestation*
+
+<sup>1.</sup>The entire cosmos makes up one continuous process of manifestation in which all monads participate with their consciousness manifestations, unconsciously or consciously, involuntarily or voluntarily. The higher the world or kingdom, the higher the kind of consciousness, the greater is the monad’s contribution to the process of manifestation.
+
+<sup>2.</sup>When the monad has gone through involution and evolution of the process of manifestation, has acquired and discarded envelope after envelope in world after world, and, finally, in the highest cosmic world, has freed itself from its involvation into matter, it becomes conscious of itself as a monad. Until then it will identify itself with one or another of the envelopes which it has acquired and activated.
+
+### *4.7 Consciousness*
+
+<sup>1.</sup>Consciousness is one. The entire cosmos constitutes one total consciousness in which every monad has an inalienable part. The universal consciousness is like a sum total of the consciousness of all monads, just as the ocean is the union of all water-drops. All consciousness thus by nature is both collective and individual, although the normal individual cannot grasp this, his resources being enormously limited.
+
+<sup>2.</sup>There are as many different kinds of consciousness as there are kinds of matter. Each world has its own total consciousness, just as each monad envelope has its own. Each next higher world presents, as compared with each next lower world, an enormous increase, intensively as well as extensively, in respect of energy and consciousness. In each world the monad consciousness apprehends reality totally differently. This is what was originally meant by the saying that all apprehension of reality is maya, or “illusion”, since there is no common apprehension that is universally valid until in the highest cosmic world.
+
+<sup>3.</sup>Every world, every planet, solar system, etc., thus has its own collective consciousness, and constitutes a unitary collective being having one monad as the superior dominant. The higher the kingdom attained by the monad, the greater its participation in the cosmic total consciousness. When the monad has acquired planetary consciousness, it is a planetary being. When, finally, it has actualized its potential universal consciousness, it has become an individual unit in cosmic omniscience and omnipotence. Until then, it will have been the furthest developed monad in that increasingly larger material envelope which it has been able to regard as its own envelope. In each world it robes itself in an envelope of the matter of that world, this envelope becoming increasingly more extended.
+
+<sup>4.</sup>The monad is indestructible individual consciousness which, being originally potential (unconscious), is awakened to active consciousness in the lowest natural kingdom of the lowest world (the physical mineral kingdom) and gradually acquires consciousness in ever higher worlds. Only the coarsest matter offers sufficient resistance for the subjective monad consciousness to learn to discriminate between the opposites of inner (subjective) and outer (objective) reality, and to acquire active consciousness, which is the prerequisite of self-consciousness in all kinds of reality. After that, the monad is able by self-activity to acquire the requisite qualities and abilities in ever higher natural kingdoms in ever higher worlds.
+
+<sup>5.</sup>Consciousness in a lower kind of matter and world does not entail consciousness in or of a higher world, which thus appears to be non-existent. All that is superior to the monad belongs to its superconscious. The whole past of the monad belongs to its subconsciousness, in new incarnations only indirectly accessible as remembrance anew in connection with experiences of similar kinds.
+
+<sup>6.</sup>For the monad, evolution does not mean only self-acquisition of ever higher kinds of consciousness, but also liberation from identification with lower kinds, which always appear to be the only knowable and certain ones, since they are the only ones experienced and known up to then.
+
+<sup>7.</sup>Just as higher matter penetrates lower, so higher consciousness apprehends all lower kinds.
+
+### *4.8 The Natural Kingdoms*
+
+<sup>1.</sup>The monad consciousness “sleeps” in the mineral kingdom, “dreams” in the vegetable kingdom, awakens in the animal kingdom, acquires self-consciousness in the human kingdom, and knowledge of existence in the fifth natural kingdom, subsequently to continue its consciousness evolution in the seven ever higher divine kingdoms, thereby acquiring omniscience and omnipotence in ever higher worlds.
+
+<sup>2.</sup>The planets represent the five lowest worlds and the five natural kingdoms. Of these five kingdoms, the mineral kingdom belongs to the visible physical world. The vegetable kingdom also has a part in the physical etheric world, the animal kingdom in the emotional world (improperly called the astral world), the human kingdom in the mental world, and the fifth natural kingdom in the causal world.
+
+<sup>3.</sup>When the mineral monads have succeeded in acquiring physical etheric consciousness, they pass to the vegetable kingdom. Consciousness first expresses itself as a tendency to repetition, becoming a tendency to organized habit, or “nature”. When consciousness increases, there arises a striving after adaptation. The vegetable monads become animal monads through acquiring emotional consciousness. When their mental consciousness is sufficiently active, the animal monads pass to the human kingdom; and man passes to the fifth natural kingdom through acquiring full consciousness in his causal envelope.
+
+<sup>4.</sup>The monads in the mineral kingdom are enclosed in an envelope that belongs to a mineral group-soul, those in the vegetable kingdom are in a vegetable group-soul, and those in the animal kingdom in an animal group-soul. In the higher worlds the monad itself is to enrobe itself in an envelope belonging to the matter of the respective worlds. Having developed so as to acquire an envelope of its own in the causal world, the animal monad transmigrates to the human kingdom. The monad is subsequently during the whole of its sojourn in the human kingdom always enclosed in its causal envelope. One can say that it is the causal envelope that incarnates, embraces, and penetrates the lower envelopes. It should be evident from this that a man can never be reborn as an animal, any more that an animal can become a plant, or a plant a mineral. Transmigration cannot work backwards.
+
+<sup>5.</sup>It is by no means necessary for the monad to develop through organic envelopes. In fact, most monads (those following the parallel deva evolution, for instance) have never had other bodies than aggregate envelopes consisting of atoms and molecules held together electro-magnetically, such as man has in all worlds except in the visible.
+
+### *4.9 The Envelopes and Worlds of Man*
+
+<sup>1.</sup>During incarnation in the physical world, the monad in the human kingdom has a total of five envelopes at its disposal, one envelope in each of the five lowest worlds: an organism in the visible physical world, an etheric envelope in the physical etheric world, an emotional envelope in the emotional world, a mental envelope in the mental world, and a permanent causal envelope in the causal world (Platon’s world of ideas). Of these five envelopes, the four lowest are renewed at each incarnation and are dissolved more or less rapidly after the monad has freed itself from the organism. All envelopes except the organism are aggregate envelopes. Etheric matter encloses every cell of the organism and conveys those different functional energies which the ancients called vital force. The emotional, mental, and causal envelopes embrace and penetrate all the lower ones. They are oval in shape and extend between 30 and 45 cm beyond the organism, making the so-called aura. Approximately 99 per cent of the matter of these envelopes is attracted to the organism and is held together within its periphery, so that the aggregate envelopes form complete replicas of the former.
+
+### *4.10 The Consciousness of Man*
+
+<sup>1.</sup>During incarnation the normal individual, at mankind’s present general stage of development, is as a rule objectively conscious in his organism only, subjectively conscious in his etheric, emotional, and mental envelopes, and unconscious in his causal envelope. “Visible” physical reality, comprising the three lowest physical states of aggregation (solid, liquid, gaseous), is the only one man knows anything about and that which he considers to be the only one existing. He regards his desires and feelings in his emotional envelope and his thinking in his mental envelope as subjective states only, not understanding that these phenomena objectively correspond to vibrations in the kinds of matter of the respective worlds.
+
+<sup>2.</sup>When the individual has acquired objective consciousness in all his envelopes of incarnation together with causal intuition and thus consciousness in his causal envelope, he passes as a causal self to the fifth natural kingdom.
+
+<sup>3.</sup>Before the monad has acquired the ability of permanent causal activity, it is upon the conclusion of its incarnation to await a new rebirth, asleep in its causal envelope. Thereby its continuity of consciousness is lost and its memory of the past becomes latent until the monad is able to be causally conscious.
+
+<sup>4.</sup>The number of incarnations in each natural kingdom is unlimited until the individual will have acquired the qualities and abilities requisite in the respective kingdoms, and an envelope of his own in the next higher world. It should be noted that all qualities acquired remain latent in a new incarnation if they are not developed, a thing which becomes increasingly easier, however. Usually only understanding is actual.
+
+### *4.11 Man’s Stages of Development, etc.*
+
+<sup>1.</sup>Classes are the natural order of things. The natural classes indicate different classes of age, in the human kingdom as well as in all other natural kingdoms, both lower and higher ones.
+
+<sup>2.</sup>During his sojourn in the human kingdom, the individual passes through five stages of development: the stage of barbarism (as a lower emotional self), the stage of civilization (as a lower mental self), the stage of culture (higher emotional self), the stage of humanity (higher mental self), and the stage of ideality (causal self).
+
+<sup>3.</sup>The monad develops through learning from its own experiences and reaping what it has sown in previous incarnations. Everything good and evil that the individual meets with is his own doing. Nothing can befall him that he has not deserved. Injustice in any respect whatsoever is absolutely precluded, and the talk about it is a manner of speech of the ignorant of life and envious.
+
+<sup>4.</sup>Development in monads of repulsive basic tendency can take a wrong course, this showing already in parasitism of plants and in predacity of animals. In the lower kingdoms the monads by and large counteract development, disarranging the order of things, everything on their own responsibility. Unconscious and, to a still higher degree, conscious encroachment on the monad’s inalienable, inviolable divine freedom, limited by the equal right of all living beings, results in the struggle for existence and the cruelty of life.
+
+<sup>5.</sup>The vegetable monads develop through the plants being devoured by animals and men and in this being subjected to the forceful emotional vibrations in these animal bodies.
+
+<sup>6.</sup>The fault is not with life that the individual at lower stages of development in his almost total ignorance of life makes mistakes as to all but every one of the laws of nature and laws of life.
+
+<sup>7.</sup>According to the fundamental axiom of esoterics, there are laws in everything and everything is expressive of law. Anyone who possesses knowledge of all laws in all worlds is omniscient. Omnipotence and freedom are possible only through absolutely faultless application of all the laws.
+
+<div style="text-align: center">* * * * * * *</div>
+
+<sup>8.</sup>The esoteric world view can never, of course, be anything else for mankind but a working hypothesis. But the further mankind develops, the more evident the incomparable superiority of this hypothesis will become. The causal self is able to ascertain its accordance with facts in the five worlds of man.
+
+## 5 AN ESOTERICIAN’S VIEW OF THE HISTORY OF EUROPEAN PHILOSOPHY
+
+### *5.1 Introduction*
+
+<sup>1.</sup>The history of philosophy can be written in different ways. One can treat it as history or as philosophy. One can emphasize the various attempts made to distinguish between concepts, or account for the philosophers’ different contributions to pseudo-solutions of the philosophical pseudo-problems, or concentrate on the different principles, or criticize by demonstrating the contradictions within the philosophical systems, or take the ideas out of their frames without understanding of the rest of the philosophers’ life views and world views.
+
+<sup>2.</sup>The following outline is based on the description of reality contained in the esoteric mental system of the Pythagoreans (chapters 1.4–1.41 and tries to show the attempts – on the whole unsuccessful – of the philosophers to catch some glimpse of this reality. In this connection also other ideas and facts have been used, more and more of which have been placed at mankind’s disposal by our elder brothers. Without what has been said in the foregoing, the following will “be in the air”. The outline is an attempt to free mankind from its dependence on the imaginative speculations of philosophy, and to teach people to think for themselves.
+
+### *5.2 The Basic Problems of Philosophy*
+
+<sup>1.</sup>So-called theoretical philosophy (world view) is divided into ontology, metaphysics, cosmology, psychology, and the theory of knowledge; and so-called practical philosophy (life view) into ethics, legal, political, and social philosophy.
+
+<sup>2.</sup>In all these matters acute and profound philosophers have held dissimilar opinions. Since life view must be based on the world view, they have not been able to agree even on the “practical” problems.
+
+<sup>3.</sup>It is inevitable that opinions should differ, since the philosophic problems cannot be solved without knowledge of the facts of existence, and these facts have been lacking. It has not been possible to formulate the problems correctly, which is impossible until the right answers are known. One must have knowledge before one can pose questions rationally. Such as they have been formulated they are absurd and unsolvable pseudo-problems.
+
+<sup>4.</sup>The esoteric counterpart to the “ontology” (science of reality) of philosophy is the science of matter, its origin and composition (esoteric chemistry).
+
+<sup>5.</sup>Metaphysics seeks to explain motion (processes in nature, the process of manifestation) and is esoterically the science of energies, their origin and nature (esoteric physics). In popular parlance the term “metaphysics” has been applied to everything superphysical. The “metaphysics” of philosophy is the speculation of ignorance and must not be confused with the “superphysics” of esoterics. Immediate understanding of esoterics is possessed only by those who have the knowledge latently (remembrance anew).
+
+<sup>6.</sup>Cosmology is the science of the universe, the genesis of the worlds, etc. (esoteric astronomy).
+
+<sup>7.</sup>Psychology is the science of consciousness.
+
+<sup>8.</sup>The theory of knowledge, or epistemology, is the problem of the possibility of knowledge, etc. This pseudo-problem, which has been the main problem of philosophy since Locke, Hume, and Kant, will be disposed of when man acquires knowledge of reality and life and the basic facts of existence.
+
+<sup>9.</sup>Ethics (the conception of right) seeks to decide what is right and wrong, what is right action and right motives for action. These principles of right are ultimately determined by the individual’s conception of the meaning and goal of existence as seen from his view of reality and life. The history of philosophical ethics is the study of all the different conceptions of right propounded by acuity ignorant of life.
+
+### THE HYLOZOIC PERIOD
+
+### *5.3 Pythagoras*
+
+<sup>1.</sup>The three absolutes (matter, motion, consciousness; the sum total of existence) existing for every consciousness must be susceptible of direct, immediate, unreflective apprehension by the most elementary consciousness (also animal consciousness). They must by man’s common sense be seen to be the most evident of everything, the simplest application of the law of identity: this is this. This, the basic problem of philosophy, the most evident of all problems, the philosophers have not yet been able to solve. “Reality is given to me” (Tegnér); so simple is that which is immediate and which has been made an unsolvable problem.
+
+<sup>2.</sup>Pythagoras explained that reality has three aspects which are indissolubly and inseparably united without confusion or transformation, that all three are indispensable for a correct conception of reality.
+
+<sup>3.</sup>The trinity of existence is made up of:
+
+the matter aspect<br>
+the motion aspect (the energy aspect)<br>
+the consciousness aspect
+
+<sup>4.</sup>The one-sidedness of speculation as regards the theory of knowledge can be seen in the fact that the three foremost philosophical views have each been able to discover only one side of reality, but not the Pythagorean synthesis.
+
+<sup>5.</sup>The scientists maintain that “everything is matter”. The subjectivist philosophers of the West and the East assert that “everything is consciousness”. The nuclear physicists now eagerly advocate that “everything is energy”. The observable physical matter dissolves before their eyes into “nothing”, or energy phenomena, and they at once conclude that “matter dissolves into energy”. Only the esotericians know that it dissolves into matter that is invisible to the physicists, the energy effect of which matter is enormously greater because it is of a higher molecular kind.
+
+<sup>6.</sup>This, the only correct conception of reality, Pythagoras called hylozoics (spiritual materialism), thereby doing away with the antithesis of spirit and matter and explaining that “spirit” is the indestructible consciousness of the atoms.
+
+<sup>7.</sup>Pythagoras realized that anyone who in the physical world wishes to acquire as accurate a conception of reality as possible must start from the matter aspect of existence as the inevitable basis of scientific research. This has been confirmed brilliantly. Natural science has demonstrated its superiority not only in technological respects, but also in the fact that it has presented the least number of errors. Anyone who has acquired the sense of reality of common sense in the physical world does not so easily fall a victim to the illusions of emotional imagination, the fictions of mental activity, and the idiologies of the ignorance of life as up to now.
+
+<sup>8.</sup>The Westerners start from the objective matter aspect; the Indians, from the subjective consciousness aspect. The cosmos consists of a series of atomic worlds of different degrees of density. All higher worlds embrace and penetrate all lower worlds. The apprehension of reality (the logically absolute apprehension by consciousness of the aspects of reality) differs in the different worlds depending on differences in density of primordial atoms, resulting in differences in dimension, duration, material composition, motion, consciousness, and conformity to law. The Oriental makes the logical blunder of calling the apprehension of reality “illusion” because it changes with each world.
+
+### *5.4 Other Esotericians*
+
+<sup>1.</sup>Current textbooks of the history of philosophy make philosophical thought begin at about 600 B.C.E., which is instead the period marking the definitely helpless decline of Greek culture and, with it, of the so-called mysteries. It was in order to counteract the foreseen fall that Pythagoras (in about 700 B.C.E.) founded a colony (called Krotona) outside the town of Taormina in Sicily, the population of which was one day to annihilate the colony and murder him. There are three different legends of Pythagoras. Everything told about him is false, is far from the truth, since Pythagoras was an essential self (a 46-self) and the founder of an esoteric knowledge order.
+
+<sup>2.</sup>To the members of this order was imparted, under vow of secrecy as in the original mysteries, the knowledge of reality, which ignorance will always distort and which the thirst of power will always abuse.
+
+<sup>3.</sup>The order had several degrees. In the lowest degree the knowledge was imparted in the form of myth. In the higher degrees increasingly more interpretations of the symbols were given. Some of these myths, even they distorted, have come to be known to posterity.
+
+<sup>4.</sup>The higher initiates were given knowledge of the existence of higher material worlds than the physical. All matter is composed of primordial atoms which Pythagoras called monads (the smallest possible parts of primordial matter and the smallest firm points for individual consciousness). These monads are indestructible, because of which there cannot be any death, only disintegration of form. Once the monads’ potential consciousness has been roused to life, their consciousness development is continued through a series of natural kingdoms in ever higher worlds, until they attain the highest divine kingdom.
+
+<sup>5.</sup>Writing symbolically the Pythagoreans recorded their master’s doctrine of, among other matters, the three equivalent aspects of existence. They taught that the meaning of life is the development of consciousness, that “consciousness sleeps in the stone, dreams in the plant, awakens in the animal, becomes self-consciousness in man, consciousness of unity in the fifth natural kingdom, and acquires omniscience embracing more and more in ever higher divine kingdoms”.
+
+<sup>6.</sup>What more they taught is partly hinted at in the works of the subsequent esoteric (so-called pre-Sokratean) philosophers.
+
+<sup>7.</sup>Copernicus, Galilei, and Giordano Bruno, among others, had access to copies of these Pythagorean manuscripts.
+
+<sup>8.</sup>It was probably inevitable that some of the esoteric manners of speech became known to the uninitiated public and became the object of imaginative speculation. Apparently, some of the initiates took part in this game of imagination, not least in order to guide discussion into the domain of mental analysis (which of course degenerated into pointless subtlety) and in so doing to develop the ability to think in the “uneducated”.
+
+<sup>9.</sup>It is clear from the history of philosophy that little more than the names of some of those pre-Sokratean philosophers is known. It is not even known when they were born. Everything known about them is legend and the attempts of intelligent ignorance at interpreting symbolic poems and other fragments of writings attributed to them.
+
+<sup>10.</sup>The pre-Sokratean philosophers were all hylozoicians. Even of their alleged wisdom nothing more is left than a few meagre utterances, and that fact alone should have enjoined caution in assessing them.
+
+<sup>11.</sup>Those wise men possessed knowledge of reality that the scientists of today still lack. It is typical of the traditional lack of judgement that they are put forward as examples of the “first attempts at thinking”. And this in spite of the allegation that the following is known about them:
+
+<sup>12.</sup>They taught that the fixed stars are suns; that the planets revolve round the sun, shine with reflected light, and have once been liquid masses that have detached themselves from the sun. They described the periods of revolution of the sun and the moon, predicted eclipses of the sun and the moon. They knew that the earth is round, gave the correct figures concerning its size. They had views on the most fundamental concepts and the most difficult problems, for example, mechanical or final causes of processes in nature.
+
+<sup>13.</sup>To those men posterity has attributed the most primitive ignorance; that they would have given absurd explanations of what makes things up and how everything has originated. What one can glimpse in these fragments is thoroughly symbolic and is evidence that these remains once belonged to writings intended for the “initiates”. (Real knowledge was imparted in secret knowledge orders only.) Nor were they interested in practising acuity and profundity. In that respect logic has not progressed at all during 2,500 years. Philosophers still apply the contradictory “law of opposites”, although perspective thinking’s understanding of the significance of relativization has been making itself felt latterly. They are as far from higher mental powers as were their kind a couple of thousand years ago. The esoterician – who “knows how few people are able to think and that far fewer still are able to think correctly” – smiles when reading how some of these utterances attributed to the sages have been interpreted and distorted.
+
+<sup>14.</sup>“Everything has come from water” (Thales, the first generally known hylozoician). This is a hint that the solid state of aggregation has crystallized out of the liquid state. This was an esoteric tenet that was found in the ancient Kabbalah of the Chaldeans, which the Jews later revised. It was because of this that, “according to Moses”, spirit produced everything by “hovering over the waters”.
+
+<sup>15.</sup>“Everything has come from air” (Anaximenes). The liquid state has come from the gaseous.
+
+<sup>16.</sup>“Everything has come from fire” (Herakleitos). Fire termed the etheric state of aggregation. Everything must have been ether before it could become gaseous, liquid, and solid matter. They could not go further than to “fire” without betraying secrets. The superetheric state of aggregation was later given the Latin name of “quinta essentia”.
+
+<sup>17.</sup>Anaximandros taught that cosmoses, of which there is an unlimited number (!!), originate in chaos and that each cosmos develops by itself. In saying this he pronounced two of the greatest truths of esoterics. And that is called primitive speculation!
+
+<sup>18.</sup>When Xenophanes in his symbolic language explains that the universe is god and that the deity is spherical, he gives some esoteric facts. The cosmos is a sphere, or globe, in primordial matter, which is truly unlimited space. At the same time the cosmos is the cosmic collective consciousness which is the highest deity. No wonder that he sharply criticized anthropomorphism!
+
+<sup>19.</sup>Parmenides made a distinction between what is seen (phainomenon) and what is thought (noumenon), terms that later were to be misused, especially by Kant. The concept, for example, of table as a mental concept is unchangeable once it has its definition, while its physical counterpart can change and have different forms and colours. If, from this point of view, one wishes to regard the “world of concepts” as the “truly being”, one can of course do so. Parmenides showed by acutely formulated examples how we will get involved in contradictions and arrive at the absurd if we try to comprehend reality by means of our constructed concepts. If Parmenides’ distinction between phainomenon (physical existence) and noumenon (concept) had been correctly understood, then the concept as subjective reality would not have been confused with its objective physical counterpart, and people would have seen, among other things, the difference between the ground and consequence of logic and the cause and effect of physical existence.
+
+<sup>20.</sup>Zenon proved incontrovertibly that “the arrow in flight is at rest” and that “Achilleus cannot catch up with the tortoise if the latter has got the start”, and other things. Clearly, it has not yet been understood what he meant by these proofs. In reality, we are deceived by our subjective reason, since the logical proofs, which the subjectivists regard as conclusive, are in reality absurd. The underlying idea was that we cannot explain existence with the ordinary resources of reason, that exoteric knowledge, limited to physical reality, remains fictionalism.
+
+<sup>21.</sup>Herakleitos explained that everything is in motion, is in a state of everlasting change and fluctuation. This is the esoteric fundamental axiom concerning the motion aspect of existence. He also taught that the world develops in cycles, that all change occurs in accordance with eternal laws of nature which are the only unchangeable things in the universe. All of it esoteric!
+
+<sup>22.</sup>Empedokles collated and systematized what up to then had been permitted to become exoteric. He also taught the concepts of attraction and selection, the idea of reincarnation, and preached against eating meat.
+
+<sup>23.</sup>Demokritos was the first to emphasize the matter aspect especially.
+
+<sup>24.</sup>Pythagoras had taught that existence is constituted by a series of interpenetrating material worlds of different degrees of density. Each world is built up out of its own atomic kind. The atoms of the lower worlds contain atoms of all the higher worlds. Thus there is a whole series of different atomic kinds.
+
+<sup>25.</sup>Demokritos tried, within the limits of the permissible, to construct an exoteric theory of the nature of matter. To enable himself to do this he introduced the concepts of “void” and “falling” of atoms. In order to explain the qualities of matter he made the unfortunate mistake of dividing these into objective (shape, solidity, weight) and subjective qualities. This unhappy pseudo-solution was to haunt philosophy from then on. Demokritos also taught that the motion of the atoms is determined by “blind necessity” (ananke), that is, by mechanical causes, and also that the soul is of material nature (by implication: a material envelope for the monad).
+
+<sup>26.</sup>Demokritos marks the beginning of philosophy, or exoteric speculation as we know it, and thus one is wholly justified in saying that “materialism” (actually physicalism) is as old as philosophy (subjectivism).
+
+### 5.5 THE FIRST SUBJECTIVIST PERIOD
+
+<sup>1.</sup>Cultures are built up by clans at the stages of culture and humanity. When their work is taken over by clans at lower stages, a more or less swift decline sets in. This is so not only because these individuals lack the acquired, latent experience of life, which is the prerequisite of common sense and a right instinct of life, but also because injustice, with egoistic insatiability (exploitation), inhumanity (slavery), and general corruption, asserts itself more and more. The history of the world has been called the world’s court of justice. It is an eternal example of the validity of the law of sowing and reaping.
+
+<sup>2.</sup>The secret of the superior culture of the Greeks lies in the fact that all their leading men in philosophy, science, and art were initiates of esoteric knowledge orders. The sophists (like people of today) were not merely ignorant of the meaning and goal of life, but also unable to understand.
+
+<sup>3.</sup>Even before the sophists made their appearance the mysteries together with oracles, etc. had degenerated awfully. What was being taught had become mere superficial belief and thus subject to doubt. Had it been otherwise, a phenomenon like that of the sophists would have been impossible.
+
+<sup>4.</sup>With the sophists began that imaginative speculation of the ignorance of life which is called philosophy. They were the first theorists of knowledge. The sophists were not initiates. They had assimilated the exoteric learning available. With their undeniable acuity they saw that this learning afforded them no knowledge of reality. Thus exoteric learning cannot have been as primitive as the historians of philosophy will have it. Like Locke in a later subjectivist period, they thought that one proceeded in the wrong way, that instead of trying to explore the material external world one ought to begin by exploring reason’s possibility of knowledge.
+
+<sup>5.</sup>Protagoras, the most important of the sophists, considered that “man is the measure of all things”. Knowledge is a relationship between an apprehending subject and an apprehended object. The quality of the object depends on the apprehending subject (Kant). To this subjectivism individualism was added. Objects appear different to different individuals and they are always as they appear to the individual. The whole of existence is the individual’s personal apprehension. We cannot know whether there is a reality independent of this apprehension (Hume).
+
+<sup>6.</sup>These statements already reflect the so-called problem of reality of the theory of knowledge, that pseudo-problem of philosophical subjectivism which has not yet been seen through. If ontology (the science of the matter aspect of existence) and metaphysics (the science of the motion aspect of existence) together with psychology (the science of the consciousness aspect) cannot provide the necessary facts about reality, then no theory of knowledge will help either. At the most it will be unsuccessful attempts to explain away that reality which is beyond the reach of the normal individual. Esoterics maintains that consciousness alone, without instruments or aids, can explore the entire matter aspect, that higher worlds can be studied by organs of apprehension as yet undeveloped in the normal individual, that all matter has consciousness and that this consciousness – when it has become self-active – can explore its own matter. It asserts that everything is above all what it “appears” to be, but at the same time always something totally different and infinitely more, “the great unexplored”. This logical absolute (the “this is this” of the law of identity), different in different worlds, the subjectivists have never understood.
+
+<sup>7.</sup>The sages wanted to direct attention to the many problems of the physical world, since this world is the only world of which the normal individual can acquire knowledge. He must first find his bearings in this world and solve the problems of physical life before he acquires the requisite capacity for tackling the incomparably more difficult problems of higher worlds.
+
+<sup>8.</sup>It is easy to understand how ignorance has come to a subjectivist conception of existence. Our senses do occasionally deceive us, since our organism and brain do not always function perfectly. If then the sages tell us that material objects are made of atoms which we cannot see, then the conclusion presents itself almost immediately that these objects must be something else than what they appear to be. If that idea is pursued further, everything will be just appearance in the end. And if that is being repeated often enough, one will finally be unable to see that the external world must be reality.
+
+<sup>9.</sup>Unlike the subjectivists the objectivists maintain that consciousness can be both subjective (reason) and objective (sense), that when observing external, material reality consciousness is directly and immediately determined by this reality, that only objective facts about objective material reality, ascertained in objective consciousness, can provide knowledge of the external world. Without objective consciousness we lose ourselves in subjectivity. This is especially manifest to those who in their higher envelopes in higher worlds are able to ascertain that same objectivity.
+
+<sup>10.</sup>The sophists were the “philosophers of enlightenment” of ancient Greece. They rejected everything traditionally taught, everything in world view and life view. They analysed everything conceivable, especially the conception of reality, religion, conceptions of right, and forms of government. It happened as it must when the normal individual with his tremendously limited resources ventures to solve the enigma of existence: abortive guesswork about everything that cannot be directly ascertained in physical reality. Restless reflection begins its work of destruction, dissolves all the concepts borrowed from esoterics, not suspecting that they stand for “unknown” reality. One does not understand that these auxiliary concepts serve an important purpose. They make a further mental working-up possible, until once we shall have acquired full knowledge of the corresponding realities and shall be able to replace the auxiliary concepts with more exact ones.
+
+<sup>11.</sup>According to esoterics, the visible world constitutes about one per cent of the matter aspect of the total reality. The normal individual may be the greatest mental genius, but he is profoundly ignorant about existence. He can know nothing about the meaning and goal of life, about what in this respect is true and false, right and wrong. He is in no position to form a truly rational world view and life view for himself.
+
+<sup>12.</sup>Even though the early sophists were serious researchers, the whole of it soon degenerated. As all conceptions had their so-called justification, everybody was to let the light of his genius shine in the gathering darkness of increasing emotional and mental chaos. The most varied opinions found expression, eventually forming a spectrum of all self-glorious, sovereign caprices of the wise-acres, of so-called independent thinkers at the intermediate stage between deductive thinking and principle thinking. Overestimating their new ability, they imagine that they are able to think in accordance with reality, being unable to see the fictitiousness of their hypotheses.
+
+<sup>13.</sup>Some held the view, as later did Rousseau, that human nature is good and culture evil, that all men are born equal, and that laws have been made by those in power in order to oppress men. Others thought, as later did Nietzsche, that nature is beyond good and evil, that morality is an invention by the weak to disarm the strong, and that the only rational form of government is aristocracy.
+
+<sup>14.</sup>The sophists, being teachers of rhetoric, promised to teach, for hard cash of course, any political adventurer or so-called social reformer the art of quibble of rhetoric and legal casuistry. They developed an art of disputation, eristic, which by its tricks left any adversary without an answer. The only thing that mattered was to win in a disputation. They went so far as to end by trying to prove that black was white and making the worse cause appear the better, with the result that the word sophist (teacher of wisdom) became a word of abuse.
+
+<sup>15.</sup>Increasing politicalization of everything and democratization lowered incessantly, as they always do, the standard required of genuineness, reliability, and competence. In their place came enterprisingness, contempt for authority, and volubility. Nothing is all right as it is. Everything old is to be rejected. Wise-acreness knows how everything should be done. Change is the same as improvement. Just pull down to get air and light and everything will build itself up again in the sterile desert. (The end of it we see in deserts and ruins.) The best way of getting a perfect cosmos is to work chaos. The best way of arousing envy is to give an exaggerated picture of how much better off others are. The best way of arousing dissatisfaction and the spirit of revolt is to promise the satisfaction of insatiable egoism. Since pretensions increase as demands are met, irresponsible demagogy has set in motion a blind force of nature that will not be stopped until national destitution is an accomplished fact, unless dictatorship puts an end to madness. But then, of course, “poverty is borne with equanimity when shared equally by all”. That there shall be no reason for envy seems to be the essential thing.
+
+### 5.6 THE REACTION AGAINST SUBJECTIVISM
+
+<sup>1.</sup>The sophists caused a general confusion of ideas by their teachings, which were devoid of principles and system. To counteract this was the endeavour of three courageous men. They saw that it all could only lead to intellectual black-out, social and economic catastrophe. But the reaction came too late to prevent devastation. Intellectual degeneration was too far advanced. The ability to understand anything truly rational was seen more and more seldom. Even the ability to comprehend diminished.
+
+<sup>2.</sup>The three great ones were Sokrates, Platon, and Aristoteles.
+
+<sup>3.</sup>Sokrates sought to find those original basic concepts of life view which were latent in him, but which he never succeeded in actualizing. He sought in vain for that system in which the concepts acquire firmness by being put in their correct contexts. In spite of creditable attempts, it was only exceptionally that he reached up to principle thinking.
+
+<sup>4.</sup>Platon and Aristoteles both possessed esoteric knowledge. But restricted as they were to the use of exoteric facts and views, they failed in their endeavours, since it is only by using the fundamental facts and ideas of esoterics that one can construct a truly rational and expedient system of thought in accord with reality.
+
+### *5.7 Sokrates*
+
+<sup>1.</sup>The subjectivism of the sophists led (as it logically must do) to doubt about everything. Their individualism threatened to degenerate into arbitrariness and lawlessness. Their conceptual analysis destroyed all concepts of right, undermined all foundations of knowledge and activity. It almost sounds like our own times.
+
+<sup>2.</sup>To counteract this destructive influence there appeared in Athens a man of strength and will, a character of startling greatness, Sokrates, who by the power of his sterling personality and enthusiasm for his self-assumed task attracted a band of devoted disciples. The most brilliant of these, Platon (whom posterity called “the divine”), was to have a greater influence than any other philosopher, an influence that will always last. When reading his dialogues one can almost imagine one is listening to intellectual discussions of our time. The subjects with which he dealt are timeless.
+
+<sup>3.</sup>Sokrates made it his mission of life bringing order into the general confusion of ideas. He clearly saw through the pseudo-philosophy of the sophists thanks to his latent more correct conception, although he was able to actualize it only partially. Thanks to his superior dialectical ability, he was able to fight the sophists with their own weapons. His method was to demand an explanation of what was meant by a certain concept: for example, virtue, justice, courage, wisdom, etc. Most people are then prepared to let the wisdom of their ignorance stream forth. The answers were just the usual phrases, slogans that people have picked up and believed they have comprehended. By clever questioning Sokrates soon made them see that they did not know what they were speaking about. Then the time had come for Sokrates to wonder whether perhaps “this explanation” would do. Those who were sharp enough would see the irony.
+
+<sup>4.</sup>Anyone who has made it his mission to teach people to see that their fancied wisdom is worthless must take the risk of not escaping unhurt from that venture. The more “humane” method of killing used nowadays is by silence. All the unrest and annoyance that the sophists had caused the conservative people was turned against Sokrates. They did not want to understand more of all his life-work than what they could turn into accusing him of seducing the young, propagating teachings subversive of the state, and himself being the most dangerous of all the sophists. This man, who had been trying to free people from their meaningless habitual thinking and unintelligent parroting, was accused of impiety and condemned to death by the citizens’ assembly. Another drastic example of the truth of the Vatican’s slogan, “the voice of the people is the voice of god”.
+
+<sup>5.</sup>Material reality did not interest Sokrates. He considered that we know far too little to be able to form a correct world view. Similarly, he was convinced that the life view taught by the great sages was true wisdom of life. But, as he was not an initiate and thus had not had occasion to remember his old knowledge anew, he was exclusively restricted to his life-instinct’s approval of what the ancients had said. Nor did he understand that life view is always based on world view, that norms for action are based on certain conditions, that one must have some knowledge of how things are in order to be able to say how they ought to be.
+
+<sup>6.</sup>Sokrates did not make the necessary distinction between comprehension and understanding. Those who understand have the knowledge latently from previous incarnations. They have already worked it up and, partially at least, have been able to put it into practice. Man can realize what he understands bur not what he can only comprehend and what is above his level of development. Sokrates was able to realize what he gained knowledge of and he thought that others could understand and realize that which he with difficulty could force them to comprehend. As soon as his mental vibrations had volatilized from the brains of his audience, what he had said to them was as incomprehensible as before and, of course, impossible to realize.
+
+<sup>7.</sup>The maxims of the ancients he made his own. For example, he thought that it is better to suffer injustice than to cause injustice; that we should abstain from unjust action, not out of fear, but out of duty; that he who lives as the sages have taught us and sees the will of the gods in everything and is content with what life has to give, will find happiness and will be freed from fear and anxiety.
+
+<sup>8.</sup>Sokrates tried to define the concepts. There is still great uncertainty about them. There are objective and subjective, concrete and abstract concepts. A special kind of solely subjective concepts are those imaginative constructions of ignorance which are called illusions and fictions. These figments of the imagination do not have any foundation in reality.
+
+<sup>9.</sup>Experience of a material object (say, a table) is objective. As a memory picture this experience becomes a concrete representation through visualization of the object. The abstract concept of table includes all kinds of tables. Therefore, in defining the concept of table, imagination should evoke from memory tables of all shapes and colours. Furniture is a more abstract concept than table: it contains tables, chairs, cupboards, beds, etc. Still more abstract a concept is household goods, as it includes still more kinds of objects. The more abstract a concept is, the richer its content and the larger its extent. To ordinary individuals, the larger the extent, the smaller is the content of visualization, since the normal individual’s power of visualization is extremely limited and ignorance of what is included in the concepts is great. On this depends the mistake of accepted logic as to content and extent, concrete and abstract.
+
+<sup>10.</sup>Defining the objective concepts of the matter aspect is nevertheless relatively easy, since there is objectivity, that which is ascertainable by all. It is immensely more difficult to define all the concepts belonging to the subjective consciousness aspect. In most cases one will be restricted to generally accepted, to some extent arbitrary, conventional concepts. Almost always one will be involved in subjective valuations.
+
+<sup>11.</sup>If action is to be judged correctly, it must be possible to isolate the motive. The actual causes may lie back in previous lives. By ascertaining which actions sooner or later have good or bad consequences in a life sense, one may hope eventually to acquire knowledge of the laws of life and discover the significance of the qualities of individual beings out of which actions arise.
+
+<sup>12.</sup>History records an enormous variety of valuations and conceptions. At mankind’s present stage of development, not even the valuations of the largest collectives have any authority but can be just as arbitrary as the individual ones.
+
+<sup>13.</sup>Culture in the esoteric sense is achieved only through expedient, conscious or unconscious, application of the laws of life. In order to be discovered they must first have been applied. It was this unconscious striving that Sokrates endeavoured to make conscious.
+
+<sup>14.</sup>As he did not know the nature of existence, its meaning and purpose, Sokrates lacked the personal certainty that he was acting right in matters that did not conflict with the teaching of the sages. In individual cases he depended on the “voice”, his daimonion (Augoeides), which he thus assumed to be an inspiration from without. He was ignorant of the esoterism that “angels whisper but lies”, that man should only follow that which comes from his own common sense. Mistakes are the rule at mankind’s present stage of development, but it is through mistakes that we learn. If we make a mistake when following the advice of others against our own conviction, it is an error of consequence and not the best way to learn either.
+
+### *5.8 Platon*
+
+<sup>1.</sup>During many years Platon (Latinized: Plato) was in a position to listen to Sokrates’ talks with the sophists and others interested in the problems of life. Many of Platon’s dialogues would seem to be reports of such discussions. It is obvious that he improved in a superior way on what he had heard. Unprepared discussions are not as logical as these. No talks are recorded that exactly. Xenophon’s “Recollections of Sokrates” gives a better picture of how it used to be. Sokrates became the anonymous mouthpiece that Platon needed in order to avoid persecution. Thanks to Platon, the execution of Sokrates was recognized as a judicial murder. Thus Sokrates was henceforth allowed to proclaim his views freely. By consistently putting his views into Sokrates’ mouth Platon avoided the risk of attracting too much attention to himself. The democratic equality complex and envy would not tolerate anyone living raising himself above the crowd. (“If anyone is great among us, let him be great somewhere else.”) What spared Perikles (the only one of the “great ones” of Athens) the fate of being overthrown was that he knew how to flatter the mob, begging forgiveness for his existence and, with tears in his eyes, beseeching them to excuse his genius. With his exception, all the great men of Athens were persecuted, ostracized, or murdered.
+
+<sup>2.</sup>Nobody has been better able than Platon to debate problems, to analyse the illusions and fictions of the sophists. By often withholding the solution of the problems, making the discussion the answer to the question, leaving it to the reader to draw his own conclusions, he knew how to keep interest alive and like no one else to develop the ability to think. It is undeniably an art to be able, like Platon, to give the uninitiated even a faint vision of existence using such inadequate material and by hints to show the instinct of life in which direction to search for the truth.
+
+<sup>3.</sup>Every philosopher has in vain attempted his own interpretation of Platon. A lot of acute and profound balderdash has been wasted on what Platon ought to have meant. For those to whom the visible world is the only one existing and “spiritual reality” a figment of the imagination, he was, of course, just a fantast. He writes so simply that people believe they comprehend him. They do not know that the simplest is not only the most difficult to discover, but also the most difficult to understand for posterity – unless it is immediately self-evident – and thus is unsuspectedly passed by. Such rare authors count only on readers whom Goethe thought of when writing: “Du gleichst dem Geist, den du begreifst” (You resemble the mind you understand). One should certainly be skeptical of the attempted interpretations of translators.
+
+<sup>4.</sup>Platon was an initiate not only of the Orphic Mysteries but also of the Pythagorean Order, which was moved to Athens by Pythagoras’ disciple, Kleinias.
+
+<sup>5.</sup>To understand Platon, especially his doctrine of ideas and remembrance anew, one must know the Pythagorean world view on which his authorship was based. What Platon wanted was to give people a hint about higher worlds, reincarnation, and consciousness development, without betraying anything of esoterics. Hence the difficulties with which he had to wrestle.
+
+<sup>6.</sup>The Pythagoreans taught that existence consists of interpenetrating material worlds of different degrees of density. The monads begin their consciousness development in the mineral kingdom, then continue it in the vegetable, animal, and human kingdoms, and higher kingdoms. Reversion from a higher to a lower kingdom is impossible.
+
+<sup>7.</sup>The evolution of the lowest four natural kingdoms goes on in the lowest three planetary worlds (more properly, “material globes”): the physical, emotional, and mental worlds.
+
+<sup>8.</sup>In the physical world mankind can eventually acquire knowledge of its own of this world. It can by itself obtain knowledge of higher worlds once it has acquired higher objective consciousness. Until then it has to rely on the knowledge of authority. The emotional world is the world of illusions and the lower mental world, that of fictions. In those two intermediate regions real knowledge is out of the question. Only in the higher mental world, or the world of ideas, can the individual acquire knowledge of reality and life, of the meaning and goal of existence, because it is only in that world that the ideas (mental atoms and forms of these), which represent reality, can be correctly understood by the intuition.
+
+<sup>9.</sup>The matter of each world has its own characteristic kind of consciousness. Feelings correspond to vibrations in emotional matter, thoughts to vibrations in the matter of the mental world.
+
+<sup>10.</sup>The monads develop by acquiring the ability to perceive the vibrations in ever higher regions of their worlds and to contact ever higher worlds. The highest vegetable species can achieve contact with the emotional world and the highest animal species can contact the mental world. Man seeks to orient himself in the lower mental world. His goal is the higher mental world, the world of the intuition, the world of Platonic ideas.
+
+<sup>11.</sup>The mental development of man presents five principal phases: discursive deduction from ground to consequence, principle thinking, perspective thinking, system thinking, and, finally, intuition, or Platonic idea thinking.
+
+<sup>12.</sup>Knowledge as remembrance anew is a fundamental tenet of Platon’s teaching. Esoterics explains this.
+
+<sup>13.</sup>The monad forgets nothing. Everything it has experienced is preserved in a latent state in its subconscious. In order for certain previously acquired knowledge to be revived in a new incarnation, it is necessary to renew the contact with this field of knowledge. Otherwise this knowledge remains latent. The corresponding applies to previously acquired abilities. What is not cultivated in a new life remains latent. “Gifts” depend on specialization during several lives: as a rule three for “talent” and seven for “genius” (on almost any level of development). Everything the monad has experienced in the human kingdom does not become available until the individual has acquired the intuition and is able to study in the world of ideas (but then only there) all his previous lives as a man. Many people do not have the time to reattain in a new incarnation their true, latent level of development.
+
+<sup>14.</sup>Whatever we have once learned and worked up (!) we are unable to lose. Whatever we have known and been able to do is there latently. Knowledge becomes instant understanding in later lives. Qualities and abilities acquired are there as predispositions . They can be actualized quickly if need be, if the interest is there, and an opportunity for reacquisition is offered.
+
+<sup>15.</sup>Nothing is easily acquired. Countless experiences of the same kind are necessary in life after life before experiences are very slowly gathered into concepts and these can be put in their correct contexts, be worked up into insight and understanding. The monad spends millions of years in each kingdom before it has learned everything that can be learnt in this kingdom, which is necessary for its further evolution.
+
+<sup>16.</sup>The ability to apprehend external objects, to learn more of the qualities of objects through their vibrations, comes as the result of a long and complicated process in kingdom after kingdom. In each higher world apprehension becomes more and more exact and penetrating. The monad comes to know everything by “identifying” itself with its vibrations.
+
+<sup>17.</sup>“Platonic ideas” cannot be understood without the following insight. The ideas of the world of ideas are objective forms as well as being subjective, and thus the ideas are faithful representations of enduring objective and subjective realities. Every intuition corresponds to a mental system of reality ideas. Lower worlds exist in the ideas of the world of ideas and thus the knowledge of these lower worlds is contained in the idea system of the intuitions. “Beholding the ideas in the world of ideas” meant experiencing the reality content, with all its relationships, of the knowledge system inherent in the causal idea.
+
+<sup>18.</sup>The world of ideas is, among many other things, the unadulterated memory of all past events in the physical, emotional, and mental worlds ever since the planet came into being. The subjective consciousness content of these ideas gives us exact knowledge of reality without possibility of mistake, fictitiousness, or deception. They also constitute our ideals, since they explain the ends and the ways of their realization. The forms in the world of ideas are the perfect forms of beauty.
+
+<sup>19.</sup>When the causal ideas of the intuition are mentalized into mental concepts, these ideas become ideals for reason, and when these ideals are emotionalized, they become dogmas for emotional thinking. But when the ideas have thus been twice scaled down, their relative validity has been made absolute and thus they have become hostile to life.
+
+<sup>20.</sup>By placing the immutable, objective grounds and causes of the true, the beautiful, the good, in the world of ideas as the truly being, inaccessible to lower consciousness, Platon sought to deprive the sophists of their sovereignty and authority. Rightly “idealists” of all ages have regarded Platon as the rescuer from subjective and individual arbitrariness.
+
+<sup>21.</sup>The history of philosophy has fully endorsed Platon’s misgiving that Aristoteles with the exoteric system he planned would only provide the uninitiated with fresh material and new incitements to continue their idle speculation. Only the world of ideas and the mighty revelations of the intuition can afford the right solutions of the problems of philosophy.
+
+<sup>22.</sup>Platon’s ideal republic was never intended to be realized. He knew all too well that such a community can never be constructed, can never come into being without leaders who have reached the stage of unity (the fifth natural kingdom), that ideality presupposes individuals at the stage of ideality. He was not interested in practical politics and it was very much against his will that he lent himself to experiments with it. He had lots of opportunities to study different systems and had come to the conclusion that democracy was the worst of all. Democracy placed power in the hands of an undiscerning majority that allowed itself to be led by sophists and demagogues appealing to its worst instincts in order to get power and then to keep it, being indifferent to the fact that the result could only be economic ruin, social disorder, and cultural decline.
+
+<sup>23.</sup>Platon’s republic was a veiled criticism of the democratic ideal of equality as well as an indication in which direction the solution should be sought. The most suitable society is a class society with social tasks apportioned among the classes. Competence (knowledge, ability, readiness to work) determines to which class the individual belongs. Everyone gets the opportunity of free competition. The state fails in its object if it does not create rational conditions and justice according to everybody’s merit. It is only the incorruptibly upright, having the requisite knowledge, qualities, and abilities, who should be allowed to manage the affairs of the state, occupy positions of power, and rule others. If the state is run by corrupt elements (as it inevitable is more or less in all democratic states), corruption will spread like plague. In a state rationally governed, the distribution of work is determined by the citizens’ levels of development, their understanding of life, and general competence.
+
+<sup>24.</sup>Platon’s conception of right is shown in his doctrine of uprightness, the cardinal virtues, and the law of good.
+
+<sup>25.</sup>Right is done when everybody does his duty. He was thoroughly familiar with the Indian doctrine of dharma, in which the concept of duty is clear from the individual’s life task and level of development. If he is to be upright, the individual must possess the idea of uprightness. That idea is not a bloodless abstraction, but the sum total of the knowledge of the expressions of uprightness in all the relationships of life.
+
+<sup>26.</sup>Platon’s cardinal virtues have caused much puzzlement and have been criticized. They represent the most desirable ability in the individual at the different stages of development: the physical “courage” of the stage of barbarism, the “self-control” of the emotional stage, the “wisdom” (right knowledge) of the mental stage, the “justice” (only possible when there is real knowledge) of the intuitional stage. Compare these with the esoteric “to dare, to will, to know, to be silent” (the ability of being silent about what one knows before those who do not understand).
+
+<sup>27.</sup>When Sokrates learned what was right, he did it without hesitation or regard for the consequences to himself. When he saw what was wrong, nothing could make him act contrarily to this insight. The fact that others did not do as he did he regarded as being due to ignorance. Enlighten man and he will then do right, since it is to his own interest to act rationally and expediently. It is the same ignorance of life that has always characterized all well-meaning enthusiastic enlighteners, that is without understanding of the enormous difference between theoretical possibilities and the educated capabilities of practical skills.
+
+<sup>28.</sup>Platon took a deeper view. For those who have already acquired knowledge, understanding, and ability in previous lives and have it all latently in them, it is an easy matter. They only need to come in contact with their latent knowledge to do the right thing automatically and spontaneously. According to the law of good, man always follows the highest ideal that he really sees and understands (not merely believes or resolves), because he cannot do otherwise, because it is for him a need and a joy to do so.
+
+<sup>29.</sup>That Platon made a distinction between learning and wisdom, between theoretical knowledge and latent insight and ability, appears from his tenet that the wise man is qualified to be the most skilful one in everything that he takes an interest in.
+
+### *5.9 Aristoteles*
+
+<sup>1.</sup>Aristote’les (Latinized: Aristo’teles, anglicized: Aristotle) was the always oppositional disciple of Platon. Where Platon regarded exoteric philosophy as a pedagogic art, to Aristoteles it was above all a logical, methodical, and systematic one. He was convinced that Platon would not be able to check the unfounded speculation of the sophists. What use did the exoterists have of the world of ideas? Since they lacked intuition it must to them seem a figment of the imagination. Before they could reach the intuition of the world of ideas, they would have to develop the four different kinds of mental consciousness: deductive thinking, principle thinking, perspective thinking, and system thinking. Only initiates of the highest degree of a knowledge order were capable of that. Aristoteles thought that the only way of checking speculation was to construct a system of thought that corresponded to the normal individual’s ability to comprehend. That only the esoterician has been able to understand him correctly is another matter. This system, then, was as might be expected. How skilfully it was made, however, is best seen in the fact that it has occupied philosophic thought for more than two thousand years.
+
+<sup>2.</sup>It is with concepts as with facts. They are almost useless unless put in their correct contexts. Loose ideas and facts stimulate speculation to construct contexts that will seem to give them a meaning. It is just because facts have been put in wrong contexts – the “core of truth” there is in all superstition – that the entire mental world is a chaos of fictions.
+
+<sup>3.</sup>The esoteric mental system had convinced Aristoteles that the only way to give people clarity is to give them a system. Mental certainty comes from deduction only. The esoteric system gives clarity and certainty, since the knowledge can be deduced from it and the result be shown to agree with reality. A perfect system comprises all the facts in their correct contexts, but such a thing was out of the question, of course. He had to be content to gather as many facts as possible and to systematize them. After Platon’s death Aristoteles took over the master’s disciples and set each to explore the field in which his particular bent lay. His enormous personal fortune enabled him to purchase manuscripts relating to all lines of knowledge and to employ research-workers to collect information from all over the world. The material provided by thousands of manuscripts was worked upon methodically. Thus was laid the foundation of the exoteric science of the West. The scientific terminology he created is still largely used. Most of what the historians know of earlier philosophers comes via Aristoteles. He had a habit of reporting in his own way what he did not use himself.
+
+<sup>4.</sup>Extensive treatises came into being covering the learning at the time in mathematics, physics, chemistry, geography, meteorology, astronomy, botany, zoology, anatomy, logic, psychology, ethics, and politics.
+
+<sup>5.</sup>Of all this enormous encyclopaedia only few, fragmentary remains, mostly unclear, unsystematic, arbitrary adaptations, could be found when a couple of hundred years later it was decided to save what there still was to save.
+
+<sup>6.</sup>Aristoteles made no secret of his sovereignty, of his being a titan among pygmies. This was dangerous with the prevailing equality complex of democracy, which demands the levelling of everything superior. When news reached Athens that his powerful protector, King Alexander, had died, Aristoteles, in order to avoid the fury of the mob, left the city that murdered Sokrates.
+
+<sup>7.</sup>The following is not an exposé of Aristoteles’ exoteric system, but merely an indication as to its esoteric foundations.
+
+<sup>8.</sup>Comprehension is the result of reflection. Understanding is immediate perception as a result of remembrance anew on completed working-up of a certain subject-matter. The simplest mind can conclude from ground to consequence, from cause to effect. To be able to conclude from consequence to ground, from effect to cause, calls for judgement. Ignorance is lack of knowledge of facts. The ability to judge is intelligence (common sense) and presupposes the ability to analyse and synthesize. Judgement requires facts, concepts, and principles. These are absolute, viewed separately. But they acquire relative significance when put into relations to others in their correct system. Concepts are necessary to comprehension. Principles are necessary to survey concepts. A principle is a generalization of clear-cut cases that seldom occur in reality. As a rule many mutually modifying principles are required for correct judgement. Good judgement can judge facts correctly, put facts in their correct contexts, distinguish between fact and fiction, between blind belief and the critical view that asks whether sufficient facts are available for an assumption to be made for the time being.
+
+<sup>9.</sup>Aristoteles wanted to give men a mental system. He saw that system is the way of thought to orient itself in existence. The facts of sense are largely useless until reason can fit them into their correct contexts: historical, logical, psychological, causal ones. The task of reason is not to construct fictions. All thinking is based on principles and systems. Every thinking man has made his own system, whether he knows it or not. The quality of the system shows the individual’s level of development, ability to judge, and knowledge of facts. The systems of most people are fictional systems, or belief systems of emotional thinking. Everyone has his petty beliefs about almost any absurdity, because most people have no possibility of getting real knowledge of anything but finally established facts of the visible world. They do not have access to the intuitional world of ideas.
+
+<sup>10.</sup>The understanding of life requires a fund of systematized experiences. This is the foundation that is acquired during the long process of mental development at the stage of barbarism. The greater abundance of ordered principles entails mental superiority in spheres of knowledge separately as well as in respect of life as a whole.
+
+<sup>11.</sup>The prerequisite of comprehension is the possession of something more general than what one is trying to apprehend logically, for comprehension goes from the general to the particular, from the still more general, the mentally higher, to the mentally lower. The most general of all is the ideas of intuition which contain all facts. It is the principles that give the system its exactness.
+
+<sup>12.</sup>Platon had pointed out the necessity of unambiguous concepts. Aristoteles realized that for concepts (facts) to have their correct meanings, they must be put in their correct contexts, and that it is this ever wider interrelated whole that finally proves to be the system, or the highest mental conception. The intuitional ideas are higher still and even more comprehensive. But long before man’s ability of conception can reach the ideas of the world of ideas, it must master the higher mental abilities. Men are not yet able to think intuitively, that is, without concepts, principles, and systems. To be able to discover the more general, we must possess a knowledge of more facts than can be explained by the less general. As Goethe said in his *Faust*, we can have the parts in our hand (the necessary facts), yet still lack the unifying bond. It is the discovery of the more general that makes a widened understanding possible.
+
+<sup>13.</sup>Every Platonic idea, or intuition, if concretized, becomes a complete system of its own, comprising all the concepts and facts which are part of its subject-matter.
+
+<sup>14.</sup>Exoteric mental systems are ordered surveys of facts compiled methodically. They are practically never correct, since they can never be complete, but are changed with every new fact added. Their significance for science is in their facilitating orientation in and assimilation of what has already been explored. Unless they can be gradually replaced with continually more complete systems, however, they become obstacles to thought and research. Aristoteles’ attempt at a system became such an obstacle since ignorance made it absolute.
+
+<sup>15.</sup>What is most characteristic of the logical view attributed to Aristoteles is its quite abortive attempt to separate form and content in subjective as well as in objective respect.
+
+<sup>16.</sup>This led to the formulation of the so-called third law of thought, which is no law of thought. Thought was thereby formalized. The more abstract a concept is, the larger its extent and the more limited its content. By trying to construct a scheme of more and more abstract concepts they hoped to arrive at the highest abstractions, the categories, and thus at “absolute knowledge”.
+
+<sup>17.</sup>There is a core of truth in all this. The logician soon sees that clarity cannot be achieved without unity and system. The mistake was in trying to construct a system out of concepts without facts. This logical superstition was to dominate scholasticism and thought well into the 19th century, until science with its facts provided a knowledge of reality and thus refuted this pseudo-knowledge.
+
+<sup>18.</sup>When the individual, ignorant of reality, begins speculating, he is dealing with empty concepts. He will put into them no facts, since he does not have any, but an arbitrary content. This is how fictions arise. The entire history of philosophy is one of attempts at replacing old fictions with new fictions. Speculation without facts is fictionalism. Only research can give us facts. When research ceased in antiquity and people thought they could find knowledge epitomized in philosophy without experience of reality, this had to result in superstition. The explanations that were given by the by were never tested in material reality.
+
+<sup>19.</sup>The distinction between form and content in objective respect was to be as misleading.
+
+<sup>20.</sup>Individual objects were thought to be products of form and content. Matter was the potentiality, possibility of reality. Just as Platon held that ideas were also forces acting with finality, so Aristoteles made “form” provide the same service. The “possibility of reality” inherent in form was realized through different stages of development. In this continuous process the lower was always matter in relation to the higher, its formative principle. The highest form was all-embracing reason, the source of power of everything, the deity.
+
+<sup>21.</sup>Obviously, this division provides endless possibilities of fantastic speculations. These were exploited, with the result that thought was ensnared in a hopeless labyrinth. The doctrines of the deity as the highest form of matter and of the ability of matter (the atoms) to attain the highest divine stage have proved to be well-masked esoterisms, as is true of the doctrine that higher matter relates to lower matter as energy to matter.
+
+<sup>22.</sup>In teaching the continuity of matter and denying the existence of absolute vacuum, Aristoteles enounced two esoteric facts.
+
+<sup>23.</sup>Aristoteles wrestled all the time with the same difficulties as Platon: making an exoteric system out of the esoteric knowledge system. But only esoteric facts make a reality system possible. He did achieve his aim, however, of putting an end to the semantics of the sophists. It is only in our times, after a couple of thousand years and the overall fiasco of philosophy, that the principle of subjective arbitrariness has been proclaimed anew.
+
+<sup>24.</sup>Platon’s system can be understood by those who were once initiates of an esoteric knowledge order and have the knowledge latently. They find no difficulty in identifying the causal world with Platon’s world of ideas. But to the uninitiated, restricted to the ordinary way of ignorance, the inductive way, Aristoteles’ system was the only realistic one.
+
+<sup>25.</sup>Of course, Aristoteles knew that the causal world is the world of real knowledge, that causal consciousness can ascertain all the facts required for comprehension and understanding in man’s different worlds, ascertain the causes of processes. But since the causal world was inaccessible to the uninitiated, they had to be shown another way to the knowledge system. That is the inductive way of research, that of ascertaining facts and arranging them into a comprehensible system. This idea may be called ideally correct but unrealizable, since knowledge of all the facts of existence is the dreamt-of final goal of research.
+
+<sup>26.</sup>Platon started from the fact that the causal world of ideas and knowledge is the final goal of human consciousness development, and called it the “truly being” as being the highest attainable stage in man’s development as a man. Aristoteles disapproved of the term, suggesting that the “truly being” is homogenous primordial matter (in which countless cosmoses are formed, and are dissolved once their purpose has been realized). When Aristoteles, in his realistic manner, came to paraphrase what Platon had called the hierarchy of ideas, he tried to show how ever higher forms were possible through higher ones existing potentially in the lower. His method here has obviously never been understood by his disciples. And so instead there evolved the entire apparatus of form and matter, real and possible, which especially engrossed the schoolmen.
+
+<sup>27.</sup>The terms that Aristoteles used: matter, possibility, and potentiality, form, reality, and actuality, mechanical and final causes, were never correctly understood. Add to this the fact that his successors were unable to separate logical ground and material cause, and mixed these up. It is no wonder that the so-called Aristotelian writings evinced obscurities and contradictions.
+
+<sup>28.</sup>Aristoteles was familiar with the esoteric tenet that “form is matter’s mode of existing” (and this in all worlds). By reality he meant what is factual, ascertainable. What could not be ascertained could of course exist as a theoretical possibility. Since only a fraction of material reality is ascertainable in the physical world, the larger remaining part of it exists only as a possibility.
+
+<sup>29.</sup>Ever since reason developed enough for man to have some conception of right and wrong, man has preferred, in his self-assertion and self-importance, to learn only from painful experiences of life, not to comply with other norms than those which have resulted from social coercion. Such concepts of right emerge but slowly from stabilized order to be sanctified by tradition. In social upheavals the respect for law and right is lost once more.
+
+<sup>30.</sup>An individual’s independent conception of right indicates his level of development attained and understanding of life acquired.
+
+<sup>31.</sup>Aristoteles’ view was that of all things being good within the limits set by the laws of life. Outside the law good becomes evil and virtues become vices. In his doctrine of the golden mean between the extremes (the “pairs of opposites” of esoterics) he tried to fix those norms which man must adopt if he is to become harmonious and happy. According to Buddha, this is the path of wisdom.
+
+<sup>32.</sup>“In all relations there can be one measure that is too much, one that is too little, and one that is right which lies midway between the other two. This cannot be calculated mathematically, but reason learns the correct measure through experience. Virtue is the middle way between two vices which are on either extreme side of virtue.” Virtue presupposes experience. Aristoteles thereby introduced the principle of relativity in so far as he showed that the middle way changes with every new situation, appears different from different points of view, and can be defined for the purpose of orientation only.
+
+<sup>33.</sup>“The virtue of courage lies midway between the vices of cowardice and foolhardiness. The coward calls courage recklessness and the foolhardy person calls courage cowardice. Generosity is the virtue that lies between greed and extravagance. Temperance is the right middle way between love of enjoyment and asceticism, popularity between ingratiation and aloofness, meekness between slowness and wrath, etc. ad infinitum.”
+
+<sup>34.</sup>We become virtuous through the habit of acting right, which presupposes experience, common sense, and ability of judgement.
+
+### 5.10 PHYSICALISM
+
+<sup>1.</sup>Along with increasing politicalization and democratization the level of Greek culture fell swiftly, of course, in just a few generations. Imaginative speculation spread more and more. Every wise-acre with platitudes for sale was bound to let the light of his genius shine. The less one comprehended of the great philosophers, the more eager one was to expound them. The itch to write became epidemic. “General education” increased as the ability of judgement decreased, and all praised their “enlightened age”. One cannot help thinking of our times.
+
+<sup>2.</sup>Tired of all that balderdash, the natural scientists of that time limited themselves, as also happened after Hegel, to the visible world and sought for a firm world view within the limits of common sense and physical reality. This view has been called philosophical or scientific materialism. More properly it ought to be called physicalism, since it took only physical matter into account, and there is a whole series of ever higher material worlds.
+
+<sup>3.</sup>Materialism is the only one of the different metaphysical views that it has been possible to confirm scientifically. The atomic theory can no longer be included in “metaphysics”, as it has been traditionally, now that research has so splendidly confirmed this fundamental esoteric fact: all material forms consist of material particles. In the history of philosophy, materialism has represented the sovereign common sense conception of reality, asserting the existence of an objectively enduring external world. The subjectivist theories that deny the existence of the external world refute themselves by always having to admit the existence of matter as soon as they are to explain natural phenomena.
+
+<sup>4.</sup>The physicalist erroneously assumes that the visible world is the only existing one, that organisms are the only forms of life, that the organism’s sense organs are man’s only means of apprehending the material external world.
+
+<sup>5.</sup>The Pythagoreans assert – as the yoga philosophers do – that it is possible for the normal individual, who is willing to undergo the requisite training, to develop organs of apprehension that will enable him to have objective consciousness of higher kinds of matter.
+
+<sup>6.</sup>Physicalism was represented by two philosophic lines criticizing each other, one upheld by Epikuros, the other by Chrysippos. There is little to be told about either of these leading men. Both were industrious writers, but only fragments of their writings have survived. What has survived, however, is the gossip about their private lives, a subject that always seems to be of enormous interest. In order the more convincingly to defeat the views of their opponent, the master’s disciples make him a saint and a wonder of acuity, whereas his opponent is made an indescribably miserable, ridiculous creature, whose conception of existence consequently must be totally worthless. According to the moral fictionalism prevalent, it is the emotionally sovereign “saint” who has a sort of patent on the knowledge of reality in contrast to the mental genius.
+
+### *5.11 Epikuros*
+
+<sup>1.</sup>We have little from Epikuros himself as to what his conception of existence was. The exoterists maintain, however, that his doctrine was faithfully rendered by Lucretius, a Roman who still had access to his writings.
+
+<sup>2.</sup>Epikuros was a materialist in the more restricted sense of physicalist. To him the visible world was the only one. He based his views on Demokritos. It is, besides, through Epikuros and Lucretius that we have learned details of Demokritos’ doctrine, the exoteric atomic theory. Demokritos is perhaps to be considered a materialist, but not a physicalist, for he was by no means ignorant of the existence of the matters of higher worlds.
+
+<sup>3.</sup>The following ideas are the essential ones in Epikuros’ explanation of the world, the facts and hypotheses that are still characteristic of “philosophical materialism”.
+
+<sup>4.</sup>All conception must be based on experience and investigation. Arbitrary supposition is hardly better than superstition. Knowledge is induced from the ascertainment by objective sense of the facts of reality. Repeated observations of the same kind afford certainty that the knowledge is correct. The concepts formed by subjective reason guided by the immediate apprehension of objective sense have to be tested against experience.
+
+<sup>5.</sup>Reality is made up of atoms and empty space. These are the bases on which to explain existence. Time is nothing by itself, merely perception of the succession of events in space. (This agrees with esoterics: time means duration, continued existence, and is merely a way of measuring processes in nature, for example, day and night, seasons, etc., which depend on the rotation of the planet and its revolution round the sun.) The number of the atoms is infinite.
+
+<sup>6.</sup>The formation and dissolution of matter, all processes, from the motion of the atoms to the revolution of the planets, occur in accordance with the eternal, mechanical laws of nature (ananke). The finality in nature that we can ascertain is a special case of mechanical causes endless in number. An ordered cosmos is a special case of the eternal play of atoms during endless time. The purposefulness which makes life at all enduring is due to the fact that precisely what is purposeful is the most stable and is able to communicate, or pass on, its purposefulness.
+
+<sup>7.</sup>The soul consists of matter and consciousness is exclusively a function of the brain. Consciousness is a special quality of organic matter and arises as a result of mechanical causes. Changes in the soul’s state of consciousness are caused by motion in matter. Thinking is thus physically determined, is always the result of external influence. From this it follows that there is no possibility of self-initiated activity.
+
+<sup>8.</sup>To this Chrysippos could have added the following comments.
+
+<sup>9.</sup>The number of the atoms is not infinite, but so great as to be impossible for man to calculate. The only infinite thing is endless space which consists of undifferentiated primordial matter. A cosmos is a globe in primordial matter, and there are countless such globes.
+
+<sup>10.</sup>Only primordial atoms are indestructible, not the matter formed out of them. All material forms of existence undergo continual change. Energy consists of a current of etherically (electrically) charged atoms, “points of force”.
+
+<sup>11.</sup>Matter and consciousness are aspects simultaneously identical and dissimilar. Matter affects consciousness and consciousness affects matter. In this connection we can disregard the fact that it is not actually consciousness that is the ultimate cause of motion, but the third aspect of existence, the eternally self-active dynamic energy of primordial matter.
+
+<sup>12.</sup>Epikuros is not able to explain the origin of consciousness, nor its unity, nor its ability to affect matter, nor the causes of processes or of self-initiated thinking.
+
+### *5.12 Chrysippos*
+
+<sup>1.</sup>Chrysippos, the theorist of the Stoic school, was an initiated esoterician. He decided to work out an exoteric hylozoic system, which has been handed down to posterity duly distorted and ridiculed, in so far as they did not consider it more suitable to suppress it as an ally of Stoicism.
+
+<sup>2.</sup>Physical hylozoics was thus limited to physical reality, physical matter, and the visible world. Kant is proof that this hylozoics has been misunderstood completely. Thinking himself able to judge everything, he pronounced his oft-quoted judgement displaying his actual ignorance: “hylozoism would be the death of all natural philosophy”. On the contrary, it furthers research. The assertion that it excludes a mechanical explanation of nature is erroneous. The laws of nature are fundamental.
+
+<sup>3.</sup>According to Chrysippos there are two equivalent aspects of existence: matter and consciousness. All matter has consciousness.
+
+<sup>4.</sup>Earth originates from water, water from air, air from fire. Everything comes from primordial fire and returns to it in an eternal cycle in accordance with imperturbable laws. Some of these are final, others purely mechanical. Everything has a purpose. Everything in the world is governed by perfect wisdom.
+
+<sup>5.</sup>The deity as well as the soul has a material aspect. The deity is the cosmos and the source of all purposefulness. The soul lives on for a while after death. The foolish spend this time in the nether world; the wise, on the Elysian Fields. Everywhere the knowledge of pre-existence and reincarnation (not metempsychosis) shines through.
+
+<sup>6.</sup>Destiny, which is the will of the deity, leads everything to the deity. Those who do not strive towards the deity of their own accord are sooner or later compelled to do so by the force of circumstances. The evil in existence is a lesser good, necessary to the continuance of the whole, and impels the individual towards the deity.
+
+<sup>7.</sup>Man is responsible for his actions, since he has his reason, the possibility of choice, and the knowledge of what is right. The higher a man stands, the freer he is even where destiny is concerned. The wise man alone is free, rich, and beautiful: free because he wants what his destiny wants, rich because he possesses all he wishes, beautiful because he is natural and only what is natural is beautiful. He fears nothing, because nothing can harm him. The disposition, motive is the only thing that matters. Everything else is adiaphora. Freedom from affects, not to be moved by anything, is the most desirable state, that to strive after.
+
+### 5.13 GNOSTICS
+
+<sup>1.</sup>The effect of the steepening decline in culture combined with the increasing political, social, and economic confusion (as always at the transition into a new zodiacal epoch) and clans on the barbarian levels incarnating chiefly in such times of upheaval, was that of diminishing the interest in the more serious problems of knowledge.
+
+<sup>2.</sup>The hierophants of the esoteric knowledge orders looked in vain for suitable neophytes. The Chaldean Kabbalism in Mesopotamia, the Mithras Order in Persia, Hermetics in Egypt, led a languishing life for lack of aspirants. The Pythagorean Order had to confine its interests more and more to the scientific problems of the esoteric world view. Even the old forms of religion had lost their power over people’s minds.
+
+<sup>3.</sup>In this emergency the Gnostic Order was founded in Alexandria, in 300 B.C.E. It had a mission that was both theoretical and practical. Inasmuch as the life view has to rest on a firm foundation, the knowledge of reality, the founders adopted the essential elements of hermetics, emotionally accentuated, and mental hylozoics. Thereby they possessed gnosis (the knowledge of existence, its meaning and goal). The practical and the most important task of the Order was to use new, free, undogmatic forms of presentation to attract those seekers who, recognizing the inadequacy of the old forms, sought the one true religion, man’s eternal yearning for the divine by whatever name he chooses to call it.
+
+<sup>4.</sup>This original, genuine gnostics has remained secret. Its activity lasted some six hundred years (300 years before and 300 years after the current era). The Order died out as a result of the spread of that Christianity to which it had involuntarily given rise. In the history of philosophy, the Order’s last offshoot has been given the misleading name of “neo-Platonism”, with Plotinos as its best known exponent. The most important of the others were Origenes, Iamblichos, and Proklos.
+
+<sup>5.</sup>On account of the requirements laid down for admission to the Order (the highest emotional and mental capacity), it enjoyed great respect from the beginning. To be admitted was in itself a distinction. The society spread relatively quickly and had lodges in Egypt, Arabia, Persia, and Asia Minor. The members awaited the avatar of whom it had been prophesied that he would be born on the vernal equinox entering the zodiacal constellation of Pisces. And he came, being born in what is now the month of March, in 105 B.C. (according to accepted chronology).
+
+<sup>6.</sup>Jeshu’s parents were of Jewish stock, well-to-do, and belonged to the highest social stratum. Mary had been invited to give birth to the new avatar and, as both she and Joseph were gnosticians, they knew what this meant. At the age of twelve Jeshu chose to join the Jewish Essene Order, which, although secret, was not one instituted by the planetary hierarchy. Jeshu was perfectly aware of the risk to which he was thereby exposing himself. Shunned by all and hated in secret because of his matchless freedom from human faults, he left the Order at the age of nineteen and undertook journeys to India via Egypt, returning to Palestine in the year 76 before our era.
+
+<sup>7.</sup>There he gathered around him a group of disciples belonging to all the esoteric knowledge orders and imparted to them a mass of new esoteric facts about the processes of manifestation, the involution of the monads, etc. A great number of symbols were also by him given a new interpretation. One of these (unknown to other initiates) was that of the three crosses which were set up on the gnosticians’ “altar”. The middle cross represented the saviour of mankind (the planetary government), the two others: the penitent thief (the planetary hierarchy) and the unrepentant one (mankind).
+
+<sup>8.</sup>This work was soon interrupted, however. Accused by the Essenes of revealing secrets, the punishment for which was death, he was stoned, on the orders of the Supreme Council, by a stirred-up mob, in the year 72 before our era.
+
+<sup>9.</sup>In order to preserve the memory of the matchless (a word nowadays misused) teacher, a Jewish gnostician decided to depict a so-called perfect human life, exhorting people to imitation and causing reflection by its harrowing tragedy. The idea existed before, in an ancient Egyptian symbolic tale of human life. Into this he ingeniously worked gnostic symbols and sayings, well-known episodes from the master’s life and what he had been able to gather together of his parables, etc. This first draft was then worked upon individually by some fifty gnosticians of Alexandria.
+
+<sup>10.</sup>Inevitably, in this process gnostic sayings were changed in form and thus gained another import. One example of this is the statement: “No one will come to the father except through me.” This was a reinterpretation of the esoteric fact that before the monad can attain the divine kingdom (the father = the monad’s envelope in world 43) it has to acquire envelopes in the intermediate worlds (the son = the envelope in world 46).
+
+<sup>11.</sup>Innumerable copies of these fifty legends were eventually made and distributed. A religious mass movement came into being, taking its name from its central figure, Christos, the son of god. This almost social-revolutionary movement spread throughout the Roman Empire despite all efforts of the authorities to stifle it. Finally, the only way out was to guide this revolution into suitable channels and turn it into a state religion.
+
+<sup>12.</sup>On the orders of Emperor Constantine, Father of the Church Eusebios prepared the necessary written sources of the New Testament we know. The way he did this will be clear from the fact that in the esoteric history he is named the world’s greatest literary faker. It is desirable that a 46-self should go through the Gospels verse by verse, specifying the origins: said by Christos, said by Jeshu, current gnostic saying, the Gospel author’s own formulations, things altered and added by Eusebios. These are the original five sources. This Testament was accepted by acclamation at a council of bishops summoned by the Emperor (Nicaea, 325 C.E). The educational level of the attending bishops can be gauged from the fact that the only ones present able to read were the Emperor and Eusebios. Perhaps the right to vote is not the infallible proof of knowledge and judgement. The democratic voting system is perhaps not altogether rational.
+
+<sup>13.</sup>The quasi-gnostic writings also had another effect, however. Many who read them believed that the strange learning they then acquired made them ripe for entrance into the Gnostic Order. To most people’s disappointment, however, and to many people’s indignation, it proved that few were chosen of all those who thought they were called.
+
+<sup>14.</sup>However, those who were rejected found a way out. If the arrogant gnostic doctors would not initiate them, they could be “spiritually initiated” and be given power “from the highest authority” to set up lodges of their own. Such lodges, to be sure, sprang up everywhere like mushrooms. It is calculated that there were over seventy quasi-gnostic sects, all frantically quarrelling as to who possessed the one truth and heaping lampoons on each other. (Do we recognize the trend?) It went so far that the true gnosticians altered the name of their doctrine to theosophy when gnosticism became a term of abuse and as such went into that collection of legends called history.
+
+### *5.14 Plotinos*
+
+<sup>1.</sup>Some of Platon’s disciples also became initiated Pythagoreans, but did not go high in degrees. In attempts to make up for the lack of esoteric facts, they adopted many uninterpreted symbols from other societies. It all soon degenerated into the well-known speculation on symbols. The heirs of this “quasi” called themselves Platonists. That Plotinos has been accounted one of them is due to ignorance of the great difference. Under the common heading of “neo-Platonists” the historians have brought together: members of the Pythagorean and Gnostic Orders, “Platonists”, and traditionalist conservers of the teachings of Platon and Aristoteles.
+
+<sup>2.</sup>Explaining the general conception of beauty, Platon said that we had all once beheld the idea of beauty in the world of ideas. That was enough to make every fantast imagine himself thoroughly at home in that world.
+
+<sup>3.</sup>Plotinos, the best known of the “neo-Platonists”, realized that if ignorance was to be prevented from spoiling everything by its speculation, at least the highest thing had to be placed out of the reach of thought. To make further fantastry impossible, the deity had to be freed of the concept of personality and all other degrading attributes. Moreover, in the world of ideas one might have believed oneself to have acquired knowledge through “beholding the hierarchic system of the ideas”, but not surmised what was still more essential, namely the unity of existence.
+
+<sup>4.</sup>Plotinos, who was an initiate, knew that there are higher worlds: the essential (46) world (the buddhi of the Indians) and the superessential (45) world (Sanskrit: nirvana), the worlds of the fifth natural kingdom. Our next higher world is the essential world, the world of unity. But this was not to be told. You could always make a symbolic concept of it, however, and so he made “the One” the origin of everything.
+
+<sup>5.</sup>From the One comes existence, as we know it, in three stages (hypostases). First comes the world of ideas. From this comes the “world of souls” (the mental and emotional worlds), and out of this, finally, the physical world.
+
+<sup>6.</sup>With the “neo-Platonists” appears the old symbol of “creation out of nothing”, which is beginning to turn up again in modern research. Nuclear physics is “splitting atoms” so that “nothing” remains. According to Pythagoras, the atoms of primordial matter seem to be “impenetrable, infinitesimal voids in primordial matter” and thus “nothing”. The cosmos is made up of primordial atoms and thus is “created out of nothing”.
+
+<sup>7.</sup>To Plotinos the whole of existence was divine, even the physical part of it as perfect as it could be. What we consider to be imperfect is merely a lower stage. Evil is a lesser good. Good becomes evil if it prevents man from acquiring something still higher good. All this is esoterics. Life is a school. We are here to have experiences and to learn from them. We learn by identifying ourselves with what to us is the unknown. We free ourselves from lower things in a never-ending process. Every ideal points beyond itself to another still higher one, which we are unable to discover before we have realized the lower ideal and cannot fully understand before we have realized the higher one.
+
+<sup>8.</sup>The conception of beauty, according to Plotinos, depends on a union of symmetry, harmony, and finality.
+
+### 5.15 SCHOLASTICISM
+
+<sup>1.</sup>When the clan that built the Grecian culture ceased incarnating, it was the end of that epoch. Those who incarnated during the Roman Empire worked mainly to give men a life view along with a conception of right. The barbarian clans that incarnated after that lacked all the prerequisites of culture and philosophy. The results that research had achieved were to be forgotten, the knowledge that nature is governed by laws was to be lost, and superstitious belief in the arbitrariness of omnipotence was to replace the common sense natural explanation of causes for close on two thousand years.
+
+<sup>2.</sup>The Fathers of the Church had all originally been quasi-gnosticians. For some reason none but Clemens and Origenes had been initiated. Those who had been refused initiation showed by the way in which they avenged themselves that they were unripe for the doctrine of the initiates. With touching unity they resolved that in the future there should be no reason to concern oneself with philosophy and any other “devilish delusions”. They took pains to purge their doctrine of everything rational that was still left in it. They succeeded beyond their expectations. The systematic destruction of all manuscripts was an unbelievably effective means. Augustine did all he could to separate theology from science for ever. His conception of divine love is informative: “Annihilate all resistance! Kill him who will not convert!” The Church proved ready to learn.
+
+<sup>3.</sup>The Pythagoreans distinguished between three worlds; the mental, emotional, and physical worlds. The Fathers of the Church, who had heard of this tripartite division, but had no idea of what it stood for, invented “heaven, earth, and hell”, also in connection with the Elysian Fields and Hades of the Greeks.
+
+<sup>4.</sup>The intellectual level is best seen in the fact that not even the bishops, with very few exceptions, could read and write. To be able to was almost regarded as sinful. At the colleges where the priests were trained all instruction was given orally. Manuscripts were very rare. They were made to memorize by constant repetition all they needed to know and to say. By applying terror tactics (the fiction of unforgivable sin as a crime against an infinite being who exacts infinite punishment, by spreading fear of death and everlasting Hell), the Church knew how to dominate people’s minds, eventually to become the supreme political and spiritual power, which made and unmade kings and emperors.
+
+<sup>5.</sup>Having acquired the power it desired the Church increasingly felt it necessary to care for the education of spiritual leaders. Universities were founded at which students were taught mainly theology and dog Latin, which became a compulsory “universal language”. The more its power was established, the less cause the Church had to fear criticism. Contacts with the Arabs, who had preserved the knowledge of Greek philosophy, especially that of Platon and Aristoteles as presented by the “neo-Platonists”, provided the Church with some rational ideas. It was not until long afterwards, during the Renaissance, that excavations were to reveal remnants of the literary treasures of Greece and Rome.
+
+<sup>6.</sup>Scholasticism can be divided into three main periods. The first period was characterized by blind belief and irrational conviction. Nietzsche, quoting the well-known saying by Tertullian, one of the Fathers of the Church, remarked satirically that it should not have been “credo quia absurdum est” (I believe because it is absurd), but “credo quia absurdus sum” (I believe because I am an idiot). The second period was characterized by “credo ut intelligam”: I believe in order to understand. That understanding was as might be expected. The third period, still characteristic of the Catholic Church, makes possible a cautious recognition of those results of scientific research which can no longer be denied.
+
+<sup>7.</sup>As the number of rational conceptions increased and occupied greater and greater place in theological fictionalism, reflection slowly began to grow stronger. This enhanced the ability to subject the foundations of the faith, the so-called sacred sources (the Bible, the writings of the Fathers of the Church, and the decisions of the Councils), to critical examination. One result of this criticism was that the Church found itself obliged to appoint professors of philosophy at the universities. They were given the task of employing their minds enlightened by god to combat the critical reason clouded by the devil. Eventually a rich literature came into being. Existing views were wrought into a dogmatics of theological reason and that scholastic logic which was to paralyse thought until well into the 19th century.
+
+<sup>8.</sup>According to Thomas Aquinas, the foremost of the Church’s philosophers, certain dogmas could be proved. Others (for example, the trinity) were beyond the comprehension of reason, but had to be believed.
+
+<sup>9.</sup>The philosophy of scholasticism is largely an adaptation of the writings traditionally attributed to Aristoteles. What in these was not clear and seemed contradictory became the subject of countless acute and, of course, abortive explanations of what Aristoteles really meant.
+
+<sup>10.</sup>There was a whole spectrum of guesses about Platon’s world of ideas, Platonic ideas, the relationship between Platonic ideas and physical natural forms, what Aristoteles thought of these concepts, whether Platonic ideas existed before or in things or produced forms, what Aristoteles meant by potentiality (possibility) and actuality (reality), etc. And the learned still dispute about these and pertaining pseudo-problems.
+
+<sup>11.</sup>The system that Aristoteles had constructed by his inductive method was regarded by the schoolmen as a system of absolute knowledge from which knowledge could be produced by deduction. They also thought that knowledge could be obtained logically by wider and wider generalizations, or abstractions. If only one “thought correctly”, one would arrive at the ultimate abstractions, or the categories, and thus at absolute knowledge. The obscurity of the whole of this labyrinth of thought later misled Kant into constructing a “pure” reason of categories, or absolute concepts.
+
+<sup>12.</sup>The facts of esoterics about man’s different envelopes (one in each world) had reached the schoolmen, in distorted form of course, via Aristoteles, the quasi-gnosticians, and the Arabs. Thus they taught in their psychology that man consisted of three distinct souls: anima vegetativa, which he shared with plants and animals; anima sensitiva, which he shared with animals; and anima rationalis, which was his alone and which was regarded as immortal and divine in origin. The function of the plant-soul was to assimilate nourishment; that of the animal soul, to move, perceive, and desire; and that of the human soul, to think.
+
+<sup>13.</sup>The capacity of reflection grows as it is exercised, unless it is paralysed by idiotization of reason. Despite all the violent efforts of the Church to prevent criticism, restless reflection, once roused, began little by little to discover one absurdity after the other. At the universities they began more and more to differentiate what was true according to theology and what was true according to philosophy. How much theological truth was appreciated is best shown by the stock-phrases that were abroad at that time: “Nothing can any longer be known by reason of the theologians knowing it. The theologians base their doctrines on fables. The philosophers are the only wise men in the world.”
+
+<sup>14.</sup>A reaction set in, however, which sought to stifle all such criticism. The Church, guided by the Inquisition, finally saw, as do all dictatorships, that only by suppression, the abolition of free expression of opinion, force, and, if everything else fails, by terror, can the faith be defended. It was not until the French Revolution that philosophers dared to oppose dogmatism openly. Conditions were almost as bad in Protestant as in Catholic countries. Even in the 1840s, Schopenhauer had to consult a lawyer to see whether he dared publish one of his works. Theology, like any other dictatorship with its tyranny of opinion, prescribes to people what they should think and to research what reality should look like. The Church, the enemy of freedom, began fighting for freedom when it had lost power itself. Typical.
+
+### 5.16 THE BREAK WITH SCHOLASTICISM
+
+<sup>1.</sup>There are two kinds of objective knowledge of reality: that of the world of ideas and that of natural research. Scholasticism had neither. It had nothing in common with the mental knowledge system of esoterics. It did not know more about reality than the little that was preserved in the remnants of Aristotelian natural science. The scholastic system was a dogmatic system of ignorance, criticizing which was forbidden on pain of death. The war that emergent common sense had to wage against it was long and bitter. It was not until well into the 19th century that all the remains of scholastic thought had been swept away. So difficult to eradicate are dogmatic systems ultimately based on emotional arguments. But in the long run no dictators, no lying idiologies, no powers of suppression, can hinder the human spirit in its seeking truth and finding truth, hinder research in its never-ending, continual discovery of reality, or philosophy in its construction of new temporary systems for orientation in the results of research obtained.
+
+<sup>2.</sup>The struggle against scholasticism was so long, because the Church had the privilege to decide what should be taught at the universities and in the city schools that were gradually established. Until the 19th century education was mainly confined to theology, Latin, Greek, and Hebrew and the content of the pertaining literatures. Everything was to follow the traditional style, all departures from which were considered reprehensible.
+
+<sup>3.</sup>The break began with the discovery of classical literature during the Renaissance. Cusanus and Bruno, Galilei and Copernicus were able to stand out as breakers of new ground because all four had gained possession of Pythagorean manuscripts dealing with astronomy, physics, and other matters. In these writings they learned about the heliocentric solar system, the cosmos as being filled with solar systems, etc. The history of science has preserved the names of some of the pioneers of research and free thought. It often forgets the millions of martyrs to the truth.
+
+<sup>4.</sup>New discoveries were now slowly made step by step in most branches of natural science. In metaphysics Bacon, Hobbes, Descartes, Spinoza, Leibniz, and others tried to break the sovereign power of scholasticism and to put something more rational in its stead. Their efforts, however, amounted to little more than fumbling attempts to interpret what of late had been discovered of the teachings of the ancients.
+
+<sup>5.</sup>Usually it was an intuitional idea that prompted the thinkers to build a system. Those who, freed from the universal fictionalism, devote themselves to attempting to comprehend reality in some respect, can experience some intuition concretized into a mental vision. This is so powerful an experience that few can evade its power, but have to devote a life of self-denial to forming the idea into a system with the sparse material otherwise available. As a rule it is, therefore, only the original idea that survives when the outwork has later collapsed. In this way one esoteric idea after the other is inoculated, and thus it gradually becomes possible to prepare for an understanding of the esoteric system. In default of facts, these thinkers take recourse to many arguments which those brought up in scholasticism accepted as proofs, but which the children of a later age often find puzzling and incomprehensible. In order to penetrate these thinkers’ attempted solutions of the philosophic pseudo-problems, one has to be familiar with the ways people looked at things in their day. It was characteristic of profundity that it saw something originally axiomatic in the patently absurd, tormenting itself to interpret this by new absurdities.
+
+### *5.17 Bacon*
+
+<sup>1.</sup>Philosophy, according to Francis Bacon, is the science of existence deduced from a perfect system. This is esoteric. Until you can deduce you have not mastered the system. But from where do you get this perfect mental system?
+
+<sup>2.</sup>The thought systems constructed on the basis of ascertained and systematized facts are means of orientation in a chaos of unsystematically collected, loose facts. Such systems show how far research has advanced. Lacking sufficient facts, the system is supplemented with hypotheses and theories, more or less arbitrary assumptions and guesses.
+
+<sup>3.</sup>Beside these systems of natural science, philosophers and theologians construct their systems, quite different ones. The scientific systems collapse when new facts are ascertained, which cannot be fitted into them. The philosophical systems are demolished when subjected to the battering-ram of critical analysis. The theological dogmatic systems must not be criticized, only admired.
+
+<sup>4.</sup>Bacon, enjoying the protection of Queen Elizabeth, was able to attack the scholastic system, which he called “Aristoteles”. It was a violent, destructive attack on everything that had gone before, even the modest, new groping attempts. Only natural research, ascertainment of facts, description of realities, and the fitting of facts into their correct contexts, provided knowledge of objective reality. The natural scientists were to limit themselves exclusively to the causal laws of nature and to disregard the final ones. The prevailing dogmatic system of ignorance had to be abolished, because it had been allowed to mislead mankind for too long.
+
+<sup>5.</sup>Bacon has been blamed for not putting forward the knowledge system that he alleged he possessed. He has been condemned for many other things as well. When the history of esoterics can one day be publicized, the esoteric axiom that what we know about the great ones is the legend about them will be proved correct.
+
+<sup>6.</sup>Bacon was the head of the Order of the Rosicrucians and the system at which he hinted he taught to those whom he initiated into that Order. In our times a number of Rosicrucian sects have come into being which falsely claim to teach the genuine doctrine of the Rosicrucians, which has never come into the hands of the uninitiated, nor will be permitted to be publicized for a long time yet, because it contains facts about as yet undiscovered forces of nature which mankind would inevitably misuse to exterminate life on our earth.
+
+<sup>7.</sup>As regards that part of the esoteric system which has now been permitted to become exoteric, it should be pointed out that the hopelessly naïve question: “how can they know that?” is of course not answered, since it is not relevant. The esoterician is content to ask the critics to refute the system, a thing which they ought to find simple: to point out its false starting-points, its logical untenability, its inherent contradictions, absurd consequences, etc. There is no other kind of refutation. Anyone who dismisses it all as just a matter of belief (the usual kind of “refutation”) has never examined it logically. The esoteric mental system can never be anything but a working hypothesis where most people are concerned. As such it will, one day, be recognized as the only truly rational one.
+
+<sup>8.</sup>It is only in the rational mental system that one will find agreement between “being and thinking”, between reason’s mental construction and reality. This mental system can be obtained in two ways: by induction or by deduction. Ignorance must go the slow way of induction and analysis, ascertaining facts and synthesizing them. The esoterician goes the quick and infallible way of deduction from the idea system.
+
+<sup>9.</sup>Bacon wanted to replace the Aristotelian system with the atomic theory of Demokritos.
+
+<sup>10.</sup>The few symbolic hints that Bacon made were quite sufficient to stamp him as a superstitious charlatan in the eyes of posterity.
+
+<sup>11.</sup>What ignorance does not understand its authorities call humbug. Before the idea system can be publicized, its fundamental ideas must have been inoculated one by one so that they can be recognized when the time comes for the whole system to be put forward. In fact, it has been publicized too early. The entrance examinations of an esoteric order were designed to ascertain what was latent in the neophyte and which degree he would be able to attain. Because ignorance either rejects or distorts everything it does not understand, apart from the fact that egoism abuses the esoteric knowledge of otherwise unknown forces of nature.
+
+<sup>12.</sup>Bacon never had an opportunity to continue his pioneering philosophic work and was exoterically only able to demonstrate the usefulness of the inductive method of research. His criticism of the scholastic method, however, penetrated so deeply that people have still not yet seen that the deductive method is superior for instruction in schools. At school, young people are to be oriented in a universe unknown to them, not to be sent out to explore it for themselves. In such an orientation you cannot proceed inductively, not if you wish to produce order, method, and clarity in young people’s minds. Fear of dogmatism has misled those who have not seen that cocksureness is a question of “temperament” no matter what method is employed.
+
+<sup>13.</sup>Induction is a method for research-workers who are already orientated and have formed their own systems, even though unconsciously. Otherwise all ascertainment would be at random and incoherent. Loose facts without a system are just misleading. The deductive method makes instruction much more interesting and easier to grasp, since comprehension goes from the universals to particulars. The deductive method, without formalizing conclusions and dogmatism, is the best lesson in systematic thinking. Why at school was one made to learn all those unessential things as, for example, the teeth of carnivores, but nothing about biological evolution? That would have given a meaning to biology. All too many people with latent understanding lose interest in study at school.
+
+<sup>14.</sup>Bacon restored man’s confidence in common sense and taught him to see the necessity of research, to see that there is a difference between logical conclusion, which the most simple mind can learn, and the ability to judge, which presupposes insight and understanding; that the former is a technical procedure whereas the latter requires knowledge of facts; that the judgements of public opinion are not real judgements; that most people judge everything from their own limited conception and in so doing become the victims of their own idiosyncrasies; that learning largely consists in knowing dogmas and other guesswork; that the philosophers have not grasped the philosophic problems but have only thought they have.
+
+### *5.18 Descartes*
+
+<sup>1.</sup>For all its absurdity scholasticism suffered mankind to keep its objective apprehension of the existence of the external world.
+
+<sup>2.</sup>The two problems that mainly interested the philosophers when natural research began again with Galilei concerned the nature of matter and the relationship between consciousness and matter, especially that between body and soul. Descartes, Spinoza, and Leibniz invented different explanations. Hobbes stuck to Epikuros.
+
+<sup>3.</sup>Descartes was to begin his philosophic speculation by doubting everything and came to the conclusion that he could doubt everything except that he thought, and since he thought, he did exist. Skepticism cannot be refuted by that phrase. Nor would the skeptic accept the sophism that reality must exist, since otherwise the deity would be a deceiver who fooled us into believing that it did exist. His proof of god’s existence is equally clever. It goes something like this: If we have an especially fine fiction, then it is correct; otherwise we should not have it.
+
+<sup>4.</sup>Descartes was a subjectivist. According to subjectivism, man’s perception of objective material objects, or of a world outside himself, is purely subjective and not determined by either objects or the external world. Every conceivable attempt has been made to make people believe that they do not see what they see. For example, it has been asserted that objects may not be there at all, that they may be there but that we cannot prove or explain it, that objects perhaps are different from our perception of them, that they are only images in our consciousness. This obsession began with Descartes. Hume, Kant, and Fichte were particularly inventive in their attempts to logically prove the correctness of the subjectivist doubt of the existence of an objective external world. Fortunately, it has been possible to prove all such attempts absurd. The common sense conception has triumphed, as will be explained further on. Objective consciousness is necessary to perceive the external world. What we cannot perceive objectively we cannot know anything about. Thus, superphysical objective consciousness is required to perceive superphysical objective reality.
+
+<sup>5.</sup>Descartes took the term substance from the schoolmen. They had come to know of the concepts of spirit and matter of the Persian religion. Spirit represented light and good, matter darkness and evil. Thus “matter” was banned from speculation. In its place the very vague term “substance” was used, meaning something that could not be explained, something that was assumed to lie behind the qualities of things. By using the term “substance” instead of “matter”, Descartes avoided the risk of being accused an ally of the powers of darkness.
+
+<sup>6.</sup>Everything consists of substance, being that which is independent of everything else. God is “absolute substance”. Man is relative, which means that he consists of two substances: body, which is of material substance; and soul, which is of immaterial substance.
+
+<sup>7.</sup>In fact, these are just new names for Chrysippos’ concepts of the body as visible and the soul as, to most people, invisible matter. The fiction of immaterial substance was definitely a change for the worse, since it implies a contradiction. The word “substance” is just another word for matter.
+
+<sup>8.</sup>Since substance, in contrast to matter, was not supposed to consist of atoms, he had to find ways of paraphrasing it. He made body consist of extension and soul of thought. As a result, the objective concepts were made subjective. By similar tricks all objective concepts were later subjectivized, until everything had become subjective.
+
+<sup>9.</sup>Then the relationship between body and soul had to be explained. This was a pseudo-problem that caused endless racking of brains and gave rise to the most fantastic excesses. The interaction of body and soul, according to Descartes, was brought about through special vital spirits. Others considered that the deity intervened in each individual case, arranging things to everyone’s satisfaction. And some guessed that this constant miracle had been fixed by god once and for all.
+
+### *5.19 Hobbes*
+
+<sup>1.</sup>Hobbes started from scholasticism, but adopted for his philosophy lines of thought from the sophists and physicalists. The following sayings of his can be called esoteric:
+
+<sup>2.</sup>All external reality is material. The soul is also material, though of too fine a kind to be observable. All motion presupposes matter. The manifestations of the soul are, apart from subjective sensations, also movements in matter. Esoterics agrees that thought associations in the brain correspond to physiological functions of the brain cells, but it also maintains that brain substance is not sufficient in itself. Like all other main kinds of consciousness, mental consciousness corresponds to a kind of matter of its own.
+
+<sup>3.</sup>Hobbes is expressing an esoteric axiom when saying that science consists in deducing effects from causes and causes from effects. In spite of his otherwise very vague physicalism without an atomic theory, Hobbes helped by these definitions to establish the physicalist world view in England.
+
+<sup>4.</sup>It is obvious that the physicalists’ conception is immensely superior to all other philosophical theories. They can explore objectively at least one world, the physical world. In so doing they keep their common sense. They do not deny the existence of the external world. Whatever conflicts with common sense, that is to say, the ascertainment of facts by sense, cannot agree with reality. This, too, is an esoteric axiom. Common sense sticks to objective reality.
+
+<sup>5.</sup>Epikuros’ primitive atomic theory remained the predominant one in physicalist circles. After electricity was discovered, the movements of the atoms were explained as being caused by electromagnetic forces. This theory was not abandoned until nuclear physics in the 20th century began its so-called splitting of atoms. These experiments refuted the dogma of the “indestructibility of matter”. According to esoterics, only primordial atoms are indestructible. All composite matter is dissoluble. Nuclear physics, however, attempting to explore the structure of matter, has not reached the physical atom. Long before the scientists will discover the physical atom, matter has become invisible even under the most powerful microscopes. Matter seems to “dissolve into nothing”. This has of course given rise to the assumption that “matter dissolves into energy”. There is no energy that is free of matter. Energy is matter, currents of “points of force”. The higher the kind of matter to which a molecule belongs, the less is its content of matter and the greater its energical effect. Some time, when it will be possible to split the physical atom, a new main kind of matter will be obtained belonging to the emotional world, which is inaccessible to most people.
+
+### *5.20 Spinoza*
+
+<sup>1.</sup>Spinoza started from Descartes. He took from him the terms substance, extension, and thought. But he improved on the theory by making one single substance out of two. Instead, this substance was given two basic qualities: extension and thought (or body and soul: matter and consciousness). He defined substance as “that which exists in itself and is perceived by itself”. God or substance or nature is both reason and law of nature, both formative principle and mechanical necessity. In god we live, move, and have our being. Good is positive, evil is negative.
+
+<sup>2.</sup>It should be added that in esoterics the word “soul” has a dual significance: it means consciousness as a quality of all matter as well as a certain kind of material envelope for the monad.
+
+<sup>3.</sup>Whether, like Descartes, one calls matter and consciousness two different substances, or, like Spinoza, regards them as one substance having two attributes, matter and consciousness remain two different principles, two different aspects. The two different aspects cannot be made identical or parallel. “Monism” obtained in that way is just a play on words. Neither matter nor consciousness can be derived from one another. And what cannot be explained by something else is itself original and its own ground and cause. Consciousness is as absolute as matter.
+
+<sup>4.</sup>To Spinoza, matter and consciousness were different sides of the same reality. Thereby he did away with the pseudo-problem of any special interaction between body and soul.
+
+<sup>5.</sup>Psycho-physical parallelism deprives both matter and consciousness of all independence. Nor can it explain motion (force, energy, proper motion, will). Consciousness without motion is passive. It is ever apparent that none of the three aspects of reality can be omitted or explained away without the result being vague, contradictory, misleading.
+
+<sup>6.</sup>Another problem that the philosophers have vainly tried to solve is that of the relation between freedom and necessity, between freedom and law. Spinoza got as near to the solution as speculation can get. Order determined by law reigns in external objective reality as well as in internal subjective reality. Everything that happens does so in accordance with the pertaining laws. Man is unfree in so far as his actions are always determined by motives and by the strongest motive. He can free himself by working to make any motive whatever the strongest. It has appeared, however, that most motives lie in subconscious complexes which assert themselves automatically and spontaneously.
+
+<sup>7.</sup>Spinoza tried in vain to solve his main problem, that of the contrariety of mechanical and final causes of processes.
+
+### *5.21 Leibniz*
+
+<sup>1.</sup>Leibniz, being an initiate of the Rosicrucian Order, had been taught that existence has three equivalent and inseparable aspects: matter, motion, and consciousness; that the whole cosmos is composed of primordial atoms (monads); that the monads are the only indestructible things in the universe; that all material forms are dissolved when they have served their purpose; that the forms of nature make up an ascending series of ever higher kinds of life; that the monads develop (acquire the ability to apprehend ever higher kinds of vibrations in ever higher kinds of matter) once they have been awakened to consciousness by entering into and acting as envelopes of monads at higher stages of development.
+
+<sup>2.</sup>Of course, he was not allowed, nor would he have dared, to present the matter in this way to his contemporaries, who were wholly unprepared and without understanding. Thus he had to find a way of hinting at truth. The result of all the labour and acuity wasted on it was just a lot of absurdities. One cannot make esoterics comprehensible by exoteric paraphrasing and adaptation to prevalent fictions.
+
+<sup>3.</sup>Leibniz took over Descartes’ fiction of immaterial substance as an essential definition of the monad. As has already been pointed out, substance cannot be immaterial, since substance cannot be anything but matter. In fact, he was in this respect influenced by his esoteric knowledge of higher kinds of matter.
+
+<sup>4.</sup>He contradicted himself when contesting the existence of the physical external world (Berkeley), but nevertheless maintaining that space, time, matter, and motion had relative, though not absolute reality. Without a specification of what one means by absolute and relative in each particular case, any such division is wholly arbitrary and nonsensical.
+
+<sup>5.</sup>Leibniz was a mathematician and became the victim of his mathematical concepts. He took the atom to be “infinitely” divisible. Since there must be a limit to material divisibility, the monad, which is indivisible, must be “immaterial”. It was just a mathematical point of force. (The esoteric definition says: The primordial atom is the smallest possible firm point of primordial matter and for individual consciousness.) In taking this position Leibniz deprived himself of the possibility of explaining the existence of the external world, since even an infinite quantity of nothingness can never form the least material magnitude.
+
+<sup>6.</sup>His difficulty in explaining the relation between body and soul led Leibniz to adopt the baroque fiction of “prestabilized harmony”. This construction unites several ideas which have no particular connection with each other: conformity to law, predestination, analogous correspondence, individual character, the unity of everything, finality, development. God has fixed once and for all the relation not only between body and soul, but also between the mutual perceptions of all monads. Bodies act as though they did not possess consciousness, and consciousness as though it did not possess a body, and both act as though they influenced one another. The monads do not require an external world or each other in order to develop, but it all goes on like a common piece of clock-work inside the monads’ minds.
+
+<sup>7.</sup>One is continually amazed at the immense mass of acuity and profundity that philosophers can expend in constructing one absurdity after the other. In this way pseudo-solutions of pseudo-problems are formulated with such talented persuasiveness that anyone who is not trained in philosophy is always convinced that the philosopher he has chosen to be his interpreter of reality has really found the “philosopher’s stone”. It is not easy for an untrained person to assert himself against the overwhelming argumentation of an acute thinker. How easily even the so-called educated fall victim to a superior mind is shown by the disciples of all the great ones. This is especially manifest when a “philosopher à la mode” appears, one epitomizing the views of his day, or expressing what most people are prepared to accept. Without knowledge of reality the philosophers will helplessly go astray by every new vagary. One ends by thinking that philosophy is not comprehension of reality, but inability to see through fictions, especially the self-constructed ones.
+
+<sup>8.</sup>Another thing one notices in this connection is how strikingly easy it seems to turn the most absurd fiction into an idée fixe just by repeating it often enough. One finds, too, that people have infinite difficulty in ridding themselves of false notions that they have once acquired. Indeed, Bacon considered that in the philosophers’ schools “the adepts learn to believe”. And many people have so fallen in love with their fictional system that they do not want to deal with reality. All philosophy has been subjectivist imaginative speculation in general, or one-sided consideration of the consciousness aspect only.
+
+### 5.22 THE SECOND SUBJECTIVIST PERIOD
+
+<sup>1.</sup>Bacon demolished the scholastic system for every unprejudiced, acute thinker. There were many who tried to put forward new systems. There was not much to them. Voltaire was right in exclaiming: “O metaphysics! We are now just as far advanced as in the time of the first druids.” (The philosophers, instead, have regressed. In recent times they have even tried to disclaim their heritage.) Epikuros’ physicalism as presented by Hobbes made itself felt more and more among natural scientists and objectivists. What else was possible?
+
+<sup>2.</sup>Only objective sense provides objective facts about external, material reality. Unless he has a higher objective consciousness, the individual is restricted to the physical world and thus there cannot be any “metaphysics” (science of superphysical reality) for him. The normal philosopher has only three possibilities: either to accept traditional theology or authoritative esoterics or continue in speculative fictionalism.
+
+<sup>3.</sup>When it appeared impossible to explore objective material reality by objective sense, the thought presented itself that subjective reason should be used in an attempt to explore the world of consciousness. And thus begins the speculation as to the theory of knowledge. Having discovered the existence of consciousness, many people are seized with a desire to investigate it, without any idea of what they have embarked on. It would be easier to swim the Atlantic. (Something for the psychologists to take into consideration.) Those who become entirely absorbed in the consciousness aspect lose contact with the matter aspect and so lose the necessary criterion of truth, which sets a limit to the excesses of imagination. Any attempt at divisions of consciousness except with the aid of matter is doomed to failure.
+
+<sup>4.</sup>For Locke and Hume, the English subjectivists, the main problem was how we acquire knowledge of the external world. They started from sense perceptions as being the only source of all knowledge. (Hence the division of reality into the “world of senses” = the physical world, and the “spiritual world” = the superphysical worlds.) It will be seen, however, that if one concentrates long enough on perceptions only, one will end by seeing nothing but these, as if they were their own origin and the objective apprehension of the objects of the external world was not caused (note this!) and determined by material objects. The subjectivists end by thinking that they can apprehend the perceptions of the objects only, not the objects themselves. The so-called positivists of more recent times have pursued the idea even further, saying that, logically, external material objects consist of sense perceptions, since perceptions are the only things of which we can be conscious.
+
+<sup>5.</sup>The absurdity that the sense perceptions of our physical organism are the raw material of all kinds of consciousness: desires, feelings, thoughts, intuitions, manifestations of the will – is part of these fantastic fictions. For the esoterician there are other ways of apprehending material reality than through physical sense organs.
+
+<sup>6.</sup>Of the three subjectivists, Locke, Berkeley, and Hume, only Berkeley made his subjectivism so absolute as to deny even the objective existence of the material external world. Matter did exist for Locke, though it was incompletely apprehended. Hume considered that the external world might exist, but that we could not “prove” that it did. And one could not say anything for certain about something one could not prove. Mankind’s common, universally valid experience obviously did not settle the matter.
+
+### *5.23 Locke*
+
+<sup>1.</sup>Locke considered, and rightly, that the attempts made by previous philosophers to explain reality were unsatisfactory. He took it into his head that one ought to investigate whether our reason was in a position to solve the philosophic problems. The first thing to do was to determine the possibilities and limits of knowledge.
+
+<sup>2.</sup>This attempt was doomed to failure, as it was when the sophists made it. The notion led to new pseudo-problems. Common sense tells us that we can have knowledge only of what we have experienced and worked up. Our possibilities of acquiring knowledge appear in the results of research: correct prediction and technical application. They are also proof of the correctness of knowledge.
+
+<sup>3.</sup>According to Descartes, man’s ideas were either innate or acquired through objective sense (sense perceptions) or self-made through the working-up by subjective reason of the content of sense. Locke denied the possibility of innate ideas, contending that the child’s mind was from the beginning like a blank page. Reason obtains all knowledge from the objective experiences of sense.
+
+<sup>4.</sup>Inasmuch as it is through objective sense that we get to know the qualities of physical objects, common sense of course thinks that there should be no ground for denying the objects certain qualities. But, being fascinated by the idea that we get all knowledge “from our senses” and thus that everything appears to be sense perceptions, and being unable to explain certain of these sense perceptions (sounds, smells, colours), Locke resorted to the conjecture that certain qualities were subjective only and not simultaneously objective apprehensions. He realized, however, that there was an external world. We are able to make exact calculations of eclipses of the sun and moon and predict a lot of other things. All this cannot possibly be mere coincidence. The objects must exist, but presumably we cannot know more about them than what we can measure and weigh.
+
+<sup>5.</sup>Locke, therefore, quite arbitrarily and with fatal consequences for philosophy, set about dividing the qualities of objects into primary and secondary ones. The primary qualities he attributed to the objects. The secondary ones he denied them. The primary or so-called quantitative qualities, which everybody could measure, weigh, and count, included form, solidity, weight, motion, number. The secondary or “qualitative” qualities included sound, colour, smell, heat, cold, etc. These qualitative qualities were thus supposed to be just subjective perceptions in us which we attributed to the objects.
+
+<sup>6.</sup>By denying the objects certain qualities, Locke deprived himself of his foremost argument when trying to save the existence of the external world. In his self-inflicted helplessness he found a resource in saying that it would conflict with common sense to believe that the world was not such as we apprehend it with our senses. In dividing the qualities it was this same common sense that he had doubted.
+
+<sup>7.</sup>Nor does esoterics admit of any innate ideas. But the monad retains in its subconscious a latent memory of what it has experienced in previous existences. When, in a new life, we come into contact with similar objective or subjective realities, we remember anew experiences we have had, especially if these have been worked up into knowledge, quality, or ability. Without a new contact the old knowledge remains latent.Our difficulty is in knowing what experiences we have had previously. To a certain extent this can be seen from the things that we immediately recognize, comprehend, understand, or find easy to master, whether it be theological, philosophic, etc. systems, or any kind of talent.
+
+### *5.24 Berkeley*
+
+<sup>1.</sup>Once a start was made to deprive matter of some of its qualities, “logical consistency” required that it be deprived of all its qualities. Berkeley was the name of the logician who was also a bishop. He considered that we never perceive anything but our own perceptions. The objects with all their qualities are just a cluster of perceptions held together in the mind. Apprehensions are not objective, not copies of the objects outside us, but copies of the ideas of others. To exist is the same as to be perceived by somebody. There is no external world. The universe with its content exists in god’s consciousness only, and it is god’s thoughts that we take for objective reality.
+
+<sup>2.</sup>Just repeat a thought often enough, and it will become ineradicable in the end. Most philosophers are proof of that. It is very easy to imagine that everything is imagination.
+
+<sup>3.</sup>The subjectivists, who as a matter of fact have idiotized their common sense helplessly, have made two desperate attempts to save themselves from their self-inflicted helplessness. They must have recourse either to god’s thought or someone else’s consciousness as the cause of their own apprehension of the universe. Thus some think that as long as there is just one animal on our earth able to observe the universe, the universe exists. But when this last consciousness has also been extinguished, the subjective universe will have gone. There never was such a thing as an objective universe, you see.
+
+<sup>4.</sup>Such freaks are not explanations, but reason somersaulting out into fantasy. But the philosophers have thought they could explain everything by constructing fictions.
+
+<sup>5.</sup>Such subjectivism is often based on unconscious thinking in circles: conception is a product of the brain and the brain a product of the conception. The subjectivists have thus managed to eliminate the knowledge that the brain is objective material reality and the notion of the brain, the objective apprehension by sense. Subjectivism cannot explain how knowledge of the material external world is possible.
+
+<sup>6.</sup>Physical etheric objective consciousness ascertains that a physical object, say a stone, consists of tiny particles in constant motion. Sophistry, which can never let this be this, but must always make this into something else, says that our apprehension of the stone is false, which is the very mistake of the subjectivists. A stone is a stone and such as we apprehend it with our physical sense in the “visible” world. That it is apprehended differently in another world, in ten different ways in ten different worlds, has nothing to do with our physical apprehension of reality. The nuclear physicists do not know that they have managed to penetrate into a new world, the “etheric world”.
+
+### *5.25 Hume*
+
+<sup>1.</sup>One way of refuting a conception is to demonstrate the absurdity of its consequences. This was the service that Hume performed for philosophy. He refuted subjectivism by dissolving both the subject of knowledge (the soul, the self) and the object of knowledge (the external world with its material content). Everything was mere meaningless perceptions.
+
+<sup>2.</sup>According to Hume, all our ideas derive from sense perceptions. Every individual part of a composite idea derives from observations. We cannot “pass” from subject to object, from subjective consciousness to objective reality; indeed, we cannot even prove that there is an external world. Everything is just ideas constructed by our reason and composed of different kinds of sense perceptions. Hume convincingly made it clear that subjectivism must lead to skepticism.
+
+<sup>3.</sup>There cannot be any self, either, no coherent soul. The only thing we meet with in our consciousness is different clusters of perceptions. The soul is a term of a series of thought associations.
+
+<sup>4.</sup>Hume also contested the validity of the law of cause and effect. Laws of nature are the result of habitual observation. We note what is happening, dividing it into a before, which we call cause, and an after, which we call effect. We have always seen the one following upon the other and assume that they must always do so. The concept of cause we derive from a subjective associative compulsion.
+
+<sup>5.</sup>Hume could not find any difference between temporal connection and causal connection. He did not have the experience of the experimenter, who in his laboratory decides himself the time sequence (cause) and also predicts the effect in each individual case with unfailing certainty. Hume did not realize that the conformity to law of existence is a necessity, since otherwise the cosmos would be a chaos. No single exception has as yet been found to an ascertained law of nature, only that a law of nature did not have the general validity that ignorance assumed it to have.
+
+<sup>6.</sup>Hume was a master analyst unable to synthesize. His intellectual myopia made him unsurpassed as a demonstrator of errors in conclusions, but prevented him from discovering principles or a system in his own thinking. Quite naïvely he started from the philosophic superstition that what cannot be demonstrated by formal logic can always be doubted. A true logician, he put more trust in his logic than in his experience, relied more on his subjective reason than on his objective sense. The unanimous statements of however many individuals had no significance for him. He could deny everything that he considered could not be logically demonstrated.
+
+<sup>7.</sup>Faced with such philosophical superstition, esoterics puts forward the fundamental proposition that the proofs of subjective reason are fictions if they are contradicted by the evidence of objective sense.
+
+<sup>8.</sup>Sense experiences material reality directly and immediately. It identifies itself with the object of its observation according to the law of identity and identification: I am experiencing this. The subjectivists’ contention that one cannot “pass” from consciousness to the material object is a typical philosophical fictitious construction that sounds plausible and has paralysed thought, yet is easy to refute. It is by no means a question of “passing” from any reflected image to the object. The direct apprehension of the object has been made into a representation independent of the object instead of the object itself. The visual picture is not the object. The observation is not a reflected image of the object, but an apprehension of a concrete object. The experience of the object is no arbitrary subjective conception, but an objective apprehension of the object in its concreteness independent of consciousness. The whole of the subjectivist line of thought implies a tautology and a logical regress, and thus is logically absurd. The tautology: what consciousness imagines it has to imagine through its own imagination. The regress: imagination must always be an imagination of something, this is an imagination of an imagination, which in its turn is an imagination, etc. ad infinitum. Thereby subjectivism is logically refuted, which later philosophers (Russell, etc.) have not yet grasped.
+
+<sup>9.</sup>If the objects were not the ground of knowledge, one would not be able in consciousness to distinguish between objective reality and figments of the imagination, not discover anything objective at all. Sense’s objective consciousness is knowledge, since objective consciousness apprehends something that is independent of consciousness, is determined by something that is external to consciousness.
+
+<sup>10.</sup>Sense is objective consciousness. Reason is subjective consciousness. This is the original meaning of the words “sense” and “reason”. Sense is direct, immediate, unreflective experience of reality. The attempt of the subjectivists to explain this psychologically is illogical and misleading, a confusion of logical and psychological problems. Reason is the instrument for working up the content of sense. Reason obtains all its reality material and knowledge material from sense. After testing, sense is always proved right. Our mistakes begin with doubting the correctness of sense, with incorrect working-up by reason, with hypotheses and other kinds of guesswork.
+
+### 5.26 THE PHILOSOPHY OF REVOLUTION
+
+<sup>1.</sup>To properly understand post-scholastic philosophy, one must be fully aware of the intolerable conditions under which it came into being. In most countries full freedom of expression was not possible until well into the 19th century (about 1880). The Church with its dogmatism and fanaticism dominated not only the government, which appointed officials and teachers, but also public opinion with its frantic aggressiveness. The Church (Voltaire had good reasons for his war-cry: “Écrasez l’infâme, Crush the infamous one!”) kept watchful guard that no new ideas were admitted. Thus with incessant bows to ecclesiastical authority and with eager assurances of their loyalty to the dogmatic system of theological tyranny, the philosophers had to treat of the new ideas as being delusions of minds clouded by the devil, which were mentioned just in order to be confuted effectively. A trick frequently used was to satirize and exaggerate to such an extent that the intelligentsia, who would be aware of the method used, must see that the intended meaning was quite the opposite of what was said. The “great Kant” is an example of how even the most glaring satire could pass unnoticed. Unable to perceive his reservation, he dismissed Locke’s entire philosophy simply on the ground that Locke, having demonstrated that we cannot know anything about the invisible, declared that one could prove god’s existence with the same evidence as a mathematical proof. Kant did not suspect that he had missed a wonderful opportunity of improving on the satire by pointing out what a great loss it was to mankind that Locke had omitted to furnish that proof. The following statement by Lord Shaftesbury, Locke’s patron, shows how careful the philosophers had to be. Lord Shaftesbury was replying to a lady who had heard of his saying that “men of sense are really but of one religion” and wanted to know what kind of religion this was. “Madam,” he said, “men of sense never tell.” They knew what their peace depended on. Besides, truth has always been cramped.
+
+<sup>2.</sup>In discussing this matter of dogmatic intolerance, it will not be out of place to say something also about conditions of later times. As a rule it is the professors of the universities who constitute the academic authority, stipulate the dogmas of the day, and decide what is to be considered true or false. Pioneers of research who have not yet conquered a chair and dare to be ahead of their time, so far ahead that academic opinion – slowly lagging behind – cannot keep up, are declared incompetent if they venture to oppose the prevalent views, and are killed by silence. There is a fairly general realization that this had impeded development.
+
+<sup>3.</sup>Even constitutionally guaranteed freedom of expression has its risks. Because of the masses’ lack of discernment, the blinding power of emotional arguments in conjunction with egoistic interests of individuals and classes, the multitude can be persuaded to believe whatever power-thirsting demagogues wish them to. Propaganda, with the psychoses that it enacts, has a great stupidizing effect, as Fascism, Nazism, and Bolshevism have proved millions of times over. The press, film, radio, and television (the “idiot box”) have shown convincingly how swiftly the levels of taste, culture, and discernment even of the so-called educated classes can be debased. Lacking the foundation of knowledge, mankind will be led astray by innumerable fantasts.
+
+<sup>4.</sup>Sometimes there would be a “freethinker on the throne”, who allowed the philosophers to speak freely. Once published (by way of precaution usually anonymously), their work could not easily be suppressed, but was allowed to exert its influence quietly. It has been seen that no tyranny has been able in the long run to prevent the voice of freedom being heard. Another of the lessons of history is that all power is abused whatever its kind (not least that of democracy and the rule of the majority).
+
+<sup>5.</sup>From the studies of those “whose nocturnal lamps enlighten the world” views found their way to the educated classes that were to shake Europe towards the end of the 18th century. At first tentative and cautious, then more and more daring in their struggle against tyranny of opinion and oppression, these propagandists prepared the way for a public opinion that was to overcome the despotism of theological dictatorship. Enunciating man’s inalienable rights with enthusiasm and flaming exultation, they roused enslaved souls from their degradation.
+
+<sup>6.</sup>The philosophers of revolution were typical eclectics. Their propaganda, a mixture of facts, half-truths, platitudes, sentimental romanticism, and revolutionary pathos, inflamed the minds and started a process of dissolution in the established orders, a process that is still going on. The most important of them culturally (a couple of centuries ahead of their times) were Voltaire and Rousseau. Voltaire’s philosophy was a concoction of Newton, Locke, and Shaftesbury. At the same time he propagated the liberal ideas that had revolutionized England. His heroic, untiring, self-sacrificing struggle for justice, tolerance, humanity, freedom of thought, and love of mankind, against all the powers of darkness, cannot be admired too much. In this endeavour of his he had the help of a host of encyclopaedists and popularizers. They made propaganda largely for physicalism, not suspecting the existence of higher material worlds equally bound by laws.
+
+<sup>7.</sup>The apostles of ignorance think that you just have to pull things down and “let in air and light” for the desert to turn itself into paradise. Just proclaim freedom and people will all become saints. Just preach brotherhood and they will all become angels. Just destroy everything that has gone before and you will conjure up the ideal society. Just tell the masses, the ignorance of life, that they understand everything and all life’s problems are no more. Voltaire later realized the risk of popularization: “Once the masses begin to reason, all is lost.” “As soon as the masses embrace a view, it thereby becomes a lie.” (Kierkegaard)
+
+<sup>8.</sup>Experiencing the power of ideas over themselves, and overestimating their power over all the others, in whom they were not latent, these idealists (the cultural élite) overlooked the fact that what was for them, as the cultural élite, a necessary liberation, was not the best for those who saw in freedom only a longed-for opportunity of arbitrariness and self-will. To the cultural individual, lack of respect and irreverence are signs of emotional crudeness and barbarism. That insight found its clearest expression in the ancient Chinese culture, which has now succumbed to the new civilizational barbarism. In true culture everything in the way of dictatorship (lack of rights) is precluded. Knowledge is for those who have already acquired it and with it an understanding of freedom bound by law and the responsibility that goes with freedom. To people at the stage of barbarism, humanity is the same as demanding rights without duties. Equality leads to contempt for everything superior. The fool is not only master of his own wisdom, which is his evident right to be, but he wants to be an authority for the wise too.
+
+<sup>9.</sup>All revolutionary idealists are guilty of these and similar erroneous conclusions. They believe that the ideas that impel them to sacrifice everything for truth, freedom, and what is right, are latent in everybody else as well. They believe that if only a few lead the way, setting examples, everybody else will follow along. How many of these people have with sorrowing hearts seen their ideals, more precious than anything, trampled in the dust by those whom they were trying to help, scorned by egoism and brutality! How many of them have themselves been victims of the blind fury of the released masses!
+
+<sup>10.</sup>There was only one realist among all these sanguine madmen: Rousseau. It was irony of fate that made Rousseau the chosen philosopher of the French revolutionaries, and hence wrongly judged by many. The following quotations from him should suffice. They speak volumes: “The best natural constitution is the wise ruling the ignorant. Democracy is a form of government suited, not to men, but to a race of gods. There has never been and will never be a real democracy.” Rousseau cherished no illusions as to the value of that philosophy, science, and culture which he had before his eyes. He even went so far in his contempt for the superficiality and frivolity of the aristocracy of his day that he declared reason worthless, a thinking man a degenerate animal. Culture and philosophy had helped to deprave man. Voltaire thanked him, sarcastically saying that he “had got a desire for walking on all fours”. Of course people misunderstood Rousseau who by “return to nature” meant liberation from the artificiality and unnaturalness that have always characterized European culture.
+
+<sup>11.</sup>In textbooks, French popular philosophy is usually mentioned in connection with German humanism, revolution of another kind. Lessing, Herder, Schiller, and Goethe were initiated Rosicrucians representing a sovereign point of view quite different even from the professional philosophers (Kant, etc.), who were still dealing with the principle thinking of the stage of civilization. They showed that they had attained the perspective thinking of the stage of humanity, which facilitates contact with the world of ideas. Just as in ancient Greece, it was these humanists, pyramids in the Sahara of German culture, who made their age a time of new brilliance in European history. Until then, German “culture” had been French. These men made out of the semi-barbarian German language a perfect literary language. They roused to life the German individual character and freed literature from the imitation of classical and French examples, and thought from the prevalent platitudinous rationalism. They compelled the Church to discover in the Gospels the message of love, the one and only salvation, hitherto more or less disregarded. They became the protagonists of truth and justice, tolerance and humanity. The true greatness of these men is still not understood.
+
+<sup>12.</sup>Lessing, who has been called the explorer of truth and enemy of lies, emphasized the difference between theological synod dogmatism, the Gospels’ teaching of the Christ, and the esoteric doctrine of the Christ. In demonstrating laws of style, he laid the foundations of modern aesthetics. In his work on the education of mankind he showed the development as to culture and the conception of right from the stage of total ignorance to a final goal in the dim and distant future. The different religions mark different stages of development. No religion has as yet said the last word. Mankind advances step by step, guided by the continuous revelation, through the ideas, of the esoteric knowledge. How far ahead of his time he was appears best in his venturing to point out that reincarnation (not metempsychosis with its implication that man can be reborn as an animal) was the only possible way of combining the deity’s omniscience, infinite goodness, and omnipotence with the evident existence of evil and the seeming injustices of life.
+
+<sup>13.</sup>People’s attitude to new ideas, their intolerance, and manic persecution of all the carriers of ideas, their inability to apprehend reality ideas the final recognition of which can only be forced slowly and with one at a time, have been some of the reasons why the knowledge has been kept secret. The knowledge of reality is only for those who cannot possibly abuse power, for those who are prepared to sacrifice themselves in order to serve mankind, evolution, and unity. Like all the other esoteric knowledge orders, the Rosicrucians taught that the whole of existence is a gigantic process of development. The monads, which in the mineral kingdom have little more than a possibility of active consciousness, in each higher kingdom acquire a higher kind of consciousness, an ever greater share in the cosmic total consciousness. Leibniz had suggested this basic idea, and Lessing contributed several pertaining ones.
+
+<sup>14.</sup>Herder developed a philosophy of history. To the philosophers of so-called enlightenment history was the story of man’s stupidity and brutality. To Lessing, it was the story of slowly awakening reason. Herder saw in it the individual’s striving after individual character. In man, all-nature awakens to clarity and self-reflection. Without going into details, he describes how the soul lives between incarnations in the splendour of bright space and seeks its way back to earth again in order to acquire self-consciousness and self-determination, to develop self-consciousness into total consciousness embracing more and more (esoterically: to acquire more and more ideas of intuition as preparation for an ultimate understanding of the esoteric knowledge system). Herder emphasized that the historian must enter into the ages he describes and try to understand each period from the viewpoint of its peculiar conditions and attitudes. One has a glimpse of the idea of history as awakening reason, an idea that Hegel was to make a great show of, duly manhandling it. “Hume thought that the origin of religion was to be sought in man’s fear of the unknown. Herder considered it to be primitive man’s first attempt to explain existence. The Old Testament, which provided Voltaire with an inexhaustible source of satire, was to Lessing mankind’s first reading-book and to Herder original national poetry. History lived in folk-tale and folk-tale in history.”
+
+<sup>15.</sup>Schiller understood that Kant’s categorical imperative was an attempt to replace the Mosaic dictation, “thou shalt”, with conscience’s “injunction of duty” with a semblance of self-determination, and thus not an expression of true autonomy; that morality is freedom and not compulsion (not even from within), Schiller refused to accept any existing form of religion on religious grounds and any ruling philosophy on logical grounds.
+
+<sup>16.</sup>Goethe, the master synthesist, assimilated most of the collected ideas of mankind. The expert will find everywhere in the sayings of the initiates hints that betray the source of their knowledge. In such cases the historians will search in vain for the original influences. Everyone sets his mark on the ideas according to his individual character. Thus only those capable of giving them an independent expression are ripe for them.
+
+<sup>17.</sup>Being an initiate, Goethe had been given knowledge of certain fundamental facts. For example, he knew about higher worlds and how impossible it must be for a man apprehending only the visible world to try to explain existence on his own. He knew, too, that there was no gulf fixed between consciousness and material reality; that consciousness experiences reality directly and immediately; that matter, motion (energy), and consciousness are different aspects of the same reality.
+
+<sup>18.</sup>All understanding depends on the individual’s share in cosmic reason. All beings have as much of this as they need in order to be able to develop further, as they have acquired experience of and are able to express on their level of development. Man has come so far that he is able to grasp that there is more than just what is visible, that higher existence cannot be understood at a lower stage of development, that man will be able to comprehend the meaning of existence once he has received the necessary facts.
+
+<sup>19.</sup>According to Goethe’s esoteric conception of art, the artist should seek to discover the primordial forms, which in nature’s forms of life strive towards perfection, and to put the universal into the individual like lawfulness in nature. The artist should seek to surpass nature. Only what is expressive of an idea is suited to artistic representation. The arbitrariness of subjectivism Goethe rightly described as lack of discipline.
+
+<sup>20.</sup>It was through Schiller, who understood Platon better than anyone before him, who had cleared away Kant’s verbiage and formed his own rational theory of knowledge, that Goethe learned to understand what Kant with his baroque scholasticism had been unable to explain. Schiller showed that we can comprehend the particular only from the universal, that the idea is the universal and is necessary to correct conception, that the idea makes it possible to put facts into their correct contexts, that the idea can correctly explain reality.
+
+<sup>21.</sup>Like all initiates, Goethe knew that all will attain the highest divine stage via the different divine intermediary stages. The same divine unity of life is in everything, both within all beings (god immanent) and outside one’s own being (god transcendent). It is god–nature which produces everything in everyone, which makes every being attain its final destiny. Religion is the unity one feels when experiencing how in the necessity of life (the Law = the sum total of all laws of nature and laws of life) everything works together to the best possible end.
+
+<sup>22.</sup>We are here to have experiences and to learn from them. Individual character seeks itself those conditions in which to learn. Our development depends on how we employ our time in getting to know reality and the laws of life, acquiring knowledge, qualities, and abilities. We can learn from everything. There is nothing banal, nothing too simple, nor are there any experiences that do not have a meaning if we understand them correctly. As human beings, we become ready for higher tasks when we have learned everything that is within the limits of human understanding.
+
+<sup>23.</sup>It has been thought that Goethe accepted Kant’s abortive construction of the so-called moral law with its duty of obedience, sense of compulsion, and abolition of freedom (once Kant’s fictitious autonomy is seen through). Nothing could be more erroneous. Being an initiate, Goethe knew about the great Law, the sum total of all the laws of nature and laws of life which we ourselves have to seek, to find, and laboriously learn to apply if we are to reach higher, be able to identify ourselves with divine realities. It was this law and not Kant’s fiction that Goethe had in mind.
+
+<sup>24.</sup>God–nature is governed by eternal, imperturbable laws which preclude all arbitrariness of self-will. We obey the laws of nature even when seeking to defy them. We act by them even when believing that we act against them. Evil, too, serves good in its way. The law of development leads everything to its final consummation.
+
+### 5.27 THE PHILOSOPHY OF ROMANTICISM
+
+<sup>1.</sup>Many a reader may think that the whole of this romanticism could be safely omitted in an outline that only intends to trace man’s thinking in its striving after a truly rational explanation of existence. These romantics, however, still play too large a part for that to be possible. It is high time that their fanciful errors were duly pointed out. By and large the history of philosophy is the history of errors. Its significance lies in the fact that it explains the necessity of knowing the facts in order to form opinions, that ignorance without facts about existence only produces nonsensical vagaries and freaks, that one cannot even pose questions correctly until one knows the correct answers.
+
+<sup>2.</sup>The philosophy of romanticism has continued disorganizing mentality, a process that began with the sophists, was continued by the scholastics, to touch bottom with Hegel. What has come since is infantile attempts at mimicry.
+
+<sup>3.</sup>These romantics are the best example of the risk of engrossing oneself in the world of thought so deeply as to lose contact with reality and to take fancies to be facts or axioms. It is so easy to forget that concept and reality by no means necessarily have anything to do with each other. Assuredly, systems are necessary to comprehend reality. But we must be content to construct orienting systems of survey, until we take pains to study the esoteric system. Until then we are to limit ourselves to trying to fit the facts ascertained by research into their correct contexts.
+
+<sup>4.</sup>By his comical saying (accepted by philosophic posterity) that “reality conforms to our concepts”, Kant (like the sophist Protagoras in his time) flung the door wide open for philosophic delusion. In no uncertain terms he indicated the typical tendency of subjectivism, that of sovereign arbitrariness. This becomes evident in him and in his three closest successors: Fichte, Schelling, and Hegel. Reading them one might think one was attending lectures in the emotional world at which were given practical demonstrations of how matter obeys the slightest hint from consciousness, and thus that reality is just a figment of the imagination. Such a mistake would be explainable as in the emotional and mental worlds. But it is not true of our visible world, nor of the world of Platonic ideas. And the physical world is the one we are in and to which we must restrict ourselves when we are to try to comprehend its reality. We shall learn about the other worlds when we get there. They are not relevant in this context. Each world is a thing apart, though there are certain analogies.
+
+<sup>5.</sup>The subjectivists evince an obvious tendency to arbitrariness. In the romantics this arbitrariness appeared in their self-willed interpretation of enduring reality.
+
+<sup>6.</sup>Going by his own titles of his books, the world named Kant the critical philosopher. How undeserved a title of honour that is will be shown when we treat of him. It is a common trait in men that they think they are something that they lack all possibilities of being. Self-deception is great and wish is the father of thought. It was Kant who led philosophy into a cul-de-sac where his echoes are still straying, mentally disoriented.
+
+<sup>7.</sup>Characteristic of Fichte, Schelling, and Hegel is their urge to construct that makes everything superficial, to try to press ideas into artificial pigeon-holes without understanding the reality behind them.
+
+<sup>8.</sup>Fichte and Schelling have been called transcendental philosophers. That ought to mean that they were immanence philosophers and kept within the limits of the normal individual’s possibility of knowledge, that is: within the boundaries of physical existence, the only rational thing to do for those who have not acquired causal sense. In fact they, too, were “metaphysicians”, though of an even more fantastic kind.
+
+<sup>9.</sup>Hegel’s philosophy has been hailed by some as the absolute philosophy. In so doing they have termed irrationality “absolute”. In conceptual respect absolute is what is axiomatic.
+
+<sup>10.</sup>Schelling and Hegel studied everything they could lay hands on in all disciplines, which of course were then still in their infancy, in order to find material for their imaginative systems. They helped themselves liberally from the stream of ideas flowing from the many humanists who, from the middle of the 18th century onward, were actively working to raise the level of culture. They shoved these ideas into the straitjacket of their fictional systems without worrying about the ideas getting very badly mauled in the process.
+
+<sup>11.</sup>The text-books of the history of philosophy give an entirely false picture of this speculation, since the absurdities have been weeded out, the ideas removed from their baroque framings, and the whole thing has thus been made pretty presentable. What commentators, years later, thought they could read into the writings of their predecessors, has often been wrongly attributed to these. You have to go to the romantics’ own works with all their never-ending verbiage, their tiresome juggling with ideas and quibbling over words, to see what they were getting at. Then you will see that their much-vaunted ideas were partly old esoteric ones, partly such as were found in contemporary literature. The only original thing about them was their new formulation. The esoterician will see that what was tenable was not new and what was new was not tenable.
+
+<sup>12.</sup>Many people study philosophy in the wrong way; they take the ideas out of their contexts, causing them to lose the significance they had with the different thinkers. The ideas were known by the ancients but they have been misinterpreted and maltreated in more recent systems. The essential is the very criticism, showing the mental acuity of the conception of the different philosophers’ interpretations, the critique of the many misconceptions of the idea.
+
+<sup>13.</sup>Again and again one comes across phrases like “Spinoza said”, or “Fichte said”, etc., ad infinitum, prefacing something that they never meant in that way. They are thus given credit for ideas they never had, since they misunderstood them. Discoveries and observations of later times are read into their works. They used those words, but did not grasp their rational content or their reality content. One is to beware of the afterwise know-alls who with their platitudes seek to explain what “they really meant”.
+
+<sup>14.</sup>That time is perhaps not all that distant when students of philosophy, reading the works of these romantics, will ask in astonishment how such things were possible, could be written, printed, and generally accepted as rational. As Schopenhauer pointed out, appositely, it is a characteristic trait of the German mentality to see chasms of profundity in what is incomprehensible and to prefer looking up into the clouds for what lies at one’s feet. In scholasticism, too, one finds the same tendency to make everything as complicated as possible and what self-evident incomprehensible by trying to explain it with meaningless profundities. Furthermore, education in those days was markedly scholastic, tying down thought. In the educated, the need to be free of these fetters of thought was so great that they were ready to accept anything that would liberate them from the intellectual tyranny they felt more and more oppressive. Of the different absurdities they had to choose from, they chose the new one that was presented in the very way that appealed to those with a scholastic over-education. Of course there was no possibility of refuting the fantasies by the facts of research, as in those days natural science, which is the only one that can give us knowledge of at least physical reality, scarcely existed.
+
+### *5.28 Kant*
+
+<sup>1.</sup>Kant’s philosophy has had such a destructive and thought-paralysing influence that it is unfortunately necessary to deal in detail with some of the most important of his many arbitrary constructions. It has not been easy to discover and refute their falsity. It has taken a considerable number of philosophers, mathematicians, and natural scientists more than 150 years to scrap all Kant’s fictions.
+
+<sup>2.</sup>It is still with many authors of text-books of the history of philosophy, as well as general encyclopaedias, a seemingly ineradicable stock-phrase that Kant was a wonder of acuity and profundity. Countless scholars have earned themselves doctorates and chairs by his philosophy. Everyone has believed himself able to show what Kant ought to have meant on this point or that. All the different interpretations advanced have been defended with an abundance of evidence. Since nobody has been able to comprehend him, only the most clear-headed have dared to suggest that perhaps the great Kant could have been mistaken on some minor point. In a letter to his friend Beck, Kant himself conceded: “I admit when writing this that I do not even comprehend myself.” (No wonder that he was feeble-minded in the end.) Considering how much is required to reach such an insight, it would not seem too bold to say that this is the best thing Kant ever said. Lichtenberg has pointed out, satirically, that the philosophers, when unable to comprehend Kant, have blamed not Kant but their own reason. Besides, it would seem that Kant’s inability to express his opinion should have been warning enough. No clear-thinking intellect will write thus. “Obscure writing is obscure thinking”. It is about time that Kant is shown up for the sophist he was. Nietzsche characterized him, unkindly but by no means without grounds, as an “overgrown concept-cripple”.
+
+<sup>3.</sup>Kant was a scholastic, logicist, psychologicist, subjectivist, positivist, agnostic, pragmatic, anti-metaphysician, and metaphysician. All these different views have always found something in Kant to profit by. No wonder that he became the authority whom all can refer to.
+
+<sup>4.</sup>Kant’s many errors include, among others, his division of reality into phenomenon and thing in itself; his absurd statement that matter is something totally unknown and devoid of qualities; his abortive inventions of space and time as forms of apprehension, of “pure” reason, the categories, synthetic judgements a priori, antinomies of reason, “practical” reason, the categorical imperative, and the three “transcendent” ideas. And with such madness they have idiotized all students of philosophy.
+
+<sup>5.</sup>Kant was a scholastic. His entire philosophy dealt with the form and content of scholasticism. Strange were the things he made out of them. Form became “pure” reason (void reason without content). Into this form he carpentered twelve different pigeon-holes which he got from the forms of judgement of scholasticism. They were given the impressive name categories (properly: ultimate abstractions). Into these pigeon-holes he sorted all man’s sense perceptions, saying that we cannot apprehend reality in any other way. That is tantamount to saying that we could not apprehend the seas and continents of a terrestrial globe except through the grid of longitudinal and latitudinal lines. He did not indicate any perceptual units that would logically synthesize the psychological perceptions. His categories are arbitrary constructions. And he did not explain how the perceptual units, or concepts, which the sense activity uses, have originated. These units later led to the distinction between what is primary in logical and psychological respect.
+
+<sup>6.</sup>The fact that Hägerström never succeeded in freeing himself from Kant showed in his constant slogan: “Metaphysics is to be destroyed.” It was entirely in Kant’s spirit. That Kant was an agnostic, in spite of his speaking about religion, is clear from his denial of the existence of spiritual reality.
+
+<sup>7.</sup>Kant was a subjectivist. In the first edition of his theoretical work he denies the existence of the material external world, which was allowed to exist in our imagination only. This is obvious from the following quotation: “If I remove the thinking subject, the whole world must disappear.” Or: “The world ceases to exist when we turn away from it.” The baroqueness of this view is illustrated in Kant’s foremost disciple and “heir-apparent”, according to whom: “it is naïve to say that objects do not only exist in our imagination, but also in reality”, and: “geological processes have no objective existence, since no consciousness existed that could observe them. The whole of Laplacean cosmology cannot really be true, because it is a description of things that have never been, since they could only have existed in a brain.” (Parerga § 28 and § 85). This means that we cannot know anything about that which is the objective ground and criterion of our knowledge: the very objects.
+
+<sup>8.</sup>In the second edition Kant tried to “save” the existence of the external world. It is part of the irony of philosophic fate that posterity, believing in Kant’s infallibility, lacking Ariadne’s thread, and being unable to find its way out of the grotesque labyrinth, made the “monster” in it the hugest of all.
+
+<sup>9.</sup>Kant was a psychologicist, by which term is meant a theorist of knowledge who tries to substitute explanations of sense physiology for a logical conception of reality.
+
+<sup>10.</sup>Kant was a logicist. The visible world was a construction of subjective concepts. Subsequent romantics took this as their starting-point and constructed realities out of fictions (as the scholastics did) which had nothing to do with reality. It was not until in the 20th century that it dawned upon philosophers more generally that the knowledge of reality consists of facts put into their correct contexts and that these contexts make up the only real knowledge system. Until this system is completely built up, we must be content with a provisional system to be able to orient ourselves in reality.
+
+<sup>11.</sup>Space and time are no forms of apprehension independent of matter. It is enough to point out that the physical as well as the emotional and mental material worlds, like all still higher worlds, have their own kinds of space (dimension) and time (duration) and that these are determined by the nature of material reality. Through the activity of its sense the child, even during its first year, automatically develops correct “instinctive” apprehensions of a number of qualities belonging to material reality, which qualities later will be formed into concepts through the activity of reason. The automatism of sense is that mainly instinctive, mechanical process – one among the many processes continually going on in the subconscious – which transforms the multiplicity experienced into those perceptual units that make the activity of sense possible or facilitate it. At a higher stage of the development of reason, that activity corresponds to the conception of ideas, which is also a process finding unity.
+
+<sup>12.</sup>The apprehension of space, for instance, is developed by observation of the forms of matter; and the apprehension of time, by observation of the different kinds of time intervals. As a mathematical concept, physical space is constructed by the determinations of its three dimensions in the same way as the other mathematical basic concepts (axioms) are constructed from the elements of experience that sense supplies.
+
+<sup>13.</sup>Sense provides the necessary conditions of, the reality material for, describing reality or ascertaining facts. Reason works this material up by reflection. If the result is not correct, this is the fault not of sense but of reason. Sense observes the sun’s passage in the heavens. The explanation of reason that this is because the sun moves while the earth stands still is not correct. Certain misleading optical refractions (“optical contradictions”) sense will correct by continued observation. Reason’s correct explanations have usually come long afterwards. Reason obtains all its reality material and knowledge material from sense. Reason is our ability to work up, clarify, and construct. Subsequent testing always proves sense right. Our mistakes begin with reason’s working-up, with hypotheses, theories, and all other kinds of explanation.
+
+<sup>14.</sup>A great show has been made of synthetic judgements a priori, that vagary of Kant. The correct explanation of what is aprioristic in our apprehension was given long ago by Platon. According to him, there is another kind of certainty than that of ordinary experience. This certainty is the outcome of remembering anew concepts acquired in previous incarnations. Everything aprioristic is thus obtained ultimately from experience. The infallibility of mathematics, besides, is due to the fact that it is demonstrably an exact construction of axioms obtained from experience of physical reality and of the three dimensions of physical matter. Animals, too, have acquired this same aprioristic certainty, as is manifest from their instinctive and spontaneous trust in life’s universal conformity to law despite their ignorance of grounds and causes. Kant’s definitions of analytic and synthetic judgements are incorrect, being based on his confusing psychological and logical criteria.
+
+<sup>15.</sup>Kant’s many inventions include his so-called antinomies of reason. Of course there are no contradictions in reason itself. The fact that we use quite a number of mutually contradictory hypotheses is due to our lacking the facts required for explanation. Every application of the law of identity is absolute. According to the law of identity, a concept as a concept is absolute. Every deductive conclusion is absolute. Every fact is absolute. Put into relations to other concepts, a concept gets a relative significance. An antinomy of reason would mean that something in the very function of our reason forced us to put facts into the wrong contexts. That is obvious nonsense.
+
+<sup>16.</sup>Also, Kant’s arbitrary division of reality into phenomenon and thing in itself has been misleading. He found the terms phainomenon (physical reality) and noumenon (mental reality) in the Eleatics. Not grasping these two quite correct distinctions, Kant made phainomenon, or the visible world, illusory reality (Erscheinung), matter deprived of all qualities; and noumenon (Ding an sich), unattainable true reality, the incomprehensible cause of illusory reality. Kant also set an entirely arbitrary as well as insuperable bound between what is explored and what is as yet unexplored, between what the normal individual can apprehend and what higher objective consciousness is able to ascertain. In order the more to accentuate this contrariety, Kant re-defined the word “transcendental” to denote the opposite of transcendent. “Transcendental” was to mean “within the confines of human apprehension”. “Transcendent” meant what was beyond these confines, what was inconceivable, incomprehensible, irrational, metaphysical. The transcendental is reason’s working-up of physical experience. (“Transcendent” and “transcendental” are not differentiated in the usage of other languages.) Kant called his a transcendental philosophy. With his habitual obscurity and ambiguity he also called it metaphysical. I was, of course, a long time before it was generally seen that Kant rejected everything “metaphysical” as inconceivable to reason. With his habitual cocksureness he announced that “no metaphysics of the supersensual will ever be written”. Kant would not have been Kant if he had not contradicted himself even here. He states positively that we can know nothing about the “thing in itself”. Nevertheless he makes two quite incomprehensible statements about it, both of which are false, of course. Thus he asserts that matter, which in fact contains all the qualities of life, lacks every characteristic and is absolutely without quality. To speak of an “inner side of nature” (quite correct, of course, esoterically), is, he says, “pure imagination”. He further states that superphysical reality, about which nothing is known, is “beyond space and time”. This misleading expression of Kant has since become familiar as a quotation. Thus Kant meant that space and time belonged to the phenomenal world (the visible world, the transcendental), and not to the metaphysical (transcendent, superphysical) thing in itself. In his ignorance of reality he did not suspect the existence of those higher worlds which esoterics as well as Indian yoga philosophy maintain exist, nor that the expression “beyond space and time” terms the Pythagorean chaos, outside the cosmos. One can well say that Kant, like the schoolmen, did what he could to mislead and stupidize. It is only with the advent of modern nuclear physics that the fetters he tried to forge for scientific research have been shattered. Thereby also vanish the “limits to natural research” that du Bois-Reymond in his day thought he could set. There are no limits to research (albeit to the instrumental one) any more than there are to consciousness development.
+
+<sup>17.</sup>Kant was unaware of the fact that by our feelings we belong to the emotional world, by our thoughts to the mental world, and by our intuitions to the world of ideas. He was quite devoid of any instinct for higher reality, any sense of the experiences had at the stage of the mystic. He was generous with his sarcasm when discussing higher existence than physical life. His criticism of Swedenborg (whom he insisted on calling Schwedenberg) shows that he was incapable of perceiving anything of higher reality. Swedenborg’s works, which contain many esoteric facts in symbolic form, he dismissed as “four quarto tomes replete with madness”. But, anyway, how much understanding is to be expected of one capable of this piffle typical of Kant: “It is easy to see that any sort of presentiment is a figment of the imagination, because how can one apprehend something that does not yet exist?”. Where Swedenborg is concerned, he had emotional objective consciousness and saw in the emotional world many things that he interpreted by the false notions of the nature of that world he had previously formed. All your false notions you bring with you find confirmation in the emotional world. That is why it is called the world of illusions.
+
+<sup>18.</sup>Beside his “critique” of pure (theoretical) reason Kant also manufactured a “critique” of (pure) practical reason. All to be said of this is that there is no such special reason and that Kant’s critique of it is no more a critique than the theoretical one, just an imaginative construction.
+
+<sup>19.</sup>In his first so-called critique, Kant refuted the wise-acre proofs of god’s existence, of the immortality of the soul, and of free-will. According to his theoretical reason, it is impossible for us to know anything about the three transcendent ideas, just because they belonged to the transcendent and not to the transcendental. But when he came to construct his practical reason, he needed them again. Using some poetical abracadabra he made the transcendent transcendental. What we need must be true. By doing this he laid the first foundations of pragmatism, a new sort of logic that made itself a school. There has always been, it is true, a tendency in this direction. Voltaire needed a god and Sundberg, a Swedish archbishop, a hell “in order to keep the peasants in check”.
+
+<sup>20.</sup>Kant wanted proof, however, to support his three transcendent ideas: There are no Platonic ideas. But now there are these three. Without these three there cannot be any moral creature. Experience shows that there are moral creatures. Therefore, the transcendent ideas must exist. And then the somersault: morality, the concept of virtue, cannot have come from experience, since nobody corresponds to the concept of virtue and thus nobody is a moral creature.
+
+<sup>21.</sup>Kant invented “moral law”. The term, it is true, was coined by Fichte, who always carried Kant’s worst inventions to the absurd. But the notion was Kant’s. He called his construction the categorical imperative: Thou shalt. So then we have the schoolman again with his form and content. The form was the “pure” (void) practical reason without any content, with the command: Obey. The content consisted in obedience to the orders of authority as well as to self-made principles.
+
+<sup>22.</sup>The theologians made a new discipline of this invention of Kant: moral theology. First, the three transcendent ideas which Kant maintained existed, on his proving that there was no proof of them. And then, in addition, his impressive reformulation of the old Mosaic law: thou shalt. A firm footing, to be sure.
+
+<sup>23.</sup>According to Kant, moral behaviour consisted in obedience to a rule. We can always know how we ought to behave, he assures with his habitual cocksureness, we have only to see that the rule we invent can be made a law that can be valid for everyone in all circumstances. (An absurdity, even this.) What cannot be derived from a principle cannot be right action. The man whose conduct is not guided by principles is immoral. Thus, for example, one must not let one’s conduct be determined by motives for love, because love is an emotion and not a principle. There was not to be any other feeling than that of compulsion. The satisfaction that comes from duty fulfilled was, even it, questionable. But, of course, this was prescribed for man, a creature which he declared to be irremediably evil, “an animal that needs a master”. Add to this that “the common people (das gemeine Volk) are nothing but a lot of idiots”.
+
+<sup>24.</sup>Allow the esoterician to add one or two comments on these last statements, absurd as they are both logically and psychologically. All conception of right ultimately rests on the understanding of the meaning and goal of life and of its conformity to law. Its conformity to law can be seen in the principle of reciprocity: “an eye for an eye” among barbarians and “do as you would be done by” among the civilized. When acting deliberately man is always determined by motives: physical, emotional, or, when he has definitively left the emotional stage, mental motives. No rules can be made absolute. Action is conditioned by the totality of actual circumstances, which can almost never be foreseen. Even afterwards we often cannot decide whether we acted right. Right action presupposes wisdom, and this is not obtained from rules which, at the best, cannot be more than orienting. The best actions are the spontaneous ones that come from the unconscious once we have acquired the right attitude to life. Anyone who needs to inquire and analyse, to argue with himself, or who needs to be influenced by rules or sentimentality, or be persuaded, does not have the spontaneity that comes from the understanding of life.
+
+<sup>25.</sup>In his theory of justice, Kant requires absolute obedience to the arbitrariness of the governing power and holds that it is one’s duty to submit to inhuman measures. Many of Kant’s sayings demonstrate his inhumanity. Two examples should suffice: “The illegitimate child is beyond the pale of the law, thus society can permit its killing” and: “No law can remove the shame from the unmarried mother.” (What about obeying the law here!)
+
+<sup>26.</sup>Kant’s merit is that he helped us see the absurdity of the imaginative speculation of pseudo-philosophy. But that merit he shares with most philosophers.
+
+<sup>27.</sup>The “post-Kantians” (a very extensive concept if it means all who seek support from Kant) have mostly rehashed what he said, still maintaining that this is what Kant said, that is, a truth with modifications, sometimes very great ones.
+
+<sup>28.</sup>One very typical example of the logical excesses of later Kantians: “If our knowledge were absolute, the laws of nature would stifle all independence of thought in us, and man’s own existence would be without significance. We would either lose ourselves completely in the world or be forced to assert our significance by dogmatic means. As it is, we can go by our experience without hindrance, because the concepts that make experience possible at the same time guarantee man’s sovereignty and freedom by excluding knowledge of the absolute and explaining the part we must ourselves play in the world. Our very organ of knowledge, which prevents us having any knowledge of the absolute, is a mystery and an enigma that guarantees the existence of the absolute and our participation in it.”
+
+<sup>29.</sup>That is an extraordinary example of acute and profound balderdash in Kant’s spirit. There is no single rational word in it, that is, no word that agrees with reality. We become free by ascertaining laws of nature and applying them. If knowledge as knowledge were not absolute (facts in their correct contexts), there would be no knowledge. A mystery and an enigma guarantee nothing. Natural science is not limited to what is visible at the present day. Research is “endless”. When we have explored the physical atom with its content of the whole series of ever higher atomic kinds, only then shall we have attained the omniscience of the highest cosmic world.
+
+### *5.29 Fichte*
+
+<sup>1.</sup>Fichte started from Kant, and his merit was that by exaggerating Kant’s vagaries he made their absurdity even more manifest. His acute subtleties of romantic fictionalism have nothing to do with common sense or reality. Kant, Fichte, Schelling, and Hegel had a profound contempt for common sense, which nevertheless is the prerequisite of acquiring higher kinds of mental consciousness.
+
+<sup>2.</sup>Both Fichte and Kant found it difficult to explain how they arrived at their categories. Kant constructed a “pure apperception” which conjured them up. To Fichte that construction seemed rather suspect, and instead he invented another way of demonstrating the incomprehensible, namely “intellectual outlook” as the ultimate source of knowledge.
+
+<sup>3.</sup>Fichte made it his starting-point that Kant’s “thing in itself” was quite superfluous. If we cannot know anything about it, then of course it does not exist – so: away with it! That annihilated the last bit of material reality. Since reality conforms to our ideas, since everything can exist only in consciousness, it is the self that creates everything. And so he decreed that: “the self sets up a not-self against itself”, and out of itself it conjures up the whole universe.
+
+<sup>4.</sup>The subjectivists, who contrary to common sense have managed to imagine that there is no material external world, in vain try to explain the universally valid and inevitable apprehension of reality.
+
+<sup>5.</sup>Common sense, which in all modesty is man’s highest resort, objects to this that if the objective existence of objects is denied, then all knowledge is reduced to mere fantasy. Objects are the objectivity of consciousness and the corrective of subjectivity.
+
+<sup>6.</sup>Fichte renamed Kant’s categorical imperative (“thou shalt” of the Mosaic dictate), calling it “moral law”. The historians of philosophy and theology have proclaimed this invention a great intellectual discovery. By such-like things they have always known how to paralyse thought and impress the ignorant and undiscerning.
+
+<sup>7.</sup>Fichte, by his denial of material reality, of the objectivity and inevitability of existence, by his grotesque freak that the self creates the whole of existence from out of itself, laid the foundation of German romanticism and nationalist hysteria.
+
+<sup>8.</sup>That was precisely what suited fantasts ignorant of life, imagining themselves creative gods powerful enough to refashion reality. This limitless individualism believed it was able to dictate arbitrary laws to life. These helpless, vain attempts of the romantics to escape reality eventually led to worship of what was irrational, unreal, fallacious, life-falsifying, and consistently, to the complete capitulation of reason “in allegiance to faith”. Nietzsche can be called an offshoot of romanticism, the whole of his production being vehement constructions of 19th-century illusions and fictions devoid of any reality content. In his wake came all those arrogant superman apes. One might have thought that this was rock-bottom. But there does not seem to be any bottom.
+
+<sup>9.</sup>Fichte was the “philosopher” who considered that the individual’s choice of philosophy was determined by his ethical view of existence and thus not by his knowledge or ability to comprehend reality. That is what happens when one deprives oneself of the objective criterion. Everything becomes “fictitious”.
+
+<sup>10.</sup>In his *Addresses to the German Nation*, Fichte asserts that he opposites German and foreign are the same as good and evil. German (the recently constructed) is the only genuine language and the Germans the only real nation. Having character and being German is the same thing. The Germans alone are capable of independent thought. They alone take life seriously. Only with the Germans is it possible to educate the masses. Only the German “is capable of a true, rational love of his nation”.
+
+<sup>11.</sup>That, to be sure, is being a consistent subjectivist.
+
+### *5.30 Schelling*
+
+<sup>1.</sup>Schelling is the typical eclectic, hunting ideas and picking up every one he comes across. Always he had to make something new out of them, so that this was never allowed to be this, but had always to be made something else. Ideas were rehashed to make them fit the jargon, and then launched as new brainwaves. He juggled with scientific, logical, teleological, metaphysical, mystical, and aesthetical concepts. Everything was aestheticized and volatilized. He could publish a paper entitled “The Four Cosmic Ages” in which there was not a word said about any cosmic ages. Kierkegaard, who attended his lectures, called him “a formidable windbag”. One is quite aptly reminded of an orator’s effusion: “We are hunting for a shadow, and when we have found this shadow we stand with ashes in our empty hands”. Was it perhaps when reading something of the sort that Goethe found the apposite satire: “Usually man believes that if only he hears words, then there must be something that can be thought”. Lichtenberg could have added that people regard as brilliant what is beyond their power of comprehension. Or, as someone said: “Not that I understand it, but it sounds well.” Those who are capable of feeling indignant at this joking at the expense of the trumpeted “great ones” have certainly never been among the militant souls for whom it has been vital to find reality and who in this frivolous sporting with sacred truths have only found empty words, phrases, quibble.
+
+<sup>2.</sup>Schelling tried to make a system out of his ideas. It all seemed to be, however, quite nebulous and feebly motivated freaks. Of course it was propounded with all the cocksureness of the born bombast, so that it impressed the undiscerning. But those who refuse to let themselves be taken in are astounded instead at all this sophistry. One can just see how these fictionalists spin themselves up in the cocoons of their own concepts until they mentally pupate. They sit inside with their universe.
+
+<sup>3.</sup>This is not to deny that a lot of it could sound pretty sensible. And there was nothing wrong with his skill at formulations. There were plenty of ingenious aphorisms, such as: “Nature is unconscious spirit, spirit conscious nature”. Under the influence of Schiller’s ideal aesthetics, Schelling coined the phrase: “Beauty is the infinite finitely presented.”
+
+<sup>4.</sup>Despite all their attempts to systematize existence, both Fichte and Schelling finally, at least in veiled terms, had to admit defeat and the fact that they really had not grasped a thing. Mankind is slowly beginning to realize that facts are required before anything can be made of either spirit or nature. Thus, Fichte capitulated by saying that theoretical philosophy cannot solve its problems, but leads on to ethics. Then Schelling, in his turn, makes ethics lead on to aesthetics. In truth a meagre result after so much bluster.
+
+### *5.31 Hegel*
+
+<sup>1.</sup>Philosophers should be studied in their own works and not in any history of philosophy. To know Hegel you must read above all his *Phenomenology of Spirit.* Anyone who, in so doing, will not think himself transported to a home for the insane, will be well suited to “be a swine-herd with the Hegelians”, as the saying went. He has found his calling. “On the uncarved paths of the future he can behold the footprints of an ordering hand.” Those interested can study Phalén’s doctor’s dissertation.
+
+<sup>2.</sup>Hegel was very well-read and familiar with contemporary learning, the writings of the philosophers, and history. He knew how to use it all. Historical ignorance has given Hegel credit for most of the ideas that he assimilated, for example, that some sort of reason manifests itself in history, that contrariety is the fulcrum of development; that the past exists in the present; that the ideas constitute a system, are parts of a whole, that in the system they have relative validity even if, as new, they appear absolute, that they are discovered in the course of development; that the ideas can be negated and that also their opposites contain ideas, since the ideas are inclusive and not exclusive as the concepts are; that the goal of unity, towards which philosophy strives through rational comprehension of reality, the religious man tries to reach through emotion and glimpses, and the artist through the discovery of beauty. All these ideas, simple and clear, existed long before they were made abstruse by Hegel, the most extreme of all the subjectivists.
+
+<sup>3.</sup>The idea of evolution was in the air. It appeared with Herder, Goethe, Lamarck, and others. It had often been hinted at by the ancients: Herakleitos, Aristoteles, Plotinos, and others. Hegel decided to make a system out of these ideas, a process of the revelation of spirit, which produced the universe and especially appeared in the history of philosophy, which was the “innermost part of world history”. Hegel’s idea was that the universal process is a logical or dialectical process and that its actual driving force is contradiction.
+
+<sup>4.</sup>Even in Kant’s time it was seen that the twelve categories on which he based his conception of reality were untenable. They did not see, however, as did Schopenhauer, how preposterous was the whole of the procedure: thinking one could squeeze reality into artificial pigeon-holes. Instead they went on making new categories.
+
+<sup>5.</sup>Hegel made categories of reality, of the history of philosophy, of world history, which he refashioned into a “philosophy of history”. If historical facts would not fit in with his categories, he would just remake history. Trifles like that do not bother a great mind. Like reality, history had a duty to conform to the paths marked out by Hegel’s reason. If reality did not agree with his constructions, so much the worse for reality. If you know what reality should look like, there is no need to ask how it is. The two rational norms, “let this be this” and “accept nothing without sufficient grounds” (“are there facts for it?”), obviously do not apply to “geniuses”. The phenomenology of spirit manifested itself in Hegel’s reason. In the history of philosophy we can trace the evolutionary process of spirit, or how the dialectical self-activity of the concepts produces the universe, state, religion, and finally, Hegel’s absolute reason; all of it purely subjective phenomena, since “objectivity” is an illusion. Hegel’s readers have disregarded his absolute subjectivism, but, admittedly, it is well masked.
+
+<sup>6.</sup>The dialectical world process worked in accordance with a certain method discovered by Hegel: that of thesis, antithesis, synthesis. Hegel had discovered what the well-known truism says that cultural development appears to proceed by contradictions. This is connected with the succession of generations. The new generation, always dissatisfied with conditions, finds most things wrong, which they really are and, jumping to conclusions, assumes that the opposite will be right. It is age-old insight that there is a core of truth in everything; that the importance and applicability of new (rediscovered) ideas are often overestimated. The idea is gone over from every possible angle, again and again ad nauseam. It is put into every possible context, applied to like and unlike. This leads eventually to a reaction against the exaggerations, the reaction itself to be exaggerated. It takes time before an idea is made relative and put into its correct context. That this is how it must always happen was Hegel’s patent, and it was so because that was the way the world spirit worked, but not Napoleon, whom he believed to be the world spirit on horseback. According to Hegel, any change implies a contradiction incarnate. In his sovereign arbitrariness he made the subjective objective and the objective subjective.
+
+<sup>7.</sup>Hegelian thesis-antithesis-synthesis dialectic depends either on objective ignorance and thence possible contradictory hypotheses, or on confusion of absolute and relative, or on confusion of the logical and the linguistic modes of expression. We express ourselves in absolute instead of relative statements. If language contained a number of handy relativisms, then the absence of relativization would be seen to be due to objective ignorance. Presumably, logical formalism has retarded the understanding of the general significance of relativity. The criterion of reason is reality. Contradiction implies misapprehension, ignorance. Reason is filled with contradictions because of its faulty working-up of the content of sense. If subjectivity and objectivity contradict each other, the fault is with subjectivity. Our subjectivity combined with our objective ignorance makes reality seem illogical to us, in the same way as the logic of a deeper insight often seems illogical to the simpler logic of ignorance.
+
+<sup>8.</sup>By the latter half of the 18th century natural research had definitely started in most branches of science. One discovery followed another in quick succession. Schelling and Hegel attentively followed the research of their day. The thing to do was to pluck together material for systems. They took everything they could lay hands on. Not surmising that research was still in its infancy, they thought it had already reached its utmost limits. Thus they could take its material as it was and make the absolute knowledge system out of it. Hegel went farthest in his sovereign enterprisingness. Not only did he construct a system, but thought that he could prove that this was how things must be and not otherwise. The result was grotesque, of course. For example, he tried to prove that there could not possibly be more than seven planets in the solar system, that iron became heavier when magnetized, that the law of gravity contradicted the law of inertia, and other follies. When, later, new discoveries were made that revealed his lack of judgement, his system went down with a bang.
+
+<sup>9.</sup>And what a crash that was! After the 1830’s, anyone who uttered the word philosophy among scientists was laughed to scorn and regarded as feeble-minded. They too have now become philosophers and begun speculating, which is to be regretted.
+
+<sup>10.</sup>The philosophical part of Hegel’s system was spared this fate, because the philosophers tried to save as much as possible of fictionalism. From originally seeking to solve the enigma of existence, philosophy has actually degenerated into an end in itself. It has become the study of the history of philosophy and then, of course, they are anxious to give it all the appearance of rationality and to gloss over the fictions. By trying to “explain” all the absurdities they increase the confusion of ideas. The esoterician can afford to be more ruthlessly frank and to admit that the whole of philosophy is the imaginative speculation of ignorance, and as such misleading. The Uppsala philosophers, Hedvall, Hägerström, and Phalén, especially Hedvall (of whom Hedenius writes: “Karl Hedvall’s brilliant paper on Hume’s theory of knowledge is one of the most original and acute dissertations ever to have been debated at a Swedish university.”), demonstrated that all philosophic systems constructed up to then were logically untenable. They disapproved of the attempts made by the historians of philosophy to psychologize the principal mistakes away and thereby to make the history of philosophy history, but not philosophy. But not even they realized that mental consciousness cannot solve the problem of reality.
+
+### 5.32 THE REACTION AGAINST FICTIONALISM
+
+<sup>1.</sup>The one scientific discovery after the other refuted Hegel’s dictatorial assertions and made it clear that reality was something totally different from the imaginative constructions of fictionalist romantics. The reaction against the speculative systems, which up to then dominated all thinking, was of course violent. Not only the natural scientists, but also the educated public, lost faith in philosophy. Instead they turned to the scientists with their superior common sense conception of reality as to the physical world. People thought that they could do without philosophy. Unfortunately, those physicalists who sought to popularize the scientific overall view did not have the requisite capacity, and this only added to disorientation.
+
+<sup>2.</sup>Scrapping the history of philosophy, however, would just amount to repeating the same errors in thinking. The history of philosophy is the history of errors. Philosophy does not help us either to find “the truth” or to explain existence. It shows us how we should not think. It demonstrates the errors in thinking inevitable for the human intellect. And that is important enough. The only rational outlook for exoteric philosophy is to regard as truth what remains when all mistakes have been made. We shall gradually arrive closer at the truth following the path of discarded mistakes. Once the philosophers realize this, they will treat the attempts put forward at solving the philosophic problems in a totally different and more critical manner. The history of philosophy must be ruthless criticism, not attempts to preserve all sorts of fancy. As it is now, it is largely a series of falsifications. The philosophers’ absurdities have been glossed over, or omitted on the crucial points, to make the whole of it appear more rational, disregarded the fact that the mistakes often have not even been discovered.
+
+<sup>3.</sup>There are only two rational ways of looking of existence: that of common sense or that of the hylozoic reality system. Karl Hedvall, the Uppsala philosopher, with his eminent logical acuity and common sense, demonstrated not only that the direct, unreflective apprehension of reality by objective sense is the only correct one, but also that subjective reason misleads and that sense, which can only ascertain facts, is defenceless against the theories of reason. And this defencelessness makes the philosophic mistakes possible.
+
+<sup>4.</sup>There is no end to research. There is no possibility for man of arriving at any final result as regards existence. The exoteric “truth”, the absolute knowledge system, is the dreamt-of final goal of research. Mankind has still a great deal to do before it has explored the physical world and has discovered all physical laws. To the normal individual, the knowledge of reality is in all essentials a result of natural research. The tasks of philosophy are to be limited to immanent criticism, examinations as to principles, conceptual analysis, and making systems of survey that orient in the results obtained by research. Philosophic criticism shows the faults of the systems, their incorrect bases, inner contradictions, and absurd consequences. This criticism will gradually reveal more and more faults in the systems instead of, as now, trying to gloss them over. In analysing concepts one must proceed cautiously. All human thinking is interspersed with auxiliary concepts, which cannot be dispensed with until they have been replaced with the fundamental facts, either of research or of esoterics. In depriving ourselves of auxiliary concepts we never find the correct concepts, but only deprive ourselves of a necessary material for thought.
+
+<sup>5.</sup>We still have to mention four philosophers, each of whom found and emphasized one Platonic idea especially, one agreeing with reality: Schopenhauer, omnipotent blind will; Hartmann, the unconscious; Spencer, the fundamental principle of evolution; and Bergson, intuition. Admitted that the systems which they built on their ideas were failures. But the ideas themselves got their memorials and thus have been preserved for the history of ideas, the heir of philosophy.
+
+<sup>6.</sup>Finally, some words about pragmatism, (like semantics) infinitely typical of the aberration of disoriented reason, infinitely typical of the unclear concepts and muddled thinking of modern times. It is the arbitrariness of subjectivism in all its glory. Pragmatism is the philosophic counterpart to theology’s jesuitism, which they will vainly try to rehabilitate. Pragmatism is the notion that the end justifies the means dressed up as philosophy. The so-called truth-value of an idea is said to depend on its suitability for achieving a desired end. Lies not only are allowed to be called truth, but are truth, provided they serve a purpose. Nazis and Bolsheviks have also made use of that idea. Pragmatism also includes the attempts to make the scientific hypotheses the basis of the knowledge system. Such attempts are bound to fail since no hypotheses are tenable in the long run. From originally meaning purposeful or fit for life (= true), pragmatism took on an ever wider meaning, something like the philosophy of immanence.
+
+<sup>7.</sup>Looking back on the course that European philosophy has taken during its 2500 years (the zodiacal epoch of Pisces), one finds that mankind has been slow to acquire the reality ideas. Mankind has had to work the ideas into fictional systems in order to comprehend them and preserve them for posterity. Step by step people are being unwittingly enticed into reality by replacing their fictions with reality ideas. The individuals’ need of mental self-activity has been met in that they have been allowed to build their own imaginative systems more or less logical. With infinite labour the individual has to form new world views and life views for himself using the reality ideas that are gradually revealed, until mankind has seen that the knowledge of reality will be inaccessible to human reason until it has realized the superiority of esoterics as a working hypothesis. It is of these ideas that modern conceptual analysis seeks to deprive mankind.
+
+### *5.33 Schopenhauer*
+
+<sup>1.</sup>Schopenhauer’s realistic upbringing, which made him look upon life and experience as the source of all knowledge, saved him from scholastic juggling with concepts. When studying philosophy, he at once saw the baroqueness of constructing categories and building systems out of empty concepts, empty because lacking the content of the facts of reality. The narrowness of his studies (the Upanishads, exoteric Platon, and Kant) prevented him seeing the falsity of three of Kant’s many dogmas: subjectivism, space and time as forms of apprehension, and the division of reality into phenomenon and thing in itself. By accepting these three he ruined his own system. Space is dimension and time is duration. Time is the manner of measuring the succession of events.
+
+<sup>2.</sup>Primordial matter (chaos) is without space. Space arises only with the cosmos. In the cosmos, matter makes the perception of space possible, motion makes the perception of time possible, and the processes of nature make it possible for us to ascertain laws of nature, or causality – all of these things different in different worlds.
+
+<sup>3.</sup>According to esoterics, reality has three aspects: matter, motion, and consciousness. Descartes and Spinoza emphasized the matter and consciousness aspects, Schopenhauer stuck to the motion and consciousness aspects. Since all three aspects are absolute and thus cannot be derived from anything else, any attempt to explain the world which does not take all three into account is bound to fail.
+
+<sup>4.</sup>During all his life Schopenhauer wavered between subjectivism and objectivism. In fact, subjectivism was a theory that warred against the whole of his instinct of life and sense of reality; that was why he emphasized so strongly the causality of matter as a substitute for objective matter. No one has been able to portray reality as he did, no one has so stressed the fact that direct experience of reality is the source of all our knowledge. Sometimes reality is maya to him, fallacious appearance, illusion. But mostly reality is just what it pretends to be. “The character of nature is honesty through and through.” Here he is almost stumbling over Hedvall’s axiom, that it is our theories that mislead us, that our objective sense is defenceless against, at the mercy of, the fictions of our subjective reason with their suggestive power. It was this wavering that made his system replete with contradictions. One understands why Hedvall, to whom all contradiction was an abomination, called him a novelist. Nevertheless, no philosopher of modern times has enunciated so many esoteric truths as did Schopenhauer. Infinitely typically, the greatest philosopher of the 19th century has been the most disdained by the professional philosophers.
+
+<sup>5.</sup>Schopenhauer’s criticism of Kant and of his epigones is among the most acute ever accomplished. He brilliantly refuted most of Kant’s sophisms, the fictitiousness of Kant’s both theoretical and practical “pure reason”. If he had got the opportunity to remember anew his latent esoteric knowledge, then nothing would have been left of Kant, the physicalist.
+
+<sup>6.</sup>It is interesting to note his four distinctions as to man’s primary ways of apprehending reality: the cause and effect of physical processes, the ground and consequence of logical thinking, the self-evident axioms of mathematics which do not need proof, the will’s lack of freedom in that it is always determined by the strongest motive.
+
+<sup>7.</sup>In his doctrine of the will Schopenhauer saw more deeply than any other philosopher. The will, the origin of motion, is the primordial power, eternally blind, dynamic; that is, eternally self-active, inexhaustible, omnipotent. In order to explain how this blind will could produce expedient forms of life, Schopenhauer had recourse to a system of form-furnishing “Platonic ideas”. To that extent he has correctly seen that Platon’s ideas are living forces, causal elementals with ideas charged with energy. (According to esoterics, slowly awakening consciousness in ever higher kingdoms acquires an ever greater ability to appropriate the blind dynamic energy of primordial matter, this energy thus becoming will.) His insufficient psychological insight, which made him overlook the fact that emotionality has its own reality, had the result that he could not retain the theory of the absolute blindness of the will. He made the emotions belong to the will, so giving it some sort of consciousness; a confusion of emotionality and will (cf para 3.4.7).
+
+<sup>8.</sup>Also as an ethicist Schopenhauer holds an exceptional position. He made it clear that, despite all lecturing, a rational morality has never been put forward, that they have not even been able to agree on its content, principles, or motives. What has been produced is a collection of fictions, whims, taboos, and aprioristic soap-bubbles.
+
+<sup>9.</sup>No egoistic motives will do. The only tenable motives are uprightness and sympathy, yet these have never been emphasized in any ethical system, although they can be glimpsed in Rousseau. As is to be regretted, Schopenhauer used that failure, the negative term pity (Mitleid), which aroused Nietzsche’s frenzied opposition. Anyone who suffers with another, just adds to the suffering in the world to no purpose, soon becomes a nervous wreck and so himself in need of help instead of being able to provide help for others effectively.
+
+<sup>10.</sup>Commandments and demands depend on reward and punishment, thus are not categorical, as Kant said, but conditional. Rational and upright action are not necessarily the same thing; what is noble is not necessarily rational, and what is rational is not necessarily noble. Duty and commitment go together. Duties presuppose rights. So-called conscience is a complex of fear, superstition, prejudice, vanity, habits, and other qualities, the proportions varying according to aptitude, upbringing, and influence from the environment.
+
+<sup>11.</sup>Religion also receives its due in an interesting dialogue. One must be able to distinguish between religion, which is man’s longing for the world of ideals, and the Church with its ignorance, lack of judgement, and hatred. With its unending damning and condemning, its intolerance and persecution, its torture and burning at the stake, the Church has forfeited all claims to be an authority on truth and justice. These expressions of hatred condemn a Church the task of which was the preach love. One cannot deny, however, that the Church has also done a lot of good. In an age of barbarism it fought against lawlessness, had a refining influence on crude manners and customs, accomplished charitable works, guarded the inheritance of learning, and encouraged art to adorn its temples.
+
+<sup>12.</sup>Schopenhauer was psychologically correct in his view that those studying philosophy at the universities were not, as they thought, searching for the truth, but for proof of beliefs they already had.
+
+<sup>13.</sup>Schopenhauer thought he could find a common trait in saints of all ages: the killing of the will to live by means of quietism and asceticism. His latent saint’s instinct misled him when faced with the suffering in the world. Quite contrarily to his vital, healthy, realistic instinct of life, he was a theoretical pessimist. This was due, as he saw it, to life being the work of blind primordial will and lacking an absolute meaning or a rational goal. The history of the world, being the world’s court of justice, shows no development, just an endless repetition of aimlessness and irrationality. But that is what it would do if the human kingdom were the highest natural kingdom.
+
+<sup>14.</sup>Of course, such a life view has a life-paralysing effect. According to esoterics, life is not suffering. Suffering is bad reaping from bad sowing. The self (monad) incarnates in order to have experiences and to learn from them, get to know reality and life. It does not destroy the tool (the organism) it needs for this by asceticism and moralism, depressing and devitalizing views. Buddha’s nirvana is not the extinction of the self, not the end but the beginning, an entering into a higher natural kingdom. Even physical life will finally become a paradise, once mankind has acquired common sense, uprightness, and the sense of unity, the insight that what is not love is hatred.
+
+<sup>15.</sup>They have been very annoyed at Schopenhauer’s caustic criticism of the three “philosophasters”: Fichte, Schelling, and Hegel. Instead, they should have appreciated that there was one who dared to object to the scandalous nuisance. Indisputably, he was by far their superior in acuity as well as in sense of reality (apart from his theoretical dependence on Kant’s original, absolute subjectivism). Some time in the future they will see how right his criticism was.
+
+<sup>16.</sup>It is characteristic that it is precisely those who have had a very long sojourn in the mental world in between incarnations who are easy prey to the philosophy of illusion (which says that all matter is illusion).
+
+### *5.34 Hartmann*
+
+<sup>1.</sup>Eduard von Hartmann’s contribution to the history of philosophy consists in his assertion of the idea that the unconscious is a basic factor in existence and necessary to the understanding of reality. Except for this idea there would be no reason for mentioning him, for he produced nothing else of enduring value. As usual in philosophy, the framework into which he put this idea was an abortive construction. The idea itself was in no way new. It is suggested in the Pythagorean system. (The monads are unconscious to begin with. Their consciousness and consciousness activity develop in the process of manifestation.) Hartmann often had recourse to the unconscious as a mystical basis of explanation when no other explanations were available. One should not do so, of course, although the psychoanalysts do it.
+
+<sup>2.</sup>Despite the fiasco of Kant and Hegel and despite Schopenhauer’s annihilating criticism, Hartmann had not seen the preposterousness of constructing categories. As is always the case with the subjectivists, whenever they have to deal with the annoying external world, he started from the scientific ascertainment that matter exists, since this is the only possible basis of explanation. Having thus become able to use the facts of research, the objective was made subjective, as with a wave of the wand, and fitted into pigeon-holes that he had constructed.
+
+<sup>3.</sup>Hartmann is a typical eclectic, collecting all the ideas of his predecessors and trying to make a system out of these ideas. His system impresses the reader by its many-sidedness and wealth of content.
+
+### *5.35 Spencer*
+
+<sup>1.</sup>Herbert Spencer started from the results of natural research and tried to combine ascertained facts into a knowledge system. Through their surveys such systems facilitate orientation in the disciplines. The system shows how far research has advanced. As a matter of principle he refrained from allowing subjective reason to try to judge anything that could not be found in the content of objective sense. He is thus the typical immanence philosopher with the correct instinct that what conflicts with common sense cannot agree with reality. What is absurd is useless as a working hypothesis.
+
+<sup>2.</sup>Even before Charles Darwin, Spencer developed his theory of evolution, according to which evolution is a progressive change from incoherent homogeneity into coherent heterogeneity of structure and function. The idea of development had, of course, begun to be noticed as early as in the 18th century, by Lamarck in particular. But it was only after Spencer had demonstrated the universality of the law of development and its validity in all spheres of life, especially biology, sociology, and psychology, that it really made headway. His “system of synthetic philosophy” was the summary of contemporary learning. One can object that he made far too much use of the principle of analogy. Society is not a physiological organism. When analogy is pressed too far, it confuses more than it explains.
+
+<sup>3.</sup>Esoterics holds that mechanical events, being in accordance with eternal laws of nature, serve the great cosmic purpose: the development of every atomic consciousness from unconsciousness to omniscience. The experiences of the individual consciousness and the working-up of these are added to that fund of latent experience in the subconscious which is steadily increased throughout the incarnations and makes it possible for the individual to comprehend and understand more and more, to acquire knowledge of reality and life, discover the laws of existence and learn to apply them rationally. Being purposeful, the laws of life make consciousness development possible.
+
+<sup>4.</sup>Of course, Spencer did not find favour with the professional philosophers. Otherwise they should have seen that he was really a model philosopher, whose task it should be to orient in reality and supply surveys of the accomplishments of research. Instead, philosophers nowadays actually just concern themselves with their so-called theory of knowledge, the problem of the possibility of knowledge. When the philosophers have elucidated the philosophic pseudo-problems and the errors in thinking of the great thinkers, they will be able to turn their attention to summing up the results of research into reality.
+
+### *5.36 Bergson*
+
+<sup>1.</sup>Bergson came into contact with esoterics while still being educated. He had the opportunity to acquaint himself with its ideas and later used as many of them as he himself understood or could employ for his exoteric philosophy.
+
+<sup>2.</sup>According to Bergson, space is homogenous and a quantity without quality. That is both right and wrong. Infinite, limitless space, which in itself contains countless cosmoses, is itself homogenous. But at the same time this “space” is the very primordial matter, which possesses all the inexhaustible qualities of life such as they appear in atomized manifestational matter.
+
+<sup>3.</sup>Time lacks dimension. Using a line to symbolize time was a failure, a thoroughly badly chosen simile which has given rise to many misconceptions. Only space has dimension. Time is that unity which links the past to the present and the future. Time is durability, continuous existence, duration. Objective time is always connected with space in a succession of events. It is a measure of processes and therefore can be divided into periods, or time-cycles. Time is both objective and subjective. The cosmos (in primordial matter) consists of manifestational matter and is that which we can term space in which all worlds exists. Time is a way of measuring the total process in which all events occur. Space as well as time can be divided into units however small and, for us, are ways of measuring and grading.
+
+<sup>4.</sup>According to Pythagoras, the cosmos is filled with interpenetrating material worlds of different degrees of density, down to the coarsest, the physical world. None of these worlds is unreal, a fallacious reality, an illusion. All have objective material existence. Of course, beings in lower worlds are unable to apprehend objectively matter in higher worlds. But they are able to perceive subjectively the vibrations from those higher worlds, although they are unable to attribute these expressions of life to higher kinds of matter. Only esoterics can give the requisite correct explanations of these phenomena.
+
+<sup>5.</sup>The past exists in the present. To a causal self, there is no past of the planetary atomic worlds 47–49, nor is there to a 43-self of the solar systemic atomic worlds 43–49. The monad learns from all its experiences and, therefore, is continually developing. Both the internal world of consciousness and the external world of matter are constantly changing. The concept retains what is universal, characteristic, common in a number of individual things.
+
+<sup>6.</sup>The intuitional idea of “creative evolution” was the one Bergson was most successful in formulating. The great cosmic evolution does not work according to a predetermined plan. Only the final goal is laid down: all monads acquiring omniscience about the whole cosmos. What Bergson grasped clearly was that evolution itself creates the conditions and possibilities of its growth. These conditions, however, depend on the individual character of every being, from atoms to planets, solar systems, etc. (Since all matter has consciousness, every material form is a being on a certain level of development.) The past thereby limits the possibilities of the future. A rigid plan would set aside the law of freedom according to which every monad has the right to the freedom (conditioned by insight and ability) it has once acquired and continues to apply lawfully. Evolution feels its way forward along every conceivable path in order to find the one most expedient for each and all.
+
+<sup>7.</sup>Another intuitive idea of Bergson appears in his assertion of the possibility of intuition. By teaching this he was going right back to Platon. It is intuition that opens up the world of ideas for us. It is a special organ of knowledge that gives us correct ideas, correct knowledge of reality. Only a few human beings have worked their way up through the different “layers of consciousness” of the mental world and succeeded in conquering the consciousness of intuition. Even most philosophers are still in the lowest two domains of deductive thinking and principle thinking, respectively. One cannot speak of true intuition until the individual has acquired and mastered perspective thinking and system thinking. The “intuition” that Bergson tries to describe, however, is rather the latent synthesis of experiences which constitutes the individual’s self-acquired, unconscious system of thought and spontaneously determines his conception of reality and life.
+
+### *5.37 Conclusion*
+
+<sup>1.</sup>At the present time mankind is passing through a new period both subjectivist and skeptical. This is the result of the break-down of theological dogmatism, of the dawning insight into the fictitiousness of philosophic speculation, and of nuclear physics splitting the dogmatic concepts of natural science. The older systems have disintegrated in their entirety, it not being possible to put a new exoteric system in their stead. Consistent subjectivism leads to complete disorientation in existence, sovereign arbitrariness, lack of principles, and irresponsibility.
+
+<sup>2.</sup>Since the conception of right comes from the life view, which in its turn is based on the world view, the general disintegration of systems had led to a disintegration of the concepts of right and justice, and thus to general lawlessness. “People often feel profoundly uncertain as to what is right and wrong. They are not even certain whether right and wrong are anything but old superstition.” The theologians are much to blame for this state of affairs, since they have stubbornly opposed the reconciliation of religion and science. They seem unable to free themselves from the illusions and fictions of the prevalent religion.
+
+<sup>3.</sup>Just as there can be only one religion (common to all wise men of all ages, namely, the religion of love and wisdom), there can be only one philosophy (one true system of thought) and one true scientific conception of physical reality. When, eventually, research by induction has been able to construct that system, it will have attained its goal. But this still is a very distant goal.
+
+<sup>4.</sup>As long ago as 600 B.C.E., Buddha made it clear that human reason cannot solve the problems of existence, cannot solve the problems of philosophy.
+
+<sup>5.</sup>Esoterics is the summary of those basic facts about reality and the meaning and goal of life which have been provided by the planetary hierarchy and have always been available to the élite in secret knowledge orders, but which are nowadays permitted for publication. Without this knowledge people will always be disputing about all the fundamental problems and every thinking man will waste his time on laboriously acquiring his own fictitious conception of existence. Only esoterics constitutes the common basis of religion, philosophy, and science.
+
+<sup>6.</sup>Hylozoics compels reason to accept the only “working hypothesis” that agrees with reality and can never be replaced with something better in the future.
+
+<sup>7.</sup>The philosophers have always been hunting for what is “universally valid and necessary”, what is logically inevitable. Hylozoics, correctly understood, shows us precisely what is “logically necessary”, logically inevitable.
+
+<sup>8.</sup>Neither religion, nor philosophy, nor science can present an unshakable basis on which to build the life view.
+
+### SUPPLEMENT
+
+### *5.38 Contemporary Philosophy*
+
+<sup>1.</sup>Throughout the ages the philosophers have sought – albeit gropingly, instinctively – some kind of explanation of existence, of the meaning and goal of life, sought to answer the three questions of the Sphinx: Whence? How? and Whither? They have not been able to see that this is impossible, since they have been lacking knowledge of reality and the prerequisites of this knowledge. They still do not surmise that visible reality is a tiny fraction of total reality. They are still as certain of their misconceptions as priests and medicine men of all ages.
+
+<sup>2.</sup>Philosophy is limited to physical reality and therefore, physically, all philosophy remains physicalism and, superphysically, subjectivism: speculations without reality content. In order to speak about the superphysical one must have factual knowledge of the superphysical worlds.
+
+<sup>3.</sup>Knowledge of reality consists in a system of subjective reality concepts, based on and agreeing with the facts of objective, material reality. When these facts have been ascertained and put into their correct contexts (historical, logical, psychological, and causal), man will have true knowledge of reality.
+
+<sup>4.</sup>The philosophers lack superphysical objective consciousness and thus are unable to ascertain facts in the superphysical worlds. The philosophers are beginning to realize this, which is a great step forward. They realize that what is not susceptible of objective study remains subjectivism. The history of philosophy demonstrates that all philosophy has been subjectivist; imaginative constructions without correspondence in reality. But the conclusion drawn from this common sense insight by the modern philosophers is false. The fact that the philosophers have failed certainly does not prove that there cannot be any knowledge but of the physical.
+
+<sup>5.</sup>When thought without facts occupies itself with superphysical things, it remains subjective and is incapable of seeing its own subjectivity. The logical demonstrations of the old philosophers remained wholly within the framework of subjectivity and lacked the criteria of objectivity, and so their speculations never agreed with reality. It is not the fault of logic if it is used improperly.
+
+<sup>6.</sup>Science seeks to explore physical but not superphysical reality. It does not know yet that physical matter is composed of superphysical matter and that the causes of processes are to be sought in superphysical material reality.
+
+<sup>7.</sup>Psychologists concern themselves with the consciousness aspect. Lacking superphysical objective consciousness they have to limit themselves to consciousness such as it manifests itself and can be apprehended in the organism.
+
+<sup>8.</sup>Modern philosophers have drawn the extreme conclusions from the total fiasco of philosophy or, rather, of subjectivism. They wonder whether the traditional reality concepts are subjectivist abstractions with no counterparts in reality and they have therefore begun to discard all such concepts, not knowing that these reality concepts were obtained from the esoteric knowledge orders. They do not realize that also their new speculation is subjectivism. Indeed, they are trying to discard the concept of “objective reality”.
+
+<sup>9.</sup>The inability to judge correctly affects reality. Or what should be said of this profundity?
+
+<sup>10.</sup>“It is a naïve idea that reality is an objective quantity given once and for all. Three men look at an elephant and each has a different perception of its size. Thus in reality it is three different elephants they see.”
+
+<sup>11.</sup>Apparently people can no longer see that there is a difference between subjective perception and objective reality. The philosophers have thus reverted to the subjectivism and individualism of the sophist Protagoras. Measurement will show that it is a matter of three individual, wrong perceptions of one and the same elephant. There can never be more than one elephant.
+
+<sup>12.</sup>In all ages common sense has mistrusted the speculations of the philosophers and this innate instinct for reality (acquired in previous incarnations) has always been proved right. One asks why it is that in all ages philosophers have disdained common sense which, after all, is man’s highest sense.
+
+<sup>13.</sup>The fact that it is possible to reject that objective perception of reality, which the monads have acquired during their evolution through four natural kingdoms, is sufficient proof of reason’s possibility of error.
+
+<sup>14.</sup>Just as the culture (literature, art, and music; though not just any kind of literature, art, and music) or our times in all respects has embarked on paths that lead to cultural disintegration, the same is true of modern philosophy.
+
+<sup>15.</sup>A thinker like Bertrand Russell has managed to keep his common sense as for his life view, but the same cannot be said of his epigones. (It is by no means unimaginable that they could be reincarnations of Greek sophists.) They do not even know what common sense is, believing as they do that the perception of universal human experience is wrong and not surmising the rationality of existence. They believe that they are able to construct a new way of seeing (so-called semantics, a new kind of delusion), thus making the last error bigger than the first. This is to declare philosophyical reason bankrupt. Philosophy has more than ever become the discipline that strives to explain what is self-evident (being the result of mankind’s collected experience) by absurdities. Philosophy, originally the slave of theology, has now become the slave of physical science. Poor mankind!
+
+### *5.39 Bertrand Russell*
+
+<sup>1.</sup>Russell is undoubtedly the best object of study for the esoterician wishing to illustrate the philosophic-scientific world view of our times with its merits and limitations. He is the most suitable one for many other reasons too. He has demonstrated the fictitiousness of the alleged knowledge of theology, philosophy, and science, which mankind has inherited from its ancestors down the centuries. He has tried to free people from the enormous burden of theological dogmas warring with reason and moral taboos hostile to life, which make it impossible for people to live together without friction. He has shown up the faults of the political idiologies of our times: capitalism, socialism, fascism, Marxism. He has demonstrated the necessity of finding a new basis for life view. In one word, he has tried to work for a reformation in most spheres of human life.
+
+<sup>2.</sup>Russell’s influence is quite understandable. His common sense combined with his freedom from traditional dogmas of thought in all spheres of human life, his vast education, his historical and socio-political orientation, his intellectual honesty and passionate truthfulness, have given him an authoritative position in the philosophic and scientific thought of our times.
+
+<sup>3.</sup>From his childhood Lord Russell was, of course, inoculated with the religious and social delusions of British Society. But once an intellect like Russell’s is roused to subject these dogmas, mankind’s veritable original sin, to logical and factual analysis, not much is left of all that which mankind still accepts as truth. But this calls for more than acuity and analytical ability. It calls above all for courage: courage to think, courage to examine tenability, courage to doubt even what one has oneself accepted, courage to communicate the results of one’s work, courage to stand alone, abandoned by everybody, facing an entire world.
+
+<sup>4.</sup>The first reactions from his social milieu, academic opinion, the learned, and his friends, were violent. Later, when his criticism hit the political beliefs of the multitude, there were mob riots.
+
+<sup>5.</sup>Like all pathfinders in the jungle of illusions and fictions of human ignorance, Russell was held guilty of sacrilege and was persecuted by the mob of all social classes.
+
+<sup>6.</sup>It is by no means true, as the Brahmins maintain, that a higher social caste is proof of a higher stage of development. Individuals at all stages of development can incarnate in any caste. It all depends on the law of reaping, the law of destiny, or one’s self-chosen life task.
+
+<sup>7.</sup>In what follows only two aspects of Russell’s production will be dealt with: Russell as a theorist of knowledge and as a social philosopher in a wider sense.
+
+<sup>8.</sup>This account of Russell’s views is given with a reservation. It stands to reason that a thinker who has throughout a long life of research-work published book after book will also correct opinions previously entertained. Continually increasing insight entails continual modifications. Russell never stopped to ask whether his latest work contradicted what he had previously written. Thus, when statements made in one of his books are criticized, it does not necessarily mean that they will reflect the final views that Russell may have had on the matter.
+
+<sup>9.</sup>Russell’s endeavour has been to set mankind free from innumerable thought-paralysing dogmas in most spheres of life, not only the historically established ones, but also contemporary fictions proclaimed as great intellectual discoveries.
+
+<sup>10.</sup>First Russell’s world view will be discussed as regards philosophy and science, with particular criticism of pertaining conceptions.
+
+<sup>11.</sup>In a second part his views as to theology, politics, and general social philosophy will be scrutinized.
+
+### 5.40 WORLD VIEW
+
+<sup>1.</sup>The thinking man wishing to obtain a conception of existence acquires a world view as regards external, objective, material reality and a life view as to emotional and mental life belonging to internal, subjective consciousness.
+
+<sup>2.</sup>The very material of knowledge is made up of ascertained facts. These are compiled by science into theories and are explained by hypotheses. Theories can be divided into historical, logical (factual), psychological, and causal. A theory is complete only if all the facts are ascertained about the subject matter in question. This is practically never the case. A hypothesis has to be abandoned when it cannot explain also new facts that may be added. The duration of a hypothesis has been calculated statistically as ten years on the average.
+
+<sup>3.</sup>Scientific research has already filled whole libraries with facts concerning the three aspects of existence: the reality of matter, motion, and consciousness. Chemistry, geology, astronomy, and biology are considered as being the basic sciences of matter; physics as that of motion; and psychology as that of consciousness. The remaining disciplines can be ordered under these headings, with the exception of history which furnishes facts about the past of the pertaining matters.
+
+<sup>4.</sup>For a fact to be accepted by science as a fact, it has to be ascertainable to all.
+
+<sup>5.</sup>Science as a whole, as a system of knowledge, is a compilation of facts, theories, and hypotheses. It is the scientific system that provides a survey orienting in the results of research.
+
+<sup>6.</sup>It could be said that this is the starting-point of the scientist’s conception of reality and of natural research.
+
+### *5.41 Philosophy*
+
+<sup>1.</sup>Russell came to logic via mathematics. While still young he became interested in the relation of mathematics and logic on finding that the geometrical axioms could not be proved logically. He examined the nature of mathematical knowledge, attempting to make mathematics a synthetic science and at the same time to give logic a character analogous to that of mathematics. He tried to show that mathematics is a further development of logic, that mathematics is logic applied to quantitative relations. Having reduced mathematics to logic, he found unsolved contradictions in logic itself. He thought that he could solve these by means of symbolic logic and logical types (which are apt to be misleading). He came to the result that the more logic is developed, the less it can prove. The knowledge logic provides consists in stating that “if something is true, then something else is also true”. This, however, is what has always been known: that if the premises are correct, then the conclusion drawn from them is correct as well.
+
+<sup>2.</sup>Neither logic nor mathematics are detached sciences that can produce knowledge, but are auxiliaries in dealing with the inexhaustible relations of matter and energy and in solving the pertaining problems. Both logic and mathematics require material to work on. Without facts, the results obtained are mere play with symbols. In connecting logic and mathematics there is always a considerable risk of confusing quality and quantity. Logic has to do with quality, mathematics with quantity.
+
+<sup>3.</sup>At first logic was overestimated, now they are analogously overestimating the importance of mathematics. The essential of all knowledge is ascertaining facts and putting them in correct relations in ever wider interrelated contexts.
+
+<sup>4.</sup>From logic Russell moved to philosophy with its pseudo-problems, which nobody has been able to solve, since nobody has been able to formulate the problems correctly. Introduced by Bradley into Hegel’s philosophy, Russell soon found the speculations of that romantic untenable.
+
+<sup>5.</sup>Russell studied thoroughly the history of European philosophy with its accounts of what the historians have come to know of the speculations of Greeks and Romans about existence and its phenomena, and the results arrived at by the thinkers of the medieval and modern ages with their guesswork.
+
+<sup>6.</sup>Having ascertained that no speculation would provide knowledge of reality, Russell was faced with the inevitable fundamental problem of all subjectivists: is knowledge of existence possible at all? To him it seemed that Hume formulated this question most clearly of all. Russell was no more successful than Hume in finding the logical (objective, or factual) proof of the existence of the external world. He remained an incurable skeptic as regards the theory of knowledge.
+
+<sup>7.</sup>When examining the consciousness elements in man’s apprehension of material reality, he discovered, as so many subjectivists before him, that these consist of sense perceptions. He did not realize that this is a psychological theory that leads us away from the logical apprehension of objective reality. On the contrary, he regarded his own conception as logicist.
+
+<sup>8.</sup>The manner in which an object becomes perceptible through processes in nerve and brain cells may be a physio-psychological problem, but not a logical one. The assertion that “we do not see the object as it is” is logically illegitimate. Into the question of whether objects are what they appear to be the concept of appearance has been introduced incorrectly. Sense apprehends physical objects directly and immediately in their objective materiality. Both logicist and psychologicist subjectivists reinterpret experience by theories, which is logically incorrect. In all ages the main tendency of philosophic speculation seems to have been never to “let this be this”, but to try to make “this” something else (preferably something very profound) and in so doing they have set aside the law of identity.
+
+<sup>9.</sup>Russell’s notion of philosophic problems being unsolvable led him to assume that we use words which have no counterparts in reality and that the philosophic problems were caused by faulty use of language. He considered, therefore, that it was his task to write a new history of philosophy.
+
+<sup>10.</sup>In this he is generally content to account for the views of the different philosophers in connection with the ways of looking at things of their day, though often enough his own skepticism shines through. As for the pre-Sokratean philosophers, he had, of course, to rely on what historical tradition had to tell about them.
+
+<sup>11.</sup>Russell’s criticism of modern speculations on the superphysical is good evidence both of his common sense and of his logical acuity. Those were conjectures of ignorance not even deserving to be called hypotheses. Such things cannot be criticized too much, for those freaks have a formidable power to survive, continually to hinder common sense and correct apprehension of reality.
+
+<sup>12.</sup>History often does us a disservice by preserving the errors of the past in such a way that life- ignorant injudiciousness goes on accepting them as essential elements of knowledge. The reality ideas are drowned in the whole of this collection of fictions. As the representatives of wisdom, the philosophers must have believed themselves competent to express opinions on everything and explain everything. The unsatisfactory solutions of the problems were improved on with new fictions until the prospect of mankind ever finding its way out of the labyrinth seemed more and more remote.
+
+<sup>13.</sup>Russell’s merit is that he has helped to set mankind free from a number of philosophic fictions handed down throughout the history of philosophy. An even greater work has been done is this respect and with weightier substantial argument has criticism been voiced by the Uppsala philosophers, Hedvall, Hägerström, and Phalén. They have shown up the logical error of subjectivist thinking. They arrived jointly at the realization, best formulated by Hedvall, that the unreflective apprehension by objective sense of objective reality (as opposed to the reality of subjective reason) is the correct one, that the great deficiency of objective sense, to be regretted, is its defencelessness against the theories of subjective reason, which still dominates philosophic thought. But, to be sure, they were mocked by the other contemporary philosophers, who wished to keep their beliefs.
+
+<sup>14.</sup>It is to be regretted that Russell himself departed from his thesis that it is the task of philosophy to ask questions, not to answer them. He sought to solve the problems in his own way. He displayed great ingenuity in substituting new fictions for old. Like all other subjectivists who lack insight into, and understanding of, the universal validity of the apprehension by objective sense of material reality, Russell thought that experience provided only subjective, not objective, certainty.
+
+<sup>15.</sup>Not knowing that the fundamental reality concepts, which go back to prehistoric times, were misinterpreted by the philosophers, he came to the conclusion that these concepts do not correspond to reality.
+
+<sup>16.</sup>He tried to replace these age-old, scientifically ascertained, objective reality concepts with subjective concepts determined by sense perceptions. Concepts that could not be traced back to sense perceptions were untenable concepts. Here he showed that he had not learned to see the difference between subjective and objective reality. The conceptual analysts have still not seen that reality concepts require objective knowledge of objective, or material, reality.
+
+<sup>17.</sup>With the tremendously limited knowledge of our times (science has managed to explore about one millionth part of reality), conceptual analysis is bound to lead to the disintegration of all reality concepts. Even those which are merely temporary auxiliary concepts have to be kept until facts definitively established by research make it possible to replace them with better ones. That is a matter for research, however, not for conceptual analysis.
+
+<sup>18.</sup>Since he, like Hume, did not succeed in logically demonstrating the existence of the external world, he (not knowing about the logical refutation of subjectivism by the Uppsala philosophers) subscribed to Hume’s criticism of the concept of substance. On the other hand, he considered that there was reason for accepting the concept of causality, that discovering laws of nature is the essential thing in natural research, that laws of probability suggest the existence of laws as yet undiscovered. It would not be surprising if a causal objectivist (having the ability to study previous incarnations, thus not a so-called clairvoyant) were to find that Protagoras, Hume, and Russell were incarnations of the same individual.
+
+<sup>19.</sup>As regards knowledge of superphysical reality, he drew the usual conclusion that, since the philosophers’ explanations so far advanced were all patently absurd, we cannot know anything about it. An acute logician, he realized that one cannot, of course, deny the existence of what one knows nothing about.
+
+<sup>20.</sup>In vain he sought to set mankind free from the burden of philosophy. Only an esoterician can do that.
+
+### *5.42 Science*
+
+<sup>1.</sup>Natural science seeks to explore visible, physical reality. This defines its task and at the same time its inevitable limitation. Science is physicalism.
+
+<sup>2.</sup>All knowledge must be based on facts. In assessing the reality value of opinions, one must consider, not their degree of probability, which depends on their agreement with previously existing opinions, but the facts on which these opinions are based. Without facts all opinions are just pure fancy. With insufficient facts, all opinions are misleading. Acuity and profundity, imagination and logic, faith in the saint’s patent to omniscience, will not suffice. But the more unfathomably profound it has been possible to make philosophy, the more correct the absurdities have appeared to the philosophers’ disciples. Reverently they have bowed before the incomprehensibly brilliant and in so doing have denied their own common sense, if they had any.
+
+<sup>3.</sup>Science makes its way slowly, advancing step by step, by ascertaining facts. These facts are summed up in theories and are explained by hypotheses. Both theories and hypotheses are continually being changed through newly ascertained facts. Facts, theories, and hypotheses are joined together into a system of thought which is regarded as scientific truth. These temporarily ruling systems of orientation, which show how far research has advanced, are continually being changed because of new facts with new theories and hypotheses. Facts that cannot be fitted into the prevailing systems of theories and hypotheses are regarded as doubtful. Facts that it is not possible to ascertain by the methods of research used by scientists are not regarded as facts. It follows from this that the most important quality of a hypothesis is not its being true, but its being probable: acceptable to science with its tremendously limited ability to explain.
+
+<sup>4.</sup>There are also a couple of psychological obstacles to research. One is the all but insurmountable difficulty of abandoning cherished fictional systems acquired at the cost of much labour. The other is the fact that there is always a considerable risk for the scientist that by being too much ahead of his time he will be declared an unreliable, uncritical, unscientific fantast by believing academic opinion – that irremediable guild-system – lagging behind the times, skeptical, mostly scornful, of everything that is new.
+
+<sup>5.</sup>Naturally, the scientists have shown themselves capable of being as dogmatic, fanatical, and intolerant as the theologians have been of old. Of course, Russell has a clear perception of this striving after power inherent in human nature. He is afraid, too, that after the political tyranny that succeeded to theological one, we are to experience the scientific tyranny, that the day will come when science will claim the power to regulate everything. Medical science, not least psychiatry, has begun to manifest such a tendency. Doctors already possess the power to set the legal rights of the individual aside and to shut up an undesirable person for the rest of his life, or to release bandits to let them go on with their trade. Energetic measures are needful against all such tendencies. The Board of Health must not be the final court of appeal. We have had enough of the guild spirit. It is not for doctors to be judges. That criminals are irresponsible we know all the same.
+
+<sup>6.</sup>Before nuclear physics split the entire dogmatism based on the hypotheses of the indestructibility of matter and energy, most revolutionary discoveries were dismissed out of hand as “conflicting with the laws of nature”. With the realization that not yet one per cent of the laws of nature has been explored, that particular phrase ought to disappear.
+
+<sup>7.</sup>Unfortunately, the nuclear physicists do not know that their instruments have enabled them to penetrate into the physical etheric world.
+
+<sup>8.</sup>There is every reason for scientists, as the greatest of them now see, to agree with Sokrates the wise, who admitted to limitless ignorance. That time should not be far off when cocksureness, whether dogmatic or skeptical, will be regarded as an evidence of injudiciousness. Science is unusable as a tenable world view.
+
+<sup>9.</sup>Russell started as a mathematician. He made no contribution of his own to natural research as such. From mathematics he went on to logic and there he tried to help orient the scientists who, very bewildered after nuclear physics had exploded the fundamental dogmas of science, were even beginning to doubt whether there were any laws of nature at all. Without laws the cosmos would be a chaos, which manifestly it is not. And he demonstrated that “it is in the very nature of the matter theoretically impossible to prove that a series of phenomena is not subject to laws”. He maintained that it is the task of natural research to ascertain laws and that the requisite knowledge of phenomena will be lacking until the laws governing these have been found.
+
+<sup>10.</sup>Russell does what he can to combat scientific dogmatism and agrees that the short life of scientific hypotheses is evidence enough of our immense ignorance.
+
+<sup>11.</sup>Russell is a physicalist. That being so, he is unable to see that the ultimate causes of processes lie in the superphysical. He considers that one cannot, of course, express an opinion on the unexplored; only that no facts acceptable to science are yet extant to prove the existence of the superphysical. For him, that settles the matter for the time being. His endeavour as a scientific logician has been to formulate a logic of facticity that is content to ascertain facts and laws of nature. No explanations are given without esoterics. In this appear Russell’s common sense and superior scientific insight.
+
+<sup>12.</sup>The most questionable part of Russell’s criticism is that he wishes to eliminate those reality concepts which have constituted the basis of the scientific outlook. Here his logic fails him. If logic cannot judge the nature of reality, then it will be in no position to assess the reality content of the fundamental concepts of science either. It is no argument that these concepts have been misinterpreted by philosophers and scientists lacking in knowledge of this very reality. Russell’s attempts to substitute his own constructions for the fundamental concepts are likely only to lead still farther away from reality.
+
+<sup>13.</sup>Russell’s trivial proposition that matter is not what is appears to be is very old “wisdom”, but a failure all the same. Matter is always what it appears to be, but in addition something quite different and immensely more than philosophers and scientists can dream of.
+
+### *5.43 Criticism of the World View*
+
+<sup>1.</sup>The fact that the theory of knowledge, the problem of the possibility of knowledge, that of whether one knows what one knows (which shows that one does not know), has been the central problem occupying Western philosophers for nearly three centuries, is infinitely typical of the mental disorientation of the West.
+
+<sup>2.</sup>That is what happens when, for two thousand years, people accept all sorts of superstitions and theological absurdities as truth or knowledge of reality. As a result, the very principle of reason, the ability to judge, the instinct of reality, has become so idiotized (in pertaining respects) as to be unserviceable. If this is allowed to continue, even the logical law of identity will be doubted. Logic will be used to destroy logic.
+
+<sup>3.</sup>Russell realizes only too well that neither theology, nor philosophy, nor science, has furnished a rational explanation of existence. He has often doubted whether man will ever be able to solve that problem.
+
+<sup>4.</sup>To Russell, as to other philosophers and scientists, “visible” reality is the only existing one.
+
+<sup>5.</sup>Now theologians à la Anders Nygren believe the same. They believe that the “soul” (apparently the same as the brain consciousness) dies along with the body and that on judgement day god will create a new earth for mankind to live on and restore everything that once was. Thus Westerners are physicalists.
+
+<sup>6.</sup>Russell as well as all other subjectivists must be what they are: physical beings in the physical world. But they do all they can to doubt the fact, mobilize all arguments of logic and psychology to demonstrate that reality is not real. The attempt to explain external, objective, material reality by sense perceptions is typical of the modern subjectivists, whether they call themselves psychologicists or logicists.
+
+<sup>7.</sup>If you deprive man of concepts, you deprive him of the ability to comprehend. If you deprive man of understanding of the reality of matter, motion, energy, development, etc., you will contrive to idiotize mankind still more, definitively to destroy its ability to perceive reality.
+
+<sup>8.</sup>To doubt the existence of the external world, or that we can perceive it just as it is in its given physical reality, is to doubt one’s own common sense and all correct perception of reality.
+
+<sup>9.</sup>The fact that there are superphysical material worlds in which we perceive material reality differently, several ever higher states of aggregation of cosmic matter, does not in any way refute the physical perception of reality, the only correct one in the physical world.
+
+<sup>10.</sup>To be able to judge the correctness of the reality concepts, one must possess knowledge of reality and a knowledge of the structure of matter and the nature of energy which is completely different from that of contemporary science. This is the foundation that the philosophers have always lacked and seem to be trying more and more to avoid getting. That is why the striving of modern conceptual analysts to replace old fictions with new and still more disorienting fictions is just a new form of fictionalism.
+
+<sup>11.</sup>It is most regrettable that Russell never familiarized himself with the rich modern Indian yoga literature published in English. This is an unhappy deficiency in the equipment of anyone setting out to treat critically of the problems of philosophy.
+
+<sup>12.</sup>If, in addition, he had had an opportunity to study the old Pythagorean manuscripts, his comments on Pythagoras would have been very different. Unfortunately, he had to rely on what current text-books on the history of philosophy have to say about hylozoics and the pre-Sokratean philosophers. Without understanding of the world view of those thinkers, one will inevitably misinterpret their successors, Platon and Aristoteles, etc., as witnesses Russell’s treatment of them.
+
+<sup>13.</sup>There is a great deal lacking in the education of the most learned exotericists of our day. It is to be hoped that the tremendously vast esoteric literature will soon be available also to the uninitiated, of course only such parts as could provide the basis for exact conception of reality. This would put European philosophy hitherto in the true light and show it up as the fictionalism it has always been and otherwise will continue to be.
+
+<sup>14.</sup>Science is totally ignorant of the real composition of matter. It is ignorant of the fact that the “ultimate causes” of physical processes lie in the superphysical.
+
+<sup>15.</sup>Actually, the word “superphysical” is misleading, since physical matter consists of six molecular kinds (states of aggregation), the higher three of which are unknown to science.
+
+<sup>16.</sup>There is a faint hope that philosophers and scientists could be awakened to see the need for them to acquire the ability to explore higher worlds. Perhaps the following examples will cause them to give a little thought to this.
+
+<sup>17.</sup>Nuclear physics is occupied with splitting the “chemical atom”. This is really an etheric molecule, which in itself contains forty-nine different layers of matter.
+
+<sup>18.</sup>When meteorologists come to see that the physical etheric molecular kinds are the true causes of meteorological phenomena, there will be at least some prospect for them of beginning to search for the missing, unknown factors.
+
+<sup>19.</sup>When doctors see that most causes of disease are to be sought in the physical etheric material envelope of the organism, medical research will enter upon entirely new paths.
+
+<sup>20.</sup>When philosophers have acquired knowledge of the three aspects of reality, they will be in a position to think in accordance with reality and to find the solution of a number of otherwise unsolvable problems.
+
+<sup>21.</sup>The philosophers have not yet managed to solve the basic problem of existence: trinity; the three equivalent, inseparable aspects of existence. Ever since the Greek sophists, the whole history of philosophy has been dominated by the subjectivist way of looking at things. When will philosophers learn that “thoughts are things”, “thoughts are energy”, material energy phenomena, that all consciousness expressions have their material counterparts? Until they can ascertain this, there can be no end to philosophic fictionalism, the unending mania for speculation of the ignorance of life.
+
+### 5.44 LIFE VIEW
+
+<sup>1.</sup>Although Russell’s conception of reality is a failure, as is all other philosophy, his conception of right with its noble understanding of truly human relations does agree with the knowledge of the meaning and goal of life. It is constantly seen that those who have reached the stage of humanity do not need the esoteric knowledge of the superphysical in order to lead rational, purposeful, and happy lives. Their subconscious instinct enables them to see through the emotional illusions dominating mankind and the mental fictions that go with them, to see that the doctrines that up to now have pretended to be based on the superphysical have been the greatest obstacles to consciousness development through their idiotization of common sense. How long will it be until their latent insight makes itself felt also in world view and they will see the perversity of all speculation?
+
+<sup>2.</sup>Our task is to explore the physical world (but not higher worlds until we have acquired higher sense) and to have the experiences and to acquire the qualities and abilities possible in the physical world, to make the very best possible of our physical lives. Russell as well as all who have reached the stages of culture and humanity has emphasized that in one’s attitude to all people, universal good will and right human relations are the essential things. We must learn to discard all pretexts for friction, not only tolerate but rejoice in the individual (and independent!) conceptions of all as proof of their own judgement at their level. This is quite different from what religious sectarianism has achieved with its fanaticism, moralism, intolerance, criticism, and condemnation, having, on the contrary, contributed in so many respects to the poisoning of human individual and communal life.
+
+<sup>3.</sup>Individuals have managed to solve the most important problems of life for themselves through self-acquired qualities and abilities. But mankind has a long way to go yet and, strictly speaking, has not managed to solve even one of its many problems of life. People inherit their illusions and fictions and never think to examine the reality content and life value (importance for life) of those fictions. It was an accusation as terrible as it was justified that Goethe threw against seemingly irremediable listlessness: “Es erben sich Gesetz’ und Rechte wie eine ew’ge Krankheit fort” (Like a disease eternal, laws and rights are passed on by heredity). And Sweden’s Tegnér could add his: “Barbarity alone was once our Fatherland.” That can be said of all nations.
+
+<sup>4.</sup>It is obvious that a representative of culture of Russell’s calibre must discover much of the residual barbarism in our much-vaunted civilization. All the more violent, therefore, were his attacks on indolence, inertia, cowardice, aversion to reforms the necessity of which is clearly seen.
+
+<sup>5.</sup>The regrettable result of this life-blind egoism has been that the idealists’ ideas of reforms have been taken up by incompetent demagogues who, appealing to the eternal claims of social envy for new but by no means lesser iniquities, by their thoughtless planning and rash reforms, have managed to ruin everything of value that otherwise might have been saved from destruction.
+
+<sup>6.</sup>Russell’s criticism of traditional attitudes and inhuman conditions, and also of the mistakes of modern dictatorships and democracies, called forth, as always of course, indignant protests. It earned him imprisonment, dismissal from his chair, and loss of his friends. The mob of all social classes have always had to express their hatred, not suspecting how they unmask themselves. Russell was in large measure to experience the wonder that many people have sensed before man’s blindness, inability to see, even reluctance to see, the rationality of legitimate criticism. Nietzsche thought that it is part of human nature to take one’s habits (including habits of thought) a thousand times more seriously than even one’s interests, something that may be observed daily. This is a matter to be studied more closely by those educationists who one-sidedly emphasize the importance of “good habits”.
+
+<sup>7.</sup>It looks as though it would be some time yet before people have seen that ideas are relative and that the right reality value of an idea appears clearly only when it is put in its correct context.
+
+<sup>8.</sup>There is something rational in most ideas, but this is stifled by absolutization. There is a relative justification for the different political idiologies, the different religions, the views of the different collectives. There is something that is correct in introspective subjectivism, behaviourism, vitalism, etc. in psychology. What is lacking is the perspective that will show the relative justification of these views.
+
+<sup>9.</sup>Russell is one of those who have sought the requisite perspectives for necessary syntheses.
+
+### *5.45 Theology*
+
+<sup>1.</sup>Theology falls within the domain of subjective consciousness, and its dogmas belong to the superphysical. Religion is that feeling, attraction, which has no need for reason, or at any rate is impaired if it is locked up in untenable conceptions of reason.
+
+<sup>2.</sup>Anyone who, like Russell, knows from his own experience the deceptiveness of mere subjectivity, who has examined in history what have been called religious truths, who has ascertained that there is nothing absurd that has not been accepted at some time or other, that what nobleness and common sense must regard as satanic is still preached; cannot be expected to be lenient in his final judgement of such errors.
+
+<sup>3.</sup>One thing that history has made convincingly clear and that our own times have also demonstrated is that mankind’s general power of judgement is not greater than that people can be made to believe anything whatever. What is it that is still passed off as the “true, unadulterated word of god”? This: the Jewish Old Testament and the paper popes of the two Jewish sects: the Christians’ New Testament and the Moslems’ Koran. Buddha made it clear that there are no sacred writings, only those which ignorance calls sacred. And the planetary hierarchy guarantees that there will be no “sacred writings”: “Far from our thoughts may it ever be to erect a new hierarchy (rule by authority) for the future oppression of a priest-ridden world.”
+
+<sup>4.</sup>Russell says of himself that he does not know whether he should call himself an atheist or an agnostic. But he should be able to subscribe to Shaftesbury’s saying that “men of sense are really but of one religion”, the one true religion, the religion of wisdom and love – the common sense religion. Even though this religion has always had its representatives in all sects, there has never been a sect that has had the right to make the same claim.
+
+<sup>5.</sup>In historical times these sects have distinguished themselves by their intolerance, fanaticism, and mania for persecution, with religious wars, murders, torture, and burning at the stake – all of it to the glory of god. They still proclaim doctrines that are hostile to life and knowledge, that war with divine love, common sense, and the facts definitively ascertained by research. If the Church were to regain the power it once had, we would experience such ghastly times anew.
+
+<sup>6.</sup>It is apparent that in criticizing the dogmas of theology, Russell imposed on himself a restraint unusual for him. He was largely content to scrutinize some of the innumerable superstitions which in days past it was considered godless to doubt.
+
+<sup>7.</sup>As for the concept of sin – on which the entire theological dogmatic system is based, the real basis of Church power, thanks to which the Church has been able to maintain its iron grip on people’s minds – Russell has been content to be jovially sarcastic. A nature dissimilar to his chilly intellect would perhaps have given violent expression to the indignation that every noble mind must be tempted to feel about the satanic lie of “sin as a crime against an infinite being who exacts infinite punishment in an everlasting hell” – this ghastly blasphemy out of hatred of the divinity of all existence. What is more, the theologians have thought up support for this satanism in the form of an equally blasphemous dogma of hatred, that of “god’s punitive righteousness”.
+
+<sup>8.</sup>After these horrible lies it does one good to remember Buddha’s and Christos’ doctrine of the law of sowing and reaping. This means that the mistakes that we have made, because of our ignorance and incompetence, as to the laws of nature and life are causes the effects of which we shall have to experience, are the ways in which we learn the necessary lessons of life.
+
+<sup>9.</sup>Russell points out that in the struggle that has been going on ever since the days of Copernicus and Galilei, science has always triumphed, refuting one theological absurdity after the other. He has no doubt that in the end the Church will be compelled to abandon its dogma of the infallible authority of the Bible, that book of legends, hate teachings, and absurdities. It is, too, a gladdening sign of the times that more and more people are getting sufficient and independent discrimination to dare to doubt these complexes, inoculated all but ineradicably in childhood, of a horrifying, wrathful, spiteful, vindictive god who, because of that quality of hatred, self-righteousness, cannot forgive without having his only son slaughtered. That evil deed surely must be the worst of all.
+
+<sup>10.</sup>Russell scrutinized a number of superstitions, which theologians have been preaching for centuries and which, although after a long struggle against reason and science, they have been compelled to keep to themselves.
+
+<sup>11.</sup>It would seem, however, that Russell is far too optimistic about the outcome of the criticism and struggle of science and common sense. Information alone will have little effect if people do not think they will be able to profit from it personally. Besides, it is a fact that at the present stage of its development, mankind as to emotional life is still within the spheres of repulsive emotions. At this stage, reason is of secondary importance, is often indeed a troublesome element of unrest. These people take their emotions for their true being. And the emotional world with its hatred (48:5-7) and love (48:2-4) is the world of religion. Emotionality vitalizes, affords life and power. Hatred is mankind’s elixir of life.
+
+<sup>12.</sup>Presumably, Russell’s optimism was based on the historical experience that man’s ever-growing need of, and longing for, “more light” will always be satisfied.
+
+### *5.46 Morality*
+
+<sup>1.</sup>Also Russell has pointed out that the terms “morality” (from Latin) and “ethics” (from Greek) through ignorance’s abuse of words have lost their true sense of conception of right and problems of social life.
+
+<sup>2.</sup>Schopenhauer was the first one to demonstrate that up to then no philosopher had succeeded in making morality a science or in establishing any tenable grounds for claiming that there are absolute or objective norms. His disciple, Nietzsche, went a step further, asserting that traditional moral attitudes were useless in life, not to say hostile to life.
+
+<sup>3.</sup>This was the definitive emancipation of morality from moral theology, and at long last it became a subject that could be publicly discussed. A number of thinkers then explained the subjectivity of morality (the conception of right is determined by the level of development), not its illusoriness as prophets of platitudes have expounded the matter. Hägerström demonstrated that one cannot speak of a science of ethics, only of a history of ethics.
+
+<sup>4.</sup>Nobody has contested the fact that certain rules (societal laws) are necessary if people are to live together without friction, and that without these there would be a war of all against all and an ordered society would be impossible; such rules as not to murder, steal, cheat, slander, etc. The simplest summary of these is the age-old rule of reciprocity: treat others as you want them to treat you. The esoterician ascertains fatal mistakes as to the laws of freedom and unity.
+
+<sup>5.</sup>It was not against these self-evident insights that criticism was levelled. There are moral philosophers who have not even seen this! It was levelled against the multitude of taboos and arbitrary conventions without rational meaning, which have increased general bewilderment, made it more difficult for people to live together, and increased seemingly ineradicable hatred with its eternal damning and condemning. Helplessly self-blind, the moralists notice neither hypocrisy nor hatred.
+
+<sup>6.</sup>Examination of the bases of the conception of right and wrong shows that they depend on the individual’s conception of the meaning and goal of life. It is always a matter for the individual whether he will concur with any one of the many collective conceptions or take his own standing. We cannot hope for a unitary conception of the best way to realize the meaning of life until mankind has managed to solve the problems of existence. Until then, there will always be different conceptions of what is right and wrong in political, social, and cultural matters, and in a general life sense, and considerable danger of the resulting antagonisms poisoning people’s minds, hindering understanding, and counteracting rational human relations.
+
+<sup>7.</sup>The result of all these traditional, purposeless prohibitions is a universally accepted cult of appearances the hostility to life of which the moralists seem quite unable to understand. They share in the hypocrisy and cynically condemn those who refuse to make a fetish of so-called decency. It was against the whole of this hypocrisy, this irremediable cult of lies, which he regarded as the cause of evil hardest to get at, that Russell levelled his annihilating satire. It is worth pointing out that the only things Jeshu condemned were hypocrisy, phariseism, and moralism. Absolute honesty in his attitude to the conventions of hypocrisy was a matter of conscience for Russell, and it cost him most of his friends. It could not be helped if he had “the whole world against him”. That is precisely what every pioneer has to expect. Schopenhauer’s saying, that what the individual knows himself to be is of greater importance for his happiness than what he is considered to be, applies to independent natures. That this annoyed some people was their own fault. Besides, at mankind’s present stage of development, just assessment of other people is absolutely out of the question. And people are ignorant even of the simplest prerequisites of assessment.
+
+<sup>8.</sup>As regards the individual’s attitude to himself, Russell saw that it largely depends on upbringing whether one will succeed in dissolving all the negative, inhibitory value complexes, opinion complexes, habit complexes (to mention but a few), that life forces on us. The positive, life-promoting complexes do not involve problems equally difficult.
+
+<sup>9.</sup>What Russell has to say in pertaining matters is evidence of his common sense, freedom of prejudice, goodwill, tolerance, humanity, and humour – a group of qualities rarely met with. Seldom, too, the individual’s divine right to freedom has been so brilliantly illustrated: his right to think, feel, say, and do as he thinks fit, within the framework of the equal right of all to that same inviolable freedom. That freedom is of fundamental significance for a happy personal life and thus also for a happy society. It is the opposite of that primitivity which by freedom understands the right to self-will and arbitrariness, ruthlessness and contempt for the right of others.
+
+<sup>10.</sup>As social beings we have to choose between respecting the equal right of all or accepting the war of all against all.
+
+### *5.47 The Problems of Upbringing and Education*
+
+<sup>1.</sup>The many problems of life that Russell tried to elucidate with exceedingly sensible, always noteworthy ideas, include the political, social, and educational problems.
+
+<sup>2.</sup>His opinions in the matters of marriage, sex, birth control, etc. evince a freedom of prejudice coming from a professor, lord, etc. that must shock the moralists.
+
+<sup>3.</sup>In government administration, nomination to the highest posts generally follows the ingenious principle saying that to whom god gives an office, to him he will also give the competence to discharge it. And we know what things look like.
+
+<sup>4.</sup>As for bringing children into the world, public opinion, thoughtless as usual, would seem to think that those to whom god gives children, he will also give the competence to look after them and bring them up. It does not seem fair to put all the blame on the deity, it is altogether too indolent to ask god to do what we ought to be able to do for ourselves.
+
+<sup>5.</sup>When people pick up a new idea, it very soon becomes unrecognizable. A professor wrote something about complexes, and at once all the “psychologists” knew what it was. It was the inferiority complex and the most dangerous of all dangerous things. No professor had said anything about fostering a superiority complex, self-will complex, arbitrariness complex, ruthlessness complex, lawlessness complex, so none of the clever experts would know about these.
+
+<sup>6.</sup>From his own experience Russell agrees with the view that the child’s upbringing should be finished before it is one year old and in any case before it is three. During this period the child cannot develop other complexes than that of self-assertion. The treatment is incredibly simple but impracticable for undiscerning sentimentality: the child is never to have its way in any respect. Beside this unwavering firmness, the child needs kindness, tenderness, and care. The child must never, however, be made to feel that it is the object of general interest in its important self.
+
+<sup>7.</sup>The purpose of education is to give knowledge and skills. Desirable knowledge includes what makes it possible to understand the physical world and physical life as it is today: nature and how it works, mankind with its races and nations, society with its institutions and functions, all that is necessary for people to live together without friction. Knowledge surveying how all this has come about provides perspectives on development, understanding of the fact that all life is change.
+
+<sup>8.</sup>Research ascertains facts and puts them into scientific systems. The suitable method of education is the opposite of this. It starts from the system’s orienting survey, so demonstrating the importance of facts. Overloading memory with facts that are readily available in reference books counteracts the overall view, clarity, meaning, and thus comprehension; for comprehension goes from universals to the particulars. The task of the school is to teach principles, methods, and systems, and only as many facts as are necessary to grasp these. This facilitates the acquisition of perspective consciousness.
+
+<sup>9.</sup>It is to be regretted that higher education has disregarded the psychological problems of life. Yet they are of tremendous importance. Most people are helplessly left to themselves to solve their own problems of life, with conflicts between innate, subconscious instincts of life and the endeavour of waking consciousness to orient itself. In our times this conflict has increased the number of neuroses. Not everyone is able to solve these problems and find their own way out of the labyrinth, as Russell has sovereignly done. The conflict is often aggravated by the “struggle for souls” of competing idiologies, especially when this leads to tension in relations with relatives and friends. Individuals who, though they may not know it, have reached the stages of culture and humanity, consider most of it perverse, are regarded by others and in the end by themselves as odd and unfit for life, and put the blame for this on themselves.
+
+<sup>10.</sup>Desirable skills also include knowing an international cultural language. In most cases this is sufficient for all who are not going in for philology or historical research. Russell wholly shares the spreading insight that Latin and Greek are by no means as important as has been thought hitherto. Their study not only implies an overloading of the memory, but also a tremendous waste of life’s most important years. The study of these languages does not result in real understanding of the pertaining literatures. Most of it is forgotten after a few years. Moreover, all this literature has already been translated into all the cultural languages by better translators than those trained in school. And, finally, the understanding of life that this literature has given us has been absorbed by later cultures during a couple of centuries. Thinking for oneself is better than quoting. “Classical” metaphors met with in literature can be collected and explained in a special book, “Living Latin”, as it were.
+
+<sup>11.</sup>The same is on the whole true of the compulsory study of other dead languages. How capable are the clergy of reading the unpunctuated text of the Old Testament? It is quite enough for them to be given a description of the unvocalized written language and to be informed that the learned will always dispute about which vowels are correct. Is the historian of religions better able to interpret the symbolism of Sanskrit texts than skilled orientalists with their attempted translations, apart from the interpretation about which the most learned Indians dispute and at which esotericians knowing Sanskrit can but smile? With such learning one will acquire the apparent knowledge of conceit and the chance of impressing the undiscerning.
+
+<sup>12.</sup>Russell’s books are teeming with statements that shed light in a flash on problems of this kind. One only wishes that they were read by all who want to broaden their horizon and deepen their understanding of life. Without exaggeration they can be said to be part of today’s general education in matters of life view.
+
+### *5.48 The Problem of Democracy*
+
+<sup>1.</sup>Just as dictatorship is a problem of power, democracy is a problem of freedom.
+
+<sup>2.</sup>Nobody has as yet been able to elucidate satisfactorily what is meant by freedom, how freedom is possible, how to achieve it, how to keep it. It has not yet been clearly seen that freedom and power are the same thing. What distinguishes them is the limits to freedom and power. Freedom has been thought of as the right to be master of oneself and power as the right to be master of others.
+
+<sup>3.</sup>Freedom requires not only the right to be oneself, but also the ability to be it. “Knowledge is power” if it affords ability. Unfortunately, there is ability without knowledge and it is this ability which abuses power.
+
+<sup>4.</sup>Freedom is the right of the individual to think, feel, say, and do as he thinks fit, within the limits of the equal right of all. Abuse of freedom has often entailed dictatorship. Freedom requires that everybody acknowledges these limits, that everybody knows these limits, that everybody is able to keep within these limits. Do people know? Can they without power over themselves?
+
+<sup>5.</sup>Freedom is still an unsolved problem. The question is whether it can be solved at mankind’s present stage of development.
+
+<sup>6.</sup>There are many problems connected with the problem of democracy, all unsolved, some unsolvable. Among the unsolved problems are the right of the minority, restraint of the abuses of power, prevention of brainless legislation.
+
+<sup>7.</sup>In what follows it will in brevity be shown that democracy is a pseudo-problem, since there can be no classless society and no perfect justice. And this because nature’s seeming injustices make this impossible.
+
+<sup>8.</sup>The problem of justice and the problem of social classes are intimately connected.
+
+<sup>9.</sup>Equality and the principle of equal pay are part of justice. From the principle of equal pay (equal pay for equivalent work) follows: different pay for different work, more pay for more work, more advantages for greater ability to serve the community, more rights for more duties. What is the attitude of social envy to this?
+
+<sup>10.</sup>The demand at the French Revolution of “equality” only meant: abolition of all class privileges (the prevailing social and political ones, commonly regarded as unjust), equality before the law, the right to be judged by capability alone.
+
+<sup>11.</sup>But there was never any question of everyone having the same social, political, etc. influence.
+
+<sup>12.</sup>Nature’s inequalities consist in differences in ability to comprehend, see, understand, acquire knowledge, in differences in talent and ability to work. No education can replace innate aptitude, talent, genius.
+
+<sup>13.</sup>The utmost that can be achieved is that everyone shall be respected as a human being. We have a long way to go yet before we have achieved the conditions of universal brotherhood. We will have to be content if we succeed in realizing universal goodwill towards all without exception and right human relations.
+
+<sup>14.</sup>The general misuse of the word “justice” makes it clear that people do not know what they are speaking about. People will quite simply never be able to grasp it. That is also clear from the contention that life is unjust.
+
+<sup>15.</sup>There cannot be such a thing as a classless society. The simplest intellect should suffice to see that. Russia and Yugoslavia have even had to admit as much in practice.
+
+<sup>16.</sup>Belonging to a class is the natural order of things, is determined by the individual’s qualities and abilities, his quality, capacity, and calibre, quite independently of his opportunities of upbringing and education.
+
+<sup>17.</sup>It was this inequality that Platon, hitherto completely misunderstood, was hinting at when he outlined his ideal republic with its social classes. It was this inequality that Rousseau saw clearly when he said that a true democracy cannot possibly exist.
+
+<sup>18.</sup>In state and society with all their organizations, there must be superiors and inferiors grouped according to capacity, and herein lie class distinctions.
+
+<sup>19.</sup>In a state governed rationally, all having equal knowledge and understanding of the problems of state, society, economy, and supranational issues, ought to have equal political influence.
+
+<sup>20.</sup>It was a disaster that from the start the franchise was made to depend on economy. That injustice had to be abolished. In its place special examinations for franchise (with a voters’ school) and eligibility ought to have been introduced. It is preposterous that even the most ignorant, who can only vote as and when persuaded, should have the same power as others. The result is demagogy, not democracy.
+
+<sup>21.</sup>It is obvious that Russell was keenly aware of these problems.
+
+<sup>22.</sup>It is with democracy as with the other political idiologies. There is something rational in every one. And it is the synthesis of the pertaining ideas that will make a real ideology possible, which some time in the future will produce the rational state.
+
+### *5.49 The Problem of Dictatorship*
+
+<sup>1.</sup>The problem of dictatorship is a problem of power. Russell’s book, *Power,* is a brilliant historico-politico-sociologico-psychological study revealing extensive reading, psychological understanding, and analytical capacity.
+
+<sup>2.</sup>Strangely enough, the problem of power, so vitally important for mankind, has attracted but little attention. Russell with his keen insight has shown up the abuses of the urge to power in most human relations.
+
+<sup>3.</sup>He justly asserts that “of the infinite desires of man, the chief are the desires for power and glory”. He also clearly sees that “It is only by realizing that love of power is the cause of the activities that are important in social affairs that history, whether ancient or modern, can be rightly interpreted”. He takes pains to demonstrate that “the fundamental concept in social science is Power, in the same sense in which Energy is the fundamental concept in physics. Like energy, power has many forms ...” and “the laws of social dynamics are laws which can only be stated in terms of power, not in terms of this or that form of power”.
+
+<sup>4.</sup>The problem of power includes not only the basic urge in the individuals, but also the different kinds of organizations (state, society, political parties, and associations in their endless variety) and, last but not least, the power of illusions and fictions.
+
+<sup>5.</sup>In eighteen chapters Russell analyses the different forms of power, power philosophies, ethics of power, moral norms, and, finally, the different measures that can be envisaged to prevent the abuse of power. Nobody could be in any doubt after reading this book that such measures are necessary, should he not have seen this before.
+
+<sup>6.</sup>“To suppose that irresponsible power, just because it is called Socialist or Communist, will be freed miraculously from the bad qualities of all arbitrary power in the past, is mere childish nursery psychology.”
+
+<sup>7.</sup>In the final chapter he tries to solve the problem “of insuring that government shall be less terrible than tigers”. He examines the problem in four sections devoted to political, economic, propagandistic, and psychological and educational conditions.
+
+<sup>8.</sup>It is not clear whether Russell really believes in the possibility of preventing the abuse of power. Time will show whether this is a problem that can be solved before at least a considerable, decisive minority of mankind has reached the stage of culture. The majority is still at or near the stage of barbarism.
+
+<sup>9.</sup>All power implies abuse of power, at best through ignorance of life. Thus the ideal will never be achieved. But the degree of abuse will be least when people realize that power coincides with both freedom and law (without law no freedom), when power is used primarily to defend freedom.
+
+### *5.50 Socialism*
+
+<sup>1.</sup>Russell is no advocate of unrealistic state socialism which, even at its best, must hamper private initiative. The individual will never have a say. When the state is the employer, it cannot be forced by strikes, etc. to make concessions, as is the case with the private employer.
+
+<sup>2.</sup>In the socialist state, no writer who expresses views that the rulers dislike will have his works published. An inventor with a seemingly impossible idea, as all revolutionary ideas are, will not get support.
+
+<sup>3.</sup>The socialist state will tolerate no opposition, no freedom of expression, no free press. And who will decide what the individual may think?
+
+<sup>4.</sup>When discussing politics in general, Russell makes the noteworthy remark, hopelessly of course, that political problems are too important to be solved along any party lines.
+
+<sup>5.</sup>Of all the politico-economic systems Russell prefers syndicalism: all who work in an enterprise ought to own it jointly, thus intellectual workers as well as labourers.
+
+<sup>6.</sup>There is much belonging to the mysteries of socialist sophistry:
+
+<sup>7.</sup>For example, that only labourers, with highly paid work and short hours, are entitled to the honorary title of worker, but not studying intellectual workers, who put in unlimited hours unpaid. When people see that it pays better to be a labourer, there will soon be a shortage of research-workers, scientists, teachers, etc. When schoolmasters have no rights against youthful gangsters, nobody will want to teach in schools. That is already a problem in the U.S.A., but not in Russia.
+
+<sup>8.</sup>For example, that people cannot see that unjustified wage claims will soon have made all private enterprise impossible.
+
+<sup>9.</sup>For example, that those are called “blood-suckers” who at great risks, with worry, and while being taxed to the point of ruin, still help to provide for their country and maintain its culture.
+
+<sup>10.</sup>For example, that they connive at all sorts of incorrigibility, arbitrariness, self-will, lawlessness, but obstruct honest people in most matters.
+
+<sup>11.</sup>One understands those who wonder whether the scourge of dictatorship is the only way of bringing people to their senses.
+
+<sup>12.</sup>Socialists believe that ownership holds the key to all problems, overlooking the essential thing, disposition, which gives still greater power. It those ruling Russia owned things, then their power would really be much less than it is now.
+
+<sup>13.</sup>Social democrats wear a false label. A democrat cannot be a socialist and a socialist is no democrat.
+
+### *5.51 Marxism*
+
+<sup>1.</sup>The prophet of Russian communism, the German Karl Marx, Russell dismisses fairly summarily. He did not consider it worth spending time refuting this primitive physicalist conception of history, absurd sociology, and grotesque political economic theory. He clearly saw the perversity of all this hate propaganda, which corresponds to the emotional thinking of the lower emotional stage, meeting the pertaining needs of illusions: envy and other expressions of hatred.
+
+<sup>2.</sup>The question is, however, whether it would not be worthwhile to study the pertaining illusionism and fictionalism psychologically. At all events it confirms Platon’s saying that “ideas rule the world”.
+
+<sup>3.</sup>That this self-evident fact has not been generally recognized is as good an indication as any other as to the current intellectual standard. What unspeakable suffering has mankind had to endure because of religious and moral ideas! What do the ideas of mad nationalism cost us today! When ideas actuate the driving force of emotion, they lead to action. When emotions are aroused at the lower emotional stage (the repulsive stage), the result is the deeds of hatred. But the essential thing is that we realize that madness is mad ideas, that the idea is the initial impulse. And that is why ignorance is the root of evil.
+
+<sup>4.</sup>The conquests of Marxism refute the hypothesis of Marx himself that man’s only needs are physical ones. Even at the lowest stage of development he has need of emotional illusions and mental fictions. Their power is often greater than physical needs. One of the proofs of this is the Russian people among others.
+
+<sup>5.</sup>As for the illusion of the “dictatorship of the Soviet proletariat”, Russell is content with the laconic remark that by this is evidently meant the Communist Party. It is fantastic that workers in many countries let themselves be duped by the obvious lies of bolshevik agitation, blind to the new slavery that has deprived the workers of their human rights. Mankind has not progressed further than both Russia and China being ruled by bandits.
+
+<sup>6.</sup>What condemns the Soviet system is partly its inhumanity, its barbarous contempt of the individual’s divine right to integrity, partly it tyranny of opinion. It is sheer parody that this power is allowed to take part in the United Nations work for mankind just in order to destroy this very work, this power more terrible than that of the Catholic Church in the Middle Ages, this power the aim of which is to wipe out all nations, to make all men slaves physically and spiritually, and by its satanic methods to try to stifle every endeavour to find and proclaim the truth.
+
+## 6 ANTHROPOSOPHY – STEINER’S SPIRITUAL SCIENCE
+
+### 6.1 *Preface*
+
+<sup>1.</sup>This account is not intended in the first place as a critique of Steiner’s anthroposophy, but as a general orientation in the problems of superphysical knowledge, which is more badly needed. The literature that can be gathered under the heading of mysticism lacks a theoretical basis of knowledge and will not be considered here. Emotion is no source of knowledge, no basis to build upon, for the problems of world view. Emotionality is of significance for life view. How little people have learned from mysticism, however, can be seen from the fact that they cannot even distinguish between love and hatred in their various manifestations of life.
+
+### 6.2 *Rudolf Steiner*
+
+<sup>1.</sup>The formulator of the system of thought called anthroposophy, or spiritual science, was born in Austria. He studied natural science and the humanities and assimilated the essentials of the learning of his day. He used it all, as in his day did the omniscient philosopher, Hegel, with whom Steiner can be compared in constructive imagination.
+
+<sup>2.</sup>Dr Steiner (1861–1925) was a hyperintelligent, superior, and dominant character, the obvious chairman of the many intellectual societies of which he was a member both in Vienna and in Berlin.
+
+<sup>3.</sup>As is the case with many people on the border between the stages of mysticism and humanity (48:3 and 47:5), he remained an indefatigable seeker until he had recovered the conception of reality of the stage of development he had attained in his last incarnation.
+
+<sup>4.</sup>In his intensive and thorough studies he was always convinced that the outstanding scientist or thinker he was studying at the time had found “the philosopher’s stone”, had arrived at the correct conception of reality in his field.
+
+<sup>5.</sup>As a rule the opposite applies; in the beginning students, feeling superior, criticize everything they read even before they know what it is about. In this way they counteract that penetration of the subject which is possible only through the intensity and devotion of one’s interest.
+
+<sup>6.</sup>Those who, like Steiner, constantly become convinced that the author is right, only see that in which he is right. The others only see that in which he is wrong. Generally the enthusiasts are regarded as uncritical and unscientific by their companions. When eventually it becomes apparent that they abandon one mental position after the other, and are as intensely convinced that another authority is right, they are blamed for academic fickleness.
+
+<sup>7.</sup>Their detractors are unable to see that intensity and temporary conviction increase understanding and facilitate orientation. His deepened learning leads the student beyond principle thinking in the disciplines and the ruling idiologies, and so liberates him from dogmatic thinking, that obstacle to further research and wider outlook on existence. The whole of mankind’s path of development through the ages is marked by thousands of systems of thought, formulated and abandoned. Anyone who stops at a system will remain on the level of development attained.
+
+<sup>8.</sup>Steiner, who was continually abandoning one intellectual position after the other, was therefore accused by contemporary criticasters (typical dogmatic thinkers) of continually changing his opinion. In the autobiography Steiner wrote in his sixties, he degenerated into that manifest wishful thinking of rationalization which seeks to discover the main thread running through what seems planless. To deny roving is a sign of weakness. Roving is part of the training of the ability of research in those who will follow the path of research in the future. In their new incarnation they are to feel their way forward through the labyrinth to what they have instinctively been seeking. The more intensively the research-worker has entered into the fictional systems, the easier it will be for him later to see their fictitiousness.
+
+<sup>9.</sup>Dr Bruno Wille, the German writer and thinker (an old genuine gnostician), had many discussions with Steiner who eagerly defended his authority at that time, biologist Ernst Haeckel. Wille found it all the more extraordinary that Steiner later tried to excuse himself for having held such views. Wille confided to the present author his surprise that a man who had so ridiculed everything superphysical could later assert that he had always had a special sense of it. Steiner’s autobiography is a very untrustworthy opus.
+
+<sup>10.</sup>It is typical of the intellectually superior that they easily acquire an unlimited confidence in their own capacity of judgement bordering on presumption. They make statements on matters they know nothing about, forget that judgement requires knowledge of facts. That is the reason why the intellectual élite have seldom had any prospects of being initiated into esoteric knowledge orders. Their acuity and profundity entice them into substituting their own fictions for the missing facts. Then they are passionately convinced that their interpretation of the symbols is the only correct one.
+
+<sup>11.</sup>In the following will be examined the very basis of knowledge of Steiner’s system of thought. The detailed examination of his spiritual science must be left to the esoteric research of the future, if any esoterician would think it worth the labour.
+
+<sup>12.</sup>There would have been no need for the criticism if the anthroposophists, headed by Steiner’s widow, had not availed themselves of every opportunity to exalt their apostle at the expense of theosophy. The intention is to force an objective examination of the whole complex of esoteric knowledge. There must be an end to the unreliable and irresponsible parroting of ignorance. The author is no “theosophist”, but an esoterician, more accurately a hylozoician or Pythagorean, and has no interest in defending “theosophy” as such. But fair is fair.
+
+### 6.3 *Steiner as a Theosophist*
+
+<sup>1.</sup>During the years 1902–1912 Steiner was the secretary general of the German section of the Theosophical Society. Prior to this he had studied thoroughly the existing books on theosophy by Blavatsky, Sinnett, Judge, and Hartmann. His subsequent scornful dismissal of Blavatsky shows how little he understood.
+
+<sup>2.</sup>This chapter should really be entitled “Steiner and the Theosophists”, for Steiner never was a real theosophist. He did not know that the theosophists had received their facts from the planetary hierarchy, but believed that they had obtained them from “Indian yogis”. He never realized that no human being has any possibility whatsoever of ascertaining these facts. Nor is it realized by the many writers on superphysical quasi-knowledge who increasingly flood the literary marked with their products.
+
+<sup>3.</sup>What caused the break between Steiner and Besant, the president of the Theosophical Society, and caused Steiner to be discharged, was Steiner’s attitude to the Bible as being a divine authority and his imaginative interpretation of the Golgotha symbol. You have a right to your own opinion, but not to call it theosophy.
+
+<sup>4.</sup>Strangely enough, Steiner never recognized his debt to theosophy, although it had provided him with all the correct facts about the superphysical to be found in his books. Instead, he alleged that he had obtained them from the Rosicrucian Order. This is a matter to be taken up again further on. Nor did he ever mention all the ideas he had taken from the theosophists, perhaps because he rehashed them beyond recognition.
+
+<sup>5.</sup>Once Steiner was separated from the Theosophical Society, a necessary move, he reduced everything he had got from the theosophists to insignificance. Luckily, he named his misconceived theosophy anthroposophy, so that posterity can avoid it more easily. Eventually a number of accusations were advanced that call for correction. The additional criticism delivered by Steiner’s widow obviously originated mostly from her husband and idol.
+
+<sup>6.</sup>What made Steiner so misrepresent the conception of the theosophical leaders is an enigma that is for the psychologists to solve. In so doing, he helped to discredit theosophy itself, which had already been condemned by religious, philosophic, and scientific authorities and parrots of all sorts, as well as by authors on quasi-occultism. It is especially typical that they all disagree on everything but on this matter. This propaganda of lies has been allowed to go on unchallenged all too long. It is, one supposes, inevitable that the journalists, who shape public opinion, should thoughtlessly parrot the current authorities without examining it for themselves. But it is alarming that writers, who are being shouted out as authorities on the superphysical, are equally irresponsible. For example, René Guénon, invoked as a sovereign authority by Dr Kurt Almqvist (in his *Den glömda dimensionen),* terms theosophy a pseudo-religion, thereby showing his true level. Against such stupidity even the gods will fight in vain.
+
+<sup>7.</sup>Steiner’s criticism in vital respects will hereby be answered.
+
+<sup>8.</sup>The contention that the theosophists do not base their conception on objective facts is patently absurd. On the contrary, it was the theosophists who tried to make Steiner see that all research, physical and superphysical, consists in ascertaining facts. They also insisted that no man can solve the problems of existence by his own thinking. But Steiner professed to know better. He was certainly right in saying that the theosophists’ “approach to spiritual reality was quite unlike” his own.
+
+<sup>9.</sup>It is not true that the theosophical leaders were interested in spiritism and obtained their knowledge through “spirits”. In this matter Blavatsky’s sharply formulated view was decisive. But, on the other hand, to examine the reality content of spiritism, as some theosophists did, is the duty of everyone who wants to be a researcher.
+
+<sup>10.</sup>It is not true that theosophy identifies itself with “Indian mysticism”, although, according to its programme, it examines the reality content of all religions, philosophies, world views and life views.
+
+<sup>11.</sup>It is not true that the theosophists deny the existence of esoteric knowledge in Europe in ancient times. They knew much more about Pythagoras, Platon, gnostics, the genuine Rosicrucian and Maltese Orders than did Steiner.
+
+<sup>12.</sup>It is not true that the theosophists regard the yoga method as the only correct way of activating higher kinds of consciousness. On the contrary, they consider it unsuitable for Westerners.
+
+<sup>13.</sup>It is not true that the theosophists are out of sympathy with the scientific outlook. On the contrary, they eagerly follow all new discoveries and rejoice at the way these confirm the theosophists’ facts.
+
+<sup>14.</sup>It is not true that the theosophists regard all religions as being essentially equal. They regard them as adjusted to mankind’s different stages of development.
+
+<sup>15.</sup>Among the theosophical writers, Sinnett, Judge, and Hartmann possessed far too few facts to be able to make a satisfactory presentation of the esoteric knowledge. The greatest capacity and the one most successful in systematizing the facts available before 1920 and making it possible to interpret the esoteric symbols, was C. W. Leadbeater. Of course, he was duly “neutralized” by the moralists. The best summary of the facts of theosophy was made by A. E. Powell in five volumes.
+
+<sup>16.</sup>Theosophy is a summary of facts that used to be imparted in the esoteric knowledge orders. The term “theosophy” came into being when the term “gnostics” was changed because the quasi-gnosticians of the third century C.E. had begun falsely publicizing their quasi as esoteric gnostics.
+
+<sup>17.</sup>These are the facts that constitute theosophy. Beyond them, the views of the various theosophical authors are not theosophy. It is high time that people learned to distinguish between theosophy and the mass of unintelligent theosophists who, unfortunately, were not put under a vow of silence until they had learned to see what theosophy was.
+
+<sup>18.</sup>The original mission of the Theosophical Society was to proclaim universal brotherhood. Mankind, however, is not yet ripe to realize the principles of tolerance, freedom of opinion and expression. The Society has split up into several sects, all disputing about what they believe to be theosophy and which “facts” are hypotheses or facts from the hierarchy. Their dependence on authority shows that they have not understood, just believed that they understand.
+
+<sup>19.</sup>The esoteric facts that have been given out after 1920 have not been communicated through the Theosophical Society.
+
+### 6.4 *Steiner as Rosicrucian*
+
+<sup>1.</sup>Steiner alleged that he had been initiated into the Rosicrucian Order and that he had obtained from this order all facts about the superphysical which he had not been able to ascertain for himself.
+
+<sup>2.</sup>There is, then, reason to dispel once and for all the darkness surrounding this order, the name of which has been used for more than enough mischief. This name can be eliminated without loss.
+
+<sup>3.</sup>The Rosicrucian Order was instituted in 1375 by Christian Rosencreutz, as he was assigned by the planetary hierarchy. What is common to all such orders is that nobody can be initiated into them by anybody else than the original institutor, who always remains the Order’s supreme head. No initiate reveals to outsiders that he belongs to the Order. He can admit to having heard of, but cannot himself bear witness to, its existence. Only essential selves (46-selves) are permitted to institute orders, but no new ones will be instituted for another 200 years.
+
+<sup>4.</sup>Another rule applied in these orders is that they cannot be dissolved as long as any initiate remains in the fourth natural kingdom. Once an initiate, always an initiate (the monad is initiated, not the perishable envelopes) with the right to have this knowledge revived (nowadays unnecessary). New neophytes have not been accepted since 1875 (all that is permitted to be made known is already public), unless the knowledge is banned by the authorities and the esotericians are persecuted. At mankind’s present stage of development anything is possible.
+
+<sup>5.</sup>Originally instruction in the Order was oral, until Saint Germain had the knowledge system elaborated, three copies of which were lent to members of the Order only.
+
+<sup>6.</sup>The existence of the Order became publicly known through a work published by an arrangement of Saint Germain, a work that contained the symbols of the Rosicrucians. A new edition of this book was published many years later by the theosophist, Dr Franz Hartmann.
+
+<sup>7.</sup>The man who did the most to draw attention to the Order’s existence, was the greatest novelist the world has ever known (now, of course, forgotten), Bulwer-Lytton (1803–1873), who was himself an initiate and in London in the 1850’s gathered a number of Rosicrucians around him, including Regazzoni (who gave the scholars of all Europe headaches and enraptured the German philosopher, Schopenhauer, by his genuine magical experiments), and Eliphas Levi, author of a number of books on “kabbalistic alchemy”. That was all that was to be made public at that time.
+
+<sup>8.</sup>Through such good advertisement for this “sacred brotherhood” its name acquired a “pleasant ring”. Thus, it is not to be wondered at that all sorts of fantasts pretended to be Rosicrucians. More and more societies occupying themselves with occult problems adopted the name. In order to uphold their claims they fabricated writings to prove that only they were of the right stamp.
+
+<sup>9.</sup>A pamphlet about the Rosicrucian Order Amorc (Malmö, Sweden, 1938) gives a fair idea how this was done. In this pamphlet there is not one true fact apart from data already known from profane history.
+
+<sup>10.</sup>If you follow the development of these quasi-orders, you will find that the original statements nowadays are changed without further ado as more esoteric facts are permitted to be publicized through the agency of the planetary hierarchy.
+
+<sup>11.</sup>What these quasi-esoteric sects taught was on the whole a concoction of kabbalism, quasi-gnosticism, neo-Platonism, and all sorts of mysticism, with misunderstood yoga philosophy mixed in. The clever jargon was well calculated to impress the ignorant.
+
+<sup>12.</sup>Steiner was initiated, it is true, but into one of these sects, not into the genuine Rosicrucian Order. He was never in touch with the present incarnation of the Order’s head. In this order they were taught that it is impossible for an individual in the fourth natural kingdom to solve the problems of existence, that emotional clairvoyance (the highest kind possible for man) does not provide knowledge of reality, that the so-called akashic records do not contain the history of the planet, that individuals in the emotional world cannot explore that world or acquire knowledge of reality. How strict the training was is clear from the fact that all the right knowledge which the individual could not ascertain for himself was to be regarded as hypothetical.
+
+### 6.5 *Steiner and the Yoga Philosophy*
+
+<sup>1.</sup>The original yoga methods were elaborated by “rishis” in Lemuria and Atlantis. It is clear from Steiner’s statements that he did not possess the requisite understanding of their importance, and so a brief account of yoga will be given.
+
+<sup>2.</sup>Of the five methods of development most widely known, two are direct: physical hatha yoga (a risky forcing-house method that has claimed countless victims) and mental raja yoga. Three are indirect: gnana yoga (development of reason), bhakti yoga (ennoblement of emotion), and karma yoga (devoted service).
+
+<sup>3.</sup>Hatha yoga was the Lemurian method of perfecting the organism and automatizing the sympathetic nervous system. Modern hatha is an atavistic phenomenon having quite the opposite effect: all the organs of the body require constant supervision if they are not to cease functioning.
+
+<sup>4.</sup>Bhakti yoga was the Atlantean method.
+
+<sup>5.</sup>Karma yoga seeks to overcome passivity, the result of the doctrine of karma misinterpreted. People did not dare to act, neither eventually to feel or think, out of fear of making mistakes. They did not see that omitting to activate physical, emotional, and mental consciousness is an even greater mistake, and that the motive (egoistic or altruistic) is the essential thing in activity.
+
+<sup>6.</sup>The Lemurians led a half-dreamlike life of consciousness on the border between the physical and the emotional worlds. It took millions of years to mentalize the brain. As the senses gradually became sharpened to physical reality, emotional attention decreased and, accordingly, the ability to live in two worlds simultaneously.
+
+<sup>7.</sup>The Atlanteans were physicalists of repulsive emotionality and were given opportunities to cultivate attraction.
+
+<sup>8.</sup>Steiner thought that Indian yoga was an attempt at artificially substituting the natural clairvoyance of the Atlanteans that “had been lost as a result of the Fall”. But this “loss” amounted to a step forward, since the requisite qualities can be acquired only in the physical world, and clairvoyance would be an obstacle to this.
+
+<sup>9.</sup>There are seven kinds of emotional subjective and objective consciousness. Mankind of today has the lower four subjective, the mystics have the lower five.
+
+<sup>10.</sup>Experts must not make the mistake that Steiner did, of confusing the Krishna of *Bhagavad- Gita* (the legend from Atlantis) with Maitreya–Krishna (who died on the 4th of April in 3102 B.C.E).
+
+<sup>11.</sup>Steiner thought that this emotional clairvoyance was of a kind quite different from that of the raja yogis. But both have objective consciousness in the lower four molecular kinds (48:4-7), although obtained in different ways.
+
+### 6.6 *Steiner as a Philosopher*
+
+<sup>1.</sup>The conversation that Steiner had with Eduard von Hartmann, the philosopher, is interesting. The latter considered that “the knowledge of the real is buried in man’s impenetrable unconscious, and for ever out of reach of his concepts”.
+
+<sup>2.</sup>According to esoterics, the unconscious is partly subconsciousness, partly superconsciousness. The subconscious is the latent memory of past experiences. The superconscious consists of a long series of consciousness domains as yet not conquered. If one is to speak at all of knowledge being “buried”, it can only be knowledge which man has once had and lost, but has a possibility of remembering anew. It is amazing how philosophers can unwittingly touch on reality.
+
+<sup>3.</sup>Steiner started as a philosopher, but soon came to see that the philosophers are unable to solve the problems of reality. He saw that the facts of natural research provide knowledge of the composition of physical matter, but cannot explain the nature of matter or the origin of motion (of the forces of nature).
+
+<sup>4.</sup>In theosophy he found confirmation that this insight was correct. All knowledge consists of facts put in their correct contexts. There is a superphysical reality and there is a possibility of ascertaining facts in it.
+
+<sup>5.</sup>The principle is correct. But Steiner never saw how much is required to be able to ascertain facts in a kind of matter totally different from the physical kind.
+
+<sup>6.</sup>The old philosophy is doomed. It was the imaginative speculation of acuity and profundity. The same fate will befall the new philosophy à la Bertrand Russell and all systems which are not based on facts from the planetary hierarchy.
+
+### 6.7 *Steiner’s Own Theory of Knowledge*
+
+<sup>1.</sup>The theosophists Steiner studied had mentioned the existence of seven successively higher worlds and seven envelopes of the individual. But ideas as to their nature were then still vague. Besant, in particular, avoided discussion of the matter aspect of existence, not least out of consideration for the philosophic subjectivism prevalent both in India (advaita) and in the West (so-called idealism).
+
+<sup>2.</sup>Steiner thought that the physical world was the only material one and that all higher worlds were of a “spiritual” nature. It was a current stock-phrase of the theosophists that matter was the lowest form of spirit and spirit the highest form of matter. Steiner never grasped that what was meant was ever more refined kinds of matter, due to ever lesser density of primordial atoms.
+
+<sup>3.</sup>Steiner interpreted the ancient apparent antithesis of spirit and matter as meaning that spirit must be something like immaterial matter, whatever that might be. In fact, the ancients meant by “spirit” the same as consciousness and they held that all matter has consciousness.
+
+<sup>4.</sup>Where research into the physical and emotional worlds was concerned, Steiner realized that research consists in ascertaining facts. But when it came to the superemotional worlds, to which he did not have access, since he lacked the ability of higher kinds of objective consciousness, he departed from this the only correct and possible principle and reverted to subjectivist speculation.
+
+<sup>5.</sup>While studying Goethe’s writings on the natural sciences, Steiner had the brain-wave that was to have a decisive effect on his further speculation on the theory of knowledge. He thought he had noticed that when studying nature, Goethe had not arrived at his conclusions through reflection, but that “the ideas rose up within him during his concentrated observations, as though they were the soul’s pictures of the realities behind nature”. That Goethe did not continue along this path was, Steiner thought, because “Goethe was afraid of losing himself in abstractions”.
+
+<sup>6.</sup>This mistake, so unfortunate for Steiner himself, shows that Steiner was ignorant of the fact that Goethe was an initiate of the (genuine) Rosicrucian Order and amused himself by applying in his own research what he had been taught. Goethe was certainly not a fantast.
+
+<sup>7.</sup>When faced with insuperable obstacles in attempting to explore reality by ascertaining facts, Steiner would remember his favourite hypothesis about Goethe. Add to this the admiration he had always had for Goethe’s contemporaries Fichte, Schelling, and Hegel with their conceptual romanticism.
+
+<sup>8.</sup>Thus he formed his own theory of knowledge, in its way just as absurd as that of the transcendentalists:
+
+<sup>9.</sup>“If you live in thoughts and ideas and regard them as realities, this life in thought soon turns into that direct spiritual experience of the spiritual reality in which thought and experience are one. Thoughts are the means through which the realities of the spiritual world make themselves felt to the human consciousness. Man’s concepts appear as reflections of spiritual realities.”
+
+<sup>10.</sup>In this train of thought one recognizes a new version of the old German conceptual romanticism and subjectivism. Of course, it is not a matter of the usual kind of unphilosophic thinking, but of an especially fine philosophic kind of thinking. One recognizes the legerdemain of Kant’s “pure apperception”, Fichte’s “intellectual outlook”, and Hegel’s “absolute thinking”.
+
+<sup>11.</sup>Another excellent example of what will happen when consciousness ventures out on its own into the world of imagination without the objectivity and logical corrective of the matter aspect.
+
+<sup>12.</sup>Just as little as one will be able to explore reality by thought or solve the problems of existence through meditation, as little one is able – as the esoterically ignorant at times imagine – to revive what is latent in the subconscious by being absorbed into oneself. Knowledge previously acquired is reacquired through studying anew the same subject-matter in new incarnations. The new brain knows nothing of what the old brain knew, but must be impregnated anew with mental molecules. The brain cannot apprehend ideas from a totally strange field without previous study. In order to receive the idea atoms, the brain cells must be prepared by mental vibrations, which are easily volatilized unless the cells incorporate the molecules and preserve them. On the other hand, it is a fact that those who have latent knowledge find it increasingly easy to acquire that knowledge in new incarnations.
+
+<sup>13.</sup>According to Steiner, “thought is the gateway to beholding the spiritual world”, man can by “pure” thinking acquire “knowledge that goes beyond thought but arises out of it”, man can himself explore the universe and “transform his earthly thinking into the higher level of divine wisdom”.
+
+<sup>14.</sup>If it were as simple as that, mankind would have solved all its problems long ago.
+
+### 6.8 *Steiner’s Clairvoyance*
+
+<sup>1.</sup>Clairvoyance is the popular term for higher kinds of sense: the ability of observing objective realities in a world invisible to the normal individual (most people).
+
+<sup>2.</sup>Reason is subjective consciousness, sense is objective consciousness.
+
+<sup>3.</sup>Physical sense is the ability of apprehending objectively the objective material realities of the “visible” physical world. During his physical incarnation, man lives in five different material worlds, since he has material envelopes in all five. It remains for the normal individual, in the course of development and during thousands of incarnations, to acquire objective consciousness in all his five envelopes, thus beside physical sense to acquire also physical etheric, emotional, mental, and causal sense. There are thus four main kinds of “superphysical” sense. Each world is composed of a series of different molecular kinds (states of aggregation). Each molecular kind has its own characteristic kind of consciousness, which in man’s envelopes is perceptible by special organs of perception (chakras). The physical sense organs have their counterparts in the centres of perception and activity (atoms of special kinds, Sanskrit: chakras) in man’s aggregate envelopes.
+
+<sup>4.</sup>It is by means of the chakras that man is able in his organism to perceive subjectively the vibrations in his higher envelopes and in so doing experience feelings and thoughts, etc. In order to acquire objective consciousness through these chakras special methods of activation are required. Some of these methods are known.
+
+<sup>5.</sup>The raja yogis can by their methods acquire objective consciousness in the etheric envelope of the organism and also in the emotional envelope, but not in the mental or causal envelopes. Nor did Steiner succeed in this. He acquired sense (objective consciousness) in the lowest physical etheric kind (49:4) and in the lower four emotional molecular kinds (48:4-7).
+
+<sup>6.</sup>There are various methods of activation and objectivization, some better suited to Indians, others better suited to Westerners. The general instructions have to be individualized, however, so that every clairvoyant has his own method. Those esoteric methods, which lead rapidly and without risks to causal objective consciousness, remain the property of the planetary hierarchy. Knowledge of the pertaining methods was given only to those who had acquired subjective causal consciousness – after 1925: essential (46) consciousness – and so reached the limit of what man can achieve. They then know that emotional sense and mental sense do not afford real knowledge, but intensify emotional illusoriness and mental fictitiousness. In man’s molecular worlds one does not get to know the worlds of the planetary hierarchy, or the atomic worlds penetrating everything, nor does one acquire those reality concepts which make it possible to understand the realities within the solar system.
+
+<sup>7.</sup>To understand the difficulties of the philosophers and mystics, one must at least know of the interdependence of the emotional and mental envelopes and the relation between the six emotional and four mental molecular consciousnesses.
+
+<sup>8.</sup>During incarnation the emotional and mental envelopes coalesce so as to form, as it were, one single envelope from the functional point of view. Since emotionality is incomparably more developed, it completely dominates mentality. A condition of liberating mentality from the dependence on emotionality is that the coalescence be discontinued. This also results in mental objective consciousness. The method will remain esoteric until mankind has become humanized. Until then, the lowest kind of mental consciousness (47:7) can at best dominate the lowest two kinds of emotional consciousness (48:6,7) and the lowest two mental kinds (47:6,7) the lower four emotional kinds (48:4-7).
+
+<sup>9.</sup>At mankind’s present stage of development, the philosophers have not attained the highest mental consciousness but one: perspective consciousness (47:5), which relativizes contradictory principle thinking. On the other hand, the mystic in his incarnation as a saint does attain the highest emotional consciousness (48:2,3).
+
+<sup>10.</sup>From this it follows that the highest emotional consciousness is inaccessible to mental consciousness, that imagination becomes sovereign and is liberated from the logic of common sense. As a rule this is unfortunate, because by this begin the uncontrollable excesses of imagination. Without the knowledge of reality, the individual then imagines he comprehends everything, understands everything, knows everything, is able to do everything. The mystic is absorbed in the cosmos, god, the absolute, etc., or in nirvana, Brahman, etc., associates with superior beings of all sorts, etc. Belief in all such things is strengthened when the mystic in his states of ecstasy succeeds in touching on (but not entering) the essential world (46) and having a foretaste of its bliss with a feeling of absolute reality.
+
+<sup>11.</sup>It should be clear from the following that Steiner was both a philosopher and a mystic; that he was an objectivist as to the physical and emotional worlds, but a subjectivist as regards the superemotional worlds.
+
+<sup>12.</sup>The objective emotional consciousness that Steiner acquired afforded him no knowledge of reality and life, no knowledge even of the nature of the emotional world. What should be said of anyone who without the knowledge of chemistry, physics, geology, etc., were to express opinions about the physical make-up of our planet? Research in the emotional world requires knowledge that Steiner did not have, did not even know existed. He did not even realize that the emotional world is a material world with compositions of matter of its own characteristic kinds.
+
+<sup>13.</sup>The untutored see organisms and physical material forms, but therefore do not know that organisms consist of cells, and minerals of molecules. It is not enough to see the form of matter in order to understand what matter consists of.
+
+<sup>14.</sup>It is meaningless to warn other clairvoyants, as Steiner did, not to trust their “revelations”. They all do who have not realized the theoretical impossibility. How much he himself understood can be seen from this: “That the self, which itself is spirit, lives in a world of spirits was a thing that I could observe.” Self-consciousness in the emotional envelope in the emotional world Steiner called “the self as a spirit in the spiritual world”.
+
+<sup>15.</sup>There are several ways of acquiring clairvoyance. If the prerequisites are there, everybody will develop his own method. Like everyone else, Steiner regarded his method as the only correct one. The method Steiner used was one of the oldest. One observes, say, a flower until one can picture it in imagination as clearly as though one were looking at it. If the pertaining exercises are continued persistently and systematically, it may happen that one will become aware of, first, the flower’s etheric envelope and, later, also its emotional envelope.
+
+<sup>16.</sup>Considerably simpler, but also riskier, is the method of activating consciousness in the chakras of the etheric and emotional envelopes. The correct method of doing this is not taught, however, and the attempts of the ignorant usually result in tumours forming in the organism. But, as usual, warnings will not help: “Fools rush in where angels fear to tread.”
+
+<sup>17.</sup>Steiner is one of the countless examples (Swedenborg is another well-known one) of the truth of the esoteric axiom, “no self-tutored seer ever saw correctly”. Steiner was his own tutor. Is it necessary to say that it must be a tutor from the planetary hierarchy?
+
+<sup>18.</sup>The first lesson in emotional chemistry is to learn to distinguish between two fundamentally different kinds of matter: primary involvatory matter (the product of the process of composition of primordial atoms from the highest atomic kind to the lowest molecular kind) and secondary involutionary matter. Nobody can do this without a competent teacher. What Steiner saw were the phenomena that are formed out of involutionary matter, and those material forms (with the exception of envelopes of living beings) are the products of man’s formative emotional consciousness. Emotional matter forms itself immediately at the slightest hint from consciousness. The untrained take these forms for enduring realities. The whole of emotional involutionary matter is being re-formed eternally in accordance with the wishful thinking of its inhabitants. This is the source of all the mistakes the untrained make, which has made possible the legends of the Christians’ heaven and hell, the Greeks’ Hades and Elysian Fields, the Red Indians’ happy hunting grounds, the spiritists’ summer land, etc.
+
+### 6.9 *Steiner’s Akashic Records*
+
+<sup>1.</sup>Our planet’s emotional world, which extends half-way to the moon, consists of six more and more composite molecular kinds (states of aggregation), forming six regions with different radii from the centre of the earth. The different regions appear to those in the emotional world as so many different worlds, ever higher “spiritual” worlds. The emotional atomic world, which provided the original material for the different molecular worlds, exists in them all, but cannot be apprehended by human consciousness.
+
+<sup>2.</sup>All matter has consciousness and memory. In addition, every atom in the molecules has a common collective consciousness with the atoms in its molecular kind. It is in this collective consciousness that the different worlds have their respective collective memories, which can be read by those who have acquired objective consciousness in the respective molecular kinds. In the emotional world there is, beside the only exact collective memory (inaccessible to man) of the atomic world, six different kinds of collective molecular memories.
+
+<sup>3.</sup>Steiner had objective consciousness in the lower four molecular kinds and thus the possibility of studying four different collective memories. Steiner warns the ignorant not to believe what they might happen to see in the emotional world. This shows that he apprehended several collective memories. The lower the kind, the less reliable they are in all respects. But even the highest collective memory that Steiner could study does not provide knowledge of the past, but only of what people believed about the past, just as our world history is the opinions of historians about the past.
+
+<sup>4.</sup>Only the collective atomic memory of the emotional world is the one that cannot be falsified, but reproduces exactly past events of the emotional and physical worlds, but not those of higher worlds.
+
+<sup>5.</sup>What collective memory Steiner stopped at, calling it the “akashic records”, is uncertain, since there are many indications that sometimes he mixed up the memories in the third and fourth counted from below (that is, 48:5 and 4). “The akashic records”, besides, is a very unfortunate term, adopted via Eliphas Levi’s alchemist terminology. According to the planetary hierarchy, akasha is world 44 (the submanifestal world, or paranirvana), not world 48. As usual, ignorance has used the word “akasha” in many contexts except the only correct one.
+
+<sup>6.</sup>The planetary hierarchy has repeatedly warned against the use of emotional or mental clairvoyance. What one gets to know in the emotional world is not the knowledge of existence, reality, and life. Like the mental world, it is intended to be a sojourn of rest pending a new incarnation. It is only in the physical and causal worlds that man is able to ascertain real facts, not in the emotional and mental worlds. In those worlds one cannot know whether what one sees is the enduring reality of nature or not.
+
+<sup>7.</sup>In the emotional world one has confirmation of all one’s illusions and fictions, one’s hypotheses and theories, and all other fancies.
+
+<sup>8.</sup>In the emotional world the Hindus meet Brahma, Vishnu, and Shiva; the Buddhists their Buddha, and the Christians the Jesus of the Gospels. According to 45-self D.K., there is an emotional replica of him formed by emotional devotees; the warning is explicit. The whole Bible is there as though recorded on a film. Those who loved Cervantes’ *Don Quijote*, or Dumas’ *The Three Musketeers*, or Dante’s *Divina Commedia*, or some other literary masterpiece, can enjoy these in various versions.
+
+<sup>9.</sup>The “akashic records” provide knowledge of what people thought, believed, loved, and worshipped. If they provided knowledge of reality, Steiner would have recognized the atomic structure of the superphysical worlds. If they provided knowledge of the past, Steiner would not have made such disastrous mistakes as to history.
+
+<sup>10.</sup>As a rule, the collective memory of each region corresponds more or less to its habitants’ average conception of reality (determined by their levels of development). If there is anyone in the emotional world having true knowledge of reality, it is those who live there in order to try to help others orient themselves, comprehend, and understand, with very little prospect of success. Just as in the physical world, everyone is convinced that his very misconception is the only correct one and that “nobody is to come here and pretend to see and understand more”. There is no possibility of acquiring knowledge of a world or region on one’s own. It is seldom that anyone learns anything new in this world, but one goes by illusions and fictions acquired in physical existence. Since the matter of the emotional world puts up no resistance, “one sees what one already knows” and has no reason to change one’s opinion. The collective atomic memory of the emotional world remains inaccessible to the individuals of the fourth natural kingdom.
+
+### 6.10 *Steiner’s Anthroposophy*
+
+<sup>1.</sup>Steiner formulated his own theory of knowledge, his own philosophy, his own superphysical system, his own history of religions.
+
+<sup>2.</sup>He defended his views by invoking the following four sources of knowledge accessible to him:
+
+- the ordinary scientific method of research
+
+- imagination
+
+- inspiration
+
+- intuition
+
+<sup>3.</sup>By imagination Steiner meant his emotional clairvoyance, not knowing the esoteric axiom that “no self-tutored seer ever saw correctly”.
+
+<sup>4.</sup>Inspiration is the most misleading method, which the esoteric saying makes clear: “angels whisper but lies”; illusions and fictions picked up telepathically.
+
+<sup>5.</sup>The definition of intuition shows that Steiner was ignorant of the fact that intuition is causal consciousness, access to the world of Platonic ideas. It is by no means, as Steiner asserts, “identification with a higher being”. Nobody in the whole cosmos can identify himself with a higher being, only with a lower one, which has not always been very fortunate.
+
+<sup>6.</sup>As has already been pointed out, nobody can explore any world by “pure” thinking, a meaningless term (borrowed from Kant who constructed a pure reason devoid of content).
+
+<sup>7.</sup>According to Steiner, man lives in three worlds (“the physical, etheric, and astral”) and consists of “the organism, etheric body, astral body, and the immortal nucleus of his existence, his self, which belongs to the eternal spiritual world”.
+
+<sup>8.</sup>“The very self has its closest connection to the astral or soul-body, the seat of consciousness.” These bodies are not material, but consist of “etheric life-force” and “astral consciousness force”.
+
+<sup>9.</sup>“When thought is concentrated there rises up in consciousness emptied of physical pictures a world of supersensual beings and events. Every possibility of self-deception is precluded.”
+
+<sup>10.</sup>Steiner obviously did not know that man in incarnation has five envelopes, that the highest (fifth) envelope (the causal envelope) is called the soul-body, that all these five envelopes have their own kinds of consciousness, that all the envelopes consist of ever finer kinds of matter, that force is a finer kind of matter, that the individual in the human kingdom cannot attribute his self-consciousness to that monad in the causal envelope which is the true self. The “three worlds” he mentions are those he knows of from his own experience. But without his mental envelope in the mental world man is unable to think. This he ought to have known.
+
+<sup>11.</sup>Steiner speaks of the “cosmic-planetary”, not knowing that the planet is not in the cosmos, but in a solar system, and that the solar systems are regarded as globes of their own in the cosmos, just as the planet is a globe in the solar system.
+
+<sup>12.</sup>Steiner’s criticism, correct as such, of traditional mysticism was not at all based on his own findings. Long before Steiner it had been pointed out that reason is the only corrective of the excesses of emotional imagination, and that the mystic’s contempt for mentality (as an obstacle to union with god) is due to lack of insight.
+
+<sup>13.</sup>According to Steiner, his teachings were “based on immediate and direct observation of superphysical realities”, only his system is “a logical system that makes rational thinking possible”.
+
+<sup>14.</sup>In his books one continually comes across the statement that he had arrived at his views through his own observations and that these views are the only correct ones. By his bold assertions he instilled into his (one-sidedly oriented) adherents the belief that it was he who had made all these “spiritual discoveries”. One is continually being told that “Steiner revealed an important fact” (immemorial esoteric fact), or that “spiritual science throws a fresh light on ...”, or “Steiner’s doctrine of reincarnation ...”, “to his revelations of the objective reality of the supersensual world ... Steiner gave the name of anthroposophy”.
+
+<sup>15.</sup>The fact that Steiner’s disciples insist on his priority surprises nobody who has followed his development. He had that faculty, frequently seen in those suffering from a superman complex, of remembering everything he learned but forgetting how he learned it. But should anyone be surprised at scientifically educated people uncritically swallowing everything without a thorough examination of the literature on the superphysical, which is already of vast proportions, it just shows his unfamiliarity with scientific credulity, which also exists. The tenable facts found in Steiner existed “before Steiner”.
+
+<sup>16.</sup>Steiner’s mistake was that he would not be content with the esoteric facts then existing and to try to make a system out of them, but to complement facts with his own subjectivist vagaries. Steiner’s merit was that at a time when all authorities accepted by the majority in the West were denying the possibility of superphysical knowledge, he dared to stand up and maintain that there was knowledge of a “higher world”. In addition, he made praiseworthy contributions in various fields of research.
+
+### 6.11 *Steiner as an Esoterician*
+
+<sup>1.</sup>If by esoterician is meant someone who in a previous incarnation was initiated into an esoteric knowledge order, one instituted by a member of the planetary hierarchy, who thus has the knowledge of reality latently, and who in subsequent incarnations will not accept any world view and life view that do not agree with the esoteric knowledge, then Steiner was not an esoterician.
+
+<sup>2.</sup>But if by esoterician is meant one who accepts a superphysical knowledge system of any kind, then one can call Steiner an esoterician.
+
+<sup>3.</sup>Since almost all attempts at superphysical systems nowadays are termed “esoteric”, a term increasingly vitiated, one has to make a definite distinction between those who, like Steiner, use their own constructions to complement the facts of reality, and those who base their systems solely on facts from the planetary hierarchy.
+
+<sup>4.</sup>Esoteric systems, then, are those knowledge systems that were elaborated in symbolic form in the different knowledge orders. They were adapted to the ability to comprehend reality of the different nations during the last 45,000 years. Some of these systems were summarized by Blavatsky in her work, *The Secret Doctrine.* The interpretation of these symbols requires esoteric facts. From 1875 (when certain parts of the system were permitted to be published) until 1920, the planetary hierarchy’s facts were given out through the Theosophical Society and after that period through other organs (“Rosicrucians” or anthroposophists are not among these).
+
+<sup>5.</sup>An esoterician has no difficulty in determining whether alleged facts are also real facts. Only those who have never understood dispute about these, ask “who said that?” They are content to rely blindly on some authority.
+
+<sup>6.</sup>Steiner was never initiated into any knowledge order recognized by the planetary hierarchy. This is best shown in the way he treated the facts he received. The few esoteric facts there are in his anthroposophy have all been taken from the theosophists.
+
+<sup>7.</sup>Steiner did not know the following fundamental facts, necessary to a correct conception of reality:
+
+- the three aspects of existence
+
+- the atomic structure of the cosmos
+
+- the 49 cosmic atomic worlds
+
+- the 42 molecular kinds in the solar system
+
+- the fifth natural kingdom
+
+- the planetary hierarchy
+
+- the planetary government
+
+- the solar systemic government
+
+- the cosmic organization
+
+- the seven successively higher divine kingdoms
+
+### 6.12 *Steiner as a Historian*
+
+<sup>1.</sup>Steiner himself quoted the akashic records as his source of historical knowledge and the only reliable one. The failure was thus inevitable. One will find in them (as Swedenborg, as so many others did) merely a confirmation of one’s preconceived opinions.
+
+<sup>2.</sup>The correct historical facts to be found in Steinerian historiography were known “before Steiner”.
+
+<sup>3.</sup>In Hamburg, May 18–31 1908, Steiner gave twelve lectures on the Gospel of John; in Basel, September 15–24 1909, ten lectures on the Gospel of Luke; in Bern, September 1–12 1910, twelve lectures on the Gospel of Matthew; and in Basel, September 15–24 1912, ten lectures on the Gospel of Mark. If Besant had known the content of these lectures, Steiner would have been promptly discharged.
+
+<sup>4.</sup>These lectures did not deal so much with the Gospels as with historical fictionalism, Biblical exegesis in general, and the philosophy of history in accordance with Steiner’s akashic records.
+
+<sup>5.</sup>It proved easy to have such things printed and translated into several languages.
+
+<sup>6.</sup>There is no disputing the fact that Steiner acted in good faith. People with sufficient power of imagination always do. It is also inevitable that the anthroposophists, who rely absolutely on the infallibility of their prophet, believe as he did. It will be the task of future research to furnish the overwhelming evidence as to who was right and compare the different versions and statements. If one does not know it is in such matters better being a doubter than a believer.
+
+<sup>7.</sup>When Steiner found that the theosophical leaders refused to regard the Bible as a divine authority, he lost faith in the capacity of these leaders. The theosophists had seen the justness of Buddha’s warning “not to believe in a thing said merely because it is said; nor in traditions because they have been handed down from antiquity; nor writings by sages because sages wrote them;” etc. Mankind has not yet seen the wisdom of this advice.
+
+<sup>8.</sup>It is, of course, out of the question to go into details of all the absurdities of Steiner’s interpretation of history. It should suffice with a few examples of what imagination unbridled is able to achieve. To esotericians these examples are at any event sufficiently informative, deterring proofs of the unreliability of the akashic recorders.
+
+<sup>9.</sup>We are told of the Atlanteans: “In the days of the old Atlantean development, one could through a certain astral-etheric clairvoyance see into the divine spiritual foundations of existence.” Looking up into the divine worlds through physical etheric and lowest emotional clairvoyance one could well call a miracle.
+
+<sup>10.</sup>As for the Egyptians, Steiner would have it that they “embalmed the bodies of their dead so that men of the fifth epoch (ours) should have the strongest possible personality consciousness”. He actually wrote this!
+
+<sup>11.</sup>His research into the Bible Steiner conducted on different principles. As it suited his constructive imagination he interpreted the scriptures literally, historically, or symbolically. In Goethe’s *Faust* the expression is found: “Blood is a particular sort of sap.” Steiner made this a problem that he solved in a profound way. But without the facts of reality it became, as it always will: an imaginative construction.
+
+<sup>12.</sup>The history of the Hebrews became largely a “lesson in the significance of the blood, its heredity through the generations, and its specialization in order to make the spiritual possible.”
+
+<sup>13.</sup>“The awakening to a historical outlook originates from the ancient Hebraic world view; the first impulse towards a historical view.”
+
+<sup>14.</sup>In Steiner one repeatedly meets with the expression “the Essenes were the first to teach”.
+
+<sup>15.</sup>According to esoterics, the Essenes were not the first in anything. All their teaching was either borrowed or fictitious. The Essene Bible was the Jewish Kabbalah, which was their revised version of the Chaldean Kabbalah, the latter being some 30,000 years older. The revision consisting in replacing the esoteric symbols that they did not understand with their own attempts at symbols, which corresponded to their fictions.
+
+<sup>16.</sup>The following quotations from Steiner – they could be multiplied – need no comment. They are sufficiently informative to those oriented in esoterics.
+
+<sup>17.</sup>“While men in the Atlantean age everywhere found the divine out in the world, the Jews found it within themselves.”
+
+<sup>18.</sup>The Jewish people were able “to form the divine-spiritual of the Atlanteans bodily in their being”.
+
+<sup>19.</sup>“The great world-god had now become the God of the Hebrew people.” That is correct. It was the Jews who made out of the cosmic divinity a personality and their peculiar god.
+
+<sup>20.</sup>When reading this and suchlike, one has no difficulty in understanding that Besant could not any longer regard Steiner as a theosophist. Esoterics agrees wholly with theosophy in accepting Buddha’s statement that there are no, will never be permitted to be any, scriptures so sacred that the individual is not to use his common sense when interpreting them.
+
+<sup>21.</sup>In theosophical literature Steiner found the term “initiation”. Since he trusted to his intuition always to interpret everything correctly, he as usual did not find out the correct meaning of that word. He obviously did not know that facts are required also for intuition.
+
+<sup>22.</sup>In one sense, initiation is the ceremony one passes through when entering an esoteric order.
+
+<sup>23.</sup>In another sense, initiation means self-acquired objective consciousness in a higher world (physical etheric, emotional, mental, causal, essential, etc. world).
+
+<sup>24.</sup>In theosophical literature Steiner found a description of an Egyptian initiation (first sense, in the Cheops pyramid) and thought that this was what always happened. But the neophyte is by no means always physically unconscious for three days and nights. Sometimes he is not unconscious at all. Sometimes he can be in that state for a couple of weeks. The ancients held initiations (first sense) in connection with the great religious festivals in which the entire people took part and thus all the brethren of the order were assembled. That was a suitable occasion thoroughly to instruct the neophyte in his new world, teach him to distinguish between the many different kinds of matter, regions, phenomena, etc.
+
+<sup>25.</sup>Then Steiner came across that expression, the “seven” initiations. Not suspecting that this expression had a special meaning, he thought that it meant the subjective experiences of Christian mystics in the seven regions of the emotional world. Esoterically, it stood for self-acquisition of objective consciousness in the seven atomic worlds (atomic as distinct from molecular) of the solar system.
+
+<sup>26.</sup>Steiner considered clairvoyance a prerequisite of insight into and understanding of his anthroposophical spiritual science. He was ignorant of the fact that the higher worlds are no more spiritual than the physical world, that emotional and mental clairvoyance does not afford any knowledge of existence, the meaning and goal of life, or the past of the planet, that human clairvoyance only strengthens the illusions and fictions of the ignorance of life.
+
+<sup>27.</sup>Thus Steiner could assert that “the ancient Indian method of initiation” (which never existed) “was a result of our ancestors’ longing for the lost power of clairvoyance”. The neophyte of an esoteric knowledge order was expressly warned against any kind of clairvoyance until he had acquired full consciousness in his causal envelope and thus had succeeded in activating consciousness in the crown centres of the etheric, emotional, and mental envelopes.
+
+<sup>28.</sup>Since Steiner was never admitted to an esoteric knowledge order, but only to a number of quasi-orders through the ages, it eventually became pretty awkward to know so much more than the theosophists about things of which he could of course know nothing. To make all initiations superfluous he resorted to the mystery of Golgotha, which would explain everything.
+
+<sup>29.</sup>According to Steiner, the self, once initiated (what now is the use of that?), is able during sleep not only to “survey our earth”, but also to “float out in the cosmos”. Steiner, at any event, could not. (The emotional world extends only half-way to the moon.)
+
+<sup>30.</sup>Steiner considered that after the mystery of Golgotha the initiations became perfectly superfluous. Up to then the knowledge of reality had been taught in secret orders. “Through the mystery of Golgotha what had been taught in these orders was revealed to mankind.” “Through the mystery of Golgotha powers have become generally available which previously could only be obtained in connection with the powers of initiation into spiritual seership.” Through the mystery of Golgotha “initiation as a historical event was thus discontinued ... was now as a non-recurrent event enacted before all mankind ... the end of the old world was given ... the beginning of a new age was come”. The mystery of Golgotha is “nothing but the emergence of initiation from the depths of the mysteries onto the plan of world history. Of course, there is a very great difference between any kind of initiation and the Mystery of Golgotha.”
+
+<sup>31.</sup>If the mystery of Golgotha made all knowledge orders superfluous, one will perhaps wonder why the Rosicrucian Order and the Maltese Order were instituted after the mystery of Golgotha.
+
+<sup>32.</sup>Steiner was ignorant of the existence of the planetary hierarchy, the planetary government, the solar systemic government, and the cosmic organization. The few isolated facts he received about the Indians’ bodhisattva, besides, were calculated greatly to stimulate certain sides of his character: his tendency towards mysticism, towards constructive imagination, his inclination to accept vagaries as higher inspirations, etc. It is no wonder that none of his statements about bodhisattvas, buddhas, etc. had any correspondence in reality.
+
+<sup>33.</sup>As all esotericians know, the word bodhisattva is the Indian term for the “world-teacher”, the head of the second department (department of education) of the planetary hierarchy. The present world-teacher is Christos–Maitreya, who succeeded to his office when Gautama became Buddha (and so as a 42-self passed to the second divine kingdom). Gautama had then been the world-teacher for some 50,000 years, during which time he had instituted esoteric knowledge orders in India as Vyasa (some 45,000 years ago), in Egypt as Hermes Trismegistos (some 40,000 years ago), in Persia as Zoroaster or Zarathustra (29,700 B.C.E), and in Greece as Orpheus (7000 B.C.E).
+
+<sup>34.</sup>Thus Hermes lived more than ten thousand years before the first Zoroaster and, consequently, cannot have received anything from him. Steiner says that “in order to help mankind” Zarathustra gave his etheric body to Moses when the latter lay in the reeds, and his astral body to Hermes Trismegistos. This is impossible, however. The etheric envelope belongs to the organism and cannot be transferred except in connection with the organism.
+
+<sup>35.</sup>The following will perhaps interest esotericians who are unfamiliar with the Steinerian Buddha tale.
+
+<sup>36.</sup>“The Bodhisattva Gautama was able to become a Buddha because there existed now for the first time such a body.” Evidently Steiner was ignorant of the fact that there have been three buddhas before Gautama.
+
+<sup>37.</sup>“If one had clairvoyantly observed a body ensouled by Bodhisattva, one would have seen that the Bodhisattva lived simultaneously in a spiritual body and in a physical body.” Steiner does not tell us what he means by “spiritual body”. According to the esotericians, the bodhisattva has, when appearing in the physical world, a total of seven kinds of material envelopes of the atomic kinds 43–49. Steiner added to this the somewhat astonishing information: “Thus Bodhisattva never left the spiritual world altogether.”
+
+<sup>38.</sup>Buddha “hovers in the spiritual worlds” and his task is from there “to intervene in all that happens on earth”. Apparently, Steiner did not know how else to get rid of him. Besides, that after the mystery of Golgotha Buddha should have to intervene undoubtedly seems a bit unnecessary.
+
+<sup>39.</sup>This Buddha tale can be suitably concluded with Steiner’s information that it was Buddha whom the shepherds in Bethlehem saw in the shape of the angel surrounded by heavenly hosts.
+
+<sup>40.</sup>Did Steiner see all of this in the akashic records or was it his “inspiration” or “intuition”?
+
+<sup>41.</sup>Finally, we are told that “we must now develop in such a way that we educate the faculties ... which appeared in Buddha”.
+
+<sup>42.</sup>When we have succeeded in that, we shall have entered the second divine kingdom (worlds 36–42) and from being 47-selves we shall have become at least 42-selves.
+
+<sup>43.</sup>Steiner’s interpretation of history shows how risky it is to set about interpreting the symbols of the ancient mysteries without knowing the facts. That is what Steiner thought he could do. And the result was grotesque.
+
+<sup>44.</sup>For example, theosophical literature mentions “the great cosmic sacrifice”. At once Steiner would know that this termed the great mystery of Golgotha. It means something different. It refers to the great sacrifice (cosmic indeed) that a supreme divine collective makes when it decides to form a new cosmos in order to make it possible for the primordial atoms in the chaos of primordial matter to acquire omniscience and omnipotence. This is the cosmic work of salvation.
+
+<sup>45.</sup>The four Gospels were selected from among some fifty written by gnostic monks in Alexandria. Consequently, they can be interpreted correctly only by those initiated into esoteric gnostics. Steiner took these accounts as descriptions of historical events, since he found them reproduced in the akashic records.
+
+<sup>46.</sup>Steiner did not even know that “crucifixion” is a symbolic term for incarnation: the envelopes of incarnation (etheric, emotional, mental, lower causal) nailed upon the four spokes of the spinning wheel of existence. The organism belongs to the animal kingdom.
+
+<sup>47.</sup>That Steiner was a typical mystic is obvious from his interpretation of the Bible and the Gospels in general, and of the mystery of Golgotha in particular. On this mystery he built up his fantastic fable of the entire history of our planet. He said that he “had always believed that true knowledge must be in harmony with religion”. What people believe always results in subjectivization of seemingly objective ideas. Then what you mean by religion (possibly a certain form of it) is another matter.
+
+<sup>48.</sup>“He meditated in the most profound wonder and awe before the great, central mystery of Golgotha. Christ’s death on the cross explained the whole of history before and after”, one of his disciples said.
+
+<sup>49.</sup>Steiner himself: “Standing spiritually before the mystery of Golgotha was the most heartfelt, most serious solemnity, and it became decisive for the development of my soul.”
+
+<sup>50.</sup>“Jesus Christ’s life and death and resurrection is the central event in history, both cosmic and earthly. The moral power released through this occurrence was to endure throughout the following history of the earth and development of mankind.”
+
+<sup>51.</sup>“When the blood flowed from the wounds of Christ on the cross all conditions on earth changed.”
+
+<sup>52.</sup>“Through his divine action on Golgotha he sowed a seed of life that saved mankind’s spiritual future.”
+
+<sup>53.</sup>“... right until the time came for the Mystery of Golgotha, man’s soul was not at all adapted to allow the realm of the heavens, the supersensual worlds, to enter the self ... to unite with the self.”
+
+<sup>54.</sup>“Only after Golgotha have people become self-conscious. Before, they thought collectively, after, individually, as will be increasingly evident.”
+
+<sup>55.</sup>The quotations referring to the “great cosmic mystery of Golgotha” could be multiplied. It was on this that Steiner based his entire interpretation of history. Steiner’s widow has summarized her husband’s philosophy of religion thus: “The decisive turning-point between the descent of the spiritual into matter and its reascent, the greatest act of deliverance, the central point of historical becoming, is when the Solar Deity (Ahura Mazdao) descends into a human body and passes through death in the mystery of Golgotha.”
+
+<sup>56.</sup>Steiner did not know that this mystery was a gnostic symbol, created some three centuries before our era. Like all genuine gnostic symbols it has remained an unsolvable mystery to the uninitiated.
+
+<sup>57.</sup>After all mischief done with this symbol of human evolution, the planetary hierarchy has found it advisable to give out the correct interpretation of it.
+
+<sup>58.</sup>The three crosses on the gnosticians’ altar were intended to symbolize:
+
+- the planetary government (the middle cross with the saviour of the world)
+
+- the planetary hierarchy (the repentant thief)
+
+- mankind (the unrepentant thief)
+
+<sup>59.</sup>Another gnostic symbol was the “prodigal son”. It symbolized that part of mankind which “yearned to return to the father’s house” (become self-conscious in the causal envelope in the causal world).
+
+<sup>60.</sup>The following excerpts, selected at random from Steiner’s lectures on the four Gospels, are intended to inform esotericians as to the reliability of Steiner’s akashic records.
+
+<sup>61.</sup>In his Gospel according to Matthew we are told that “Zoroaster was protected by Ahura Mazdao, the great solar spirit, who was to unite with the earth and appear in mankind’s history as Christ”, that “Jesus was an incarnation of Zarathustra”, and that “the life of Jesus is the greatest event in the existence of the earth”.
+
+<sup>62.</sup>In his Gospel according to Mark, Steiner reveals that the young man who fled (Mark 14:51,52) was not a man, but “the cosmic element of Christ, which from that turning point on was incorporated as an impulse in the evolution of the earth”. It was this same young man who later sat beside the grave (Mark 16:5,6), which shows “that we are dealing with a cosmic occurrence”.
+
+<sup>63.</sup>“The Gospel according to Luke contains the true spiritual substance” of Buddhism, but “in a more sublime form”. Buddhism appears in a new shape, “in a form easy to grasp for the simplest intellect”.
+
+<sup>64.</sup>“Christ’s cursing of the fig tree is symbolic of the old tree of knowledge being replaced with a new one, the fruit of which matured out of the mystery of Golgotha.”
+
+<sup>65.</sup>It is thanks to Christ that man only now explores the physical world.
+
+<sup>66.</sup>To Steiner, Christ appearing to his disciples after his death is “proof of the truth of resurrection”. Evidently, he did not know that “resurrection” was the term of the ancients for reincarnation. One is reborn when the old incarnation envelopes have been disintegrated and the self requires new envelopes in order to activate anew its consciousness in its lower envelopes, until it has acquired the ability to activate consciousness in still higher envelopes.
+
+<sup>67.</sup>Not knowing that the planetary hierarchy is engaged in preparing for the appearance in visible form of the world-teacher (bodhisattva), Christos, Steiner declared that “it is a nuisance to speak of Christ in the same way as of the Bodhisattvas ...” “It should be self-evident that any speaking of Christ’s reincarnation must stand out as absurd.” “Christ is the spirit of the earth and the earth is Christ’s body or garment.” “Christianity does not emanate from a personal teacher, but from the very mystery of Golgotha, from a fact of world history, from death and resurrection.”
+
+<sup>68.</sup>And, finally:
+
+<sup>69.</sup>Man will find “the great wisdom when he has become aware of the spirituality of the sun, the great solar aura”.
+
+### 6.13 THE COSMOS ACCORDING TO FACTS GIVEN BY THE PLANETARY HIERARCHY
+
+<sup>1.</sup>The following facts are given to those who do not have previous knowledge of the different material worlds that constitute the cosmos.
+
+<sup>2.</sup>1–49 the cosmic atomic worlds<br>
+43–49 the atomic worlds of the solar systems<br>
+46–49 the atomic worlds of the planets
+
+<sup>3.</sup>Solar systems are formed out of the seven lowest cosmic atomic worlds and the planets out of the lowest four. All the higher atomic worlds penetrate all the lower worlds.
+
+<sup>4.</sup>1–42 constitute a series of 6 ever higher divine kingdoms
+
+<table>
+<tbody>
+<tr><td>43 and 44 are the worlds of the sixth natural kingdom</td><td rowspan="2">the worlds of the planetary hierarchy</td></tr>
+<tr><td>45 and 46 are the worlds of the fifth natural kingdom</td></tr>
+<tr><td>47–49 are the worlds of the lowest four natural kingdoms (the worlds of man).</td><td></td></tr>
+</tbody>
+</table>
+
+<sup>5.</sup>In solar system and planets, the atomic kinds are the original material for 42 molecular worlds (states of aggregation), 6 in each atomic world. The figures put after the atomic kinds indicate molecular worlds.
+
+<sup>6.</sup>The following table refers to the worlds of men. In each world man during incarnation has one envelope of each kind of matter respectively:
+
+<table>
+<tbody>
+<tr><td>49:5-7</td><td>the “visible” physical world (the organism)</td></tr>
+<tr><td>49:2-4</td><td>the physical etheric world (the etheric envelope of the organism)</td></tr>
+<tr><td>48:2-7</td><td>the emotional or “astral” world (the emotional envelope)</td></tr>
+<tr><td>47:4-7</td><td>the mental world (the mental envelope)</td></tr>
+<tr><td>47:1-3</td><td>the causal world, or world of Platonic ideas (the causal envelope with the<br>human monad)</td></tr>
+</tbody>
+</table>
+
+<sup>8.</sup>The causal envelope is man’s only permanent envelope, which has the monad always enclosed within it. It is the causal envelope that incarnates. When incarnation is terminated and the lower envelopes have disintegrated, the monad, asleep in its causal envelope, awaits the opportunity of a new incarnation. When man has acquired the highest causal consciousness (47:1), he enters the fifth natural kingdom and acquires envelopes of the kinds of matter of those worlds.
+
+<sup>9.</sup>All matter has consciousness (spirit). Every molecular and atomic kind has its characteristic kind of consciousness. The meaning of existence is the consciousness development of the monads in the consciousness of the ever higher kinds of matter of ever higher natural kingdoms.
+
+<h2 style="font-family: 'Times New Roman', Times, serif; font-size: 1.333333em; font-weight: normal; text-align: center;">7 YOGA IN THE LIGHT OF ESOTERICS</h2>
+
+### *7.1 Western Ignorance*
+
+<sup>1.</sup>The West is becoming better and better informed as to the political and social movements of India. But there is a lamentable ignorance as to the “spiritual” life of the Indians. It is only recently that yoga propaganda in the U.S.A. has influenced certain American psychologists to begin to wonder if they ought not to investigate whether the Indians really have an “enlightened spiritual life” that it could be worth studying.
+
+<sup>2.</sup>Most of what most people know about India is probably what they were taught at Sunday school, where children learn what Christian missionaries think about these heathens with their ignorance of life. It is obvious that they confuse yogis with fakirs, not suspecting the immense distance there is between these in respect of development.
+
+<sup>3.</sup>The so-called fakirs (the word “fakir” is actually an Arabic term for ascetic), who are all at or near the stage of barbarism, can be divided into two kinds, which could be termed illusionists and quietists respectively. The illusionists show their highly specialized psychological tricks (the cherished “rope trick”, for instance), which are as a rule handed down within he family. The quietists are partly those who torture their organisms, partly those who try to “murder their souls” by killing all sense perceptions, feelings, and thoughts. They think that in this way they can attain nirvana, or extinction, by not producing any new karma, not desiring anything of life that could compel them to be reborn.
+
+<sup>4.</sup>The missionaries accuse the poor heathen of worshipping horrible idols in their temples, but forget that certain Christians worship the Virgin Mary and innumerable images of saints as well as ikons in their temples. They do not suspect that the Indian statues are highly “magnetized”, as a result of which the emotional worshippers devoutly contemplating the symbols of various cosmic energies receive a longed-for physical-etheric and emotional stimulation.
+
+<sup>5.</sup>In the West there is a very exclusive circle of scholars, “orientalists” and sanskritists who, like Max Müller, occupy themselves with translation and interpretation of Sanskrit literature. They are ignorant of the fact that this ancient literature is thoroughly symbolic and that this symbolism cannot be correctly interpreted even by the most learned Brahmins or yogis.
+
+<sup>6.</sup>What to the normal individual (most people) is the unknowable has nowhere more than in India been the object of such unending speculation. Nowhere more than there have thoughtful people been prepared to orient themselves in reality and seek solutions of the problems of the nature of existence and the meaning of life.
+
+<sup>7.</sup>India presents a spectrum of all existing religious and philosophic views. The majority are Hindus who, beside innumerable lesser deities, have the as yet unelucidated, totally misinterpreted symbols of the three aspects of existence: matter (Brahma), consciousness (Vishnu), and motion (Shiva).
+
+<sup>8.</sup>The dread of the Hindus is the “metempsychosis” of popular superstition, which millennia have engraved into them. Becoming now a cooli, now a cow, now a crocodile, now dwelling in a nut, as is believed, cannot have many attractions, least of all for a Brahmin. In all who have fallen victim to that fiction the desire of avoiding such a destiny at any cost will dominate in the end. And since destiny (karma) is the result of the individual’s consciousness expressions, liberation from metempsychosis and extinction in nirvana can be achieved only by killing all kinds of consciousness expressions, especially through freeing oneself from all kinds of desire for anything in life.
+
+<sup>9.</sup>There are endless variations of this basic thought, from the most primitive conceptions of the lowest caste to the most elaborate and complicated logical speculative systems of the Brahmins. A view widely held is that anyone who has succeeded in being “born twice” into the Brahmin caste has nirvana within reach.
+
+<sup>10.</sup>The inexhaustible, restless Indian speculation (principally in the Brahmin caste) that constantly has to elaborate comprehensive logical systems out of every vagary and constantly has to have new fictions to work on, is never content with a system that has been elucidated once and for all, but goes on weaving its fabric of the airiest abstractions. A Western logician would be amazed at the acuity of these conclusions, which confirms that logic does not solve any problems of knowledge.
+
+<sup>11.</sup>A proof of Hermann Keyserling’s understanding of Indian mentality is his correct observation that the ground of the failure of Buddhism in India was and will be the fact that it hinders, not to say, precludes, a continuing mania for speculation.
+
+### *7.2 The Yoga Philosophy*
+
+<sup>1.</sup>The following is a comparison of the esoteric (hylozoic) conception of reality and that of the yoga philosophy. Such a comparison has proved increasingly necessary. The yogis who have tried to present yoga to the West have lacked the knowledge of esoterics. And the Westerners who have treated of yoga have not been in a position to elucidate the pertaining problems.
+
+<sup>2.</sup>Two in particular of India’s many philosophic systems have furnished the basis for the yogis to start from. One is the system of thought used by Patanjali when he wrote his Sutras, that is to say, sankhya. The other is that form of vedanta which was given its character by Shankara.
+
+<sup>3.</sup>Sankhya is a dualist system, as was vedanta before Shankara rehashed it.
+
+<sup>4.</sup>Sankhya starts from matter (prakriti) and consciousness (purusha), vedanta from matter (akasha) and energy (prana). Energy is absent in sankhya, consciousness in vedanta; these aspects are instead attributed to the individual, qualities being the closest correspondences.
+
+<sup>5.</sup>The three qualities (gunas) attributed to prakriti (sattva, rajas, tamas) are, according to esoterics, material energies of the three atomic kinds 45, 47, 49.
+
+<sup>6.</sup>Neither in the East nor in the West have the philosophers managed to solve the fundamental problem of existence: trinity, the three aspects of existence.
+
+<sup>7.</sup>Those yoga philosophers who have studied European philosophy have stopped at Schopenhauer as the one most in agreement with their philosophy. And Schopenhauer himself started from the Upanishads. They quote his “space, time, and causality”, but forget to mention his two fundamental “will and idea (consciousness)”. Subjectivists that they all are, they have omitted the matter aspect.
+
+<sup>8.</sup>The form given to vedanta by Shankara after his treatment of it is called “advaita”, though just as often the term “vedanta” is used incorrectly.
+
+<sup>9.</sup>Shankara discarded the matter aspect from vedanta, absolute subjectivism being the result. Advaita denies the existence of matter, denies that there is any reality outside us, that there is anything but the self, atman, nirvana. Everything else is just “name and form”, the deception of the senses, delusive reality, illusion, maya. The individuals have no existence of their own, are deceptive emanations from, or reflections of, the cosmic self.
+
+<sup>10.</sup>One of the grounds of the yogis’ misconception of reality is their ignorance of the three aspects of existence. Each material world is unlike all the others because of differences in density of primordial atoms. The apprehension of reality thus must be different in the different worlds.
+
+<sup>11.</sup>In the main there are three totally different kinds of so-called theory of knowledge; that of Western ignorance of life, Indian illusionist philosophy (advaita), and hylozoics, respectively.
+
+<sup>12.</sup>The Western theory is either the usual agnostic or skeptical physicalism, which denies the existence of anything that cannot be ascertained by everybody, and regards consciousness as a quality of organic matter; or philosophic subjectivism, which attributes man’s different kinds of consciousness to a fictitious “immaterial” or “spiritual” world of consciousness.
+
+<sup>13.</sup>The advaita philosophy makes the cardinal mistake of judging reality in one world from the perception of reality in another world, and therefore arrives at nothing but absurdities. The perception of reality in world 45, for example, is logically impossible to both 47- selves and 43-selves. The philosophers must learn to let “this be this” in every world.
+
+<sup>14.</sup>The illusionist philosophy can be explained psychologically thus: when matter disintegrates, the atoms involved into lower atomic kinds turn into the next higher kind. When the 45-atom is “split” it disintegrates into 44-atoms.
+
+<sup>15.</sup>Hylozoics maintains that every world is its own inevitable reality, just as real as is the reality of all other worlds to those who are in it. The three aspects of reality not only seem different, but are different, in the different worlds.
+
+<sup>16.</sup>Vedanta was intended as a reaction against physicalism and involved emphasizing the consciousness aspect, but therefore in its original form did not discard the matter aspect. This was the mistake (with advaita) that was made by the Shankara who lived in the 9th century C.E. The first Shankara appeared shortly after Buddha.
+
+<sup>17.</sup>Consciousness cannot exist without a material basis. The importance of the consciousness aspect increases in each higher material world and the importance of the matter aspect decreases. But it is a mistake to deny the absolute existence of the matter aspect and an even greater one to disregard its significance in the worlds of man. The illusionist philosophy of Shankara is a mental fiction in the world of emotional illusions.
+
+<sup>18.</sup>Esoterics explains how Shankara could arrive at his idea, baroque at it seems.
+
+<sup>19.</sup>There is only one consciousness: the cosmic total consciousness in which every primordial atom has a share it cannot lose, and all consciousness is both collective and individual. If the matter and motion aspects of existence are disregarded, the consciousness aspect will have a totally dominating importance. Then one only needs to think out the consequences of the following facts. The physical atom (49:1) contains 48 ever higher kinds of atoms and billions of primordial atoms. The physical atom belonging to involutionary matter already possesses actualized, passive consciousness and thus has as many points of consciousness as it has primordial atoms. The whole cosmos is one consciousness, to a large extent active, in any case activated.
+
+<sup>20.</sup>The speculation of advaita shows the omnipotence of imagination when it has succeeded in getting beyond the reach of logical control and avoided the fate of Ikaros of being exposed to all too palpable a contact with reality.
+
+<sup>21.</sup>It is characteristic of the Indian mentality that both sankhya and advaita seem to be able to thrive under the same roof. After using sankhya (the matter aspect) to explain the realities of existence, there is no obstacle to crowning the work by passing to the illusionist philosophy of advaita and losing oneself in the airiest abstractions. Should one for any reason be compelled to give a rational explanation of the annoying material realities, then one turns a somersault down into dualism again, obviously being able to repeat such acrobatic feats as often as one likes.
+
+<sup>22.</sup>It is this mental versatility and the vagueness of the fluid definitions that facilitate personal and subjective formulations of new systems of thought. There is no one established view, but every yoga saint has his own formulation of the common basic dogmas. This is why, as Vivekananda said, new sects are formed in India every year. For an outsider to criticize thus is a difficult matter, because whatever one says, it is always possible for the yoga philosophers to invoke some other authority.
+
+<sup>23.</sup>The sankhya philosophy is used by the yogi until he has “achieved self-realization” and in this has become “one with god”, has become god. After that only advaita will do, it being regarded as the view of omniscience on existence. It is a strange sort of omniscience that is ignorant of the existence of:
+
+- 49 cosmic atomic worlds
+
+- 42 molecular solar systemic worlds
+
+- 6 ever higher natural kingdoms in the solar system (in worlds 43–49)
+
+- 6 ever higher divine kingdoms (in worlds 1–42)
+
+- the solar systemic government
+
+- the planetary government
+
+- the planetary hierarchy
+
+and which moreover is ignorant of:
+
+- the three aspects of existence
+
+- primordial matter
+
+- involutionary matter
+
+- evolutionary matter
+
+- the human monad in the causal envelope
+
+- reincarnation as distinct from metempsychosis, to mention only a few facts.
+
+<sup>24.</sup>The fundamental divergence of Pythagoras’ hylozoics and Shankara’s pantheism is that advaita assumes that consciousness can exist without a material basis, whereas according to hylozoics consciousness cannot have a separate existence independent of matter, but is always and necessarily bound up with matter.
+
+<sup>25.</sup>According to pantheism, life must be without a rational purpose. The universal soul separates from itself the individual soul, which after meaningless wandering about (metempsychosis) through the four natural kingdoms, finally succeeds in attaining nirvana, and is annihilated by being reabsorbed into an eternally immutable universal soul that works blindly and automatically without a purpose. It is easy to understand that self-consciousness, if thought of as having no firm point for its own existence, must be assumed to merge with the primordial soul once it is freed from matter.
+
+<sup>26.</sup>According to hylozoics, the cosmos is composed of primordial atoms (monads) having potential consciousness, which are awakened to life in the process of manifestation and then, from the mineral kingdom through ever higher natural kingdoms in ever higher material worlds, acquire an increasingly greater share in the cosmic total consciousness, which is made up of the collective consciousness of all monads. The individual is thus eternally immortal, and the meaning of life is the development and expansion of individual consciousness into cosmic omniscience and omnipotence. Reversion from a higher to a lower natural kingdom is, of course, precluded.
+
+<sup>27.</sup>Every solar system, planet, world in a planet, makes up a consciousness collective in which every monad (primordial atom) has a share it cannot lose. The more the monad’s conscious share in this increases, the greater its responsibility. The destiny of the solar system is the result of the activity of all monads. All affect all. Mankind, too, makes up a collective in the collective.
+
+<sup>28.</sup>From what has been said it should be clear that yoga is exoterics and not esoterics
+
+### 7.3 THE FICTIONS OF YOGA
+
+<sup>1.</sup>The “rishis”, the teachers of the temple schools of Atlantis, taught the intellectual élite the knowledge of reality.
+
+<sup>2.</sup>Those who derived real benefit from that teaching (causal beings considerably older than the rest of mankind) have long since passed the fifth natural kingdom.
+
+<sup>3.</sup>Of the rest, those who had understanding enough not to abuse the knowledge have been given the opportunity to remember it anew in esoteric knowledge orders.
+
+<sup>4.</sup>Those who belonged to, or followed, the black priesthood, managed so to destroy the “mental principle” (the sense of reality of the organ of mental apprehension) that some fifty thousand years of incarnations have been required to “repair” it. Apparently, nor even that has been enough for many people. They go on idiotizing their reason.
+
+<sup>5.</sup>The fact that of all nations the Indians became the foremost preservers of the knowledge was due to the “manu” allowing the oldest Aryan race to form a caste of its own (the Brahmins) and the “bodhisattva” giving this caste enough knowledge to guard, observing all kinds of precautionary measures, so that it could occupy an especial position in “spiritual” respect.
+
+<sup>6.</sup>Spiritual centres with monasteries were founded all over India. The precautionary measures taken finally led to the situation that only the hierophants were able to interpret the “sacred writings” correctly, and they would die out before they found worthy successors.
+
+<sup>7.</sup>What now remains of the original knowledge is by and large irremediable misrepresentation. But in spite of this, the esoterician has no difficulty in recognizing the lost knowledge in the fictions prevailing today. How ingrained and still ineradicably rooted in popular mentality these fictions are can be seen from the unsuccessful attempt of the bodhisattva (later buddha) to inculcate the priority and sovereignty of common sense. It is typical that the Brahmins still jealously guard what they believe to be the original doctrine.
+
+<sup>8.</sup>The yoga philosophy is the sum of Indian philosophy of life. In this respect it is incomparably superior to what other nations have achieved, also from the psychological point of view. You could call it the science of emotionality. It can be seen, however, that human reason, as Buddha made it clear long ago, cannot solve the problems of existence, that man thrown upon his own resources cannot, at mankind’s present stage of development, even raise the veil of Isis. No one can who has not acquired self-consciousness in his causal envelope, entered the world of Platonic ideas.
+
+<sup>9.</sup>The Sanskrit terms that have been handed down from the time when the rishis taught in Atlantis are still misunderstood. They cannot be interpreted correctly without esoteric knowledge. The explanations of manas, buddhi, nirvana, atma given by the yogis are incorrect. They have not even been able to grasp correctly the import of reincarnation and karma.
+
+<sup>10.</sup>The writings of the rishis were originally written in Senzar and were later translated into Sanskrit. At all events, what remains of these often corrupt texts (Upanishads and Vedas) cannot possibly be understood by anybody but esotericians. The fact that the Sanskrit terms are misunderstood is evident even from the different meaning attributed to them in different yoga schools.
+
+<sup>11.</sup>The yogis call manas now the faculty of thought, now the power of the soul, now a function of antahkarana.
+
+<sup>12.</sup>They call buddhi now reason, now intuition, now ahamkara, now antahkarana.
+
+<sup>13.</sup>They call atma now the self, now the soul, now Brahman, now the absolute.
+
+<sup>14.</sup>One authority on yoga calls antahkarana “that inner instrument through which the subject recognizes the object by identification”. “Antahkarana” stands between the self and the object.”
+
+<sup>15.</sup>According to esoterics, antahkarana is the connecting link between the different envelopes and their different kinds of consciousness.
+
+<sup>16.</sup>Some further yoga quotations should be of interest in this connection:
+
+<sup>17.</sup>“The Soul, or antahkarana, has its power through uniting with the Self, or Atma, which is the same as Brahman, or the Absolute.”
+
+<sup>18.</sup>“The Atma of the Hindus is the immutable Reality, the Great Witness, Consciousness itself.”
+
+<sup>19.</sup>“Buddhi is that resolute state which decides that this is a tree and not a man.”
+
+<sup>20.</sup>Some facts will now be given about the general conceptions: the worlds of the yogis, intuition, will, rebirth, karma, and the three notions most characteristic of Indian outlook: dharma, self-realization, and samadhi.
+
+### *7.4 The Worlds of the Yogis*
+
+<sup>1.</sup>According to esoterics, those individuals who have attained the fifth natural kingdom and joined the planetary hierarchy have at their disposal the four planetary atomic worlds, 46-49. Individuals of the fourth natural kingdom live in three atomic worlds (47–49) divided into five molecular worlds.
+
+<sup>2.</sup>Certain yoga schools speak of five cosmic worlds. Others are content with three worlds in the universe.
+
+<sup>3.</sup>Those who believe that there are five worlds in the cosmos also grant the self five envelopes or at least four, in case the fifth and highest be the all-embracing universal soul, Brahman. Some think that three are enough, and their definitions in their vagueness remind one of the body, soul, and spirit of the theologians.
+
+<sup>4.</sup>Certain authors on yoga refer to Patanjali and speak of the individual as having five different kinds of consciousness. But it is seen that the two highest kinds belong to the individuals of the fifth natural kingdom, for they correspond to the 46- and 45-self-consciousnesses.
+
+<sup>5.</sup>Such theoretical speculation is of no significance. What matters, however, is which worlds they can speak of from experience of their own. The yogis are able by their methods to acquire physical-etheric and emotional sense (clairvoyance, or objective consciousness of material realities in those worlds). What goes beyond this belongs to the domains of guesswork. They are unable to acquire objective consciousness in the mental and higher worlds.
+
+<sup>6.</sup>At best, the world that they call nirvana (in which they lose their consciousness), the common final goal for both Hindus and Buddhists, corresponds approximately to what the esotericians call the causal world, or the world of Platonic ideas. But of this they are still ignorant.
+
+### *7.5 Intuition*
+
+<sup>1.</sup>Intuition affords knowledge by demonstrating grounds and causes.
+
+<sup>2.</sup>Since intuition and will are powers that lie beyond the reach of human experience, it is obvious that without esoteric knowledge yogis can only have hazy notions as to what these terms mean, which is also evident from the vagueness of their definitions.
+
+<sup>3.</sup>Originally, by the word “intuition” was meant the deity’s immediate and allround apprehension of reality and events. Plotinos, for instance, used that word to term the deity’s absolute knowledge. With the yogis intuition as a rule is the result of quick perception of emotional vibrations, which always contain some kind of mental vibrations. Psychologists speak of instant survey, rapid synthetic function in a developed intellect. Often it is a matter of immediate understanding based on remembrance anew and recognition by the subconsciousness. Some by “intuition” mean the acquisition of ideas from some one of man’s emotional or mental superconsciousnesses. Also impulses, inspiration, and revelation have been suggested. These, however, amount to conscious or unconscious influences from another individual. In ordinary usage the term “intuition” has been degraded through misuse to mean freak, vagary, all sorts of fantastry.
+
+<sup>4.</sup>As for higher kinds of matter and worlds with their kinds of consciousness and energy, there are no terms covering these in everyday speech. Being unable to find new terms for new things, authors on esoterics have used words already existing in language, which have been hopelessly idiotized by the “uninitiated”. Even the Sanskrit terms used by Vyasa and Patanjali have proved unsuitable, especially because they have been misinterpreted by authorities on yoga and learned Brahmins. In order to remedy the prevalent confusion of ideas one ought to turn to the use of mathematical notation.
+
+<sup>5.</sup>This helplessness, however, has led to esoteric authors letting the word “intuition” denote two quite different kinds of consciousness: causal consciousness (47:1-3) and essential consciousness (46:1-7).
+
+<sup>6.</sup>Mental consciousness was termed esoterically the “sixth sense” and intuition the “seventh sense”.
+
+<sup>7.</sup>Mental consciousness has three main functions during incarnation. It enables the self to ascertain physical facts by using the so-called five senses of the organism. It works these facts up in the brain into comprehensible systems. It acts as an intermediary for sub- and super-consciousness.
+
+### *7.6 Will*
+
+<sup>1.</sup>Man has no knowledge of the will, its essence and the laws governing its management. But ignorance, of course, knows everything about this matter, and so the term “will” has come to be used for anything that has to do with wish, intention, striving, ability of acting, etc.
+
+<sup>2.</sup>Originally, the word “will” was the symbolic term for the motion aspect (the will aspect).
+
+<sup>3.</sup>Dynamis acts in two ways: indirectly in the matter aspect as the initial impulse for material energy, and directly through active consciousness.
+
+<sup>4.</sup>The term “will” meant the ability of consciousness to let dynamis act through it. The higher the kind of consciousness, the greater the potential of dynamis. The highest consciousness is also the highest “power”.
+
+<sup>5.</sup>In their apparently hopeless lack of terms esoteric authors have used the term “will” for the highest kind of consciousness in both the fifth and sixth natural kingdoms, thus for both 45- and 43-consciousness. This has not helped to increase clarity, nor to reduce the confusion of ideas.
+
+<sup>6.</sup>Physically, man’s “will” is vitality and ability of activity; emotionally, attraction and repulsion; mentally, motive (usually motive for action) adhered to.
+
+<sup>7.</sup>That theological seed of dissension, man’s “free” will, was due to ignorance of the fact that the “will” is “determined” by motives and that the strongest motive will win.
+
+<sup>8.</sup>Other problems concern the inability to put knowledge or intention into action before the necessary ability of action has been acquired, also the struggle between opposite kinds of wishes. Coué’s saying that when “will” and imagination conflict, imagination will always win, was due to his failure to see that actually it is a matter of different wishes, he calling the most suggestive one imagination.
+
+### *7.7 Rebirth*
+
+<sup>1.</sup>The most unhappy proof of the yogis’ ignorance of reality is their belief in metempsychosis. They do not even know that reversion from a higher to a lower natural kingdom is precluded, that a man cannot be reborn as an animal.
+
+<sup>2.</sup>The mightiest authority of the Ramakrishna yogis, next to the school founder himself, is Vivekananda. He maintained in all seriousness that his dog was an incarnation of a dead friend of his.
+
+<sup>3.</sup>It is high time that they abandoned this exceedingly compromising error and explained to their followers the fundamental difference between belief in metempsychosis, belonging to popular superstition, and the esoteric knowledge of reincarnation.
+
+<sup>4.</sup>This ignorance is the best proof that the yogis cannot study their previous incarnations and that none of them has been able to become a causal self. If anyone has succeeded in this, he has ceased to be a yogi. When the individual has acquired objective self-consciousness in his causal envelope, the envelope that is needed in order to pass from the animal to the human kingdom, he can study all the incarnations which this permanent envelope has lived through. The causal envelope cannot incarnate in an animal body.
+
+<sup>5.</sup>When passing from the human kingdom to the fifth natural kingdom, the monad in the causal envelope acquires a new envelope in that higher world (46) and in so doing becomes an essential self, a 46-self.
+
+<sup>6.</sup>Because of the misconceptions prevalent, one cannot state too explicitly that the causal envelope in the causal world is that envelope which makes the individual (monad, self) a human being, that the causal envelope is man’s “soul” in the same way as the submanifestal envelope in world 44 some time will be the individual’s “spirit”. The phenomenon known as “obsession” is the result of someone else’s emotional envelope trying to push out the emotional envelope of the rightful owner. It has nothing to do with reincarnation.
+
+<sup>7.</sup>The theosophists’ exceedingly unhappy term “immortality” is to be explained in this connection. Those were called “immortal” who can never more lose their continuity of consciousness, neither when they reincarnate nor when the solar system dissolves.
+
+### *7.8 Karma*
+
+<sup>1.</sup>The doctrine of karma (the law of sowing and reaping, the law of cause and effect) is, just as the doctrine of metempsychosis, common to most Indians. It was inevitable that both doctrines (originally esoteric) were distorted by ignorance, since man seems to have an incurable tendency to replace missing facts with speculation and to believe blindly, with seemingly incorrigible conceitedness, that his vagaries ignorant of life accord with reality.
+
+<sup>2.</sup>According to esoterics, the cosmos is a whole governed by law. The process of cosmic manifestation goes on in accordance with inflexible laws of matter and energy (laws of nature). The laws of life applying to the consciousness aspect also remain inflexibly valid. To speak of “suspending laws” is evidence of ignorance. You can free yourself from the effect of a lower kind of energy by a higher kind of energy, but you cannot suspend laws, which are expressive of forces that act unchangingly.
+
+<sup>3.</sup>Nobody can suspend the laws of life applying to consciousness development. But within his own little sphere of power every being possesses, according to law of freedom, a certain measure of freedom that can be abused.
+
+<sup>4.</sup>If man lives in accordance with the laws of life, his development will progress as rapidly as possible, without friction, harmoniously, with the highest possible degree of happiness. But every mistake as to the laws of life (known or unknown ones) entails consequences calculated eventually (the number of incarnations is up to him) to teach the individual to discover the laws and apply them right. If he has caused suffering to other beings, he must himself experience the same measure of suffering. This is the law of uncompromising justice from which no arbitrary grace can free him.
+
+<sup>5.</sup>It is part of man’s dharma that he must do all he can to reduce the suffering in the world, for all beings and in all circumstances. Those who refuse to help when they can are guilty of an omission that has consequences and by no means the least ones.
+
+<sup>6.</sup>The Brahmins’ conception of karma as being inevitable destiny, that you “stand in the way of karma” by trying to relieve suffering and distress, is evidence of a fatal ignorance of life. Nobody can “stand in the way” of a law. If anyone is to suffer, then no power in the world can prevent that. The suffering we have caused to others can be made good through voluntary “sacrifice” in future lives.
+
+<sup>7.</sup>The planetary hierarchy has expressly stated that no man can understand the law of karma right. But that does not mean that you should not try to understand it.
+
+<sup>8.</sup>The problems of life that the individual has to solve by himself in order to develop recur in life after life until they have been solved right. The law of self-realization is an inflexible law, which says that the individual must in all kingdoms, whether planetary or cosmic ones, acquire by himself all the qualities and abilities necessary to continue his development in the next higher kingdom.
+
+### *7.9 Dharma*
+
+<sup>1.</sup>The rishis taught the finality of existence, taught that the purpose of life is the evolution of everything and that the goal of life is cosmic perfection. Of what they taught, dharma is perhaps what has best preserved its original rational content or reality content.
+
+<sup>2.</sup>Although the law of destiny and dharma do not have quite the same import, it is easier to understand the matter if you regard karma as the law of reaping and dharma as the law of destiny. It is wrong to consider both as the same law, especially also in the fatalistic sense.
+
+<sup>3.</sup>Dharma is the inmost nature of every individual, that which constitutes his true being. Dharma is what is given in the interdependent arrangements of things. It is the dharma of fire to burn. It is the dharma of the tree to take root, to grow, to put out leaves, flowers, and fruit. It is the dharma of animals to live in accordance with their individual characters and their inherent instinct’s striving to fulfil their mission. Dharma is the meaning of life for every individual.
+
+<sup>4.</sup>Man’s dharma is different at different stages of development, in different circumstances of life. Everybody has his special dharma, his problems of life to solve, his duties to perform. Man lives in a state of insecurity and uncertainty when he does not act to the best of his ability, in accordance with his dharma. The dharma of mankind is humanity.
+
+<sup>5.</sup>We are partly free, partly not free. We become free to the extent that we have acquired knowledge of the Law and the ability to apply that knowledge. The lower down the scale of development we are, the less free we are. We become free from the lower by being absorbed in the higher. We shall become entirely free only when we have attained the highest divinity. And this we shall do by discovering and applying the Law, more and more in ever higher worlds.
+
+<sup>6.</sup>We believe we are free when we are acting in accordance with our individual characters. But as long as we lack knowledge of the Law and the ability to apply it correctly, we shall make nothing but mistakes, which will lead us into the bondage of compulsion and obsession until we have seen our mistakes through experiencing them. We are not free when we rebel against our destiny, our dharma, the meaning of our incarnation, when we act against unity, when we are ruled by the fictions and illusions of our ignorance of life and the pertaining conceptions of right and wrong, as long as our individual character has not absorbed in itself that Law which we have come to know, and is automatically and instinctively applying it.
+
+<sup>7.</sup>We do not achieve freedom through quietism, through omitting to act. No development will be brought about through inactivity, idleness, through begging the deity to do what it is our dharma to do. We free ourselves by acting, by taking a positive attitude to everything we meet with, by letting the divine powers act in us and through us, which they unfailingly will do as soon as we remove the obstacles to their reception.
+
+<sup>8.</sup>Life puts everyone of us in the place that is best for us, which by no means always is the one we think best. If we do not understand this, but regard self-assumed duties, or those that life lays on us, as a burden which we assume reluctantly and with a feeling of constraint, then we do not understand life and we lack the right positive attitude. If we have difficulty in accepting that we are overqualified for the work that life has allotted to us, that our capacity is not duly appreciated, that we are to go through life as seemingly insignificant nonentities, this only shows that we need to be freed from many qualities which, although perhaps desirable on lower levels, are most unsuitable on higher ones. Many necessary qualities we acquire in subordinate, insignificant positions and under trying conditions. We shall make an entirely different, a more useful contribution, if we have learned to allow the competence we have acquired to be a willing tool where destiny has placed us, if we have learned to accept being seeming nonentities, mere tools. Honour and distinctions, like power and wealth, have unexpected possibilities of affecting the vibrations in our lower emotional molecular kinds, the regions of illusions and false values. By being willing tools of higher powers we acquire the prerequisites of becoming tools of still higher ones.
+
+<sup>9.</sup>We do not see our real constraint. We can free ourselves from the one we do see. An important condition of becoming free is that we live in the feeling of being free and happy, and this depends on our attitude to life. The whole of life changes for anyone who makes it clear to himself that the ordinary, the negative, attitude is perverse, that the meaning of life is happiness, that everything is intended for everybody’s best, that a positive view of life is what will take us forward and upward the most quickly. Everything that is negative, all constraint, has an inhibitory, debilitating effect, makes work arduous and unpleasant. The slaves to duty fail because of their constraint, their virtues, and the moral tyranny of responsibility. The yogi lets the divine powers act through him, and in so doing he becomes free from responsibility for the outcome.
+
+### *7.10 Self-Realization*
+
+<sup>1.</sup>The yogic fiction of “self-realization” is a typical example how the esoteric concepts have gradually lost their proper meaning. In linguistic usage this corresponds to the wrong use by the uneducated of a word they have heard and imagine they understand. After a generation or so, often only the philologists know what the word really means.
+
+<sup>2.</sup>In Western books on yoga one can read that the yogis aim to “achieve self-realization”. If an explanation of this word is given, it is as vague as it is misleading. Sometimes one will hear Westerners declare that to the yogis self-realization means that they have acquired self-confidence, freedom from fear and anxiety, noble indifference to whatever may happen (the opposite of the “it doesn’t matter” of the ignorance of life), emancipation from their own desires. In thinking this these authors have evidently confused means and ends.
+
+<sup>3.</sup>The yogis consider that they have “achieved self-realization” when they have realized the Self, by which they mean that they are absorbed into the cosmic Self, the universal Soul, Brahman, the Absolute. They believe that this becomes possible when they have become “pure spirit” through liberating themselves from everything material.
+
+<sup>4.</sup>“Atman is identical with Brahman, is in man the individualized Brahman, which through the delusion of the senses has lost the contact with its origin. Through yoga, God (Brahman), lost in individuation and incarnated, finds the way back to itself.”
+
+<sup>5.</sup>“Yoga tries methodically to unite man (atman) with his true being (brahman).”
+
+<sup>6.</sup>Common to all Indian superphysical speculation is the belief that development has reached its final goal with man, that man is the final product of “creative evolution”, that man’s supreme task is to attain the stage of divinity.
+
+<sup>7.</sup>The yogis believe that man can become god and that all their great spiritual leaders have done so. Their religious history is the story of all the men who have become gods. Their mythology, as well, is teeming with them.
+
+<sup>8.</sup>Of course, those who believe that the gods have independent existence and are not absorbed into the universal soul hold different views about the ranking of the different gods, and about which spheres constitute their dwellings.
+
+### *7.11 Samadhi*
+
+<sup>1.</sup>According to authorities on yoga, the simplest translation of the term “samadhi” is the individual’s superconsciousness. According to them, samadhi is a state of trance in which the individual becomes pure spirit, god, Brahman, or the Absolute.
+
+<sup>2.</sup>There are different kinds of samadhi differently defined by the different yoga schools.
+
+<sup>3.</sup>Patanjali’s different kinds of samadhi have been divided into two main kinds: conscious and unconscious samadhi. In the conscious states one distinguishes different kinds of study objects for meditation. In the unconscious state the individual is supposed to lose himself in the superconscious and to become “pure spirit”.
+
+<sup>4.</sup>Others consider that in unconscious samadhi the individual loses his continuity of consciousness and when he awakes again remembers nothing of what has happened but usually experiences a feeling of ineffable bliss.
+
+<sup>5.</sup>Of course, what goes on under the cover of the unconscious and thus the unknowable has been made the object of much speculation. The view generally held seems to be that in this state the “soul” is active while the “body” rests.
+
+<sup>6.</sup>Some maintain that the state of trance called samadhi by the yogis is produced when the man absorbed in the most profound contemplation succeeds in concentrating his consciousness on one single point, so that his waking consciousness vanishes. Then, as the problem that was the object of meditational analysis is gradually freed of all unessentials and thus is isolated as an idea, its up to then symbolic significance is revealed. And this is supposed to depend on the self’s contact with the idea in the world of ideas. The strain is supposedly so great that the self loses contact with the brain, trance being the result.
+
+<sup>7.</sup>States of trance, which physiologically are more akin to “magnetic sleep”, have also been found, a cataleptic state in which the activity of motor, sensory, and vegetative organs, as well as respiration and pulse are reduced to a minimum. In this state the individual does not remember what happened after he lost waking consciousness.
+
+<sup>8.</sup>Like so much else in Patanjali, several of the kinds of samadhi at which he hinted are still esoteric and have been helplessly misinterpreted by the yogis. Some of them do not even apply to human beings but to individuals of the fifth natural kingdom. As an example of misinterpretation it may suffice to point out that the state mentioned in Section 1, Sutra 16 can be attained by the self in the highest three worlds of the solar system only (43–45).
+
+<sup>9.</sup>The superconscious state in samadhi is not one single state or one the same for everyone. There is a long series of superconsciousnesses that have to be mastered progressively throughout all the continued evolution, namely the different kinds of passive consciousness in the molecular kinds and atomic kinds not yet activated by the self.
+
+<sup>10.</sup>Therefore, the word “samadhi” is the common term for many different kinds of states of consciousness. Its original meaning has been lost, even to the most advanced yoga philosophers, and cannot be defined except by causal selves and still higher selves.
+
+<sup>11.</sup>True samadhi requires in the first place the ability to centre the monad–the self in the inmost crown chakra. In genuine samadhi the organism is fully active, directed by the lowest triad, while the monad, centred in one of the three units of the second triad, is active elsewhere, possibly in one of the three worlds of this triad.
+
+<sup>12.</sup>Ordinary sleep is obtained when the emotional envelope, together with higher envelopes, leaves the organism and its etheric envelope. Technically, samadhi is the method of being able to do this at any time whatever.
+
+### 7.12 DIFFERENT KINDS OF YOGA
+
+<sup>1.</sup>The oldest three yoga methods are hatha, bhakti, and raja yoga. Hatha yoga is some fifteen million years old, bhakti yoga some four million years, and raja yoga some fifty thousand years old.
+
+<sup>2.</sup>Hatha yoga was the method of the Lemurians, bhakti that of the Atlanteans, and raja that of the Aryans. Hatha was intended to perfect the organism, bhakti to develop emotional consciousness, and raja mental consciousness. The planetary hierarchy has elaborated a new method, agni yoga, which is still esoteric but is intended for exoteric publication when conditions permit (assuredly not for another hundred years). This yoga is intended to develop causal consciousness. The agni yoga of the Russian woman Roerich is not the real one.
+
+<sup>3.</sup>The Indians are, as we know, uninterested in chronology. The dates that they have lately begun to use have largely been taken over from Western historiography and archaeology with their entirely faulty dating, obviously of old influenced by the Jewish chronology, according to which the world was created in the year 4004 B.C.E.
+
+<sup>4.</sup>The originator of the raja yoga philosophy is said to have been Patanjali. A modern authority on yoga considers that he lived about 150 B.C.E. That would be long after Buddha, who was born in 643 B.C.E. In fact, Patanjali lived some nine thousand years before the current era, the starting point of which is what is thought to be the year of Jeshu’s birth.
+
+<sup>5.</sup>In a booklet containing 192 aphorisms in four sections, Patanjali records what until then had been imparted orally to initiates of the esoteric knowledge order instituted by Vyasa some 35,000 years earlier. The presentation was based on the exoteric sankhya philosophy, which the planetary hierarchy had elaborated long before for the then élite of the temple schools of Atlantis.
+
+<sup>6.</sup>There is much in Patanjali that is still misunderstood by the yoga philosophers. Esoteric knowledge susceptible of abuse has to be reserved for those who have renounced the desire of anything for themselves for all incarnations to come and consecrated their lives to the service of evolution. The motive for their own development is to be able to become more and more competent for this service of life. That esoteric knowledge, which since 1875 to an ever greater extent has been given to the eternal seekers, is so arranged that abuse has been forestalled as far as possible. It provides a general knowledge of existence, reality, and life, intended to free people from prevalent emotional illusoriness and mental fictitiousness.
+
+<sup>7.</sup>The best known yoga methods, to be discussed later, are far from being the only ones. More and more yogas are subdivided into special branches, and there is no discernible limit for further subdivision. Many yogas are not known at all in the West, or known only fragmentarily, for example, mantra, laya, shakti, yantra, dhyana, and kundalini yoga. It calls for a special familiarity with the Indian mentality to be able to understand the import of these methods.
+
+<sup>8.</sup>Mantra yoga was originally based on the esoteric knowledge of the effect of sound. Most mantras (combinations of words) have become useless now that the knowledge of correct intonation has been lost, fortunately for mankind. According to esoterics, sound and energy are synonymous concepts in higher worlds. This is why the supreme power was called the “Logos” (the word) and the courses of power of the planets and the sun were called the “harmony of the spheres”. Nowadays the mantra yogis are occupied mostly with ritual, temple dance, and art.
+
+<sup>9.</sup>Of the other yogas enumerated, laya yoga is concerned with the vitalization of the chakras of the physical-etheric envelope, and kundalini yoga with experiments in awakening the energy originating from the basal centre. Many authorities on yoga confuse this energy with that originating from the sacral chakra. The pertaining methods have claimed countless victims (“fools rush in where angels fear to tread”) despite energetic warnings against “playing with fire”.
+
+### *7.13 Different Kinds of Yogis*
+
+<sup>1.</sup>The popular name of “yogi” given to all Indians who study Sanskrit and Indian philosophy is misleading.
+
+<sup>2.</sup>The yogis can be divided on many different grounds. The usual division is: hatha, raja, gnana, bhakti, and karma yogis. But this is misleading because many practise one system after another until they have gone through them all. Others specialize in one system.
+
+<sup>3.</sup>They can be divided according to their chief motive, the purpose of their exercises or meditations. Some seek to attain what they call the divine stage. Others strive after power over nature, seeking to become magicians.
+
+<sup>4.</sup>Generally speaking, the hatha yogis are considered to be among hose who wish to become magicians. The raja yogis regard neither them nor those who teach both hatha and raja as real yogis.
+
+<sup>5.</sup>One ought to be clear about the fact that also the yogis are at different stages of development and that, especially where the raja yogis are concerned, there are many developmental levels within each stage.
+
+<sup>6.</sup>A certain class of raja yogis those are who belong to the so-called Ramakrishna Mission, those best known in the West and particularly in the U.S.A. More about this in the next chapter.
+
+<sup>7.</sup>In addition to the known yogis there are also those who are unknown even to the Indians; who teach their systems to a select few under the strictest vow of secrecy. There is no prospect of anyone, least of all Western “barbarians”, of making contact with these.
+
+<sup>8.</sup>Besides, yoga is not for Westerners. They run the risk of becoming caricatures.
+
+### *7.14 Ramakrishna’s Raja Yoga*
+
+<sup>1.</sup>Ramakrishna (who died in 1886) has come to occupy such a position of authority as an exponent of Indian yoga, thanks to his disciples’ missionary work in the West, that his conception of life deserves to be treated in a separate chapter.
+
+<sup>2.</sup>Ramakrishna imparted to his many disciples his own personal life view, his own interpretation of the “sacred writings”, his own experience of the different yoga methods. He did away with the prevailing secrecy and encouraged his disciples to spread his teachings to all nations.
+
+<sup>3.</sup>In his disciples’ eyes Ramakrishna was an incarnation of the supreme being. They even accorded to him the honorary title of Bhagavan (=The Lord of the World). That title has not been granted even to Buddha or to Maitreya.
+
+<sup>4.</sup>Subjectively (from the consciousness aspect), he was in many respects further advanced than most Christian mystics have been. Many raja yogis are distinguished by the fact that their mental consciousness has acquired the ability to employ mental energies of which the Westerners know nothing and which the yogi’s disciples believe to be part of cosmic omniscience and omnipotence.
+
+<sup>5.</sup>Objectively (from the matter aspect), Ramakrishna was entirely uninterested in such phenomena. He considered that the magic powers of the hatha yogis detain the individual in the physical and become obstacles to his consciousness development. He believed that the quickest way for man to reach the stage of divinity is to concentrate wholly and solely on consciousness. He started from the assumption that it is by mastering his “soul force” that man can “realize his divinity”. The physical-etheric and emotional objective consciousness (clairvoyance) that he acquired came quite automatically.
+
+<sup>6.</sup>Ramakrishna attained the highest stage of emotional attraction and contacted the essential world. (46). But he never became a causal self. To be able to enter and apprehend the essential world presupposes the highest causal objective consciousness. Nobody can skip any world in his development. Each world is intended to make it possible to acquire abilities that are necessary to further evolution. “Nature never makes leaps.” Seemingly rapid development is in fact reacquisition of a level of development previously attained, and in such cases it is not the superconscious but the subconscious that is the correct basis of explanation.
+
+<sup>7.</sup>The belief of the yogis that the individual enters samadhi a fool and comes out a wise man, enters a man and comes out a god, is thus incorrect.
+
+<sup>8.</sup>That state of Ramakrishna, which his disciples called samadhi, was his ability, acquired through practice, of leaving his organism with its etheric envelope at will and moving freely in the many different regions of the emotional world. It even went so far that often he had difficulty in staying in his organism. His emotional envelope would spontaneously slip out in sheer distraction.
+
+<sup>9.</sup>As has already been pointed out, there is no possibility for the individual at that stage of development to judge correctly what he sees in the emotional world. It is an esoteric axiom that “no self-tutored seer ever saw correctly”. And Ramakrishna was self-tutored. He thought that he was able to explore and judge everything himself. He also rejected an offer by a 45-self to be permitted to study the esoteric knowledge.
+
+<sup>10.</sup>In the highest regions of the emotional world man leads an imaginative life of tremendous intensity, thus it is understandable that the individual believes that he is omniscient and omnipotent, that “his soul has completely identified itself with Brahman”. The yogi who has reached the highest stage of samadhi in the emotional world will then say of himself in good faith: “I am Brahman”.
+
+<sup>11.</sup>What imagination will take for reality in this state liberated from all criteria of reality is to be witnessed from the following account by Ramakrishna.
+
+<sup>12.</sup>“One day I felt that my spirit fled to the heights of samadhi on a path of radiant light. It soon left the world of the stars behind it and reached the subtler regions of ideas. When I ascended even higher, I saw on both sides of the path the shapes of the gods and goddesses. My spirit reached the uttermost bounds of this clime, the radiant barrier that separated the sphere of relative existence from the sphere of the absolute. It surmounted this barrier and entered the transcendental realm where no corporeal being was visible. Not even the gods dared to cast a glance in there, but were content to dwell far below. But a moment later I found there seven venerable sages who were absorbed in samadhi ...” All of it a picture from the highest spheres of the emotional world!
+
+<sup>13.</sup>Ramakrishna’s emotional excursion reminds one of the “revelations from the spiritual world” of both Swedenborg and Steiner. They all were sensible, highly intellectual, broadly oriented, acute minds. They, and innumerable other emotional clairvoyants, are confirmations of the esoteric axiom saying that without causal objective consciousness there is no possibility of correctly judging the phenomena of the emotional world. All must inevitably fall victims to the emotional illusions and fictions of that world.
+
+<sup>14.</sup>After the example given of Ramakrishna’s “omniscience”, another can be given of his “omnipotence”. He suffered from cancer of the throat. A “great yogi” who came to see him asked why he did not cure himself as other raja yogis did. Ramakrishna replied: “That is a power I have never asked my divine mother (Kali) for.”
+
+<sup>15.</sup>There is no question that Ramakrishna’s message is superior to anything the West has produced in religious psychology. It may be called a summary of several thousand years of Indian wisdom of life. But it is not esoterics. The yogis are mistaken when believing that they can interpret what in the Upanishads is esoteric. What is esoteric does not cease to be esoteric because it has been published. The symbolic language of the rishis is still undeciphered.
+
+### *7.15 The Yoga Methods*
+
+<sup>1.</sup>The Westerners explore the matter aspect of existence in the physical world. The yogis have explored the consciousness aspect in the physical and emotional worlds, and that is what gives them their enormous superiority in “psychological” respect.
+
+<sup>2.</sup>In its simplest description, yoga is the endeavour to activate physical, emotional, and mental consciousness. The existing methods of activation are the results of thousands of years of experimentation by devoted explorers of the consciousness aspect as far as it can be ascertained in the human consciousness. The following presentation of the different yoga methods is mainly based on the accounts of yogis themselves and is in accordance with prevalent views. It should be obvious that these methods are not immediately suitable for Westerners. But Western psychological research has a lot to learn from them and has a long way to go before it will be able to assimilate the essentials of these methods for the activation of consciousness. Also the mystics have a lot to learn, because no Western mysticism has provided such material for meditation for those who believe that they have found in devotion the way to merge with the unity of life.
+
+<sup>3.</sup>At mankind’s present stage of development, man is in no position to acquire knowledge of any reality but the physical. Proofs of this are even the most advanced yoga philosophers. But with their objective experience of the etheric and emotional worlds and especially their subjective understanding of the consciousness aspect in the worlds of man, they have an incomparably more correct conception of these realities than have Western theology, philosophy, and psychology.
+
+<sup>4.</sup>India’s “spiritual” superiority hitherto will have come to an end within a hundred years or so, and it will be the turn of the so-called Westerners to teach the “Easterners” about the consciousness aspect also. “Ex oriente lux” (the light comes from the East) will always be valid, because to the people of the East the West will be East.
+
+<sup>5.</sup>When Western philosophers and psychologists at last have acquired the “wisdom of the East”, the scientific methods they have elaborated will prove their greater reality value (importance for the conception of reality). We are approaching an age when so many Westerners will acquire causal consciousness that our part of the world will be freed from most of the old emotional illusions and mental fictions. Then they will also see the untenability of the yoga fictions. As for India, progress will be slow, because it will prove considerably more difficult to discard inherited mental attitudes and the adherence to traditional, in many respect common, dogmas. Hitherto the West has had no world view or life view to stick to, as the Indians have had for thousands of years. Thus the West is more open to the message of the planetary hierarchy.
+
+<sup>6.</sup>Esoterics will discard the prevailing views in religion, philosophy, and science, in judicial and financial systems. No “super-state” will be needed when all nations accept the Law as their guiding principle. The reappearance of Christos in physical shape will signify that the planetary hierarchy is resuming the spiritual leadership from which it was expelled in Atlantis. Sufficiently many people will by then have acquired common sense and realized the untenability of the ruling idiologies.
+
+<sup>7.</sup>By their methods of activation the yogis succeed in mastering both emotional and mental waking consciousness. It is this power of mastering that they call “will”, which is thus the ability of consciousness of activity in general and of affecting the matter of its envelopes. Those who master their mental consciousness have acquired “mental will”, in which the motive is the element of will in mental activity. The higher the molecular kind, the higher the kind of consciousness, the stronger the effect of dynamis, and the stronger the “will”.
+
+<sup>8.</sup>What is called the “cultivation of the will” implies the acquirement of self-confidence and self-determination, based on an elaborated and integrated world view and life view, as well as the conscious control of emotional and mental consciousness.
+
+<sup>9.</sup>The yogis wish to achieve “liberation”. The word “liberation” can term a diversity of things: liberation from fear, anxiety, and uncertainty, from rebirth and, where yogis of the highest kind are concerned, liberation from the self’s dependence on its envelopes of incarnation with their illusions and fictions. The self’s good resolutions arouse only decided opposition in the self’s envelopes with their rooted habits and tendencies inherited from many incarnations, amplified by the vibrations of public opinion flowing through the envelopes en masse. Liberation begins when the self realizes that its envelopes are not it, that the envelopes by their habits organized into “nature” counteract the self’s insights newly gained. The new emotional and mental envelopes are not altogether new. Constant vibrations (“habits, tendencies”) in the envelopes retain around the first triad certain atoms (“skandhas”) that accompany it in a new incarnation.
+
+<sup>10.</sup>Esoterically, the self’s evolution is a continuous process of identification and liberation. The child grows out of its toys as soon as it gets other interests. By having experiences and working these up in life after life, man learns to explore and master one domain of reality after the other in physical, emotional, and mental respect. When he has developed so far as to begin to care for the meaning and goal of life and acquires knowledge of this, his life eventually takes on another direction, a conscious striving after development in respect of consciousness. In India then one becomes a yogi.
+
+<sup>11.</sup>Yoga is typical of the one-pointed determination of those who have set about working on self-realization. By these methods they hasten their personal development to a considerable degree. Of course it depends on his level of development attained how soon the individual will reach higher stages. Nobody can omit any stage of development, since each stage is necessary to acquire the qualities requisite to attain the next higher stage and the pertaining understanding of life.
+
+<sup>12.</sup>There are risks involved in popularization of fields of knowledge methodically and systematically explored. When ordinary injudiciousness is given a superficial orientation and thus a vague notion of what the matter is about, it at once thinks itself able to comprehend, understand, and judge. This has of course been true of Indian yoga and everything esoteric. It has also been seen in the writers who have dealt with these matters without having the requisite insight. By their popularization they have managed to idiotize the whole thing into an irremediable misconception that is spreading in ever wider circles. The difficulty lies in finding a middle way between unduly superficial and unduly expert approaches, so that people will have an idea of the subject, yet see that they know too little to be able to judge or to express an opinion.
+
+<sup>13.</sup>The yoga methods can be divided into physical, emotional, and mental ones.
+
+<sup>14.</sup>In the following, the oldest and best known methods of activation will be discussed: hatha and raja yoga, gnana, bhakti, and karma yoga.
+
+<sup>15.</sup>Hatha yoga is the pronouncedly physical method, bhakti the emotional, and raja and gnana yoga the mental methods. Karma yoga (the yoga of action), once it becomes correctly understood in India, will make the individual forget his comical insignificance, his own “development”, etc., and live exclusively to serve evolution. In so doing, all the requisite qualities and abilities are developed automatically and in the most rapid way. To live for one’s development strengthens illusoriness.
+
+### *7.16 Hatha Yoga*
+
+<sup>1.</sup>Hatha yoga is characterized by aiming more at the matter aspect than at the consciousness aspect of existence and by being interested in physical life only. Consciousness is regarded as a means of mastering the organism with its etheric energies.
+
+<sup>2.</sup>Many yogis practise hatha beside raja in order to give their organisms the greatest possible vigour and thus to practise raja yoga more effectively. These, however, are not counted among the hatha yogis proper, whose aim is the control of physical matter (magic).
+
+<sup>3.</sup>Here it may be pointed out that the yogis’ expression “suspend the laws of nature” is misleading. No law of nature (expressive of energies that act immutably and constantly) can ever be “suspended”. The stronger propulsive force of the aeroplane temporarily suspends the effect of the earth’s attraction but not the very law of gravity.
+
+<sup>4.</sup>The hatha yoga method includes breathing exercises to acquire control of the functions of the sympathetic nervous system (which subsequently require constant supervision) as well as of the muscles and organs of the organism. This kind of yoga has proved catastrophic to Westerners with their quite different physiological and psychological conditions.
+
+<sup>5.</sup>The raja yogis are entirely correct in pointing out that the hatha yogis not only neglect their emotional and mental development but also end up in into a cul-de-sac, more and more being the victims of their emotional illusion that physical life is something worth striving for in itself. Man’s goal is to acquire consciousness in his causal envelope. With that also comes mastery of the matter in man’s worlds.
+
+<sup>6.</sup>The hatha yogi works at consciousness indirectly through his organism. The raja yogi starts directly from consciousness.
+
+<sup>7.</sup>The hatha yogi achieves mastery of consciousness by learning to control the vibrations of his physical body. Methodically, step by step, he gains control of one after the other of the different body functions. Of course, he looks after his body rationally in all respects, adhering to a strict vegetarian diet, being careful about cleanliness and sleep. Much water is used both inside and out.
+
+<sup>8.</sup>First the body is trained so that the yogi can dominate all the muscles of the body, influence the circulation of the blood, reduce the perception of the body, etc. This is done partly by assuming a number of different sitting-postures, partly by forcing the body, even the eyes, to be absolutely still; in which not even involuntary movements, such as a wink of the eye, are allowed. Restlessness of the eye is considered to be quite enough to cause restlessness of the mind. Even the most ordinary fakir will have trained himself so as to be entirely insensitive to physical pain and unmoved by emotional suffering.
+
+<sup>9.</sup>Every movement, every expression of consciousness, consumes power. We are practically never still, neither physically nor emotionally nor mentally. By preventing this immense waste of energy the yogi accumulates stores of energy that he can use in manifold ways, not least of which is to arouse latent germs of abilities and to develop powers unknown to the normal individual.
+
+<sup>10.</sup>Egyptian statues show the sitting-posture that is best for Westerners wishing to profit by what to them is valuable in yoga: back free and straight, chest elevated, palms of the hands placed on the knees, elbows drawn back, heels together, toes turned outward. A healthful preparatory exercise is the following one. Assume as comfortable a sitting-posture as possible and remain thus for, say, half an hour every day. Attention is employed to check that everything remains still. You can think the word “calm” slowly until you feel calm spreading through your body and feel that you are unaffected by all impressions.
+
+<sup>11.</sup>In vibrational respect, everything consists of vibrations. The whole of life is built up of different kinds of rhythm. Everything in nature has its own rate of vibration. The yogi applies this insight to the organs and functions of his body, to his thoughts, feelings, and other life expressions. The yogi learns to control things by discovering their rhythms. In this he starts from breathing, which has been made a science in its own right. By breathing exercises the yogi brings the sympathetic nervous system under the control of attention, gradually extending his control to the processes in other organs and nerves, including those functioning automatically. Their functioning will subsequently depend on attention, it being impossible to revert to automatic activity. He describes this, according to his particular view, that through the prana that is in the breath one can learn to control prana generally (the universal energy of everything) and thereby control akasha (“primordial matter”) and all other matter.
+
+<sup>12.</sup>The following remarks on breathing should interest Westerners. Scarcely one per cent breathe completely naturally. The rhythm has been lost.
+
+<sup>13.</sup>The muscle at the base of the lungs (the diaphragm) ought to be drawn upward in inhaling, yet with most people this muscle is inactive. Many people press it down, further compressing organs that are already too squeezed. In right inhalation the whole chest is raised and with it all the internal organs, in which the digestive organs are also exercised, which is badly needed.Du
+
+<sup>14.</sup>Normally we take 16–18 breaths per minute, the pulse beats being four times as many. At ten breaths per minute, the brain is clear and brain work becomes easier. At three breaths, all the vibrations of the body are harmonized. The yogi reduces his respiration to one breath per minute, which makes intense concentration possible.
+
+<sup>15.</sup>It is easy to ascertain the effect of breathing in various respects. Martial music, the colour red, etc., quicken breathing. After a spell of quick breathing (about 26 breaths per minute) the feeling of pain is reduced. When breathing slowly (10 breaths per minute) one cannot become agitated, irritated, or nervous.
+
+<sup>16.</sup>Nobody ought to embark on any kind of breathing exercises except under the guidance of a really competent teacher. The least mistake in an extremely complicated technique can be disastrous, to which fact countless victims in India and elsewhere bear witness. It is, besides, true of all yoga training that no one who is not perfectly healthy in all respects should set about it. The strain is enormous (a play with unknown forces) and those with a poor physique or weak nerves will soon be unfit for life.
+
+### *7.17 Raja Yoga*
+
+<sup>1.</sup>Raja yoga is concerned with the consciousness aspect of existence, in its esoteric part extending far beyond consciousness in the worlds of man. There would be a certain justification for calling it the “science of attention”.
+
+<sup>2.</sup>As is the case with everything concerning consciousness and its development, it is up to the individual to find his own method. He can study the methods of others in order to orient himself, but he must work out his own method according to his individual character, his abilities previously acquired on his level of development. The need for this seldom arises before the individual is rapidly approaching the stage of culture.
+
+<sup>3.</sup>Raja yoga involves an activation of consciousness systematically practised in a continuing process of thought. The results normally obtained are: control of consciousness, self-determination, acquisition of a personality, ennoblement of emotionality up to the stage of the saint.
+
+<sup>4.</sup>The process of thought itself has been divided into four stages: concentration, meditation, contemplation, and illumination. The fourth stage can be said to border on the esoteric methods, but there is a risk that the achievement of illumination will not mean increased knowledge of reality, only the finding of a misinterpreted symbol.
+
+<sup>5.</sup>Control of consciousness is acquired through the supervision by attention of the content of consciousness.
+
+<sup>6.</sup>Ordinary untrained man lives in a consciousness chaos of sense impressions, feelings, thoughts, desires, wishes, moods, expressions of the will. Most of the content of this chaos flows from the store of memory, which has acquired all the illusions and fictions that the individual has been fed with. This chaos of uncontrolled consciousness implies an enormous waste of physical, emotional, and mental energy.
+
+<sup>7.</sup>The yogi has reached that stage of development where he sees how senseless, irrational such “inner life” is. He has been able to ascertain that the bulk of human suffering is due to the uncontrolled feeling and thinking of imagination. The need for control of consciousness awakens in him and also the wish to decide himself what is to be in his consciousness, what molecular kinds and vibrations are to be in his envelopes.
+
+<sup>8.</sup>Control of consciousness begins with paying attention to the content of consciousness. Attention follows the whole play of associations, relaxedly and impersonally, until one day this supervision has become automatic and the wandering of consciousness has ceased. He can keep his attention on whatever he wishes for as long as he himself decides and will finally be able to decide what he will perceive, see, hear, feel, think. Like the Spartan he becomes insensitive to physical pain, like the stoic he is unmoved by any matter for grief in life, by any attack from hatred and moralism. Using analysis he eliminates all complexes useless in life that lie in his subconsciousness, and form those that promote life, that make possible automatic reactions of the kinds he will decide himself. He transforms himself into the ideal he has set up for himself.
+
+<sup>9.</sup>Concentration is the keeping of attention on a certain thing. Meditation implies a concentrated analysis of all relations pertaining to this subject-matter. Contemplation entails the isolation of the problem until one begins to see the idea and can concentrate attention on that single point. If activity then ceases, there is a risk of falling asleep or into ordinary trance. If activity can be kept up long enough, illumination comes and the individual will find what he has been seeking.
+
+<sup>10.</sup>Meditation is necessary to transform the subconscious and integrate the envelopes; contemplation, to activate passive consciousness in superconscious molecular kinds and for self-consciousness to incorporate these into the capacity of consciousness.
+
+<sup>11.</sup>By the raja yoga method the vibrational capacity of the different molecular kinds – conscious or superconscious – of the different envelopes is increased, and higher emotional and mental abilities are acquired.
+
+<sup>12.</sup>The activation of consciousness in the higher emotional molecular kinds is brought about in the most natural and least dangerous way through meditation on all noble qualities, one after the other. The individual acquires these noble qualities by being influenced in his turn by the vibrations of the higher emotional molecular kinds. When self-consciousness can sustain itself in these consciousnesses, it automatically acquires the ability of the attractive urge and discards all kinds of manifestations of hatred of the repulsive urge which hitherto have dominated emotional life. When the self can maintain itself in the highest emotional consciousness (48:2), the individual is what Christian mysticism calls a saint.
+
+### *7.18 Gnana Yoga*
+
+<sup>1.</sup>Gnana yoga aims at activating mental consciousness. One could call the gnana yogi an Indian psychologist and philosopher in one man. Being a yogi, however, does not mean that the method has produced the result desired or that one has solved the pertaining problems. For any real success it is, at all events, necessary that the yogi has previously attained the higher emotional stage (48:2) through raja yoga and so has automatically passed to the higher mental stage (47:5).
+
+<sup>2.</sup>At this stage the individual is approaching the end of his sojourn in the human kingdom. In lives past he has seen through mankind’s emotional illusions and been able to see how its mental fictions have been discarded in a steady stream. Those hypotheses which, esoteric facts lacking, he still has to be content with are the crutches on which he drags himself forward. He is clearly awake to mankind’s enormous ignorance in a life sense. His innate subconscious “instinct” has helped him discard most of what people believe they know.
+
+<sup>3.</sup>Without esoteric facts, however, not even the yogi can rid himself of the fictions that have become “axioms” in Indian thought. These “axioms” include metempsychosis, an erroneous conception of karma, man as being the final product of evolution, and man being able to become god.
+
+<sup>4.</sup>His ability of perspective consciousness allows him to incorporate into his mental system the other speculative systems in a higher synthesis, but that is not enough for him to attain the system thinking obtained in concretizing the causal ideas.
+
+<sup>5.</sup>The gnana yogi often begins by learning to distinguish between “self and not-self”. German philosopher Fichte used that expression to subjectivize the contrariety of consciousness and the external world. The construction of the yogi refers to the contrariety of the self and its envelopes, properly of the self and sense perceptions, feelings, thoughts. He will emphasize that his sense perceptions are not his self, that his feelings are not his true being, that his thoughts, although being his highest kind of consciousness, are not his self, but that the self is that which can observe and make use of these consciousnesses.
+
+<sup>6.</sup>Since the yogi’s goal is always the “Absolute”, he uses every possible way of attaining this. He can let his feeling of self gradually embrace more and more: family, relatives, caste, nation, mankind, the whole cosmos. In doing so he reaches a state where he thinks he is identical with Brahman. The bhakti yogi also uses a similar method. But whereas the bhakta follows the path of ecstasy, the gnana yogi often makes use of a fictional system.
+
+<sup>7.</sup>Typical of the Indian is his instinctive trust in life. As with the mystic, truth is a state in which he is convinced that he knows without being able to explain how or why he knows. To the gnani knowing becomes the same as being. But symbolic terms like these become comprehensible only at the stage of the 45-self.
+
+<sup>8.</sup>The gnani orients himself to the “Absolute”, which he thinks he will attain by freeing himself from all attributes of the matter aspect (form, time, space, causality, etc.) in supreme contemplation. If he succeeds in this, he ends in a state in which his “emancipated” imagination is omnipotence and makes him pure spirit, Brahman, the Absolute, whatever he wishes.
+
+<sup>9.</sup>In all the 49 atomic worlds of the cosmos there are space, time, matter, energy, consciousness, conformity to law. But these are totally different in the different worlds, so that the newcomer into a higher world thinks that they are absent until he has learned to comprehend the entirely new ways in which they exist and act. The esoterician has to learn not to use the views he brings with him, not to envisage things in beforehand, since this makes it impossible to acquire the correct perception.
+
+<sup>10.</sup>The accounts of yogis show that they have not been in contact with reality, but have lived entirely in their subjective consciousness.
+
+<sup>11.</sup>As a conclusion the yogis themselves are to speak and put their view forward. Theirs is a language that the mystic will also understand.
+
+<sup>12.</sup>It is unity that is reality, that is power, harmony, concerted activity. Outside unity power is split and counteracts itself through self-deception and self-assertion in all its innumerable forms of self. When the self ceases to be a part of unity, it comes into opposition to unity and asserts itself at the expense of unity, and ruins itself.
+
+<sup>13.</sup>The union of individual consciousness with the consciousness of unity goes on gradually through the expansion of the self to embrace more and more. The yogi witnesses a process in which the individual assimilates the universal into himself. Separateness ceases for anyone who enters unity, and all opposition between me and you, the self and the not-self, the self and that, ceases. The gnani abandons all wishes for himself, all thoughts that would lead to separateness, and forgets himself as an individual. He frees himself from dogmas and traditional views. He remains untouched by joy and pain, happiness and suffering, good and evil, life and death. All personal conditions that have any element of self-centredness or ownership are annihilated.
+
+<sup>14.</sup>Before this, he will have acquired the qualities that he has considered desirable, by taking them one by one, viewing all aspects of them in every conceivable connection, in imagination continually experiencing their perfection, until they have taken shape in his consciousness, become expressive of his nature, decisive factors in subconscious complexes, quite simply are there and spontaneously make themselves felt as dominant factors in his active life without his further attention to them.
+
+<sup>15.</sup>You cannot become what you are not. For the yogi, self-realization is a methodical striving to make his divine possibilities realities. But he does this as a sacrifice to the deity, as an expression of the divine wisdom, as a sign that the divine will has been made to act in him. There are no limits to the possibilities of the individual. Life corresponds to our trust in it, because it can never deceive. Seek to become perfect and you will do so.
+
+<sup>16.</sup>The knowledge that the yogi instinctively strives after is an identification of consciousness, so that he becomes reality in the same way as he is his own consciousness. Like is known only by like. Man is in essence divine. To get to know oneself is to become more and more conscious of one’s divine possibilities. Just as life is eternal and only changes form, so the individual, too, is imperishable. The greatest mistake we can make is to call ourselves sinners and irremediably evil. We are imperfect, since we are still on the way towards perfection, the goal that all will eventually reach. Man limits himself by asserting that he understands nothing, can do nothing. By this he himself severs his connection with the divine.
+
+<sup>17.</sup>The gnana yogi learns to discover the higher in the lower, the divine in the human, learns to spiritualize the trivial. The true nature of existence is revealed to anyone who seeks to discover unity in all things. It is revealed in our consciousness if only we use its powers in the right way. The visible has its higher counterpart. The perishable is a symbol, a parable, the transient a likeness of the eternal. By following this universal analogy (as below, so above) step by step, the individual learns to see through appearance, to draw aside veil after veil from the archetype that is hidden behind.
+
+### *7.19 Bhakti Yoga*
+
+<sup>1.</sup>Bhakti yoga is one of the methods for activating the higher emotional consciousness. It is the method best suited to those who belong to the sixth department and the one that corresponds most closely to the life view of Western mystics. The bhakta attains the highest emotional stage and thus that of the saint.
+
+<sup>2.</sup>The life view of this yoga can hardly be better expressed than by the typical Indian views that have become dear to many Western mystics as well.
+
+<sup>3.</sup>Bhakti yoga is the path of devotion. All forms of life, living or seemingly dead, are revelations of the divine. By learning to love them all and worship them, the yogi seeks to merge with unity and the deity.
+
+<sup>4.</sup>We find what we seek. We see in the world that by which our minds are filled. Those without love see in the world only evil and that men are evil. Those who hate discover hatred everywhere and are continually finding new motives for hating. They fear everything, are angered by, disdain, everything. They discover only faults and failings in everything and everyone. They cannot see good.
+
+<sup>5.</sup>Like is known by like. According to the bhakta, the good man cannot discover anything evil, because there is no evil in him. To the man who becomes good, all evil disappears and the world is as though transmuted. He is elevated into spheres where he will see only what is the best in people, will be out of reach of their negative vibrations. Such a man knows that everything is good.
+
+<sup>6.</sup>Human love is always marred by some kind of egoism, by the wish to possess. The “love divine” is the experience of all life’s inseparable unity that can never be lost. Anyone who has perceived unity has experienced a kind of happiness different to the human kind: to be able to give and only to give and to forget oneself in giving and serving. After that he cannot do anything else. He wants to, has to love. He lives to love.
+
+<sup>7.</sup>Love knows no limitation. It needs no motive for loving. It finds love revealed everywhere. The power of inexhaustible love fills the mind that is willing to let itself be filled. Love needs no proof of god’s existence, for it sees the godhead of love in everything. How could god be anything but love? Anything that were not love would be incompatible with his nature.
+
+<sup>8.</sup>Love knows no bargaining. It does not desire, does not envy, is not angered, does not seek its own ends. It is not repelled by anything. It is attracted to everything and itself attracts everything. Love never ceases.
+
+<sup>9.</sup>Anyone who has experienced this love, does not love for his own or someone else’s sake, but because everything is included in unity, everything is unity. In everything that arouses our yearning and in which we delight, unity is revealed. In everything that we feel drawn to – whether things, animals, or men – it is unity that was the real cause of the attraction, acting in us and in everything, so that we become able to love and be loved.
+
+<sup>10.</sup>The path to unity goes through the attraction of feeling, through sympathy, affection, yearning, devotion, worship. Anyone who carefully and tenderly cherishes these slowly sprouting feelings will find to his joy how they will give him ever greater understanding, incitement to action along with the ability to help in the right way. By learning to see and admire what is great in man, not only discovering but also bringing forth the good in men, directing their attention to what is best in themselves, the devotee comes into contact with those powers of unity which draw him to unity and arouse the divine within him to adore the divine without him, because the nature of the deity is adoration. He no longer needs to search for objects of his love in the things that surround him and happen to him. He experiences unity directly and spontaneously.
+
+<sup>11.</sup>The bhakti yogi is positive to everything. To him all things are divine things. He has no need to speculate on the nature of the divine when everything manifests the divine and he himself experiences the divine, cannot house anything but the deity, cannot be anything but the deity.
+
+<sup>12.</sup>The yogi teaches that one can reach the deity by worshipping it in personal form or without name and form, but that most people find it more difficult to grasp the impersonal.
+
+<sup>13.</sup>If the yogi imagines the qualities of the divine as a personality, he endows the deity with the highest qualities that he can invent, everything to admire, to adore, and to worship. He experiences this deity in imagination, visualizes it until he sees it in living shape in an attack of spontaneous emotional clairvoyance. As a rule, the images of the gods in the temples are highly magnetized. The vibrations of ardent prayer, devout meditation, ecstatic yearning, impregnate the images with both etheric and emotional matter. Crowds of daily worshippers vitalize more and more strongly this powerful elemental on the verge of visibility. Intense desire to be made to “see god” is enough to see the elemental. The god or goddess smiles benignly upon the worshipper. The “feeling of god’s presence” with the mystics is caused by this very reciprocal action of a self-formed intensely live emotional elemental and the mystic himself. The elemental becomes an inseparable companion. This is, of course, only an advantage to those who need this feeling. It raises the emotional vibrations to the sphere of attractive vibrations.
+
+<sup>14.</sup>Anyone who has “entered unity” and been filled with the divine eventually loses the need of limitation that lies in confining these divine qualities to a person only, however powerful this person may be. The form that he has worshipped is broken up, or he transfers his worship to more and more forms, until all reveal the same qualities and emotion no longer depends on form. By then also the personal-egoistic element in the worshipper will have disappeared.
+
+<sup>15.</sup>Often the yogi retains form in order to have so many more opportunities of worship also externally, and of experiencing the deity in every conceivable relationship in life. He imagines god as father and mother, brother and sister, son and daughter, etc. He enters into all these relationships of love in order to allow himself more love of more. Unity manifests itself also in friendship. The sympathy, security, trust that he feels in a friend give new opportunities of comparison, new possibilities of emotional associations and experiences. In the subordinate’s respect and deference for his superior, in the latter’s consideration and responsibility for his subordinate, are found further possibilities of discovering unity. Every kind of love, desire, yearning, is to the yogi a manifestation of the individual’s divine attraction to unity. This state can sometimes be described as divine madness, boundless devotion to and worship of the divine in everything. Thus Ramakrishna would fall on his knees before a prostitute in the street, adoring her like a goddess. The divine is revealed also in misfortunes, losses, and suffering, and the afflicted one regards all these things as welcome opportunities of making this sacrifice of adoration.
+
+<sup>16.</sup>To the devotee, every new form is a new possibility of discovering and adoring the deity, which is in everything and without which nothing would exist.
+
+### *7.20 Karma Yoga*
+
+<sup>1.</sup>Karma yoga can best be described as the “yoga of action”; knowledge, understanding, and insight put into a life of service. What of old has been called “karma yoga” ought properly to be called “dharma yoga”, the path of the fulfilment of duty. Self-forgetful service is the way to acquire all necessary knowledge.
+
+<sup>2.</sup>Some authorities consider that karma yoga used to include hatha yoga and laya yoga (the science of the chakras). Divergent views as usual.
+
+<sup>3.</sup>According to the planetary hierarchy, the serving attitude to life is the easiest, safest, quickest path to the fifth natural kingdom. All kingdoms capable of it have as their foremost task of life serving those at lower stages of development, so that they will be able to reach higher ones. Without such help there would be no evolution, or evolution would take tremendously longer time. “He who gives shall receive.” Those who serve mankind unselfishly are given more and more opportunities of doing so. Service itself develops all requisite qualities and abilities, liberates from emotional illusions and mental fictions.
+
+<sup>4.</sup>The karma yogi does not amass money, as the greedy do, just in order to will it away to more or less “charitable causes” when he can no longer enjoy his fortune. But he does not despise wealth and power, however. On the contrary, he recognizes their importance as long as mankind is dominated by such illusions. He will use those power factors in order to serve evolution in the most efficient way.
+
+<sup>5.</sup>Karma yoga is probably the yoga that has the least appeal to Indians, who largely have a passive attitude to life, but the one best suited to Westerners.
+
+<sup>6.</sup>Karma yoga, then, is the yoga of action, action as expression of the will. Action includes everything that the individual sets about, every visible expression of thought and feeling. Thought and feeling that are not put into action become obstacles on the path. The example is the most powerful teaching.
+
+<sup>7.</sup>To the gnana yogi, knowledge is good and ignorance evil. To the bhakti yogi, love is good and hatred evil. To the karma yogi, the problem of good and evil coincides with the problem of freedom and bondage. To the deity everything is good. Before that stage, such absolutization all too easily entails a confusion of ideas resulting in a chaos of right and wrong, and would be used by ignorance as a defence of its own imperfection. Evil is what is inferior to us and it entails suffering. Good is what is superior to us, what we unconsciously grope towards and what we become aware of only when we try to realize it, more or less unwittingly. Then we recognize it immediately in that it fills us with happiness. Man is continually discovering anew that what he has now seen to be evil was then a means for him of finding good, that the experience of evil explained to him what was good. Finally he sees that everything that he desired for himself separated him from unity. Ignorant people see evil in matter and think that man has fallen into sin, become evil and incapable of doing good through having been born into this world. To the yogi this is almost blasphemy, the perversity of hatred of life. To him the whole of existence, visible and invisible, is a revelation of the divine with innumerable opportunities of carrying out the will of the deity in acts of service.
+
+<sup>8.</sup>Everything makes up a unity. The seemingly isolated parts are all manifestations of the one, indivisible unity. Anyone who lives in appearance sees only the parts and thinks that he is an independent self, whereas anyone who lives in reality knows that he is a part of unity, is one with the all. The yogi strives after unity and in so doing raises himself above good and evil and life’s perpetual changes.
+
+<sup>9.</sup>The power that we all take to be our will manifests itself to the yogi so strongly in the whole of his nature, when he follows the Law as far as he can see, that he understands that this is not his own power but something which has been put as his disposal and which will become his property when he enters unity. In doing so he becomes a tool of the deity and his will coincides with the will of destiny. Anyone who sees the divine in everything must recognize, love, and worship the presence of this divine will in himself and, in so doing, give up all his own motives in favour of the will of unity in himself.
+
+<sup>10.</sup>This means that the yogi offers himself up as a sacrifice to the deity. In so doing, he does away with all thoughts of reward, all fear or apprehensions as to the results of action as well as every egoistic interest, even the satisfaction of having acted disinterestedly. He also refrains from every valuation of his action, whether it was good or evil. Everything is sacrificed, yet the sacrifice is no self-effacement, not negative, but positive. It has nothing in common with the fatalist’s resignation, which will easily degenerate into quietism, not acting at all. The sacrifice embraces everything, every action, nay, every breath; everything becomes an offering to unity divine. He acts to make an outlet for the powers of the deity that flow through him. The result itself is an offering which is made perfect in the work being perfectly done. The proof that the yogi has sacrificed everything is his indifference (“divine indifference”) to whatever happens to him. He never cares what the result will be, whether happiness or misfortune, honour or disgrace, life or death.
+
+<sup>11.</sup>In the Bhagavad-Gita, which can be called the gospel of karma yoga, the necessity of action is given the strongest possible symbolic expression in the description of inner life as a struggle between two armies drawn up and prepared for battle. The poem was a reaction against the tendency to slackness, idleness, quietism, a protest against indolence and passivity. This apathy has also been fostered by the superstition that one can “stand in the way of karma” (rather like standing in the way of the law of gravity).
+
+<sup>12.</sup>The yoga of action has always been regarded by the planetary hierarchy as the essential one, because insight that is not put into action becomes an obstacle in the future, according to the law of karma. Therefore, it can be said that karma yoga is as old as hatha. It is only that it presupposes the insight of the necessity of action. As self-initiated and purposeful activity, it will perhaps become general only when mankind has reached the stage of culture. At lower stages, the incitements of compulsion are sometimes needed, for example in emergencies or, in the case of apathetic nations, now and then a so-called dictatorship.
+
+### 7.21 THE REALITY VALUE OF YOGA
+
+<sup>1.</sup>If anyone in India could perhaps understand Buddha, it is not the yogis, since they are ignorant of esoterics. That he is still be misunderstood, is of course inevitable at mankind’s present stage of development. Buddha made it clear to those who could comprehend and understand that man is not in a position to solve the problems of existence, that the solution cannot be read from the “sacred writings” of any nation.
+
+<sup>2.</sup>This is not skepticism à la Protagoras, Hume, or Bertrand Russell. Nor is it agnosticism à la Kant or Herbert Spencer. It was an exceedingly well-founded explanation of knowledge by the then head of the educational department of the planetary hierarchy. If this had been understood, we should have been spared more than 2500 years of imaginative speculation on reality. An indication as to the discrimination of the Christian historians of religion is that they have dared to call Buddha an atheist.
+
+<sup>3.</sup>Yoga makes man a sterling personality and a saint. And that is no small achievement at mankind’s present stage of development. Anyone who has got as far is able to attain the stage of ideality with the acquisition of causal consciousness within a few incarnations, when otherwise perhaps thousands would be needed. But yoga does not furnish any tenable world view. It is not suited as a working hypothesis for those who have a scientific education. On the other hand, it can be suited to those emotionalists who follow the path of the mystic (through departments 6,4,2), who are not interested in the nature of existence (departments 7,5,3,1).
+
+<sup>4.</sup>When the rishis who taught in Atlantis (and still belong to the planetary hierarchy) wrote the Upanishads, etc., they had already seen the necessity of making the knowledge inaccessible to the unworthy. They used the symbolism that since immemorial times is the symbolic language of all hierarchies, but they also elaborated new ingenious symbols. The key to these has never been given out.
+
+<sup>5.</sup>During the years 1875–1950, esoteric facts were gradually permitted to be published through the agency of messengers from the planetary hierarchy. These facts have been rejected without examination by all the yoga schools.
+
+<sup>6.</sup>The Catholic Church wisely forbade laymen to read the Bible. The existence of hundreds of different Protestant sects is proof that this was wise. They have all misunderstood the Bible. So, of course, has the Catholic Church.
+
+<sup>7.</sup>In the old days, reading of India’s “sacred writings” was restricted to the learned of the Brahmin caste. They at least kept their misinterpretations secret.
+
+<sup>8.</sup>It says in the Upanishads that man can become god, get to know the Self, and acquire knowledge of the whole universe. It is true that man can become god, but not as a man. Every stone, plant, and animal will become god, too. But this will be when in the course of evolution the monads have attained the divine kingdom.
+
+<sup>9.</sup>They read about the Self and believe that they understand what it is, being ignorant of the fact that no man without esoteric knowledge can interpret that symbol correctly.
+
+<sup>10.</sup>The individual monad (primordial atom, ultimate self) can perhaps be called the Self, or Brahman, or the Absolute, when in the seventh divine kingdom it has itself acquired the cosmic total consciousness and with it cosmic omniscience and omnipotence, finally experiences itself as the ultimate self it always was.
+
+<sup>11.</sup>They believe that the self, when it has emancipated itself from its known envelopes, becomes “pure spirit”, is absorbed into the universal soul and thereby becomes god. But the monad continues its development in higher worlds through acquiring envelopes in these. Without an envelope the monad would lose the possibility of activity in order to continue its evolution.
+
+<sup>12.</sup>It is true that man, like all other beings, has a share in the cosmic total consciousness, since there is only one consciousness, and all consciousness is both individual and collective. But the yogi’s fundamental mistake consists in the fiction that man can identify himself with the cosmic total consciousness. Man’s share in this, even in the best case, is restricted to just a few per cent (as a causal self some six per cent).
+
+<sup>13.</sup>Many of the qualities and abilities of which Patanjali speaks can be acquired only in the fifth and sixth natural kingdoms. When reading these sutras, the yogis think that he was referring to the possibilities of the individual in the fourth natural kingdom. Higher consciousness faculties always have their counterparts in lower kingdoms. They believe that he speaks of the lower counterparts they find in themselves. They have not even understood Patanjali’s method of acquiring consciousness in the higher mental (47:4,5) and causal (47:1-3) kinds of matter.
+
+<sup>14.</sup>It is a mistake to think that the philosophy of the yogis is based on facts that they can ascertain for themselves. The yoga world view is as much speculation as the Western one, but there is a considerable difference. For the yogis can ascertain facts in the physical etheric world and in the emotional world, and that gives them a tremendous advantage. It is, assuredly, true that these kinds of sense cannot explore the still higher worlds. And it is also true that the yogis cannot judge correctly the reality content of what they can ascertain. That was the reason why Swedenborg and Steiner were mistaken in all essentials. But the yogis know that there are superphysical worlds.
+
+<sup>15.</sup>No psychology can arrive at a clear conception of human consciousness, unless it has knowledge of man’s different envelopes, the different kinds of consciousness of these envelopes, the nature of these envelopes, their interdependence, and the different kinds of energies in the different envelopes’ different molecular kinds.
+
+<sup>16.</sup>A raja yogi who has achieved the result he has consciously pursued resembles in many respects those who have attained the stage of humanity and acquired perspective consciousness. But he lacks knowledge of the facts (to him still esoteric) that belong to this stage of development and is also unable to free himself from the fundamental yoga fictions, which block the path to a clear insight into the nature of existence.
+
+<sup>17.</sup>At the stage of humanity, the mental envelope frees itself from the coalescence with the emotional envelope and is attracted to the causal envelope. When the mental envelope and the causal envelope have coalesced, the man is a causal self and will never more become the victim of illusions and fictions.
+
+<sup>18.</sup>The yogis by their methods achieve control of the vibrations of physical, emotional, and mental consciousness, and also physical-etheric (49:3,4) and emotional (48:3, in very rare cases 48:2) objective consciousness. But by their methods they achieve neither mental nor causal objective consciousness. They are unable to decide whether their ideas agree with reality or not.
+
+<sup>19.</sup>The yogi achieves integration of his envelopes of incarnation, so that his mental consciousness controls his emotionality and his emotional consciousness his physical. This done, the man has become what the planetary hierarchy calls a personality, a very vague term otherwise. It is not sufficient to be a saint in order to be a “personality”, as only esotericians will understand.
+
+### 7.22 ESOTERIC METHODS OF ACTIVATION
+
+<sup>1.</sup>Esotericians perhaps those can be called who have mastered the Pythagorean hylozoic mental system and seen that it agrees with reality. But in that case one has to invent another designation to term those who in addition possess knowledge which has not yet been permitted to become exoteric, for they will always exist until the whole of mankind has reached the stage of ideality.
+
+<sup>2.</sup>Yoga is proof that many of the possible methods of activation have been permitted to become publicly known. Even the technical procedure of the correct esoteric methods of activation can nowadays be communicated. But the very “key” remains esoteric. The ignorant are warned against every attempt at tampering with the matter on their own. Unfortunately, warnings are not enough, for “fools rush in where angels fear to tread”. Attempts at vitalization of and meditation on centres in the envelopes inevitably result in catastrophe (as a rule tumours appear in the organism) without there being any prospect for these undaunted ones of achieving their aim. “The angel with the flaming sword guards the entrance to Paradise.”
+
+<sup>3.</sup>Unlike the yogis’ methods of activation, the esoteric one is a methodic and systematic activation of passive consciousness in one after the other of up to then superconscious molecular kinds. This is done by vitalization of the different centres of the different envelopes. Consciousness in each molecular kind is bound up with its particular centre. When a centre is vitalized, subjective consciousness in that molecular kind ensues. Objective consciousness is obtained by the subjective consciousness in the centre activating that molecular kind in the envelope. As has already been pointed out, only the causal self can use emotional and mental objective consciousness correctly. Until then, the individual will be the victim of his own ignorance and will retard his higher development.
+
+<sup>4.</sup>All the aggregate envelopes, except the causal, form themselves from the organism, and the corresponding centres of the different envelopes are connected with one another. Because of this, centres have positions that can be given in reference to the organism.
+
+<sup>5.</sup>The seven most important centres in the etheric, emotional, and mental envelopes, receiving their energies from the seven departments, are:
+
+<table>
+<thead><tr><th colspan="2" style="font-weight: normal;">centre</th><th style="font-weight: normal;">number of petals</th><th style="font-weight: normal;">department</th></tr></thead>
+<tbody>
+<tr><td rowspan="4" style="vertical-align: top;">above the diaphragm:</td><td>crown</td><td>960</td><td>first</td></tr>
+<tr><td>eyebrow</td><td>96</td><td>fourth</td></tr>
+<tr><td>throat</td><td>16</td><td>third</td></tr>
+<tr><td>heart</td><td>12</td><td>second</td></tr>
+<tr><td rowspan="3" style="vertical-align: top;">below the diaphragm:</td><td>solar plexus</td><td>10</td><td>sixth</td></tr>
+<tr><td>sacral</td><td>6</td><td>fifth</td></tr>
+<tr><td>basal</td><td>4</td><td>seventh</td></tr>
+</tbody>
+</table>
+
+<sup>6.</sup>The relations to departments indicated above are those of the normal individual. Also other relations are possible. In the raja yogis, for instance, the eyebrow centre belongs to the 5th, the sacral centre to the 7th, the basal centre to the 4th department.
+
+<sup>7.</sup>The centres below the diaphragm were already developed in the Lemurians and now fulfil all their requisite functions automatically as organs of apprehension and activity. In contrast, the centres above the diaphragm are but little developed at mankind’s present stage of development and mostly only slightly active.
+
+<sup>8.</sup>Of the centres in the causal envelope of the “normal individual”, which form a lotus-like organ, only those three are slightly developed which during incarnations are connected with the heart and crown centres of the etheric, emotional, and mental envelopes.
+
+<sup>9.</sup>Normally, the throat centre is developed at the stage of civilization, the heart centre at the stage of culture, the eyebrow centre at the stage of humanity, and the crown centre at the stage of ideality. But full functional capacity is achieved only when the causal self succeeds in becoming a 46-self. Until then only few petals are active.
+
+<sup>10.</sup>In each new incarnation the individual in his new envelopes has to repeat the whole process of activation. If the individual has once received the knowledge and has not abused it, he will be given occasions to remember his old knowledge anew in new lives.
+
+<sup>11.</sup>The individual who has attained full causal consciousness retains this through all his incarnations. But this does not mean that he in his new brain knows anything about it. As soon as he leaves his organism when asleep, he lives in his causal envelope, but it takes at least fifteen years before he is able to apprehend in his brain his causal consciousness. Even at 35 he may still be unaware of his status, unless he has come into contact with esoterics.
+
+<sup>12.</sup>If the individual does not want to do anything for his development, he will, like the rest of mankind, automatically and in the course of millions of years acquire subjective and objective consciousness in the different molecular kinds of all his envelopes. But if he does not wish to remain longer in the fourth natural kingdom than is necessary, he must activate the passive superconsciousness in his envelopes methodically. At mankind’s present stage of development, however, not even the raja yogi can solve all the problems arising in this connection. In order to attain the fifth natural kingdom in just a few incarnations, the aspirant must strive after discipleship under the planetary hierarchy. Only those who have acquired the physical, emotional, and mental prerequisites can be accepted as disciples. Physically and dietetically, the athlete training for the Olympic Games may serve as an example. Emotionally, they must discard all manifestations of repulsion (hatred) and acquire the qualities of attraction. Mentally, they must acquire perspective consciousness and a well-developed ability to meditate in the right way. All qualities and abilities have to be put solely at the service of evolution, since their egoistic use counteracts evolution.
+
+### *7.23 Conclusion*
+
+<sup>1.</sup>Man has all the qualities and abilities which he has acquired throughout all his incarnations. But these remain latent (buried) in the subconsciousness, until actualized and activated again in a new incarnation. Ever since the stage of barbarism, man has been acquiring all mankind’s good and bad qualities, all to some percentage. The qualities of the lower levels are called bad, those of the higher, good. Their percentages determine their effectiveness. Opportunities of actualization and activation in a new incarnation bring the qualities to life. Often remembrance anew will suffice. Herein lies the responsibility of all educators and apostles of culture. (Responsibility can mean that in a future life one will not have an opportunity to develop, or will be hampered in one’s development, or even idiotized.)
+
+<sup>2.</sup>By meditating daily on desirable qualities man can acquire these in any percentage whatever. He will free himself of undesirable qualities by not attending to them and by meditating on their opposites. He will attain higher levels by meditating on the qualities of these higher levels. Without meditation, development is so slow that even after a hundred incarnations there is scarcely any noticeable progress.
+
+<sup>3.</sup>No stage in consciousness development can be omitted, because all the qualities of each level are needed for continued development. In tens of thousands of lives every individual is to run through his scale of development from the bottom up, until he has acquired all the necessary qualities and abilities one hundred per cent. The higher include in them the lower, and all are comprised in the twelve essential qualities, which make continued existence in the fifth natural kingdom possible. Which twelve these are the individual must find out for himself once he has acquired causal consciousness. Before then there is no understanding of them, nor are there any words in human language by which to name them. We can rest assured that the noblest emotional qualities (so-called character!) enter into them: admiration, affection, sympathy, understanding, spontaneity, tolerance, kindness, gratitude, trust in life, courage, fixity of purpose, determination, perseverance, invulnerability, lawfulness, justice, uprightness, reliability, magnanimity, loyalty, honesty, etc. Everybody can add to the list for himself. The most necessary mental abilities include common sense, insight, and discrimination. Common sense will not accept arbitrarinesses and absurdities, will distinguish between the real and the unreal, will see man’s immense limitations in all respects (true humility).
+
+<sup>4.</sup>The stage of culture is the stage of emotional attraction (48:4-2). The individual acquires active consciousness in the highest emotional molecular kinds. In order to attain the highest emotional kind (48:2), he must have reached the highest mentality of the stage of civilization (47:6), for a human saint can never be a mentally insignificant person.
+
+<sup>5.</sup>The stage of humanity (47:5) is not reached until the stage of the saint has been covered. The humanists use their spare time to activate perspective (47:5) and synthesis (47:4) consciousness. If they do not have an opportunity to activate their latent saintly qualities, they may not appear to be very saintly, a fact which moralists can never understand. The humanist regards the cult of appearances as hostile to life, yet takes part in social life in order to study mankind’s different levels of development and to have some occasions to say something sensible.
+
+<sup>6.</sup>The different world views are different hypotheses, attempts to explain reality and life. Everybody accepts the view that corresponds best to his level of knowledge.
+
+<sup>7.</sup>Mankind constitutes a natural kingdom, which, like all other natural kingdoms, presents a number of levels of development. Those on the higher levels have as their task to help those on the lower levels to feel more nobly and to think more rationally, to help them develop their emotional and mental consciousness.
+
+<sup>8.</sup>In order to attain the next higher kingdom, that kingdom of unity (love and wisdom) to which both Christos and Buddha testified, we must have acquired the highest kind of emotional and mental consciousness and must show our willingness to serve evolution.
+
+<sup>9.</sup>What mankind can do it also must do, according to the Law. The only guarantee that anyone who in some incarnation has reached the acme of human insight and ability will have an opportunity of acquiring them again in a new life, is that all mankind is offered the same favourable opportunity. Anyone who has not done everything to combat untruth and hatred has no right to special possibilities. Nor should he pity himself in the future.
+
+## Publication notes
+
+### 1
+
+The above text constitutes the essay *The Problems of Reality, Part One* by Henry T. Laurency. The essay is the first section of the book *The Knowledge of Reality* by Henry T. Laurency. The text is a translation from the Swedish by Lars Adelskogh. The original translation, made in 1979, was revised by Lars Adelskogh in 2017. The present text is the revised one. Copyright © 1979 and 2017 by the Henry T. Laurency Publishing Foundation. All rights reserved.
+
+Last corrections entered January 15th, 2021.
+
+### 2
+
+The above text constitutes the essay *The Problems of Reality, Part Two*. The essay is the second section of the book *The Knowledge of Reality* by Henry T. Laurency. The text is a translation from the Swedish by Lars Adelskogh. The original translation, made in 1979, was revised by Lars Adelskogh in 2014. The present text is the revised one. Copyright © 1979 and 2014 by the Henry T. Laurency Publishing Foundation. All rights reserved.
+
+Last corrections entered January 21st, 2021.
+
+### 3
+
+The above text constitutes the essay *The Origin of the Knowledge and the Fictions* by Henry T. Laurency. The essay is the third section of the book *The Knowledge of Reality* by Henry T. Laurency. The text is a translation from the Swedish by Lars Adelskogh. The original translation, made in 1979, was revised by Lars Adelskogh in 2014. The present text is the revised one. Copyright © 1979 and 2014 by the Henry T. Laurency Publishing Foundation. All rights reserved.
+
+Last corrections entered January 23rd, 2021.
+
+### 4
+
+The above text constitutes the essay *The Three Questions of the Sphinx: Whence? How? Whither?* by Henry T. Laurency. The essay is the fourth section of the book *The Knowledge of Reality* by Henry T. Laurency. The text is a translation from the Swedish by Lars Adelskogh. The original translation, made in 1979, was revised by Lars Adelskogh in 2014. The present text is the revised one. Copyright © 1979 and 2014 by the Henry T. Laurency Publishing Foundation. All rights reserved.
+
+Last corrections entered October 24th, 2014.
+
+### 5
+
+The above text constitutes the essay *An Esoterician’s View of the History of European Philosophy* by Henry T. Laurency. The essay is the fifth section of the book *The Knowledge of Reality* by Henry T. Laurency. The text is a translation from the Swedish by Lars Adelskogh. The original translation, made in 1979, was revised by Lars Adelskogh in 2014. The present text is the revised one. Copyright © 1979 and 2014 by the Henry T. Laurency Publishing Foundation. All rights reserved.
+
+Last corrections entered February 6th, 2021.
+
+### 6
+
+The above text constitutes the essay *Anthroposophy: Rudolf Steiner’s Spiritual Science* by Henry T. Laurency. The essay is the sixth section of the book *The Knowledge of Reality* by Henry T. Laurency. The text is a translation from the Swedish by Lars Adelskogh. The original translation, made in 1979, was revised by Lars Adelskogh in 2014. The present text is the revised one. Copyright © 1979 and 2014 by the Henry T. Laurency Publishing Foundation. All rights reserved.
+
+Last corrections entered February 25th, 2021.
+
+### 7
+
+The above text constitutes the essay *Yoga in the Light of Esoterics* by Henry T. Laurency. The essay is the seventh section of the book *The Knowledge of Reality* by Henry T. Laurency. The text is a translation from the Swedish by Lars Adelskogh. The original translation, made in 1979, was revised by Lars Adelskogh in 2014. The present text is the revised one. Copyright © 1979 and 2014 by the Henry T. Laurency Publishing Foundation. All rights reseved.
+
+Last corrections entered March 8th, 2021.

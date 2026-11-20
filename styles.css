@@ -20,3 +20,9 @@ body[data-scene="reader"] .site-mark{display:none}
 .atmosphere-mask{background:linear-gradient(90deg,#031016e8 0%,#06131993 23%,#030c108c 46%,#030b0ec0 78%,#03090de9 100%),linear-gradient(180deg,#01060bdb 0%,transparent 19%,transparent 70%,#010809f5 99%),radial-gradient(ellipse at 48% 53%,transparent 0%,#02080cb6 74%)}
 .archive-volume.is-selected:before{content:'';position:absolute;inset:-70px -75px;z-index:-1;background:radial-gradient(ellipse,#8fffee2b 0%,#ba8cff13 33%,transparent 65%);filter:blur(17px);pointer-events:none}
 @media(max-width:720px){.archive-poem p{display:none}.archive-environment{opacity:.46}.atmosphere-mask{background:linear-gradient(180deg,#02080bdb,#0310146d 26%,#030c10a6 55%,#02080bfa 95%),linear-gradient(90deg,#0310169c,#030c10a3)}}
+
+/* Real editions share the archive's visual language. */
+.detail-open,.chapter-cell{text-decoration:none;color:inherit}
+.edition-links{margin:20px 0;display:flex;flex-wrap:wrap;gap:10px 18px}
+.edition-links h2,.edition-links h3{width:100%;font:12px 'DM Sans',sans-serif;letter-spacing:.12em;color:#98e6d6;margin:0}
+.edition-links a{color:#d7f9e8;font:16px 'EB Garamond',serif;text-underline-offset:4px}

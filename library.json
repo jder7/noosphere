@@ -1,0 +1,58 @@
+[
+  {
+    "id": "tao-te-ching",
+    "title": "Tao Te Ching",
+    "author": "Laozi (traditional attribution)",
+    "original": "道德經",
+    "lang": "zh-Hant",
+    "tradition": "DAOIST THOUGHT",
+    "source": "Classical Chinese",
+    "era": "Ancient China",
+    "glow": "#8bede9",
+    "glyph": "vesica",
+    "summary": "An inquiry into the Way, naturalness, receptivity, and the relationship between opposites.",
+    "verse": true,
+    "specialEditions": {
+      "annotated": "Annotated edition"
+    }
+  },
+  {
+    "id": "esoteric-christianity",
+    "title": "Esoteric Christianity",
+    "author": "Annie Besant",
+    "original": "The Lesser Mysteries",
+    "lang": "en",
+    "tradition": "ESOTERIC CHRISTIANITY",
+    "source": "English",
+    "era": "1901",
+    "glow": "#d9c1f3",
+    "glyph": "triad",
+    "summary": "Annie Besant explores the hidden traditions, symbolism, and mysteries underlying Christianity."
+  },
+  {
+    "id": "knowledge-of-reality",
+    "title": "The Knowledge of Reality",
+    "author": "Henry T. Laurency",
+    "original": "Kunskapen om verkligheten",
+    "lang": "sv",
+    "tradition": "HYLOZOICS",
+    "source": "Henry T. Laurency",
+    "era": "Philosophy",
+    "glow": "#97e6ce",
+    "glyph": "orbits",
+    "summary": "An exploration of reality, consciousness, and the esoteric foundations of a world view."
+  },
+  {
+    "id": "philosophers-stone",
+    "title": "The Philosopher’s Stone",
+    "author": "Henry T. Laurency",
+    "original": "De vises sten",
+    "lang": "sv",
+    "tradition": "HYLOZOICS",
+    "source": "Henry T. Laurency",
+    "era": "Philosophy",
+    "glow": "#b7c5ff",
+    "glyph": "rings",
+    "summary": "Reflections on world views, life views, knowledge, and the development of consciousness."
+  }
+]

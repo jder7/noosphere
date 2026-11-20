@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#040c11">
+<meta name="description" content="$description">
+<title>$title — $label · Noösphere</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=DM+Sans:wght@400;500&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Noto+Serif+SC:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../styles.css">
+<link rel="stylesheet" href="../../reader.css">
+<script src="../../reader.js" defer></script>
+</head>
+<body data-scene="reader" class="book-reader">
+<div class="reading-environment" aria-hidden="true"></div>
+<a class="skip-reading" href="#bookText">Skip to text</a>
+<header class="reading-header">
+<a class="reader-back" href="../../index.html#book/$slug">The volume</a>
+<span class="reader-book-title">$title</span>
+<div class="reading-controls">
+<label class="sr-only" for="bookLanguage">Book language</label>
+<select id="bookLanguage" aria-label="Book language">$options</select>
+<button id="themeToggle" aria-label="Switch reading surface" aria-pressed="false" title="Switch reading surface">◐</button>
+<button id="fontMinus" aria-label="Decrease reading font">A−</button>
+<button id="fontPlus" aria-label="Increase reading font">A+</button>
+</div>
+</header>
+<div class="reader-layout" id="readerLayout">
+<aside class="toc" id="toc" aria-label="Book navigation"><div class="toc-inner">
+<div class="toc-eyebrow">THE LIVING SCRIPTORIUM</div><h2>$title</h2><p>$author</p><p class="edition-label">$label</p>
+<div class="toc-divider"></div><nav aria-label="Contents" lang="$language" dir="$direction">$toc</nav>
+$special
+<div class="format-links"><span>DOWNLOAD</span>$downloads</div>
+<a class="toc-return" href="../../index.html">Return to the archive</a>
+</div></aside>
+<button id="tocToggle" class="toc-tab" aria-controls="toc" aria-expanded="true" aria-label="Collapse table of contents">‹</button>
+<main class="page-flow" id="pageFlow" tabindex="-1" aria-label="Book text">
+<article class="page-sheet book-text" id="bookText" lang="$language" dir="$direction">$body</article>
+</main>
+</div>
+<footer class="reading-footer"><span id="sectionStatus">$label</span><span>THE LIVING SCRIPTORIUM</span><a href="../../index.html">Archive</a></footer>
+</body>
+</html>

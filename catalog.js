@@ -20,7 +20,9 @@ window.NOOSPHERE_CATALOG = [
         "label": "Annotated edition",
         "url": "books/en/tao-te-ching-annotated.html",
         "downloads": {
-          "md": "content/tao-te-ching/book-en-annotated.md"
+          "md": "content/tao-te-ching/book-en-annotated.md",
+          "pdf": "content/tao-te-ching/book-en-annotated.pdf",
+          "docx": "content/tao-te-ching/book-en-annotated.docx"
         }
       },
       {
@@ -29,7 +31,9 @@ window.NOOSPHERE_CATALOG = [
         "label": "Standard edition",
         "url": "books/en/tao-te-ching.html",
         "downloads": {
-          "md": "content/tao-te-ching/book-en.md"
+          "md": "content/tao-te-ching/book-en.md",
+          "pdf": "content/tao-te-ching/book-en.pdf",
+          "docx": "content/tao-te-ching/book-en.docx"
         }
       },
       {
@@ -38,7 +42,9 @@ window.NOOSPHERE_CATALOG = [
         "label": "Standard edition",
         "url": "books/ro/tao-te-ching.html",
         "downloads": {
-          "md": "content/tao-te-ching/book-ro.md"
+          "md": "content/tao-te-ching/book-ro.md",
+          "pdf": "content/tao-te-ching/book-ro.pdf",
+          "docx": "content/tao-te-ching/book-ro.docx"
         }
       },
       {
@@ -47,7 +53,9 @@ window.NOOSPHERE_CATALOG = [
         "label": "Standard edition",
         "url": "books/zh/tao-te-ching.html",
         "downloads": {
-          "md": "content/tao-te-ching/book-zh.md"
+          "md": "content/tao-te-ching/book-zh.md",
+          "pdf": "content/tao-te-ching/book-zh.pdf",
+          "docx": "content/tao-te-ching/book-zh.docx"
         }
       }
     ],
@@ -480,7 +488,9 @@ window.NOOSPHERE_CATALOG = [
     ],
     "url": "books/en/tao-te-ching.html",
     "downloads": {
-      "md": "content/tao-te-ching/book-en.md"
+      "md": "content/tao-te-ching/book-en.md",
+      "pdf": "content/tao-te-ching/book-en.pdf",
+      "docx": "content/tao-te-ching/book-en.docx"
     }
   },
   {
@@ -503,7 +513,9 @@ window.NOOSPHERE_CATALOG = [
         "label": "Standard edition",
         "url": "books/en/esoteric-christianity.html",
         "downloads": {
-          "md": "content/esoteric-christianity/book-en.md"
+          "md": "content/esoteric-christianity/book-en.md",
+          "pdf": "content/esoteric-christianity/book-en.pdf",
+          "docx": "content/esoteric-christianity/book-en.docx"
         }
       },
       {
@@ -513,7 +525,8 @@ window.NOOSPHERE_CATALOG = [
         "url": "books/ro/esoteric-christianity.html",
         "downloads": {
           "md": "content/esoteric-christianity/book-ro.md",
-          "pdf": "content/esoteric-christianity/book-ro.pdf"
+          "pdf": "content/esoteric-christianity/book-ro.pdf",
+          "docx": "content/esoteric-christianity/book-ro.docx"
         }
       }
     ],
@@ -646,7 +659,9 @@ window.NOOSPHERE_CATALOG = [
     ],
     "url": "books/en/esoteric-christianity.html",
     "downloads": {
-      "md": "content/esoteric-christianity/book-en.md"
+      "md": "content/esoteric-christianity/book-en.md",
+      "pdf": "content/esoteric-christianity/book-en.pdf",
+      "docx": "content/esoteric-christianity/book-en.docx"
     }
   },
   {
@@ -669,7 +684,9 @@ window.NOOSPHERE_CATALOG = [
         "label": "Standard edition",
         "url": "books/en/knowledge-of-reality.html",
         "downloads": {
-          "md": "content/knowledge-of-reality/book-en.md"
+          "md": "content/knowledge-of-reality/book-en.md",
+          "pdf": "content/knowledge-of-reality/book-en.pdf",
+          "docx": "content/knowledge-of-reality/book-en.docx"
         }
       },
       {
@@ -1626,7 +1643,9 @@ window.NOOSPHERE_CATALOG = [
     ],
     "url": "books/en/knowledge-of-reality.html",
     "downloads": {
-      "md": "content/knowledge-of-reality/book-en.md"
+      "md": "content/knowledge-of-reality/book-en.md",
+      "pdf": "content/knowledge-of-reality/book-en.pdf",
+      "docx": "content/knowledge-of-reality/book-en.docx"
     }
   },
   {
@@ -1649,7 +1668,9 @@ window.NOOSPHERE_CATALOG = [
         "label": "Standard edition",
         "url": "books/en/philosophers-stone.html",
         "downloads": {
-          "md": "content/philosophers-stone/book-en.md"
+          "md": "content/philosophers-stone/book-en.md",
+          "pdf": "content/philosophers-stone/book-en.pdf",
+          "docx": "content/philosophers-stone/book-en.docx"
         }
       },
       {
@@ -2696,7 +2717,9 @@ window.NOOSPHERE_CATALOG = [
     ],
     "url": "books/en/philosophers-stone.html",
     "downloads": {
-      "md": "content/philosophers-stone/book-en.md"
+      "md": "content/philosophers-stone/book-en.md",
+      "pdf": "content/philosophers-stone/book-en.pdf",
+      "docx": "content/philosophers-stone/book-en.docx"
     }
   }
 ];
